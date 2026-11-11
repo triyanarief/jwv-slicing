@@ -1,0 +1,228 @@
+const imgRss = "https://www.figma.com/api/mcp/asset/c328d19e-00a0-4233-be80-96c9bf273ac2.svg";
+const imgComputerPhoneSync = "https://www.figma.com/api/mcp/asset/2806985f-deb0-47e5-aeb9-a8aa0e1552c4.svg";
+const imgYoutube = "https://www.figma.com/api/mcp/asset/108cef87-4b6b-4d4b-b791-668a92dde0fb.svg";
+const imgCloud = "https://www.figma.com/api/mcp/asset/9816319c-931c-410e-851c-aa65fa129f0f.svg";
+const imgHouseHeart = "https://www.figma.com/api/mcp/asset/e1e7a8cd-af3c-44af-996e-ccba407945a3.svg";
+const imgComputer = "https://www.figma.com/api/mcp/asset/0003fab5-aa9b-46e1-8c77-df14e223906b.svg";
+const imgDollarCircle = "https://www.figma.com/api/mcp/asset/99bafc7e-b74a-4b8a-abab-1c93abbc14d2.svg";
+
+export default function Section() {
+  return (
+    <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-12,56px)] items-start px-[var(--spacing\/spacing-12,56px)] py-[var(--spacing\/spacing-14,78px)] relative size-full" data-node-id="8307:11538" data-name="section">
+      <div className="content-stretch flex flex-col gap-[56px] items-start justify-center relative shrink-0 w-full" data-node-id="8307:11539" data-name="Broadcast Promotion">
+        <div className="content-stretch flex gap-[56px] items-center relative shrink-0 w-full" data-node-id="8307:11540" data-name="Promotion Content">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[12px] items-start min-w-px relative" data-node-id="8307:11541" data-name="Promotion Copy">
+            <div className="bg-[rgba(255,255,255,0.4)] border border-[rgba(156,161,170,0.12)] border-solid content-stretch flex items-center px-[var(--spacing\/spacing-3,8px)] py-[6px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8307:11542" data-name="Promotion Badge">
+              <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[16px] text-center text-white whitespace-nowrap" data-node-id="8307:11543">
+                MADE FOR EVERY GAME DAY
+              </p>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start relative shrink-0 text-white w-full" data-node-id="8307:11544" data-name="Promotion Details">
+              <p className="font-['Gilroy-Bold:☞'] leading-[84px] not-italic relative shrink-0 text-[56px] w-full" data-node-id="8307:11545">
+                Put Every Game in the Spotlight
+              </p>
+              <p className="font-['Urbanist:Medium'] font-medium leading-[24px] relative shrink-0 text-[20px] w-full" data-node-id="8307:11546">
+                From the first whistle to the final buzzer, bring youth sports to life with seamless live streaming. Connect teams, families, and fans wherever they are.
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[16px] items-center relative shrink-0" data-node-id="8307:11547" data-name="Primary Actions">
+            <div className="bg-[rgba(131,199,102,0.4)] content-stretch flex flex-col items-start p-[4px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8307:11548" data-name="Watch Live Button">
+              <div className="content-stretch flex gap-[8.571px] h-[48px] items-center justify-center overflow-clip px-[16px] py-[10.286px] relative rounded-[27.429px] shrink-0" data-node-id="8307:11549" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 216.57 48' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(-3.4827e-15 4.8 -21.657 2.9392e-16 108.29 0)'><stop stop-color='rgba(255,255,255,0.3)' offset='0'/><stop stop-color='rgba(255,255,255,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(9, 161, 3) 0%, rgb(9, 161, 3) 100%)" }} data-name="Nav">
+                <div className="relative shrink-0 size-[24px]" data-node-id="8307:11550" data-name="rss">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRss} />
+                </div>
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[18px] text-white whitespace-nowrap" data-node-id="8307:11554">
+                  Start Broadcasting
+                </p>
+              </div>
+            </div>
+            <div className="bg-[rgba(255,255,255,0.1)] content-stretch flex flex-col items-start p-[4px] relative rounded-[99px] shrink-0" data-node-id="8307:11555" data-name="Secondary Action">
+              <div className="border-[#ffb8b2] border-[0.5px] border-solid content-stretch flex items-center justify-center overflow-clip px-[24px] py-[12px] relative rounded-[32px] shrink-0" data-node-id="8307:11556" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 201 48' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(-3.2323e-15 4.8 -20.1 2.9392e-16 100.5 0)'><stop stop-color='rgba(255,255,255,0.3)' offset='0'/><stop stop-color='rgba(255,255,255,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)" }} data-name="orange 32">
+                <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[#1f1f1f] text-[20px] tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8307:11557">
+                  See How It Works
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-start pt-[37px] relative shrink-0 w-full" data-node-id="8307:11558" data-name="Container:margin">
+          <div className="gap-x-[18px] gap-y-[18px] grid grid-cols-[___460px_460px_460px] grid-rows-[__244px_260.80px] relative shrink-0 w-full" data-node-id="8307:11559" data-name="Container">
+            <div className="bg-[#16213c] border-[#283557] border-[0.8px] border-solid col-1 content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex flex-col items-start justify-between justify-self-stretch min-h-[244px] p-[var(--spacing\/spacing-7,24px)] relative rounded-[var(--radius\/radius-8,24px)] row-1 self-stretch shrink-0" data-node-id="8307:11560" data-name="Article">
+              <div className="border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative rounded-[var(--radius\/radius-5,12px)] shrink-0" data-node-id="8307:11561" data-name="Container">
+                <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(149.37119937528388deg, rgb(134, 227, 99) 0%, rgb(32, 164, 93) 70.229%)" }} />
+                <div className="relative shrink-0 size-[26px]" data-node-id="8307:11562" data-name="Icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="absolute left-0 size-[26px] top-0" data-node-id="8307:11563" data-name="computer-phone-sync">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgComputerPhoneSync} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+              </div>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11567">
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11568" data-name="Heading 3">
+                  <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[26px] relative shrink-0 text-[20px] text-white whitespace-nowrap" data-node-id="8307:11569">
+                    Broadcast from any device
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11570" data-name="Paragraph:margin">
+                  <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[normal] relative shrink-0 text-[#ddd] text-[length:var(--type\/body-3\/regular\/size,18px)] tracking-[var(--type\/body-3\/regular\/letter-spacing,0px)] w-full" data-node-id="8307:11571">
+                    Live stream your team’s games without complicated equipment or setup.
+                  </p>
+                </div>
+              </div>
+              <p className="[word-break:break-word] absolute font-[family-name:var(--type\/font-family\/family-body,'Urbanist:ExtraBold')] font-extrabold leading-[normal] left-[415.4px] text-[#c7d1c4] text-[15px] top-[29px] whitespace-nowrap" data-node-id="8307:11572">
+                01
+              </p>
+            </div>
+            <div className="bg-[#16213c] border-[#283557] border-[0.8px] border-solid col-2 content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex flex-col items-start justify-between justify-self-stretch min-h-[244px] p-[var(--spacing\/spacing-7,24px)] relative rounded-[var(--radius\/radius-8,24px)] row-1 self-stretch shrink-0" data-node-id="8307:11573" data-name="Article">
+              <div className="border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative rounded-[var(--radius\/radius-5,12px)] shrink-0" data-node-id="8307:11574" data-name="Container">
+                <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(149.37119937528388deg, rgb(134, 227, 99) 0%, rgb(32, 164, 93) 70.229%)" }} />
+                <div className="relative shrink-0 size-[26px]" data-node-id="8307:11575" data-name="Icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="absolute left-0 size-[26px] top-0" data-node-id="8307:11576" data-name="youtube">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgYoutube} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+              </div>
+              <p className="[word-break:break-word] absolute font-[family-name:var(--type\/font-family\/family-body,'Urbanist:ExtraBold')] font-extrabold leading-[normal] left-[412.45px] text-[#c7d1c4] text-[15px] top-[29px] whitespace-nowrap" data-node-id="8307:11579">
+                02
+              </p>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11580">
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11581" data-name="Heading 3">
+                  <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[26px] relative shrink-0 text-[20px] text-white whitespace-nowrap" data-node-id="8307:11582">
+                    Save to YouTube automatically
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11583" data-name="Paragraph:margin">
+                  <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[normal] relative shrink-0 text-[#ddd] text-[length:var(--type\/body-3\/regular\/size,18px)] tracking-[var(--type\/body-3\/regular\/letter-spacing,0px)] w-full" data-node-id="8307:11584">
+                    Your live streams can be automatically saved to YouTube for free.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-[#16213c] border-[#283557] border-[0.8px] border-solid col-3 content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex flex-col items-start justify-between justify-self-stretch min-h-[244px] p-[var(--spacing\/spacing-7,24px)] relative rounded-[var(--radius\/radius-8,24px)] row-1 self-stretch shrink-0" data-node-id="8307:11585" data-name="Article">
+              <div className="border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative rounded-[var(--radius\/radius-5,12px)] shrink-0" data-node-id="8307:11586" data-name="Container">
+                <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(149.37119937528388deg, rgb(134, 227, 99) 0%, rgb(32, 164, 93) 70.229%)" }} />
+                <div className="relative shrink-0 size-[26px]" data-node-id="8307:11587" data-name="Icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="absolute left-0 size-[26px] top-0" data-node-id="8307:11588" data-name="cloud">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCloud} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+              </div>
+              <p className="[word-break:break-word] absolute font-[family-name:var(--type\/font-family\/family-body,'Urbanist:ExtraBold')] font-extrabold leading-[normal] left-[412.16px] text-[#c7d1c4] text-[15px] top-[29px] whitespace-nowrap" data-node-id="8307:11590">
+                03
+              </p>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11591">
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11592" data-name="Heading 3">
+                  <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[26px] relative shrink-0 text-[20px] text-white whitespace-nowrap" data-node-id="8307:11593">
+                    Free cloud storage
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11594" data-name="Paragraph:margin">
+                  <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[normal] relative shrink-0 text-[#ddd] text-[length:var(--type\/body-3\/regular\/size,18px)] tracking-[var(--type\/body-3\/regular\/letter-spacing,0px)] w-full" data-node-id="8307:11595">
+                    Save streams automatically to Dropbox, Google Drive, iCloud or OneDrive for free.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-[#16213c] border-[#283557] border-[0.8px] border-solid col-1 content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex flex-col items-start justify-between justify-self-stretch min-h-[244px] p-[var(--spacing\/spacing-7,24px)] relative rounded-[var(--radius\/radius-8,24px)] row-2 self-stretch shrink-0" data-node-id="8307:11596" data-name="Article">
+              <div className="border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative rounded-[var(--radius\/radius-5,12px)] shrink-0" data-node-id="8307:11597" data-name="Container">
+                <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(149.37119937528388deg, rgb(134, 227, 99) 0%, rgb(32, 164, 93) 70.229%)" }} />
+                <div className="relative shrink-0 size-[26px]" data-node-id="8307:11598" data-name="Icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="absolute left-0 size-[26px] top-0" data-node-id="8307:11599" data-name="house-heart">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgHouseHeart} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+              </div>
+              <p className="[word-break:break-word] absolute font-[family-name:var(--type\/font-family\/family-body,'Urbanist:ExtraBold')] font-extrabold leading-[normal] left-[411.69px] text-[#c7d1c4] text-[15px] top-[29px] whitespace-nowrap" data-node-id="8307:11602">
+                04
+              </p>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11603">
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11604" data-name="Heading 3">
+                  <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[26px] relative shrink-0 text-[20px] text-white whitespace-nowrap" data-node-id="8307:11605">
+                    Free for viewers
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11606" data-name="Paragraph:margin">
+                  <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[normal] relative shrink-0 text-[#ddd] text-[length:var(--type\/body-3\/regular\/size,18px)] tracking-[var(--type\/body-3\/regular\/letter-spacing,0px)] w-full" data-node-id="8307:11607">
+                    Parents, relatives and fans can watch your live streams at no cost.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-[#16213c] border-[#283557] border-[0.8px] border-solid col-2 content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex flex-col items-start justify-between justify-self-stretch min-h-[244px] p-[var(--spacing\/spacing-7,24px)] relative rounded-[var(--radius\/radius-8,24px)] row-2 self-stretch shrink-0" data-node-id="8307:11608" data-name="Article">
+              <div className="border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative rounded-[var(--radius\/radius-5,12px)] shrink-0" data-node-id="8307:11609" data-name="Container">
+                <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(149.37119937528388deg, rgb(134, 227, 99) 0%, rgb(32, 164, 93) 70.229%)" }} />
+                <div className="relative shrink-0 size-[26px]" data-node-id="8307:11610" data-name="Icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="absolute left-0 size-[26px] top-0" data-node-id="8307:11611" data-name="computer">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgComputer} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+              </div>
+              <p className="[word-break:break-word] absolute font-[family-name:var(--type\/font-family\/family-body,'Urbanist:ExtraBold')] font-extrabold leading-[normal] left-[412.51px] text-[#c7d1c4] text-[15px] top-[29px] whitespace-nowrap" data-node-id="8307:11614">
+                05
+              </p>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11615">
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11616" data-name="Heading 3">
+                  <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[26px] relative shrink-0 text-[20px] text-white whitespace-nowrap" data-node-id="8307:11617">{`Watch on your favorite TV `}</p>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11618" data-name="Paragraph:margin">
+                  <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[normal] relative shrink-0 text-[#ddd] text-[length:var(--type\/body-3\/regular\/size,18px)] tracking-[var(--type\/body-3\/regular\/letter-spacing,0px)] w-full" data-node-id="8307:11619">{`Enjoy games online, on Fire TV, Google TV, Roku, Android TV, LG webOS and Samsung TV. `}</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-[#16213c] border-[#283557] border-[0.8px] border-solid col-3 content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex flex-col items-start justify-between justify-self-stretch min-h-[244px] p-[var(--spacing\/spacing-7,24px)] relative rounded-[var(--radius\/radius-8,24px)] row-2 self-stretch shrink-0" data-node-id="8307:11620" data-name="Article">
+              <div className="border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative rounded-[var(--radius\/radius-5,12px)] shrink-0" data-node-id="8307:11621" data-name="Container">
+                <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(149.37119937528388deg, rgb(134, 227, 99) 0%, rgb(32, 164, 93) 70.229%)" }} />
+                <div className="relative shrink-0 size-[26px]" data-node-id="8307:11622" data-name="Icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="absolute left-0 size-[26px] top-0" data-node-id="8307:11623" data-name="dollar-circle">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDollarCircle} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+              </div>
+              <p className="[word-break:break-word] absolute font-[family-name:var(--type\/font-family\/family-body,'Urbanist:ExtraBold')] font-extrabold leading-[normal] left-[412.09px] text-[#78af83] text-[15px] top-[29px] whitespace-nowrap" data-node-id="8307:11626">
+                06
+              </p>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11627">
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11628" data-name="Heading 3">
+                  <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[26px] relative shrink-0 text-[20px] text-white whitespace-nowrap" data-node-id="8307:11629">
+                    Only $ per minute
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8307:11630" data-name="Paragraph:margin">
+                  <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[normal] relative shrink-0 text-[#ddd] text-[length:var(--type\/body-3\/regular\/size,18px)] tracking-[var(--type\/body-3\/regular\/letter-spacing,0px)] w-full" data-node-id="8307:11631">{`No monthly fee. Pay only for the time you're actually live streaming.`}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-1: #FFFFFF, Neutral/neutral-13: #1F1F1F, Neutral/neutral-5: #DDDDDD.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

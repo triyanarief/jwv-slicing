@@ -1,0 +1,116 @@
+const imgImage = "https://www.figma.com/api/mcp/asset/61d25741-1509-45fc-947f-14d15b9c43e4.png";
+const imgMonitor = "https://www.figma.com/api/mcp/asset/068c49fe-697d-4c03-93cd-c607ae3226ae.svg";
+const imgGroup41 = "https://www.figma.com/api/mcp/asset/febfc5d1-3318-4554-b973-01014612e70d.svg";
+const imgGroup44 = "https://www.figma.com/api/mcp/asset/f361d02e-6170-4d08-9654-a659330eee92.svg";
+
+export default function Section() {
+  return (
+    <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-12,56px)] items-start px-[var(--spacing\/spacing-12,56px)] py-[var(--spacing\/spacing-9,36px)] relative size-full" data-node-id="8307:11355" data-name="section">
+      <div className="content-stretch flex gap-[8px] h-[184px] items-end relative shrink-0 w-[1400px]" data-node-id="8307:11356" data-name="Section Header">
+        <div className="content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-w-px relative" data-node-id="8307:11357">
+          <div className="content-stretch flex gap-[10px] items-center relative shrink-0 w-full" data-node-id="8307:11358" data-name="Container">
+            <div className="bg-[#0ba005] h-[2px] relative shrink-0 w-[23px]" data-node-id="8307:11359" data-name="Text" />
+            <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:ExtraBold')] font-extrabold leading-[normal] relative shrink-0 text-[#1a9a22] text-[13px] tracking-[1.45px] whitespace-nowrap" data-node-id="8307:11360">{`APPLICATIONS & DEVICES`}</p>
+          </div>
+          <div className="[word-break:break-word] font-['Gilroy-Bold:☞'] leading-[0] not-italic relative shrink-0 text-[56px] text-white w-full" data-node-id="8307:11361">
+            <p className="leading-[84px] mb-0">Your game. On your</p>
+            <p className="leading-[84px]">favorite screen.</p>
+          </div>
+        </div>
+        <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[24px] relative shrink-0 text-[20px] text-right text-white w-[623px]" data-node-id="8307:11362">
+          Whether you’re at home or on the go, your family can watch live games and replays on the devices they already use.
+        </p>
+      </div>
+      <div className="content-stretch flex gap-[32px] items-start relative shrink-0 w-full" data-node-id="8307:11363" data-name="Container">
+        <div className="bg-[#1c1d31] border-[#243252] border-[0.8px] border-solid content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex flex-[1_0_0] flex-col items-start justify-between min-w-px p-[var(--spacing\/spacing-8,32px)] relative rounded-[var(--radius\/radius-8,24px)] self-stretch" data-node-id="8307:11364" data-name="Container">
+          <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="8307:11365">
+            <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11366">
+              <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-node-id="8307:11367">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8307:11368" data-name="monitor">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMonitor} />
+                </div>
+                <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[normal] relative shrink-0 text-[#09a103] text-[11px] tracking-[1.2px] whitespace-nowrap" data-node-id="8307:11372">
+                  WATCH ANYWHERE
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8307:11373">
+                <p className="font-['Urbanist:Bold'] font-bold leading-[normal] relative shrink-0 text-[length:var(--type\/font-size\/24,24px)] text-white w-full" data-node-id="8307:11374">
+                  From the rink to your living room.
+                </p>
+                <p className="font-['Urbanist:Regular'] font-normal leading-[24px] relative shrink-0 text-[#f2f2f2] text-[length:var(--type\/body-4\/regular\/size,16px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] w-full" data-node-id="8307:11375">
+                  Viewers watch free online or through supported TV and streaming applications. Easy access for parents, grandparents and fans.
+                </p>
+              </div>
+            </div>
+            <div className="content-center flex flex-wrap gap-[12px] items-center relative shrink-0 w-full" data-node-id="8307:11376" data-name="Supported viewing platforms">
+              <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11377" data-name="Text">
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8307:11378">
+                  Web
+                </p>
+              </div>
+              <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11379" data-name="Text">
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8307:11380">
+                  Fire TV
+                </p>
+              </div>
+              <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11381" data-name="Text">
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8307:11382">
+                  Google TV
+                </p>
+              </div>
+              <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11383" data-name="Text">
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8307:11384">
+                  Roku
+                </p>
+              </div>
+              <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11385" data-name="Text">
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8307:11386">
+                  Android TV
+                </p>
+              </div>
+              <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11387" data-name="Text">
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8307:11388">
+                  LG webOS
+                </p>
+              </div>
+              <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11389" data-name="Text">
+                <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8307:11390">
+                  Samsung TV
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="8307:11391">
+            <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[24px] min-w-full relative shrink-0 text-[length:var(--type\/body-4\/regular\/size,16px)] text-white tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] w-[min-content]" data-node-id="8307:11392">
+              Watch On Mobile
+            </p>
+            <div className="content-stretch flex gap-[10.286px] items-center relative shrink-0" data-node-id="8307:11393">
+              <div className="h-[48px] relative shrink-0 w-[143.597px]" data-node-id="8307:11394">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup41} />
+              </div>
+              <div className="h-[48px] relative shrink-0 w-[143.597px]" data-node-id="8307:11398">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup44} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[541px] overflow-clip relative rounded-[16px] shrink-0 w-[664px]" data-node-id="8345:338" data-name="Image">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage} />
+          <p className="[word-break:break-word] absolute font-['Urbanist:Bold'] font-bold leading-[normal] left-[20px] text-[#bce3c0] text-[11px] top-[508px] tracking-[1.2px] whitespace-nowrap" data-node-id="8345:340">
+            ONE STREAM. MORE WAYS TO WATCH.
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-1: #FFFFFF, Neutral/neutral-4: #F2F2F2.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

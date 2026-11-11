@@ -1,0 +1,372 @@
+const imgCurvedHighlight = "https://www.figma.com/api/mcp/asset/88cd4fd4-629a-4cf3-9d3f-7b797b69f4f7.svg";
+const imgPlayEmblem = "https://www.figma.com/api/mcp/asset/b5893c61-cb14-4bed-a926-a2c63221f0a4.svg";
+const imgMenuSquare = "https://www.figma.com/api/mcp/asset/551bfe8a-19a5-4ce7-b98d-0f2646a9cb23.svg";
+const imgUserGroup = "https://www.figma.com/api/mcp/asset/665b9d0f-1e05-418e-8dbf-12fcf8c302ec.svg";
+const imgWallet01 = "https://www.figma.com/api/mcp/asset/699e1a33-748f-4995-89a0-23484b1cd17b.svg";
+const imgNoteAdd = "https://www.figma.com/api/mcp/asset/d538ea51-8be1-4c1d-a6fd-9682faad1a0e.svg";
+const imgCircleX = "https://www.figma.com/api/mcp/asset/f05109ea-72c9-4e29-a039-087bdddc6e19.svg";
+const imgYoutube = "https://www.figma.com/api/mcp/asset/bb31f19c-a0a8-49bd-8d07-76a7794ceb1e.svg";
+const imgCloudUpload = "https://www.figma.com/api/mcp/asset/b2d742da-817e-41f8-899e-b791cbc0b697.svg";
+const imgReceiptText = "https://www.figma.com/api/mcp/asset/cffd8ecf-b1bd-4e1d-aa13-d58c707e5a61.svg";
+const imgDot = "https://www.figma.com/api/mcp/asset/680d2ef2-db08-4ac6-aca5-c0fa248f1b1f.svg";
+const imgChevronDown = "https://www.figma.com/api/mcp/asset/fddbde89-a6e9-4f52-a27b-a786beb99f47.svg";
+const imgChevronRight = "https://www.figma.com/api/mcp/asset/6c79f83a-ca23-4f58-9dd8-96472eeb3261.svg";
+
+export default function DashboardRejectedBroadcastersFilled() {
+  return (
+    <div className="bg-[#f6f3ea] content-stretch flex gap-[10px] items-start p-[10px] relative size-full" data-node-id="8427:1194" data-name="Dashboard / Rejected Broadcasters / Filled">
+      <div className="bg-[#f6f3ea] content-stretch flex h-[960px] items-start relative shrink-0 w-[280px]" data-node-id="8427:1195" data-name="Sidebar navigation">
+        <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start justify-between min-w-px relative" data-node-id="8427:1196" data-name="Content">
+          <div className="content-stretch flex flex-col isolate items-start relative shrink-0 w-full" data-node-id="8427:1197" data-name="Navigation">
+            <div className="content-stretch flex flex-col gap-[var(--spacing-2xl,20px)] items-start pb-[var(--spacing\/spacing-13,64px)] pt-[var(--spacing-2xl,20px)] px-[var(--spacing-2xl,20px)] relative shrink-0 w-full z-[2]" data-node-id="8427:1198" data-name="Header">
+              <div className="content-stretch flex gap-[6.588px] items-center relative shrink-0" data-node-id="8427:2440">
+                <div className="bg-[#499f29] border-[#347a21] border-[0.824px] border-solid h-[28px] overflow-clip relative rounded-[4.941px] shadow-[0px_0.309px_0.515px_0px_rgba(28,67,22,0.17)] shrink-0 w-[64.235px]" data-node-id="8427:2441" data-name="Rounded panel">
+                  <div className="absolute h-[32.941px] left-[-25.53px] top-[-19.35px] w-[113.235px]" data-node-id="8427:2442" data-name="Curved highlight">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCurvedHighlight} />
+                  </div>
+                  <div className="absolute border-[#72b957] border-[0.206px] border-solid h-[26.971px] left-[-0.1px] rounded-[4.221px] top-[-0.1px] w-[62.485px]" data-node-id="8427:2443" data-name="Inner rim" />
+                  <div className="absolute h-[24.706px] left-[3.29px] top-[0.72px] w-[55.691px]" data-node-id="8427:2444" data-name="Wordmark lockup">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Arimo:Bold'] font-bold h-[24.706px] justify-center leading-[0] left-[27.85px] text-[24.5px] text-center text-shadow-[0px_0.824px_0.309px_#2e751d] text-white top-[12.35px] tracking-[-0.8235px] w-[55.691px]" data-node-id="8427:2445">
+                      <p className="leading-none">JWV</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col gap-[4.941px] items-start relative shrink-0" data-node-id="8427:2446">
+                  <div className="content-stretch flex gap-[1.647px] items-center relative shrink-0 w-full" data-node-id="8427:2447">
+                    <p className="[word-break:break-word] font-['Arimo:Bold'] font-bold leading-none relative shrink-0 text-[#313131] text-[11.529px] tracking-[-0.2471px] whitespace-nowrap" data-node-id="8427:2448">
+                      STREAMING
+                    </p>
+                    <div className="relative shrink-0 size-[9.882px]" data-node-id="8427:2449" data-name="Play emblem">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlayEmblem} />
+                    </div>
+                  </div>
+                  <p className="[word-break:break-word] font-['Arimo:Bold'] font-bold leading-none relative shrink-0 text-[#6d6d6d] text-[6.588px] tracking-[1.1324px] whitespace-nowrap" data-node-id="8427:2452">
+                    POWERED BY JWV DEV
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col items-start px-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[1]" data-node-id="8433:4151" data-name="Navigation">
+              <div className="content-stretch flex gap-[12px] h-[44px] items-center px-[16px] relative shrink-0 w-full" data-node-id="8433:4152" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4153" data-name="menu-square">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMenuSquare} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4158">
+                  Dashboard
+                </p>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[44px] items-center px-[16px] relative shrink-0 w-full" data-node-id="8433:4159" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4160" data-name="user-group">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserGroup} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4167">
+                  Teams List
+                </p>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[44px] items-center px-[16px] relative shrink-0 w-full" data-node-id="8433:4168" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4169" data-name="wallet-01">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWallet01} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4173">{`Broadcasters & Wallet`}</p>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[44px] items-center px-[16px] relative shrink-0 w-full" data-node-id="8433:4174" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4175" data-name="note-add">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgNoteAdd} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4180">
+                  Broadcaster Request
+                </p>
+              </div>
+              <div className="bg-[#f1e9d2] content-stretch flex gap-[12px] h-[44px] items-center overflow-clip px-[16px] relative rounded-[10px] shrink-0 w-full" data-node-id="8433:4181" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4182" data-name="circle-x">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCircleX} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#313131] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4184">
+                  Broadcaster Request
+                </p>
+                <div className="-translate-y-1/2 absolute bg-[#09a103] h-[16px] left-0 rounded-br-[4px] rounded-tr-[4px] shadow-[1px_0px_6px_0px_rgba(164,93,255,0.4),0px_0px_8px_0px_#09a103] top-1/2 w-[4px]" data-node-id="8433:4185" />
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[44px] items-center px-[16px] relative shrink-0 w-full" data-node-id="8433:4186" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4187" data-name="youtube">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgYoutube} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4190">
+                  Authorize YouTube Channel
+                </p>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[44px] items-center px-[16px] relative shrink-0 w-full" data-node-id="8433:4191" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4192" data-name="cloud-upload">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCloudUpload} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4195">
+                  Storage Services
+                </p>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[44px] items-center px-[16px] relative shrink-0 w-full" data-node-id="8433:4196" data-name="Container">
+                <div className="relative shrink-0 size-[18px]" data-node-id="8433:4197" data-name="receipt-text">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReceiptText} />
+                </div>
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4202">
+                  Transaction History
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[var(--spacing-lg,12px)] items-start pb-[var(--spacing-2xl,20px)] px-[var(--spacing-xl,16px)] relative shrink-0 w-full" data-node-id="8433:6136" data-name="Footer">
+            <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8433:6137">
+              <div className="content-stretch flex flex-col items-end relative shrink-0" data-node-id="8433:6138" data-name="Toggle">
+                <div className="content-stretch flex h-[28px] items-center overflow-clip p-[2.8px] relative rounded-[13998.6px] shrink-0 w-[50.4px]" data-node-id="8433:6139" style={{ backgroundImage: "linear-gradient(160.51386990107324deg, rgb(227, 227, 227) 31.156%, rgb(191, 191, 180) 80.545%)" }} data-name="_Toggle base">
+                  <div className="bg-[var(--colors\/foreground\/fg-white,white)] relative rounded-[13998.6px] shadow-[0px_1.4px_4.2px_0px_var(--colors\/effects\/shadows\/shadow-sm_01,rgba(0,0,0,0.1)),0px_1.4px_2.8px_-1.4px_var(--colors\/effects\/shadows\/shadow-sm_02,rgba(0,0,0,0.1))] shrink-0 size-[22.4px]" data-node-id="8433:6140" data-name="Button" />
+                </div>
+              </div>
+              <p className="[word-break:break-word] font-['Montserrat:Regular'] font-normal leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8433:6141">
+                Dark Mode
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#e7e3d7] content-stretch flex flex-[1_0_0] flex-col gap-[32px] items-start min-w-px overflow-clip p-[var(--spacing\/spacing-6,20px)] relative rounded-[var(--radius\/radius-7,20px)] self-stretch" data-node-id="8427:1265" data-name="Desktop - 1">
+        <div className="content-stretch flex items-center justify-between p-[16px] relative shrink-0 w-full" data-node-id="8427:1266" data-name="Container">
+          <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-3,8px)] items-start relative shrink-0" data-node-id="8427:1267" data-name="Container">
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8427:1268">
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[var(--spacing\/spacing-2,4px)] items-start leading-[normal] relative shrink-0 whitespace-nowrap" data-node-id="8427:1269">
+                <p className="font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold relative shrink-0 text-[#313131] text-[length:var(--type\/body-2\/semibold\/size,20px)] tracking-[var(--type\/body-2\/semibold\/letter-spacing,0px)]" data-node-id="8427:1270">
+                  Broadcaster Requests
+                </p>
+                <p className="font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/body-4\/medium\/size,16px)] tracking-[0.5px]" data-node-id="8427:1271">
+                  Review and manage broadcaster requests to join your club.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#d0cab1] content-stretch flex items-center justify-center px-[var(--spacing\/spacing-4,12px)] py-[var(--spacing\/spacing-3,8px)] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8433:4854" data-name="Nav">
+            <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4855">
+              0 Rejected
+            </p>
+          </div>
+        </div>
+        <div className="bg-[#fffcf6] border-[#e4e0d4] border-[0.8px] border-solid content-stretch flex flex-col h-[252px] items-start justify-between overflow-clip p-[var(--spacing\/spacing-0,0.8px)] relative rounded-[var(--radius\/radius-8,24px)] shadow-[0px_1px_3px_0px_rgba(0,0,0,0.1),0px_1px_2px_-1px_rgba(0,0,0,0.1)] shrink-0 w-full" data-node-id="8427:1274" data-name="Table">
+          <div className="mb-[-1.6px] relative shrink-0 w-full" data-node-id="8427:1275" data-name="Content">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-start relative size-full">
+              <div className="content-stretch flex flex-col isolate items-start relative shrink-0 w-[86px]" data-node-id="8427:1276" data-name="Column">
+                <div className="bg-[#f6f3ea] border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[44px] items-center max-h-[44px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-lg,12px)] relative shrink-0 w-[110px] z-[3]" data-node-id="8427:1277" data-name="Table header cell">
+                  <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-center relative shrink-0" data-node-id="8427:1278" data-name="_Table header label">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1279">
+                      ID
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[2]" data-node-id="8427:1280" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1281">
+                    15189
+                  </p>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[1]" data-node-id="8427:1282" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1283">
+                    15189
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col isolate items-start relative shrink-0" data-node-id="8427:1284" data-name="Column">
+                <div className="bg-[#f6f3ea] border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[44px] items-center max-h-[44px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-lg,12px)] relative shrink-0 w-full z-[3]" data-node-id="8427:1285" data-name="Table header cell">
+                  <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-center relative shrink-0" data-node-id="8427:1286" data-name="_Table header label">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1287">
+                      Channel Name
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 z-[2]" data-node-id="8427:1288" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] w-[159px]" data-node-id="8427:1289">{`	Riverside Hawks Live`}</p>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 z-[1]" data-node-id="8427:1290" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] w-[159px]" data-node-id="8427:1291">
+                    Lakeview Titans TV
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col isolate items-start relative shrink-0 w-[200px]" data-node-id="8427:1292" data-name="Column">
+                <div className="bg-[#f6f3ea] border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[44px] items-center max-h-[44px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-lg,12px)] relative shrink-0 w-full z-[3]" data-node-id="8427:1293" data-name="Table header cell">
+                  <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-center relative shrink-0" data-node-id="8427:1294" data-name="_Table header label">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="I8427:1294;1221:106781">
+                      Username
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[2]" data-node-id="8427:1295" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1296">
+                    hawks10u_live
+                  </p>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[1]" data-node-id="8427:1297" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1298">
+                    titans12u_tv
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] flex-col isolate items-start min-w-px relative" data-node-id="8427:1299" data-name="Column">
+                <div className="bg-[#f6f3ea] border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[44px] items-center max-h-[44px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-lg,12px)] relative shrink-0 w-full z-[3]" data-node-id="8427:1300" data-name="Table header cell">
+                  <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-center relative shrink-0" data-node-id="8427:1301" data-name="_Table header label">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1302">
+                      Email Id
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[2]" data-node-id="8427:1303" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1304">
+                    hawks10u@example.com
+                  </p>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[1]" data-node-id="8427:1305" data-name="Table cell">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/body-4\/semibold\/size,16px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1306">
+                    titans12u@example.com
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col isolate items-start relative shrink-0" data-node-id="8427:1307" data-name="Column">
+                <div className="bg-[#f6f3ea] border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[44px] items-center max-h-[44px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-lg,12px)] relative shrink-0 w-full z-[3]" data-node-id="8427:1308" data-name="Table header cell">
+                  <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-center relative shrink-0" data-node-id="8427:1309" data-name="_Table header label">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="I8427:1309;1221:106781">
+                      Requested on
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center min-h-[56px] px-[var(--spacing-3xl,24px)] py-[var(--spacing\/spacing-4,12px)] relative shrink-0 w-full z-[2]" data-node-id="8427:1310" data-name="Table cell">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8427:1312" data-name="Text and supporting text">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1314">
+                      Wed 1:00pm
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing\/spacing-4,12px)] relative shrink-0 w-full z-[1]" data-node-id="8427:1315" data-name="Table cell">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8427:1317" data-name="Text and supporting text">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8427:1319">
+                      Wed 1:00pm
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col isolate items-start relative shrink-0 w-[200px]" data-node-id="8427:1320" data-name="Column">
+                <div className="bg-[#f6f3ea] border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[44px] items-center justify-center max-h-[44px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-lg,12px)] relative shrink-0 w-full z-[3]" data-node-id="8427:1321" data-name="Table header cell">
+                  <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-center relative shrink-0" data-node-id="8427:1322" data-name="_Table header label">
+                    <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="I8427:1322;1221:106781">
+                      Status
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center justify-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[2]" data-node-id="8427:1323" data-name="Table cell">
+                  <div className="bg-[#ffebeb] border border-[#ffdbdb] border-solid content-stretch flex gap-[var(--spacing-xs,4px)] items-center pl-[var(--spacing-sm,6px)] pr-[var(--spacing-md,8px)] py-[var(--spacing-xxs,2px)] relative rounded-[var(--radius-full,9999px)] shrink-0" data-node-id="8433:4758" data-name="Badge">
+                    <div className="relative shrink-0 size-[8px]" data-node-id="8433:4759" data-name="_Dot">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDot} />
+                    </div>
+                    <p className="[word-break:break-word] font-[family-name:var(--font-family\/font-family-body,'Inter:Medium')] font-[var(--font-weight\/medium,normal)] font-medium leading-[var(--line-height\/text-xs,18px)] relative shrink-0 text-[length:var(--font-size\/text-xs,12px)] text-[red] text-center whitespace-nowrap" data-node-id="8433:4760">
+                      Rejected
+                    </p>
+                  </div>
+                </div>
+                <div className="border-[#e1ddd1] border-b border-solid content-stretch flex gap-[var(--spacing-lg,12px)] h-[72px] items-center justify-center max-h-[72px] px-[var(--spacing-3xl,24px)] py-[var(--spacing-xl,16px)] relative shrink-0 w-full z-[1]" data-node-id="8427:1327" data-name="Table cell">
+                  <div className="bg-[#ffebeb] border border-[#ffdbdb] border-solid content-stretch flex gap-[var(--spacing-xs,4px)] items-center pl-[var(--spacing-sm,6px)] pr-[var(--spacing-md,8px)] py-[var(--spacing-xxs,2px)] relative rounded-[var(--radius-full,9999px)] shrink-0" data-node-id="8433:4748" data-name="Badge">
+                    <div className="relative shrink-0 size-[8px]" data-node-id="8433:4749" data-name="_Dot">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDot} />
+                    </div>
+                    <p className="[word-break:break-word] font-[family-name:var(--font-family\/font-family-body,'Inter:Medium')] font-[var(--font-weight\/medium,normal)] font-medium leading-[var(--line-height\/text-xs,18px)] relative shrink-0 text-[length:var(--font-size\/text-xs,12px)] text-[red] text-center whitespace-nowrap" data-node-id="8433:4750">
+                      Rejected
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="border-0 border-[var(--colors\/border\/border-secondary,#e5e5e5)] border-solid relative shrink-0 w-full" data-node-id="8433:4584" data-name="Pagination">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[var(--spacing-lg,12px)] items-center justify-center pb-[var(--spacing-xl,16px)] pt-[var(--spacing-lg,12px)] px-[var(--spacing-3xl,24px)] relative size-full">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="8433:4585">
+                <div className="content-stretch flex gap-[14px] items-center relative shrink-0" data-node-id="8433:4586" data-name="Toggle">
+                  <div className="content-stretch flex h-[28px] items-center overflow-clip p-[2.8px] relative rounded-[13998.601px] shrink-0 w-[50.75px]" data-node-id="8433:4587" style={{ backgroundImage: "linear-gradient(160.63822611440077deg, rgb(251, 251, 251) 31.156%, rgb(9, 161, 3) 80.545%)" }} data-name="_Toggle base">
+                    <div className="bg-[#f3f3f3] relative rounded-[13998.601px] shadow-[0px_1.4px_4.2px_0px_var(--colors\/effects\/shadows\/shadow-sm_01,rgba(0,0,0,0.1)),0px_1.4px_2.8px_-1.4px_var(--colors\/effects\/shadows\/shadow-sm_02,rgba(0,0,0,0.1))] shrink-0 size-[22.4px]" data-node-id="8433:4588" data-name="Button" />
+                  </div>
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4589">
+                    Dense
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-xl,16px)] items-center justify-end min-w-px relative" data-node-id="8433:4590" data-name="Pagination">
+                <div className="content-stretch flex gap-[var(--spacing-md,8px)] items-center relative shrink-0" data-node-id="8433:4591" data-name="Text and select">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4592">
+                    Rows per page
+                  </p>
+                  <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-[64px]" data-node-id="8433:4593" data-name="Select">
+                    <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:4594" data-name="Input with label">
+                      <div className="bg-[#e7e3d7] content-stretch flex gap-[var(--spacing-md,8px)] h-[36px] items-center overflow-clip pl-[var(--spacing-lg,12px)] pr-[var(--spacing-md,8px)] py-[var(--spacing-md,8px)] relative rounded-[var(--radius\/radius-4,8px)] shadow-[0px_1px_2px_0px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] shrink-0 w-full" data-node-id="8433:4599" data-name="Input">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-center min-w-px relative" data-node-id="8433:4600" data-name="Content">
+                          <div className="content-stretch flex gap-[var(--spacing-sm,6px)] items-center relative shrink-0" data-node-id="8433:4601" data-name="Text and supporting text">
+                            <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#3a3a3a] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:4602">
+                              10
+                            </p>
+                          </div>
+                        </div>
+                        <div className="relative shrink-0 size-[16px]" data-node-id="8433:4604" data-name="chevron-down">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgChevronDown} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-start relative shrink-0" data-node-id="8433:4606" data-name="Pagination numbers">
+                  <div className="bg-[#e7e3d7] content-stretch flex gap-[var(--spacing-md,8px)] items-center justify-center overflow-clip pl-[var(--spacing\/spacing-3,8px)] pr-[var(--spacing-md,8px)] py-[var(--spacing-md,8px)] relative rounded-[var(--radius\/radius-4,8px)] shadow-[0px_1px_2px_0px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] shrink-0 size-[36px]" data-node-id="8433:4607" data-name="_Pagination number base">
+                    <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-center min-w-px p-[var(--spacing-md,8px)] relative rounded-[var(--spacing-md,8px)]" data-node-id="I8433:4607;1114:68176" data-name="Content">
+                      <p className="[word-break:break-word] font-[family-name:var(--font-family\/font-family-body,'Inter:Medium')] font-[var(--font-weight\/medium,normal)] font-medium leading-[var(--line-height\/text-sm,20px)] relative shrink-0 text-[#3a3a3a] text-[length:var(--font-size\/text-sm,14px)] text-center whitespace-nowrap" data-node-id="I8433:4607;1114:68177">
+                        1
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex items-center overflow-clip relative rounded-[var(--radius-md,8px)] shrink-0 size-[36px]" data-node-id="8433:4608" data-name="_Pagination number base">
+                    <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-center min-w-px p-[var(--spacing-md,8px)] relative rounded-[var(--spacing-md,8px)]" data-node-id="I8433:4608;1114:68170" data-name="Content">
+                      <p className="[word-break:break-word] font-[family-name:var(--font-family\/font-family-body,'Inter:Medium')] font-[var(--font-weight\/medium,normal)] font-medium leading-[var(--line-height\/text-sm,20px)] relative shrink-0 text-[color:var(--colors\/text\/text-quaternary-\(500\),#737373)] text-[length:var(--font-size\/text-sm,14px)] text-center whitespace-nowrap" data-node-id="I8433:4608;1114:68171">
+                        ...
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex items-center overflow-clip relative rounded-[var(--radius-md,8px)] shrink-0 size-[36px]" data-node-id="8433:4609" data-name="_Pagination number base">
+                    <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-center min-w-px p-[var(--spacing-md,8px)] relative rounded-[var(--spacing-md,8px)]" data-node-id="I8433:4609;1114:68170" data-name="Content">
+                      <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[color:var(--colors\/text\/text-quaternary-\(500\),#737373)] text-[length:var(--type\/label\/medium\/size,14px)] text-center tracking-[0.5px] whitespace-nowrap" data-node-id="I8433:4609;1114:68171">
+                        3
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[var(--spacing-md,8px)] items-center relative shrink-0" data-node-id="8433:4610" data-name="Actions">
+                  <div className="bg-[#e7e3d7] content-stretch flex gap-[var(--spacing-md,8px)] items-center overflow-clip pl-[var(--spacing\/spacing-3,8px)] pr-[var(--spacing-md,8px)] py-[var(--spacing-md,8px)] relative rounded-[var(--radius\/radius-4,8px)] shadow-[0px_1px_2px_0px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] shrink-0 size-[36px]" data-node-id="8433:4611" data-name="Buttons/Button">
+                    <div className="relative shrink-0 size-[20px]" data-node-id="I8433:4611;3471:597240" data-name="chevron-right">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgChevronRight} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-1: #FFFFFF, Neutral/neutral-12: #313131, Neutral/neutral-8: #6D6D6D, Body 5/Medium: Font(family: "Type/Font Family/family-body", style: Medium, size: Type/Label/Medium/size, weight: 500, lineHeight: 100, letterSpacing: 0.5), Brand/Green: #09A103, Neutral/neutral-9: #5B5B5B, Light/Background: #F6F3EA, Body 2/Semibold: Font(family: "Type/Font Family/family-body", style: SemiBold, size: Type/Body 2/Semibold/size, weight: 600, lineHeight: 100, letterSpacing: Type/Body 2/Semibold/letter-spacing), Body 4/Medium: Font(family: "Type/Font Family/family-body", style: Medium, size: Type/Body 4/Medium/size, weight: 500, lineHeight: 100, letterSpacing: 0.5), Body 6/Medium: Font(family: "Type/Font Family/family-body", style: Medium, size: Type/Font size/12, weight: 500, lineHeight: 100, letterSpacing: 0.5), Neutral/neutral-10: #414141, Body 6/Semibold: Font(family: "Type/Font Family/family-body", style: SemiBold, size: Type/Font size/12, weight: 600, lineHeight: 100, letterSpacing: 0.5), Body 4/Semibold: Font(family: "Type/Font Family/family-body", style: SemiBold, size: Type/Body 4/Semibold/size, weight: 600, lineHeight: 100, letterSpacing: 0.5), Text xs/Medium: Font(family: "Font family/font-family-body", style: Font weight/medium, size: Font size/text-xs, weight: 500, lineHeight: Line height/text-xs, letterSpacing: 0), Neutral/neutral-11: #3A3A3A, Shadows/shadow-xs: Effect(type: DROP_SHADOW, color: Colors/Effects/Shadows/shadow-xs, offset: (0, 1), radius: 2, spread: 0), Text sm/Medium: Font(family: "Font family/font-family-body", style: Font weight/medium, size: Font size/text-sm, weight: 500, lineHeight: Line height/text-sm, letterSpacing: 0).
+Component descriptions: The following components have usage descriptions or documentation links defined in Figma. These descriptions provide important context about the intended usage, best practices, and any constraints for each component. Follow these guidelines when implementing or using these components.
+
+## chevron-down
+**Node ID:** 8352:9218
+
+chevron, down, dropdown
+
+## chevron-right
+**Node ID:** 8406:3151
+
+chevron, right
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

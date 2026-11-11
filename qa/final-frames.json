@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "broadcaster-requests-dark",
+    "node": "8413:25313",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "broadcaster-requests-empty-dark",
+    "node": "8413:24824",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "broadcaster-requests-empty-light",
+    "node": "8427:1359",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "broadcaster-requests-light",
+    "node": "8427:1027",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "broadcasters-wallets",
+    "node": "8439:11243",
+    "width": "1528",
+    "height": "922"
+  },
+  {
+    "slug": "broadcasters-wallets-light",
+    "node": "8427:846",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "club-dashboard-dark",
+    "node": "8436:7470",
+    "width": "1512",
+    "height": "1265.5999755859375"
+  },
+  {
+    "slug": "club-dashboard-light",
+    "node": "8436:7027",
+    "width": "1528",
+    "height": "1202"
+  },
+  {
+    "slug": "home-dark",
+    "node": "8307:8678",
+    "width": "1512",
+    "height": "4157.7998046875"
+  },
+  {
+    "slug": "home-light",
+    "node": "8291:1011",
+    "width": "1512",
+    "height": "4064.800048828125"
+  },
+  {
+    "slug": "home-signed-in-dark",
+    "node": "8212:33",
+    "width": "1512",
+    "height": "6074"
+  },
+  {
+    "slug": "home-signed-in-light",
+    "node": "8212:3267",
+    "width": "1512",
+    "height": "6252"
+  },
+  {
+    "slug": "login-dark",
+    "node": "8350:8841",
+    "width": "1512",
+    "height": "982"
+  },
+  {
+    "slug": "login-light",
+    "node": "8433:5384",
+    "width": "1512",
+    "height": "982"
+  },
+  {
+    "slug": "register-broadcaster-dark",
+    "node": "8354:28283",
+    "width": "1512",
+    "height": "982"
+  },
+  {
+    "slug": "register-broadcaster-light",
+    "node": "8433:5766",
+    "width": "1512",
+    "height": "982"
+  },
+  {
+    "slug": "register-user-dark",
+    "node": "8354:27846",
+    "width": "1512",
+    "height": "982"
+  },
+  {
+    "slug": "register-user-light",
+    "node": "8433:5555",
+    "width": "1512",
+    "height": "982"
+  },
+  {
+    "slug": "rejected-broadcasters-dark",
+    "node": "8414:26323",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "rejected-broadcasters-empty-dark",
+    "node": "8414:26474",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "rejected-broadcasters-empty-light",
+    "node": "8427:1482",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "rejected-broadcasters-light",
+    "node": "8427:1194",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "storage-services-dark",
+    "node": "8414:26200",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "storage-services-light",
+    "node": "8427:1758",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "teams-grid",
+    "node": "8439:10585",
+    "width": "1512",
+    "height": "913"
+  },
+  {
+    "slug": "teams-list",
+    "node": "8438:9957",
+    "width": "1512",
+    "height": "913"
+  },
+  {
+    "slug": "teams-list-light",
+    "node": "8427:691",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "transaction-history-dark",
+    "node": "8414:26846",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "transaction-history-light",
+    "node": "8427:1958",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "youtube-channel-dark",
+    "node": "8414:25524",
+    "width": "1512",
+    "height": "980"
+  },
+  {
+    "slug": "youtube-channel-light",
+    "node": "8427:1603",
+    "width": "1512",
+    "height": "980"
+  }
+]

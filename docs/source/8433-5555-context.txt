@@ -1,0 +1,335 @@
+const imgTypeHandPoint = "https://www.figma.com/api/mcp/asset/7de15acf-7bad-4675-a32b-8d5b85677e52.svg";
+const imgOpenFalseSupportingTextFalseTooltipTopNoArrow = "https://www.figma.com/api/mcp/asset/d362285f-eeed-4b9e-aab6-4ce578db46a6.svg";
+const imgLogIn = "https://www.figma.com/api/mcp/asset/dca0c983-9b60-487d-8303-7a4c37452820.png";
+const imgCurvedHighlight = "https://www.figma.com/api/mcp/asset/dbdc2c4f-601f-4b19-a9ae-1c4c9bd08cac.svg";
+const imgPlayEmblem = "https://www.figma.com/api/mcp/asset/47513212-df03-4491-a0dd-351c07cc49ed.svg";
+const imgArrowLeft02 = "https://www.figma.com/api/mcp/asset/2e9f0033-f2a4-4646-b262-784d828bb595.svg";
+const imgChevronDown = "https://www.figma.com/api/mcp/asset/e09f132f-343c-4390-9c99-e9040c7beb49.svg";
+const imgHelpIcon = "https://www.figma.com/api/mcp/asset/1d083d10-ccd2-41a4-ab29-46cc7073adc0.svg";
+
+type CursorProps = {
+  className?: string;
+  type?: "Hand point";
+};
+
+function Cursor({ className, type = "Hand point" }: CursorProps) {
+  return (
+    <div className={className || "relative size-[20px]"} data-node-id="8352:12416">
+      <div className="absolute inset-[0_-0.61%_-5.6%_0]">
+        <img alt="" className="block max-w-none size-full" src={imgTypeHandPoint} />
+      </div>
+    </div>
+  );
+}
+
+type TooltipProps = {
+  className?: string;
+  arrow?: "None";
+  supportingText?: "False";
+  text?: string;
+};
+
+function Tooltip({ className, arrow = "None", supportingText = "False", text = "This is a tooltip" }: TooltipProps) {
+  return (
+    <div className={className || "content-stretch drop-shadow-[0px_12px_8px_var(--colors\\/effects\\/shadows\\/shadow-lg_01,rgba(0,0,0,0.08)),0px_4px_3px_var(--colors\\/effects\\/shadows\\/shadow-lg_02,rgba(0,0,0,0.03)),0px_2px_1px_var(--colors\\/effects\\/shadows\\/shadow-lg_03,rgba(0,0,0,0.04))] flex flex-col items-center relative"} data-node-id="8352:12653">
+      <div className="bg-[var(--colors\/background\/bg-primary-solid,#0a0a0a)] content-stretch flex flex-col items-start px-[var(--spacing-lg,12px)] py-[var(--spacing-md,8px)] relative rounded-[var(--radius-md,8px)] shrink-0 w-full" data-node-id="8352:12654" data-name="Content">
+        <p className="[word-break:break-word] font-[family-name:var(--font-family\/font-family-body,'Inter:Semibold')] font-[var(--font-weight\/semibold,normal)] leading-[var(--line-height\/text-xs,18px)] relative shrink-0 text-[color:var(--colors\/text\/text-white,white)] text-[length:var(--font-size\/text-xs,12px)] text-center whitespace-nowrap" data-node-id="8352:12655">
+          {text}
+        </p>
+      </div>
+    </div>
+  );
+}
+
+type HelpIconProps = {
+  className?: string;
+  open?: boolean;
+  supportingText?: "False";
+  tooltip?: "Top no arrow";
+};
+
+function HelpIcon({ className, open = false, supportingText = "False", tooltip = "Top no arrow" }: HelpIconProps) {
+  return (
+    <div className={className || "relative size-[16px]"} data-node-id="8352:13624">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgOpenFalseSupportingTextFalseTooltipTopNoArrow} />
+    </div>
+  );
+}
+
+export default function LogIn() {
+  return (
+    <div className="content-stretch flex flex-col gap-[10px] items-start p-[24px] relative size-full" data-node-id="8433:5555" data-name="Log In">
+      <div aria-hidden className="absolute inset-0 pointer-events-none">
+        <img alt="" className="absolute max-w-none object-cover size-full" src={imgLogIn} />
+        <div className="absolute bg-[rgba(208,202,177,0.75)] inset-0" />
+      </div>
+      <div className="backdrop-blur-[10px] bg-[#f7f4ec] content-stretch flex h-[74px] items-center justify-between pl-[24px] pr-[16px] py-[8px] relative rounded-[99px] shrink-0 w-full" data-node-id="8433:5556" data-name="Header Content">
+        <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8433:5557">
+          <div className="bg-[#499f29] border border-[#347a21] border-solid h-[34px] overflow-clip relative rounded-[6px] shadow-[0px_0.375px_0.625px_0px_rgba(28,67,22,0.17)] shrink-0 w-[78px]" data-node-id="8433:5558" data-name="Rounded panel">
+            <div className="absolute h-[40px] left-[-31px] top-[-23.5px] w-[137.5px]" data-node-id="8433:5559" data-name="Curved highlight">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCurvedHighlight} />
+            </div>
+            <div className="absolute border-[#72b957] border-[0.25px] border-solid h-[32.75px] left-[-0.13px] rounded-[5.125px] top-[-0.13px] w-[75.875px]" data-node-id="8433:5560" data-name="Inner rim" />
+            <div className="absolute h-[30px] left-[4px] top-[0.88px] w-[67.625px]" data-node-id="8433:5561" data-name="Wordmark lockup">
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Arimo:Bold'] font-bold h-[30px] justify-center leading-[0] left-[33.81px] text-[29.75px] text-center text-shadow-[0px_1px_0.375px_#2e751d] text-white top-[15px] tracking-[-1px] w-[67.625px]" data-node-id="8433:5562">
+                <p className="leading-none">JWV</p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0" data-node-id="8433:5563">
+            <div className="content-stretch flex gap-[2px] items-center relative shrink-0 w-full" data-node-id="8433:5564">
+              <p className="[word-break:break-word] font-['Arimo:Bold'] font-bold leading-none relative shrink-0 text-[#3a3a3a] text-[14px] tracking-[-0.3px] whitespace-nowrap" data-node-id="8433:5565">
+                STREAMING
+              </p>
+              <div className="relative shrink-0 size-[12px]" data-node-id="8433:5566" data-name="Play emblem">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlayEmblem} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Arimo:Bold'] font-bold leading-none relative shrink-0 text-[#6d6d6d] text-[8px] tracking-[1.375px] whitespace-nowrap" data-node-id="8433:5569">
+              POWERED BY JWV DEV
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[32px] items-center relative shrink-0" data-node-id="8433:6447">
+          <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8433:6448">
+            <div className="content-stretch flex flex-col items-end relative shrink-0" data-node-id="8433:6449" data-name="Toggle">
+              <div className="content-stretch flex h-[28px] items-center overflow-clip p-[2.8px] relative rounded-[13998.6px] shrink-0 w-[50.4px]" data-node-id="8433:6450" style={{ backgroundImage: "linear-gradient(160.51386990107324deg, rgb(227, 227, 227) 31.156%, rgb(191, 191, 180) 80.545%)" }} data-name="_Toggle base">
+                <div className="bg-[var(--colors\/foreground\/fg-white,white)] relative rounded-[13998.6px] shadow-[0px_1.4px_4.2px_0px_var(--colors\/effects\/shadows\/shadow-sm_01,rgba(0,0,0,0.1)),0px_1.4px_2.8px_-1.4px_var(--colors\/effects\/shadows\/shadow-sm_02,rgba(0,0,0,0.1))] shrink-0 size-[22.4px]" data-node-id="8433:6451" data-name="Button" />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Montserrat:Regular'] font-normal leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8433:6452">{`Dark `}</p>
+          </div>
+          <div className="bg-[rgba(208,202,177,0.32)] border-[0.5px] border-[rgba(255,255,255,0.24)] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center pl-[var(--spacing\/spacing-4,12px)] pr-[var(--spacing\/spacing-5,16px)] py-[8px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8433:6453" data-name="Nav">
+            <div className="relative shrink-0 size-[18px]" data-node-id="8433:6454" data-name="arrow-left-02">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowLeft02} />
+            </div>
+            <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#414141] text-[length:var(--type\/body-4\/medium\/size,16px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:6456">
+              Back to home
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-[1_0_0] flex-col gap-[var(--spacing-4xl,32px)] items-center justify-center min-h-px px-[var(--container-padding-desktop,32px)] relative w-full" data-node-id="8433:5574" data-name="Container">
+        <div className="bg-[#fffcf6] border-[#e4e0d4] border-[0.8px] border-solid content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex items-start justify-between p-[var(--spacing\/spacing-8,32px)] relative rounded-[var(--radius\/radius-8,24px)] shrink-0 w-[456px]" data-node-id="8433:5575">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[32px] items-center min-w-px relative" data-node-id="8433:5632" data-name="Content">
+            <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-5,16px)] items-center relative shrink-0 w-full" data-node-id="8433:5633" data-name="Header">
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[var(--spacing\/spacing-3,8px)] items-start leading-[normal] relative shrink-0 text-center tracking-[0.5px]" data-node-id="8433:5634" data-name="Text and supporting text">
+                <p className="font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold min-w-full relative shrink-0 text-[#3a3a3a] text-[length:var(--type\/font-size\/32,32px)] w-[min-content]" data-node-id="8433:5635">
+                  Join JWV Streaming
+                </p>
+                <p className="font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/body-4\/medium\/size,16px)] whitespace-nowrap" data-node-id="8433:5636">
+                  Create an account to start watching and streaming.
+                </p>
+              </div>
+              <div className="bg-[#f5f2eb] border-[#ddd] border-[0.429px] border-solid content-stretch flex gap-[8.571px] h-[36px] items-center justify-center px-[0.429px] py-[8.429px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0 w-full" data-node-id="8433:5637" data-name="Horizontal tabs">
+                <div className="bg-[#d1cab5] border-[0.5px] border-[rgba(255,255,255,0.24)] border-solid flex-[1_0_0] h-[36px] min-w-px relative rounded-[var(--radius\/radius-full,9999px)]" data-node-id="8433:5638" data-name="_Tab button base">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center justify-center overflow-clip pl-[18.5px] pr-[20.5px] py-[10.5px] relative rounded-[inherit] size-full">
+                    <div className="relative shrink-0" data-node-id="I8433:5638;12192:548310" data-name="Text padding">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[var(--spacing-sm,6px)] items-center justify-center px-[var(--spacing-xxs,2px)] relative size-full">
+                        <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#313131] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="I8433:5638;7248:8796">
+                          Register as User
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex-[1_0_0] h-[36px] min-w-px relative rounded-[var(--radius-md,8px)]" data-node-id="8433:5639" data-name="_Tab button base">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[var(--spacing-xs,4px)] items-center justify-center overflow-clip px-[10px] py-[var(--spacing-md,8px)] relative rounded-[inherit] size-full">
+                    <div className="content-stretch flex gap-[var(--spacing-sm,6px)] items-center justify-center px-[var(--spacing-xxs,2px)] relative shrink-0" data-node-id="I8433:5639;12192:547202" data-name="Text padding">
+                      <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#9a9a9a] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="I8433:5639;7248:8814">
+                        Register as Broadcaster
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8433:5643">
+              <div className="content-stretch flex flex-col gap-[var(--spacing-3xl,24px)] items-center relative rounded-[var(--spacing-lg,12px)] shrink-0 w-full" data-node-id="8433:5644" data-name="Content">
+                <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-4,12px)] items-start relative shrink-0 w-full" data-node-id="8433:5645" data-name="Form">
+                  <div className="content-stretch flex gap-[var(--spacing\/spacing-5,16px)] items-start relative shrink-0 w-full" data-node-id="8433:5646">
+                    <div className="content-stretch flex flex-[1_0_0] flex-col gap-[var(--spacing-sm,6px)] items-start min-w-px relative" data-node-id="8433:5647" data-name="Input field">
+                      <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5648" data-name="Input with label">
+                        <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-start relative shrink-0" data-node-id="8433:5649" data-name="Label wrapper">
+                          <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5650">
+                            First Name
+                          </p>
+                        </div>
+                        <div className="bg-[#eee9e0] border border-[#d8d2c8] border-solid content-stretch drop-shadow-[0px_1px_1px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] flex gap-[var(--spacing-md,8px)] items-center min-h-[40px] px-[14px] py-[10px] relative rounded-[var(--radius-md,8px)] shrink-0 w-full" data-node-id="8433:5652" data-name="Input">
+                          <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-center min-w-px relative" data-node-id="8433:5653" data-name="Content">
+                            <p className="[word-break:break-word] flex-[1_0_0] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] min-w-px overflow-hidden relative text-[#6d6d6d] text-[16px] text-ellipsis tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8433:5655">
+                              Enter your first name
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-[1_0_0] flex-col gap-[var(--spacing-sm,6px)] items-start min-w-px relative" data-node-id="8433:5658" data-name="Input field">
+                      <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5659" data-name="Input with label">
+                        <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-start relative shrink-0" data-node-id="8433:5660" data-name="Label wrapper">
+                          <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5661">
+                            Last Name
+                          </p>
+                        </div>
+                        <div className="bg-[#eee9e0] border border-[#d8d2c8] border-solid content-stretch drop-shadow-[0px_1px_1px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] flex gap-[var(--spacing-md,8px)] items-center min-h-[40px] px-[14px] py-[10px] relative rounded-[var(--radius-md,8px)] shrink-0 w-full" data-node-id="8433:5663" data-name="Input">
+                          <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-center min-w-px relative" data-node-id="8433:5664" data-name="Content">
+                            <p className="[word-break:break-word] flex-[1_0_0] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] min-w-px overflow-hidden relative text-[#6d6d6d] text-[16px] text-ellipsis tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8433:5666">
+                              Enter your last name
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5669" data-name="Input field">
+                    <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5670" data-name="Input with label">
+                      <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-start relative shrink-0" data-node-id="8433:5671" data-name="Label wrapper">
+                        <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5672">
+                          Email Address
+                        </p>
+                      </div>
+                      <div className="bg-[#eee9e0] border border-[#d8d2c8] border-solid content-stretch drop-shadow-[0px_1px_1px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] flex gap-[var(--spacing-md,8px)] items-center min-h-[40px] px-[14px] py-[10px] relative rounded-[var(--radius-md,8px)] shrink-0 w-full" data-node-id="8433:5674" data-name="Input">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-center min-w-px relative" data-node-id="8433:5675" data-name="Content">
+                          <p className="[word-break:break-word] flex-[1_0_0] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] min-w-px overflow-hidden relative text-[#6d6d6d] text-[16px] text-ellipsis tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8433:5677">
+                            Enter your email address
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5680" data-name="Input field">
+                    <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5681" data-name="Input with label">
+                      <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-start relative shrink-0" data-node-id="8433:5682" data-name="Label wrapper">
+                        <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5683">
+                          Phone number
+                        </p>
+                      </div>
+                      <div className="bg-[#eee9e0] border border-[#d8d2c8] border-solid content-stretch drop-shadow-[0px_1px_1px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] flex gap-[var(--spacing-md,8px)] items-center max-h-[40px] min-h-[40px] px-[14px] py-[10px] relative rounded-[var(--radius-md,8px)] shrink-0 w-full" data-node-id="8433:5684" data-name="Input">
+                        <div className="flex flex-row items-center self-stretch" data-node-id="8433:5685">
+                          <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] h-full items-center overflow-clip pl-[var(--spacing\/spacing-2,4px)] py-[var(--spacing-md,8px)] relative shrink-0" data-name="Dropdown">
+                            <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] relative shrink-0 text-[color:var(--colors\/text\/text-tertiary-\(600\),#525252)] text-[length:var(--type\/body-4\/regular\/size,16px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8433:5686">
+                              US
+                            </p>
+                            <div className="relative shrink-0 size-[12px]" data-node-id="8433:5687" data-name="chevron-down">
+                              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgChevronDown} />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-center min-w-px pl-[var(--spacing-md,8px)] pr-[var(--spacing-lg,12px)] py-[var(--spacing-md,8px)] relative" data-node-id="8433:5688" data-name="Text input">
+                          <p className="[word-break:break-word] flex-[1_0_0] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] min-w-px overflow-hidden relative text-[16px] text-[color:var(--colors\/text\/text-placeholder,#737373)] text-ellipsis tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8433:5689">
+                            +1 (555) 000-0000
+                          </p>
+                          <HelpIcon className="relative shrink-0 size-[16px]" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5692" data-name="Input field">
+                    <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5693" data-name="Input with label">
+                      <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-start relative shrink-0" data-node-id="8433:5694" data-name="Label wrapper">
+                        <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5695">
+                          Create Password
+                        </p>
+                      </div>
+                      <div className="bg-[#eee9e0] border border-[#d8d2c8] border-solid content-stretch drop-shadow-[0px_1px_1px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] flex gap-[var(--spacing-md,8px)] items-center min-h-[40px] px-[14px] py-[10px] relative rounded-[var(--radius-md,8px)] shrink-0 w-full" data-node-id="8433:5697" data-name="Input">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-center min-w-px relative" data-node-id="8433:5698" data-name="Content">
+                          <p className="[word-break:break-word] flex-[1_0_0] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] min-w-px overflow-hidden relative text-[#6d6d6d] text-[14px] text-ellipsis tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5700">
+                            Enter password
+                          </p>
+                        </div>
+                        <div className="relative shrink-0 size-[16px]" data-node-id="8433:5701" data-name="Help icon">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgHelpIcon} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5705" data-name="Input field">
+                    <div className="content-stretch flex flex-col gap-[var(--spacing-sm,6px)] items-start relative shrink-0 w-full" data-node-id="8433:5706" data-name="Input with label">
+                      <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-start relative shrink-0" data-node-id="8433:5707" data-name="Label wrapper">
+                        <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/font-size\/12,12px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5708">
+                          Confirm Password
+                        </p>
+                      </div>
+                      <div className="bg-[#eee9e0] border border-[#d8d2c8] border-solid content-stretch drop-shadow-[0px_1px_1px_var(--colors\/effects\/shadows\/shadow-xs,rgba(0,0,0,0.05))] flex gap-[var(--spacing-md,8px)] items-center min-h-[40px] px-[14px] py-[10px] relative rounded-[var(--radius-md,8px)] shrink-0 w-full" data-node-id="8433:5710" data-name="Input">
+                        <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-center min-w-px relative" data-node-id="8433:5711" data-name="Content">
+                          <p className="[word-break:break-word] flex-[1_0_0] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] min-w-px overflow-hidden relative text-[#6d6d6d] text-[16px] text-ellipsis tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8433:5713">
+                            Enter password
+                          </p>
+                        </div>
+                        <div className="relative shrink-0 size-[16px]" data-node-id="8433:5714" data-name="Help icon">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgHelpIcon} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="8433:5718" data-name="Row">
+                  <div className="content-stretch flex flex-[1_0_0] gap-[var(--spacing-md,8px)] items-start min-w-px relative" data-node-id="8433:5719" data-name="Checkbox">
+                    <div className="border border-[#c7c7c7] border-solid relative rounded-[var(--spacing-xs,4px)] shrink-0 size-[16px]" data-node-id="8433:5720" data-name="_Checkbox base" />
+                    <div className="content-stretch flex flex-[1_0_0] flex-col items-start min-w-px relative" data-node-id="8433:5721" data-name="Text and supporting text">
+                      <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Medium')] font-medium leading-[normal] relative shrink-0 text-[#9a9a9a] text-[length:var(--type\/label\/medium\/size,14px)] tracking-[0.5px] w-full" data-node-id="8433:5722">
+                        Remember for 30 days
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex flex-row items-center self-stretch" data-node-id="8433:5724">
+                    <div className="content-stretch flex gap-[var(--spacing-xs,4px)] h-full items-center justify-center overflow-clip relative shrink-0" data-name="Buttons/Button">
+                      <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#1894e0] text-[length:var(--type\/label\/semibold\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5726">
+                        Forgot password
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col gap-[var(--spacing-xl,16px)] items-start relative shrink-0 w-full" data-node-id="8433:5728" data-name="Actions">
+                  <div className="content-stretch flex gap-[8.571px] h-[44px] items-center justify-center overflow-clip p-[10.286px] relative rounded-[27.429px] shrink-0 w-full" data-node-id="8433:5729" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 390.4 44' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(-6.2781e-15 4.4 -39.04 2.6942e-16 195.2 0)'><stop stop-color='rgba(255,255,255,0.3)' offset='0'/><stop stop-color='rgba(255,255,255,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(9, 161, 3) 0%, rgb(9, 161, 3) 100%)" }} data-name="Buttons/Button">
+                    <div className="relative shrink-0" data-node-id="8433:5731" data-name="Text padding">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center px-[var(--spacing-xxs,2px)] relative size-full">
+                        <p className="[word-break:break-word] font-[family-name:var(--font-family\/font-family-body,'Inter:Semibold')] font-[var(--font-weight\/semibold,normal)] leading-[var(--line-height\/text-md,24px)] relative shrink-0 text-[color:var(--colors\/text\/text-white,white)] text-[length:var(--font-size\/text-md,16px)] whitespace-nowrap" data-node-id="8433:5732">
+                          Sign in
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-baseline justify-center relative shrink-0 w-full" data-node-id="8433:5734" data-name="Row">
+                <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] relative shrink-0 text-[#9a9a9a] text-[length:var(--type\/label\/regular\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5735">{`	Already have an account?`}</p>
+                <div className="content-stretch flex gap-[var(--spacing-xs,4px)] items-center justify-center overflow-clip relative shrink-0" data-node-id="8433:5736" data-name="Buttons/Button">
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:SemiBold')] font-semibold leading-[normal] relative shrink-0 text-[#499f29] text-[length:var(--type\/label\/semibold\/size,14px)] tracking-[0.5px] whitespace-nowrap" data-node-id="8433:5738">
+                    Log in
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-1: #FFFFFF, Neutral/neutral-11: #3A3A3A, Neutral/neutral-8: #6D6D6D, Neutral/neutral-9: #5B5B5B, Neutral/neutral-10: #414141, Body 4/Medium: Font(family: "Type/Font Family/family-body", style: Medium, size: Type/Body 4/Medium/size, weight: 500, lineHeight: 100, letterSpacing: 0.5), Heading/H4: Font(family: "Type/Font Family/family-body", style: SemiBold, size: Type/Font size/32, weight: 600, lineHeight: 100, letterSpacing: 0.5), Neutral/neutral-12: #313131, Body 5/Medium: Font(family: "Type/Font Family/family-body", style: Medium, size: Type/Label/Medium/size, weight: 500, lineHeight: 100, letterSpacing: 0.5), Neutral/neutral-7: #9A9A9A, Body 6/Semibold: Font(family: "Type/Font Family/family-body", style: SemiBold, size: Type/Font size/12, weight: 600, lineHeight: 100, letterSpacing: 0.5), Body 4/Regular: Font(family: "Type/Font Family/family-body", style: Regular, size: Type/Body 4/Regular/size, weight: 400, lineHeight: 100, letterSpacing: Type/Body 4/Regular/letter-spacing), Shadows/shadow-xs: Effect(type: DROP_SHADOW, color: Colors/Effects/Shadows/shadow-xs, offset: (0, 1), radius: 2, spread: 0), Body 5/Regular: Font(family: "Type/Font Family/family-body", style: Regular, size: Type/Label/Regular/size, weight: 400, lineHeight: 100, letterSpacing: 0.5), Neutral/neutral-6: #C7C7C7, Body 5/Semibold: Font(family: "Type/Font Family/family-body", style: SemiBold, size: Type/Label/Semibold/size, weight: 600, lineHeight: 100, letterSpacing: 0.5), Text md/Semibold: Font(family: "Font family/font-family-body", style: Font weight/semibold, size: Font size/text-md, weight: 600, lineHeight: Line height/text-md, letterSpacing: 0).
+Component descriptions: The following components have usage descriptions or documentation links defined in Figma. These descriptions provide important context about the intended usage, best practices, and any constraints for each component. Follow these guidelines when implementing or using these components.
+
+## chevron-down
+**Node ID:** 8352:9218
+
+chevron, down, dropdown
+
+## help-circle
+**Node ID:** 8352:13621
+
+help, info, information, documentation, question, circle
+
+## eye
+**Node ID:** 8352:18046
+
+eye, view, see, preview
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

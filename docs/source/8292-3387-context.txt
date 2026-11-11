@@ -1,0 +1,432 @@
+const img05AutoOrderV2 = "https://www.figma.com/api/mcp/asset/5ac27c42-a087-4ba5-9db0-987e76e70cc0.png";
+const imgPlayEmblem = "https://www.figma.com/api/mcp/asset/1031b5c9-ae07-4d62-9107-66d6578ba90f.svg";
+const imgCurvedHighlight = "https://www.figma.com/api/mcp/asset/ab01ea02-f2e1-43dc-88a3-327226c61242.svg";
+const imgSearch01 = "https://www.figma.com/api/mcp/asset/0afb5309-2d65-42f4-bb7d-08dc50f0efa3.svg";
+const imgPlay = "https://www.figma.com/api/mcp/asset/66f48fe7-d3c6-47b6-ad2f-73426c958ac5.svg";
+const imgArrowRight02 = "https://www.figma.com/api/mcp/asset/8272026d-5770-45fe-8980-8f62b1f7c9dc.svg";
+const imgVector = "https://www.figma.com/api/mcp/asset/fde9e59a-789c-46a1-be61-9be459441ef8.svg";
+const imgVector1 = "https://www.figma.com/api/mcp/asset/c8ad6603-aa42-416b-b319-2b7f8a3e8b0e.svg";
+const imgVector2 = "https://www.figma.com/api/mcp/asset/6ff23481-8b4b-4340-a6ce-8da6f1696a59.svg";
+const imgVector3 = "https://www.figma.com/api/mcp/asset/1983b039-1f28-4364-b582-3321dbfda447.svg";
+const imgVector4 = "https://www.figma.com/api/mcp/asset/735a4b6f-c214-4c5a-8fad-d5e58a618d7e.svg";
+const imgVector5 = "https://www.figma.com/api/mcp/asset/ffd7e742-592f-42eb-b944-29cdf469fc9b.svg";
+const imgVector6 = "https://www.figma.com/api/mcp/asset/27661fc1-ff0e-49cb-a6c8-0e790d6fcd89.svg";
+const imgVector7 = "https://www.figma.com/api/mcp/asset/d95f633b-f237-4443-8f59-1d96173bb812.svg";
+const imgVector8 = "https://www.figma.com/api/mcp/asset/7bb35dd6-6e86-417f-bc6f-5e8bdc2cfb7f.svg";
+const imgVector9 = "https://www.figma.com/api/mcp/asset/dd8484ba-89b8-42f4-8d01-9fdfe1e28628.svg";
+const imgVector10 = "https://www.figma.com/api/mcp/asset/d868e42b-ec96-4e2e-91d5-79cc607cc251.svg";
+const imgVector11 = "https://www.figma.com/api/mcp/asset/e12a0d40-9769-4d4b-a646-b6922d5f154b.svg";
+const imgVector12 = "https://www.figma.com/api/mcp/asset/ff0e1a0d-afd5-4cd3-ba52-957f5760655d.svg";
+const imgVector13 = "https://www.figma.com/api/mcp/asset/ae2fe8a6-9ebf-4e6f-9ab6-9dd068c22700.svg";
+const imgLayer2 = "https://www.figma.com/api/mcp/asset/fbb13097-77d9-4bfd-847c-8291272bab27.svg";
+const imgColor = "https://www.figma.com/api/mcp/asset/3f7ff248-535d-431d-a331-7c99bae17238.svg";
+const imgImage = "https://www.figma.com/api/mcp/asset/0ae5ac03-5985-4de4-a254-b0ea210a8351.svg";
+const imgGroup = "https://www.figma.com/api/mcp/asset/af15997a-9b96-48bd-99c8-4333412d6eab.svg";
+const imgOnedriveSeeklogo1 = "https://www.figma.com/api/mcp/asset/e542fb77-dae8-4905-a122-28142018e818.svg";
+const imgGroup7 = "https://www.figma.com/api/mcp/asset/def2fa0f-6983-46fe-8ef3-e1971e445f1d.svg";
+const imgCurvedHighlight1 = "https://www.figma.com/api/mcp/asset/8d41b8ec-df55-47d4-99dd-5203e2964b87.svg";
+const imgGroup41 = "https://www.figma.com/api/mcp/asset/7717e419-8cb0-4ea2-9d09-fb8e6953a305.svg";
+const imgGroup44 = "https://www.figma.com/api/mcp/asset/6aa16bcc-1223-47aa-a72b-b0052a1dcb01.svg";
+const imgAppleIcloudSeeklogo1 = "https://www.figma.com/api/mcp/asset/3cc89858-fc01-4bb0-80e6-6e0c5d947831.svg";
+
+export default function Hero() {
+  return (
+    <div className="bg-[#f6f3ea] content-stretch flex flex-col items-start relative size-full" data-node-id="8292:3387" data-name="Hero">
+      <div className="content-stretch flex flex-col gap-[10px] h-[982px] items-start overflow-clip pb-[24px] relative shrink-0 w-full" data-node-id="8292:3388" data-name="hero">
+        <div className="content-stretch flex h-[120px] items-center justify-between p-[24px] relative shrink-0 w-[1512px]" data-node-id="8292:3389" data-name="Header">
+          <div className="backdrop-blur-[10px] bg-[rgba(255,255,255,0.1)] border border-[#eee6d1] border-solid content-stretch flex flex-[1_0_0] items-center justify-between min-w-px pl-[24px] pr-[16px] py-[8px] relative rounded-[99px]" data-node-id="8292:3390" data-name="Header Content">
+            <div className="content-stretch flex items-center relative shrink-0" data-node-id="8292:3391">
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8292:3392" data-name="Brand Logo">
+                <div className="content-stretch flex flex-col items-start px-[12px] relative shrink-0" data-node-id="8292:3393" data-name="Logo Lockup">
+                  <div className="h-[57px] overflow-clip relative shrink-0 w-[79.5px]" data-node-id="8292:3394" data-name="JWV Streaming — Light">
+                    <p className="[word-break:break-word] absolute font-['Arimo:Bold'] font-bold h-[4.125px] leading-none left-[9px] text-[#9a9a9a] text-[3px] top-[49.5px] tracking-[1.375px] w-[61.5px]" data-node-id="8292:3395">
+                      POWERED BY JWV DEV
+                    </p>
+                    <div className="absolute left-[69.75px] size-[6px] top-[41.13px]" data-node-id="8292:3396" data-name="Play emblem">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlayEmblem} />
+                    </div>
+                    <p className="[word-break:break-word] absolute font-['Arimo:Bold'] font-bold h-[9.75px] leading-none left-[9px] text-[#414141] text-[9.75px] top-[39.25px] tracking-[-0.3px] w-[59.25px]" data-node-id="8292:3399">
+                      STREAMING
+                    </p>
+                    <div className="absolute bg-[#499f29] border border-[#347a21] border-solid h-[34.5px] left-[1.13px] overflow-clip rounded-[6px] shadow-[0px_0.375px_0.625px_0px_rgba(28,67,22,0.17)] top-[3.38px] w-[77.625px]" data-node-id="8292:3400" data-name="Rounded panel">
+                      <div className="absolute h-[40px] left-[-31px] top-[-23.5px] w-[137.5px]" data-node-id="8292:3401" data-name="Curved highlight">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCurvedHighlight} />
+                      </div>
+                      <div className="absolute border-[#72b957] border-[0.25px] border-solid h-[32.75px] left-[-0.13px] rounded-[5.125px] top-[-0.13px] w-[75.875px]" data-node-id="8292:3402" data-name="Inner rim" />
+                      <div className="absolute h-[30px] left-[4px] top-[0.88px] w-[67.625px]" data-node-id="8292:3403" data-name="Wordmark lockup">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Arimo:Bold'] font-bold h-[30px] justify-center leading-[0] left-[33.81px] text-[29.75px] text-center text-shadow-[0px_1px_0.375px_#2e751d] text-white top-[15px] tracking-[-1px] w-[67.625px]" data-node-id="8292:3404">
+                          <p className="leading-none">JWV</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[var(--spacing\/spacing-2,4px)] h-[40px] items-center relative shrink-0" data-node-id="8292:3405" data-name="Container">
+                <div className="bg-[#f0ece3] content-stretch flex flex-col items-start p-[4px] relative rounded-[99px] shrink-0" data-node-id="8292:3406" data-name="Home Navigation">
+                  <div className="bg-[#e7e2d4] content-stretch flex h-[32px] items-center justify-center px-[var(--spacing\/spacing-5,16px)] relative rounded-[99px] shrink-0" data-node-id="8292:3407" data-name="Container">
+                    <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8292:3408" data-name="Paragraph">
+                      <p className="[word-break:break-word] capitalize font-['Urbanist:SemiBold'] font-semibold leading-[20px] relative shrink-0 text-[#1f1f1f] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8292:3409">
+                        Home
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex h-[40px] items-center px-[var(--spacing\/spacing-5,16px)] relative rounded-[99px] shrink-0" data-node-id="8292:3410" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8292:3411" data-name="Paragraph">
+                    <p className="[word-break:break-word] capitalize font-['Urbanist:Regular'] font-normal leading-[20px] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8292:3412">
+                      Live Games
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex h-[40px] items-center px-[var(--spacing\/spacing-5,16px)] relative rounded-[99px] shrink-0" data-node-id="8292:3413" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8292:3414" data-name="Paragraph">
+                    <p className="[word-break:break-word] capitalize font-['Urbanist:Regular'] font-normal leading-[20px] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8292:3415">
+                      Sports
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex h-[40px] items-center px-[var(--spacing\/spacing-5,16px)] relative rounded-[99px] shrink-0" data-node-id="8292:3416" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8292:3417" data-name="Paragraph">
+                    <p className="[word-break:break-word] capitalize font-['Urbanist:Regular'] font-normal leading-[20px] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8292:3418">
+                      Replays
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex h-[40px] items-center px-[var(--spacing\/spacing-5,16px)] relative rounded-[99px] shrink-0" data-node-id="8292:3419" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8292:3420" data-name="Paragraph">
+                    <p className="[word-break:break-word] capitalize font-['Urbanist:Regular'] font-normal leading-[20px] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8292:3421">
+                      Schedule
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[24px] items-center relative shrink-0" data-node-id="8292:3422">
+              <div className="flex flex-row items-center self-stretch" data-node-id="8292:3423">
+                <div className="bg-white border border-[rgba(221,221,221,0.72)] border-solid content-stretch flex gap-[10px] h-full items-center overflow-clip pl-[var(--spacing\/spacing-7,24px)] pr-[20px] py-[10px] relative rounded-[60px] shrink-0 w-[320px]" data-name="Text Input">
+                  <div className="relative shrink-0 size-[20px]" data-node-id="8292:3424" data-name="search-01">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSearch01} />
+                  </div>
+                  <p className="[word-break:break-word] font-['Montserrat:Regular'] font-normal leading-[normal] relative shrink-0 text-[#7f7f7f] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8292:3427">
+                    Search for anything
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8427:2197" data-name="Account Actions">
+                <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8427:2198">
+                  <div className="content-stretch flex flex-col items-end relative shrink-0" data-node-id="8427:2199" data-name="Toggle">
+                    <div className="content-stretch flex h-[28px] items-center overflow-clip p-[2.8px] relative rounded-[13998.6px] shrink-0 w-[50.4px]" data-node-id="8427:2200" style={{ backgroundImage: "linear-gradient(160.51386990107324deg, rgb(227, 227, 227) 31.156%, rgb(191, 191, 180) 80.545%)" }} data-name="_Toggle base">
+                      <div className="bg-[var(--colors\/foreground\/fg-white,white)] relative rounded-[13998.6px] shadow-[0px_1.4px_4.2px_0px_var(--colors\/effects\/shadows\/shadow-sm_01,rgba(0,0,0,0.1)),0px_1.4px_2.8px_-1.4px_var(--colors\/effects\/shadows\/shadow-sm_02,rgba(0,0,0,0.1))] shrink-0 size-[22.4px]" data-node-id="8427:2201" data-name="Button" />
+                    </div>
+                  </div>
+                  <p className="[word-break:break-word] font-['Montserrat:Regular'] font-normal leading-[normal] relative shrink-0 text-[#5b5b5b] text-[length:var(--type\/font-size\/16,16px)] whitespace-nowrap" data-node-id="8427:2202">
+                    Dark
+                  </p>
+                </div>
+                <div className="bg-[rgba(208,202,177,0.25)] content-stretch flex flex-col items-start p-[4px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8427:2203" data-name="Sign In Button">
+                  <div className="bg-gradient-to-b border-[0.5px] border-[rgba(255,255,255,0.24)] border-solid content-stretch flex from-[#1c6c9d] h-[44px] items-center justify-center overflow-clip pl-[18.5px] pr-[20.5px] py-[10.5px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0 to-[#105681] w-full" data-node-id="8427:2204" data-name="orange 32">
+                    <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[16px] text-white tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8427:2205">
+                      Sign Up / Log In
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-[rgba(61,143,58,0.1)] content-stretch flex flex-col items-start p-[4px] relative rounded-[99px] shrink-0" data-node-id="8427:2206" data-name="Subscribe Button">
+                  <div className="content-stretch flex h-[44px] items-center justify-center overflow-clip px-[24px] py-[8px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8427:2207" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 188 44' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(-3.0233e-15 4.4 -18.8 2.6942e-16 94 0)'><stop stop-color='rgba(255,255,255,0.3)' offset='0'/><stop stop-color='rgba(255,255,255,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(9, 161, 3) 0%, rgb(9, 161, 3) 100%)" }} data-name="orange 33">
+                    <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[normal] relative shrink-0 text-[16px] text-white tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8427:2208">
+                      Start Broadcasting.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] flex-col items-start min-h-px px-[24px] relative w-full" data-node-id="8292:3435">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[56px] items-center min-h-px px-[var(--spacing\/spacing-12,56px)] py-[56px] relative rounded-[var(--radius\/radius-7,20px)] w-full" data-node-id="8292:3436" data-name="05 · Auto Order - V2">
+            <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[var(--radius\/radius-7,20px)]">
+              <img alt="" className="absolute max-w-none object-cover rounded-[var(--radius\/radius-7,20px)] size-full" src={img05AutoOrderV2} />
+              <div className="absolute bg-gradient-to-b from-[rgba(9,49,75,0.12)] inset-0 rounded-[var(--radius\/radius-7,20px)] to-[67.97%] to-[rgba(17,33,44,0.6)]" />
+            </div>
+            <div className="content-stretch flex flex-col items-center relative shrink-0" data-node-id="8292:3437">
+              <div className="content-stretch flex flex-col gap-[24px] items-center relative shrink-0" data-node-id="8292:3438">
+                <p className="[word-break:break-word] font-['Gilroy-Bold:☞'] leading-[64px] not-italic relative shrink-0 text-[56px] text-center text-white w-[835px]" data-node-id="8292:3439">
+                  Watch Free on Samsung, LG TV, Fire TV, Roku and Google TV
+                </p>
+                <div className="content-stretch flex gap-[16px] items-start relative shrink-0" data-node-id="8292:3440" data-name="Match Actions">
+                  <div className="bg-[rgba(131,199,102,0.4)] content-stretch flex flex-col items-start p-[4px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8292:3441" data-name="Watch Live Button">
+                    <div className="content-stretch flex gap-[8.571px] h-[48px] items-center justify-center p-[10.286px] relative rounded-[27.429px] shrink-0 w-[155px]" data-node-id="8292:3442" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 155 48' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(-2.4926e-15 4.8 -15.5 2.9392e-16 77.5 0)'><stop stop-color='rgba(255,255,255,0.3)' offset='0'/><stop stop-color='rgba(255,255,255,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(9, 161, 3) 0%, rgb(9, 161, 3) 100%)" }} data-name="Nav">
+                      <div className="relative shrink-0 size-[18px]" data-node-id="8292:3443" data-name="play">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlay} />
+                      </div>
+                      <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[18px] text-white whitespace-nowrap" data-node-id="8292:3445">
+                        Watch Live
+                      </p>
+                    </div>
+                  </div>
+                  <div className="bg-[rgba(255,255,255,0.27)] content-stretch flex flex-col h-[56px] items-start p-[4px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8292:3446" data-name="Watch Live Button">
+                    <div className="bg-gradient-to-b border-[0.5px] border-[rgba(255,255,255,0.24)] border-solid content-stretch flex flex-[1_0_0] from-[#1c6c9d] gap-[8px] items-center justify-center min-h-px pl-[18px] pr-[20px] py-[10px] relative rounded-[var(--radius\/radius-full,9999px)] to-[#105681]" data-node-id="8292:3447" data-name="Nav">
+                      <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[18px] text-white whitespace-nowrap" data-node-id="8292:3451">
+                        Get Started
+                      </p>
+                      <div className="relative shrink-0 size-[18px]" data-node-id="8307:4321" data-name="arrow-right-02">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowRight02} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-[777.604px]" data-node-id="8292:3452" data-name="Container">
+              <div className="flex-[1_0_0] min-w-px relative" data-node-id="8292:3453" data-name="Container">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-start relative size-full">
+                  <div className="h-[299.288px] relative shrink-0 w-[372.7px]" data-node-id="8292:3454" data-name="Image">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                      <div className="absolute contents inset-[47.33%_17.76%_44.53%_-24.74%]" data-node-id="8292:3455" style={{ containerType: "size" }}>
+                        <div className="absolute flex inset-[47.33%_17.76%_44.53%_-24.74%] items-center justify-center" data-node-id="8292:3456" style={{ containerType: "size" }}>
+                          <div className="-scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                            <div className="relative size-full">
+                              <div className="absolute h-0 left-0 top-0 w-[397.717px]" data-node-id="8292:3457" data-name="Vector">
+                                <div className="absolute inset-[-5.33px_-1.34%_-5.33px_0]">
+                                  <img alt="" className="block max-w-none size-full" src={imgVector} />
+                                </div>
+                              </div>
+                              <div className="absolute h-[0.371px] left-0 top-[12px] w-[397.717px]" data-node-id="8292:3458" data-name="Vector">
+                                <div className="absolute inset-[-1437.19%_-1.34%_-1337.19%_0]">
+                                  <img alt="" className="block max-w-none size-full" src={imgVector1} />
+                                </div>
+                              </div>
+                              <div className="absolute h-[0.371px] left-0 top-[24px] w-[397.717px]" data-node-id="8292:3459" data-name="Vector">
+                                <div className="absolute inset-[-1437.19%_-1.34%_-1337.19%_0]">
+                                  <img alt="" className="block max-w-none size-full" src={imgVector2} />
+                                </div>
+                              </div>
+                              <div className="absolute h-0 left-[21px] top-[12px] w-[76.275px]" data-node-id="8292:3460" data-name="Vector">
+                                <div className="absolute inset-[-0.48px_-0.63%]">
+                                  <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="absolute flex inset-[55.35%_63.79%_44.65%_-0.05%] items-center justify-center" data-node-id="8292:3461" style={{ containerType: "size" }}>
+                          <div className="-scale-x-100 flex-none h-[0px] w-[100cqw]">
+                            <div className="relative size-full" data-name="Vector">
+                              <div className="absolute inset-[-0.48px_-0.36%]">
+                                <img alt="" className="block max-w-none size-full" src={imgVector4} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="absolute flex inset-[47.33%_55.86%_52.67%_-0.16%] items-center justify-center" data-node-id="8292:3462" style={{ containerType: "size" }}>
+                          <div className="-scale-x-100 flex-none h-[0px] w-[100cqw]">
+                            <div className="relative size-full" data-name="Vector">
+                              <div className="absolute inset-[-0.48px_-0.29%]">
+                                <img alt="" className="block max-w-none size-full" src={imgVector5} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="absolute inset-[4.09%_4.92%_70.28%_32.83%]" data-node-id="8292:3463" data-name="Vector">
+                        <div className="absolute inset-[-1.3%_-0.28%_-0.99%_0]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector6} />
+                        </div>
+                      </div>
+                      <div className="absolute inset-[8.02%_7.95%_67.92%_32.58%]" data-node-id="8292:3464" data-name="Vector">
+                        <div className="absolute inset-[-1.39%_-0.3%_-1.05%_0]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector7} />
+                        </div>
+                      </div>
+                      <div className="absolute inset-[0.31%_2.15%_72.33%_32.95%]" data-node-id="8292:3465" data-name="Vector">
+                        <div className="absolute inset-[-1.22%_-0.26%_-0.94%_0]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector8} />
+                        </div>
+                      </div>
+                      <div className="absolute inset-[70.28%_3.03%_4.09%_34.72%]" data-node-id="8292:3466" data-name="Vector">
+                        <div className="absolute inset-[-0.99%_-0.28%_-1.3%_0]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector9} />
+                        </div>
+                      </div>
+                      <div className="absolute inset-[67.92%_6.06%_8.02%_34.47%]" data-node-id="8292:3467" data-name="Vector">
+                        <div className="absolute inset-[-1.05%_-0.3%_-1.39%_0]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector10} />
+                        </div>
+                      </div>
+                      <div className="absolute inset-[72.33%_0.25%_0.31%_34.85%]" data-node-id="8292:3468" data-name="Vector">
+                        <div className="absolute inset-[-0.94%_-0.26%_-1.22%_0]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector11} />
+                        </div>
+                      </div>
+                      <div className="absolute inset-[7.86%_41.92%_92.14%_32.83%]" data-node-id="8292:3469" data-name="Vector">
+                        <div className="absolute inset-[-0.47px_-0.5%]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector12} />
+                        </div>
+                      </div>
+                      <div className="absolute inset-[95.91%_40.4%_4.09%_34.34%]" data-node-id="8292:3470" data-name="Vector">
+                        <div className="absolute inset-[-0.47px_-0.5%]">
+                          <img alt="" className="block max-w-none size-full" src={imgVector13} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute border border-[#ddffca] border-solid left-[-18.2px] rounded-[var(--radius\/radius-6,16px)] top-[-28.36px]" data-node-id="8292:3471" data-name="Container">
+                    <div aria-hidden className="absolute backdrop-blur-[10px] bg-clip-padding border-0 border-[transparent] border-solid inset-0 pointer-events-none rounded-[var(--radius\/radius-6,16px)]" style={{ backgroundImage: "linear-gradient(164.1522112635788deg, rgba(177, 177, 177, 0.02) 0%, rgba(32, 164, 93, 0.23) 70.229%)" }} />
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative size-full">
+                      <div className="relative shrink-0" data-node-id="8292:3472" data-name="Text">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[12px] items-center justify-center relative size-full">
+                          <div className="relative shrink-0" data-node-id="8292:3473" data-name="Text">
+                            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start relative size-full">
+                              <div className="relative shrink-0 size-[44px]" data-node-id="8292:3474" data-name="fi_3938037">
+                                <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                                  <div className="absolute contents inset-0" data-node-id="8292:3475" data-name="Layer 2">
+                                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLayer2} />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Inter:Medium')] font-medium leading-[normal] not-italic relative shrink-0 text-[length:var(--type\/body-4\/medium\/size,16px)] text-[rgba(255,255,255,0.8)] tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8292:3480">
+                            Youtube
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+                  </div>
+                  <div className="absolute border border-[#ddffca] border-solid left-[-16.2px] rounded-[var(--radius\/radius-6,16px)] top-[251.64px]" data-node-id="8292:3481" data-name="Container">
+                    <div aria-hidden className="absolute backdrop-blur-[10px] bg-clip-padding border-0 border-[transparent] border-solid inset-0 pointer-events-none rounded-[var(--radius\/radius-6,16px)]" style={{ backgroundImage: "linear-gradient(163.2834673112335deg, rgba(177, 177, 177, 0.02) 0%, rgba(32, 164, 93, 0.23) 70.229%)" }} />
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative size-full">
+                      <div className="relative shrink-0" data-node-id="8292:3482" data-name="Text">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[12px] items-center justify-center relative size-full">
+                          <div className="relative shrink-0 size-[44px]" data-node-id="8292:3483" data-name="fi_3670194">
+                            <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                              <div className="absolute contents inset-0" data-node-id="8292:3484" data-name="Layer 2">
+                                <div className="absolute contents inset-0" data-node-id="8292:3485" data-name="Color">
+                                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgColor} />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Inter:Medium')] font-medium leading-[normal] not-italic relative shrink-0 text-[length:var(--type\/body-4\/medium\/size,16px)] text-[rgba(255,255,255,0.8)] tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8292:3494">
+                            Drobox
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+                  </div>
+                </div>
+              </div>
+              <div className="relative shrink-0 w-[372.7px]" data-node-id="8292:3495" data-name="Container">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[10px] items-start relative size-full">
+                  <div className="h-[308.962px] relative shrink-0 w-[372.7px]" data-node-id="8292:3496" data-name="Image">
+                    <div className="absolute inset-[0_-20.37%_0_0]">
+                      <img alt="" className="block max-w-none size-full" src={imgImage} />
+                    </div>
+                  </div>
+                  <div className="absolute border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center left-[247.9px] p-[var(--spacing\/spacing-4,13px)] rounded-[var(--radius\/radius-6,16px)] top-[-24.52px]" data-node-id="8292:3514" data-name="Container">
+                    <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-6,16px)]" style={{ backgroundImage: "linear-gradient(167.1027497134811deg, rgba(177, 177, 177, 0.02) 0%, rgba(32, 164, 93, 0.23) 70.229%)" }} />
+                    <div className="relative shrink-0" data-node-id="8292:3515" data-name="Text">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[12px] items-center justify-center relative size-full">
+                        <div className="relative shrink-0 size-[44px]" data-node-id="8292:3516" data-name="fi_5968523">
+                          <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                            <div className="absolute inset-[5.29%_0]" data-node-id="8292:3517" data-name="Group">
+                              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+                            </div>
+                          </div>
+                        </div>
+                        <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Inter:Medium')] font-medium leading-[normal] not-italic relative shrink-0 text-[length:var(--type\/body-4\/medium\/size,16px)] text-[rgba(255,255,255,0.8)] tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8292:3524">
+                          Google Drive
+                        </p>
+                      </div>
+                    </div>
+                    <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+                  </div>
+                  <div className="absolute border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center left-[246.1px] px-[var(--spacing\/spacing-4,13px)] py-[var(--spacing\/spacing-5,17px)] rounded-[var(--radius\/radius-5,12px)] top-[269.22px]" data-node-id="8292:3525" data-name="Container">
+                    <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(166.37396408823562deg, rgba(177, 177, 177, 0.02) 0%, rgba(32, 164, 93, 0.23) 70.229%)" }} />
+                    <div className="relative shrink-0" data-node-id="8292:3526" data-name="Text">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center relative size-full">
+                        <div className="h-[44px] relative shrink-0 w-[92.515px]" data-node-id="8292:3527" data-name="onedrive-seeklogo 1">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgOnedriveSeeklogo1} />
+                        </div>
+                        <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Inter:Medium')] font-medium leading-[normal] not-italic relative shrink-0 text-[length:var(--type\/body-4\/medium\/size,16px)] text-[rgba(255,255,255,0.8)] tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8292:3532">
+                          OneDrive
+                        </p>
+                      </div>
+                    </div>
+                    <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#fdfdfd] h-[143px] left-[282.8px] rounded-[var(--radius\/radius-6,16px)] top-[87.48px] w-[196px]" data-node-id="8292:3533">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start py-[12px] relative size-full">
+                  <div className="content-stretch flex flex-col h-[108px] items-start justify-between relative shrink-0 w-full" data-node-id="8292:3534" data-name="Brand Logo">
+                    <div className="content-stretch flex flex-col items-start px-[22.737px] relative shrink-0" data-node-id="8292:3535" data-name="Logo Lockup">
+                      <div className="h-[108px] relative shrink-0 w-[150.632px]" data-node-id="8292:3536" data-name="JWV Streaming — Light">
+                        <div className="absolute left-[130.26px] size-[12px] top-[85px]" data-node-id="8292:3537">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup7} />
+                        </div>
+                        <div className="[word-break:break-word] absolute content-stretch flex flex-col font-['Arimo:Bold'] font-bold gap-[6px] items-center justify-center leading-none left-[16.26px] top-[82px] w-[116.526px]" data-node-id="8292:3540">
+                          <p className="h-[18.474px] relative shrink-0 text-[#414141] text-[18.474px] text-center tracking-[-0.5684px] w-full" data-node-id="8292:3541">
+                            STREAMING
+                          </p>
+                          <p className="h-[7.816px] relative shrink-0 text-[#9a9a9a] text-[5.684px] tracking-[2.6053px] w-full" data-node-id="8292:3542">
+                            POWERED BY JWV DEV
+                          </p>
+                        </div>
+                        <div className="absolute bg-[#499f29] border-[#347a21] border-[1.895px] border-solid h-[65.368px] left-[2.13px] overflow-clip rounded-[11.368px] shadow-[0px_0.711px_1.184px_0px_rgba(28,67,22,0.17)] top-[6.39px] w-[147.079px]" data-node-id="8292:3543" data-name="Rounded panel">
+                          <div className="absolute h-[75.789px] left-[-58.74px] top-[-44.53px] w-[260.526px]" data-node-id="8292:3544" data-name="Curved highlight">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCurvedHighlight1} />
+                          </div>
+                          <div className="absolute border-[#72b957] border-[0.474px] border-solid h-[62.053px] left-[-0.24px] rounded-[9.711px] top-[-0.24px] w-[143.763px]" data-node-id="8292:3545" data-name="Inner rim" />
+                          <div className="absolute h-[56.842px] left-[7.58px] top-[1.66px] w-[128.132px]" data-node-id="8292:3546" data-name="Wordmark lockup">
+                            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Arimo:Bold'] font-bold h-[56.842px] justify-center leading-[0] left-[64.07px] text-[56.368px] text-center text-shadow-[0px_1.895px_0.711px_#2e751d] text-white top-[28.42px] tracking-[-1.8947px] w-[128.132px]" data-node-id="8292:3547">
+                              <p className="leading-none">JWV</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[10.286px] items-center relative shrink-0" data-node-id="8292:3548">
+              <div className="h-[48px] relative shrink-0 w-[143.597px]" data-node-id="8292:3549">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup41} />
+              </div>
+              <div className="h-[48px] relative shrink-0 w-[143.597px]" data-node-id="8292:3553">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup44} />
+              </div>
+            </div>
+            <div className="absolute border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center left-[1150px] p-[var(--spacing\/spacing-4,13px)] rounded-[var(--radius\/radius-6,16px)] top-[543px]" data-node-id="8292:3576" data-name="Container">
+              <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-6,16px)]" style={{ backgroundImage: "linear-gradient(164.81404486101422deg, rgba(177, 177, 177, 0.02) 0%, rgba(32, 164, 93, 0.23) 70.229%)" }} />
+              <div className="relative shrink-0" data-node-id="8292:3577" data-name="Text">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[12px] items-center justify-center relative size-full">
+                  <div className="h-[44px] relative shrink-0 w-[67.692px]" data-node-id="8292:3578" data-name="apple-icloud-seeklogo 1">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgAppleIcloudSeeklogo1} />
+                  </div>
+                  <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Inter:Medium')] font-medium leading-[normal] not-italic relative shrink-0 text-[length:var(--type\/body-4\/medium\/size,16px)] text-[rgba(255,255,255,0.8)] tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8292:3580">
+                    Icloud
+                  </p>
+                </div>
+              </div>
+              <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-7: #9A9A9A, Neutral/neutral-10: #414141, Neutral/neutral-1: #FFFFFF, Neutral/neutral-13: #1F1F1F, Neutral/neutral-9: #5B5B5B, Body 4/Medium: Font(family: "Type/Font Family/family-body", style: Medium, size: Type/Body 4/Medium/size, weight: 500, lineHeight: 100, letterSpacing: Type/Body 4/Medium/letter-spacing), Neutral/neutral-2: #FDFDFD.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

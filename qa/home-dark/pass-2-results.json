@@ -1,0 +1,181 @@
+{
+  "slug": "home-dark",
+  "node": "8307:8678",
+  "pass": 2,
+  "checkedAt": "2026-11-11T08:04:33.929Z",
+  "responsive": [
+    {
+      "native": true,
+      "width": 1512,
+      "documentWidth": 1512,
+      "height": 4159,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 4159,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1024,
+      "documentWidth": 1024,
+      "height": 4725,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 768,
+      "documentWidth": 768,
+      "height": 5235,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 390,
+      "documentWidth": 390,
+      "height": 5889,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    }
+  ],
+  "interactions": {
+    "mobileMenuOpen": true,
+    "mobileMenuEscape": true,
+    "skipLinkFocused": true,
+    "skipLinkTarget": true,
+    "categoryCarousel": true,
+    "homeEmptySearch": true,
+    "homeEmptyMessage": true,
+    "localLinksResolve": true,
+    "themeNavigation": true
+  },
+  "linkChecks": [
+    {
+      "url": "http://127.0.0.1:8765/home-dark/index.html#main",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-dark/index.html#live-streams",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-dark/index.html#sports",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-dark/index.html#replays",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-light/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/login-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/register-broadcaster-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/register-user-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-dark/index.html#devices",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-dark/index.html#trending",
+      "status": 200
+    }
+  ],
+  "unavailableControls": [
+    {
+      "label": "Schedule",
+      "reason": "A schedule screen is not supplied in Design Ready.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Download on the App Store unavailable",
+      "reason": "Download on the App Store link is not supplied in the Figma prototype. No external destination has been guessed.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Get it on Google Play unavailable",
+      "reason": "Get it on Google Play link is not supplied in the Figma prototype. No external destination has been guessed.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Find a channel",
+      "reason": "Channel browsing has no supplied destination design.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Pick a game",
+      "reason": "Game details and playback destinations are not supplied.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Browse HOCKEY unavailable",
+      "reason": "Sport channel browsing is not supplied in Design Ready.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Browse Hockey unavailable",
+      "reason": "Sport channel browsing is not supplied in Design Ready.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Download on the App Store unavailable",
+      "reason": "Download on the App Store link is not supplied in the Figma prototype. No external destination has been guessed.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Get it on Google Play unavailable",
+      "reason": "Get it on Google Play link is not supplied in the Figma prototype. No external destination has been guessed.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "About Us",
+      "reason": "About Us has no supplied page design.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Privacy Policy",
+      "reason": "Privacy Policy has no supplied page design.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Terms of Service",
+      "reason": "Terms of Service has no supplied page design.",
+      "ariaDisabled": "true"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "httpErrors": [],
+  "passed": true
+}

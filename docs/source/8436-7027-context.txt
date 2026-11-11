@@ -1,0 +1,809 @@
+const imgImageHockeyGame = "https://www.figma.com/api/mcp/asset/e5b6ab99-568d-47b8-9a47-6632d2fb481e.png";
+const imgImageVolleyballGame = "https://www.figma.com/api/mcp/asset/10c49a64-970f-4026-a197-f69cf2c677f7.png";
+const imgIcon = "https://www.figma.com/api/mcp/asset/2ffaad90-cebb-44f3-bc76-f8ea7daf6e44.svg";
+const imgIcon1 = "https://www.figma.com/api/mcp/asset/3b26f56b-a967-4a81-b232-feac7c9ec1a6.svg";
+const imgIcon2 = "https://www.figma.com/api/mcp/asset/db27e901-95d2-4ba3-a716-a443c7799da8.svg";
+const imgIcon3 = "https://www.figma.com/api/mcp/asset/87e0272a-5e98-4d0c-8674-f1ba2531c46a.svg";
+const imgIcon4 = "https://www.figma.com/api/mcp/asset/072afc39-32b0-49cc-b570-aef9493b1dc8.svg";
+const imgIcon5 = "https://www.figma.com/api/mcp/asset/0bf0346c-f2e6-48fe-9d5e-03adf2429cd6.svg";
+const imgIcon6 = "https://www.figma.com/api/mcp/asset/fca57274-d98c-4e50-a808-3c305a2b9374.svg";
+const imgIcon7 = "https://www.figma.com/api/mcp/asset/15c2c1f9-6b85-4103-8922-a2b3f6ba921a.svg";
+const imgIcon8 = "https://www.figma.com/api/mcp/asset/471a1a3e-3017-49ae-aeb1-7491b140819a.svg";
+const imgIcon9 = "https://www.figma.com/api/mcp/asset/2dab912e-d934-40fa-8a20-c7dbb720715c.svg";
+const imgIcon10 = "https://www.figma.com/api/mcp/asset/9e54ee20-1b7c-41bb-8cf5-9b8c4c11bf80.svg";
+const imgIcon11 = "https://www.figma.com/api/mcp/asset/affc4d64-d35d-4b92-95ac-aef099bc7d56.svg";
+const imgIcon12 = "https://www.figma.com/api/mcp/asset/bd472cd9-5c2d-4634-9661-13a218d95e7f.svg";
+const imgIcon13 = "https://www.figma.com/api/mcp/asset/93b8b009-7e27-4386-869c-b607206d064b.svg";
+const imgIcon14 = "https://www.figma.com/api/mcp/asset/20756c70-3f2e-46cf-a787-5008ab263203.svg";
+const imgIcon15 = "https://www.figma.com/api/mcp/asset/02c76135-dbb4-4715-927e-b1eff4956c23.svg";
+const imgVector = "https://www.figma.com/api/mcp/asset/5d60f7b4-16b6-4095-9e23-1ed3a80ef94f.svg";
+const imgVector1 = "https://www.figma.com/api/mcp/asset/fa24e100-2541-481c-b253-fd3f8bed53ac.svg";
+const imgVector2 = "https://www.figma.com/api/mcp/asset/ac54daee-eab9-4a4a-8489-622290da7127.svg";
+const imgVector3 = "https://www.figma.com/api/mcp/asset/b75c4800-6c36-4926-99f0-2db7fcd86175.svg";
+const imgIcon16 = "https://www.figma.com/api/mcp/asset/8d94211d-c4ea-410a-83af-2ea9b3d7258f.svg";
+
+export default function JwvStreamingClubDashboardRedesign() {
+  return (
+    <div className="bg-[#f5f8f7] content-stretch flex flex-col items-start relative size-full" data-node-id="8436:7027" data-name="JWV Streaming | Club Dashboard Redesign">
+      <div className="content-stretch flex items-start relative shrink-0 w-full" data-node-id="8436:7028" data-name="Body">
+        <div className="bg-white border-[#e5ece8] border-r-[0.8px] border-solid content-stretch flex flex-col h-[745.6px] items-start pb-[var(--spacing\/spacing-7,24px)] pt-[29px] px-[19px] relative shrink-0 w-[251px]" data-node-id="8436:7030" data-name="Sidebar">
+          <div className="content-stretch flex gap-[9px] items-center pb-[41px] pt-[var(--spacing\/spacing-1,2px)] px-[6px] relative shrink-0 w-full" data-node-id="8436:7031" data-name="Container">
+            <div className="content-stretch drop-shadow-[0px_3px_0px_#0f7426] flex items-center justify-center pb-[5px] pt-[7px] px-[var(--spacing\/spacing-3,8px)] relative rounded-[7px] shrink-0" data-node-id="8436:7032" style={{ backgroundImage: "linear-gradient(149.5854461914559deg, rgb(104, 216, 68) 2.3594%, rgb(37, 142, 34) 97.641%)" }} data-name="Container">
+              <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[25px] not-italic relative shrink-0 text-[25px] text-white tracking-[-1.4px] whitespace-nowrap" data-node-id="8436:7033">
+                JWV
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0 w-[109.138px]" data-node-id="8436:7035" data-name="Container">
+              <div className="h-[16px] relative shrink-0 w-full" data-node-id="8436:7036" data-name="Container">
+                <p className="[word-break:break-word] absolute font-['Segoe_UI:Black'] leading-[normal] left-0 not-italic text-[#172222] text-[length:var(--type\/font-size\/12,12px)] top-0 tracking-[0.3px] whitespace-nowrap" data-node-id="8436:7037">
+                  STREAMING
+                </p>
+                <div className="absolute border-[#129a39] border-[1.6px] border-solid left-[77.5px] rounded-[3.5px] size-[7px] top-[5.8px]" data-node-id="8436:7039" data-name="Text" />
+              </div>
+              <div className="content-stretch flex flex-col h-[14px] items-start pt-[3px] relative shrink-0 w-[109.138px]" data-node-id="8436:7040" data-name="Container">
+                <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[8px] tracking-[1.2px] whitespace-nowrap" data-node-id="8436:7041">
+                  POWERED BY JWV DEV
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col h-[26px] items-start pb-[13px] px-[15px] relative shrink-0 w-[212.2px]" data-node-id="8436:7044" data-name="Container">
+            <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[1.15px] whitespace-nowrap" data-node-id="8436:7045">
+              WORKSPACE
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[5px] items-start relative shrink-0 w-full" data-node-id="8436:7047" data-name="Navigation">
+            <div className="bg-[#e4f8e7] content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0 w-full" data-node-id="8436:7048" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7050" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#076a26] text-[13px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7055">
+                Dashboard
+              </p>
+              <div className="absolute bg-[#31bb41] h-[20px] left-0 rounded-br-[var(--radius\/radius-2,4px)] rounded-tr-[var(--radius\/radius-2,4px)] top-[11.5px] w-[3px]" data-node-id="8436:7049" data-name="Text" />
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0 w-full" data-node-id="8436:7057" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7058" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon1} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[13px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7061">
+                Teams List
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0 w-full" data-node-id="8436:7063" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7064" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon2} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[13px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7067">{`Broadcasters & Wallet`}</p>
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0 w-full" data-node-id="8436:7068" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7069" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon3} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[13px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7072">
+                Broadcaster Request
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0 w-full" data-node-id="8436:7073" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7074" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon4} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[13px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7077">
+                Rejected Broadcasters
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col h-[50px] items-start pb-[var(--spacing\/spacing-4,12px)] pl-[13px] pt-[25px] relative shrink-0 w-[212.2px]" data-node-id="8436:7078" data-name="Container">
+              <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[1.2px] whitespace-nowrap" data-node-id="8436:7079">
+                STREAMING TOOLS
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0" data-node-id="8436:7081" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7082" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon5} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[13px] tracking-[-0.21px] w-[157px]" data-node-id="8436:7085">
+                Authorize YouTube Channel
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0 w-full" data-node-id="8436:7086" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7087" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon6} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[13px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7089">
+                Storage Services
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center min-h-[43px] px-[13px] py-[var(--spacing\/spacing-4,12px)] relative rounded-[10px] shrink-0 w-full" data-node-id="8436:7090" data-name="Link">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8436:7091" data-name="Icon">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon7} />
+              </div>
+              <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[13px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7094">
+                Transaction History
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col items-start justify-end min-h-px relative w-full" data-node-id="8436:7114" data-name="Container:align">
+            <div className="border-[#e5ece8] border-solid border-t-[0.8px] content-stretch flex flex-col items-start pt-[17px] relative shrink-0 w-full" data-node-id="8436:7096" data-name="Container">
+              <div className="bg-[#f7faf9] border-[#e5ece8] border-[0.8px] border-solid content-stretch flex gap-[10px] items-start px-[13px] py-[15px] relative rounded-[var(--radius\/radius-5,12px)] shrink-0 w-full" data-node-id="8436:7097" data-name="Container">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7098" data-name="Text">
+                  <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/16,16px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7099">
+                    ✳
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-[160.588px]" data-node-id="8436:7101" data-name="Container">
+                  <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[length:var(--type\/font-size\/12,12px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7102">
+                    Ready to go live?
+                  </p>
+                  <div className="content-stretch flex flex-col items-start pt-[5px] relative shrink-0 w-[160.588px]" data-node-id="8436:7104" data-name="Paragraph">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[15.95px] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] w-[161px]" data-node-id="8436:7105">{`Stream your team's next big moment with JWV.`}</p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col h-[29px] items-center pt-[var(--spacing\/spacing-5,16px)] relative shrink-0 w-[212.2px]" data-node-id="8436:7109" data-name="Container">
+                <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] text-center tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7110">
+                  JWV Streaming © 2026
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1209_0_0] flex-col items-start max-w-[1600px] min-w-px pb-[35px] px-[34px] relative" data-node-id="8436:7115" data-name="Main Content">
+          <div className="content-stretch flex h-[81px] items-center justify-between relative shrink-0 w-full" data-node-id="8436:7116" data-name="Header">
+            <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="8436:7117" data-name="Container">
+              <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/12,12px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7118">
+                Workspace
+              </p>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7120" data-name="Text">
+                <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#b9c9c2] text-[length:var(--type\/font-size\/12,12px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7121">
+                  /
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7122" data-name="Bold Text">
+                <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[length:var(--type\/font-size\/12,12px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7123">
+                  Club Dashboard
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center relative shrink-0" data-node-id="8436:7125" data-name="Container">
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid content-stretch flex gap-[10px] h-[40px] items-center px-[13px] relative rounded-[9px] shrink-0 w-[228px]" data-node-id="8436:7126" data-name="Container">
+                <div className="relative shrink-0 size-[15px]" data-node-id="8436:7127" data-name="Icon">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon8} />
+                </div>
+                <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/12,12px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7130">
+                  Search anything...
+                </p>
+              </div>
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid content-stretch flex gap-[7px] items-center pl-[11px] pr-[9px] py-[6px] relative rounded-[30px] shrink-0" data-node-id="8436:7131" data-name="Button - Toggle light and dark theme">
+                <div className="relative shrink-0 size-[15px]" data-node-id="8436:7132" data-name="Icon">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon9} />
+                </div>
+                <div className="content-stretch flex flex-col items-center relative shrink-0" data-node-id="8436:7135" data-name="Text">
+                  <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] text-center whitespace-nowrap" data-node-id="8436:7136">
+                    Light
+                  </p>
+                </div>
+                <div className="bg-[#dae7dd] content-stretch flex h-[18px] items-center p-[var(--spacing\/spacing-1,2px)] relative rounded-[15px] shrink-0 w-[31px]" data-node-id="8436:7138" data-name="Text">
+                  <div className="bg-[#39b843] relative rounded-[7px] shrink-0 size-[14px]" data-node-id="8436:7139" data-name="Text" />
+                </div>
+              </div>
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid grid grid-cols-[_26.40px] grid-rows-[_36.40px] px-[6px] py-px relative rounded-[10px] shrink-0 size-[40px]" data-node-id="8436:7140" data-name="Button - Notifications">
+                <div className="col-1 justify-self-center relative row-1 self-center shrink-0 size-[17px]" data-node-id="8436:7141" data-name="Icon">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon10} />
+                </div>
+                <div className="absolute bg-[#e45045] border-[1.6px] border-solid border-white left-[19.2px] rounded-[4.6px] size-[9.2px] top-[9px]" data-node-id="8436:7143" data-name="Text" />
+              </div>
+              <div className="bg-[#e1f2dd] border-[#cde4ca] border-[0.8px] border-solid grid grid-cols-[_37.40px] grid-rows-[_37.40px] relative rounded-[10px] shrink-0 size-[39px]" data-node-id="8436:7144" data-name="Container">
+                <p className="[word-break:break-word] col-1 font-['Segoe_UI:Black'] justify-self-center leading-[normal] not-italic relative row-1 self-center shrink-0 text-[#27732e] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7145">
+                  CA
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="h-[214px] min-h-[197px] overflow-clip relative rounded-[18px] shadow-[0px_12px_26px_0px_rgba(11,63,28,0.09)] shrink-0 w-full" data-node-id="8436:7147" style={{ backgroundImage: "linear-gradient(156.34154827375818deg, rgb(18, 37, 28) 8.5749%, rgb(18, 57, 37) 56.628%, rgb(18, 64, 43) 91.425%)" }} data-name="Section">
+            <div className="absolute bg-[rgba(255,255,255,0)] border-[0.8px] border-[rgba(145,243,136,0.15)] border-solid left-[545.4px] rounded-[245.8px] shadow-[0px_0px_0px_55px_rgba(145,243,136,0.02),0px_0px_0px_115px_rgba(145,243,136,0.02)] size-[491.6px] top-[-300px]" data-node-id="8436:7148" data-name="Text" />
+            <div className="absolute content-stretch flex flex-col items-start left-[34px] max-w-[580px] top-[27px] w-[510px]" data-node-id="8436:7149" data-name="Container">
+              <div className="content-stretch flex gap-[var(--spacing\/spacing-3,8px)] items-center relative shrink-0 w-full" data-node-id="8436:7150" data-name="Container">
+                <div className="bg-[#55d748] relative rounded-[3.5px] shadow-[0px_0px_0px_4px_rgba(85,215,72,0.12)] shrink-0 size-[7px]" data-node-id="8436:7151" data-name="Italic Text" />
+                <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#9be48e] text-[length:var(--type\/font-size\/10,10px)] tracking-[1.7px] uppercase whitespace-nowrap" data-node-id="8436:7152">
+                  YOUR JWV CLUB HUB
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col h-[47px] items-start pt-[14px] relative shrink-0 w-[510px]" data-node-id="8436:7154" data-name="Heading 1">
+                <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[32.2px] not-italic relative shrink-0 text-[length:var(--type\/font-size\/28,28px)] text-white tracking-[-1.26px] whitespace-nowrap" data-node-id="8436:7155">{`Welcome back! Let's get streaming.`}</p>
+              </div>
+              <div className="content-stretch flex flex-col items-start max-w-[510px] pt-[9px] relative shrink-0 w-[510px]" data-node-id="8436:7157" data-name="Paragraph">
+                <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[20px] not-italic relative shrink-0 text-[#b9d0c0] text-[12.5px] tracking-[-0.21px] w-[510px]" data-node-id="8436:7158">
+                  Everything your club needs to manage broadcasts, follow live games, and keep every great moment on record.
+                </p>
+              </div>
+              <div className="content-stretch flex gap-[9px] h-[54px] items-start pt-[18px] relative shrink-0 w-[510px]" data-node-id="8436:7160" data-name="Container">
+                <div className="bg-[#55cb44] content-stretch drop-shadow-[0px_5px_10px_rgba(48,226,73,0.12)] flex gap-[9px] h-full items-center px-[13px] py-[10px] relative rounded-[var(--radius\/radius-4,8px)] shrink-0" data-node-id="8436:7161" data-name="Button">
+                  <div className="relative shrink-0 size-[14px]" data-node-id="8436:7162" data-name="Icon">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon11} />
+                  </div>
+                  <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#103115] text-[11px] text-center whitespace-nowrap" data-node-id="8436:7164">
+                    Start broadcasting
+                  </p>
+                </div>
+                <div className="bg-[rgba(255,255,255,0.1)] border-[0.8px] border-[rgba(255,255,255,0.18)] border-solid content-stretch flex gap-[9px] h-full items-center px-[13px] py-[10px] relative rounded-[var(--radius\/radius-4,8px)] shrink-0" data-node-id="8436:7165" data-name="Button">
+                  <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[11px] text-center text-white whitespace-nowrap" data-node-id="8436:7166">
+                    View live streams
+                  </p>
+                  <div className="content-stretch flex flex-col items-center relative shrink-0" data-node-id="8436:7167" data-name="Text">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[11px] text-center text-white whitespace-nowrap" data-node-id="8436:7168">
+                      ↗
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex h-[45px] items-center justify-between pt-[25px] px-px relative shrink-0 w-[1209px]" data-node-id="8436:7190" data-name="Container">
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7191" data-name="Heading 2">
+              <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[15px] tracking-[-0.405px] whitespace-nowrap" data-node-id="8436:7192">
+                Club overview
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7194" data-name="Text">
+              <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7195">{`Here's what's happening with your club`}</p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start pt-[13px] relative shrink-0 w-full" data-node-id="8436:7466" data-name="Section:margin">
+            <div className="gap-x-[14px] gap-y-[14px] grid grid-cols-[____291.75px_291.75px_291.75px_291.75px] grid-rows-[_117px] relative shrink-0 w-full" data-node-id="8436:7197" data-name="Section">
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid col-1 content-stretch drop-shadow-[0px_10px_16px_rgba(20,46,34,0.04)] flex gap-[14px] items-start justify-self-stretch min-h-[117px] pb-[17px] pt-[18px] px-[18px] relative rounded-[13px] row-1 self-stretch shrink-0" data-node-id="8436:7198" data-name="Article">
+                <div className="bg-[#e4f8e7] grid grid-cols-[_40px] grid-rows-[_40px] relative rounded-[11px] shrink-0 size-[40px]" data-node-id="8436:7199" data-name="Container">
+                  <div className="col-1 justify-self-center relative row-1 self-center shrink-0 size-[20px]" data-node-id="8436:7200" data-name="Icon">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon12} />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-[94.325px]" data-node-id="8436:7203" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7204" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7205">
+                      Broadcasters
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[34px] items-start pt-[9px] relative shrink-0 w-[94.325px]" data-node-id="8436:7207" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[25px] not-italic relative shrink-0 text-[#172222] text-[25px] tracking-[-0.875px] whitespace-nowrap" data-node-id="8436:7208">
+                      1
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[23px] items-start pt-[9px] relative shrink-0 w-[94.325px]" data-node-id="8436:7210" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[0] not-italic relative shrink-0 text-[#1da448] text-[0px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7211">
+                      <span className="leading-[14px] text-[10px]">↗ 2.4%</span>
+                      <span className="font-['Segoe_UI:Regular'] leading-[14px] text-[#789087] text-[10px]">{` vs last 30 days`}</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid col-2 content-stretch drop-shadow-[0px_10px_16px_rgba(20,46,34,0.04)] flex gap-[14px] items-start justify-self-stretch min-h-[117px] pb-[17px] pt-[18px] px-[18px] relative rounded-[13px] row-1 self-stretch shrink-0" data-node-id="8436:7215" data-name="Article">
+                <div className="bg-[#e4f8e7] grid grid-cols-[_40px] grid-rows-[_40px] relative rounded-[11px] shrink-0 size-[40px]" data-node-id="8436:7216" data-name="Container">
+                  <div className="col-1 justify-self-center relative row-1 self-center shrink-0 size-[20px]" data-node-id="8436:7217" data-name="Icon">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon13} />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-[90.475px]" data-node-id="8436:7220" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7221" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7222">
+                      Broadcast requests
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[34px] items-start pt-[9px] relative shrink-0 w-[90.475px]" data-node-id="8436:7223" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[25px] not-italic relative shrink-0 text-[#172222] text-[25px] tracking-[-0.875px] whitespace-nowrap" data-node-id="8436:7224">
+                      0
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[23px] items-start pt-[9px] relative shrink-0 w-[90.475px]" data-node-id="8436:7225" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[14px] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7226">
+                      No new requests
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid col-3 content-stretch drop-shadow-[0px_10px_16px_rgba(20,46,34,0.04)] flex gap-[14px] items-start justify-self-stretch min-h-[117px] pb-[17px] pt-[18px] px-[18px] relative rounded-[13px] row-1 self-stretch shrink-0" data-node-id="8436:7229" data-name="Article">
+                <div className="bg-[#e4f8e7] grid grid-cols-[_40px] grid-rows-[_40px] relative rounded-[11px] shrink-0 size-[40px]" data-node-id="8436:7230" data-name="Container">
+                  <div className="col-1 justify-self-center relative row-1 self-center shrink-0 size-[20px]" data-node-id="8436:7231" data-name="Icon">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon14} />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-[88.625px]" data-node-id="8436:7234" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7235" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7236">
+                      Pending approvals
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[34px] items-start pt-[9px] relative shrink-0 w-[88.625px]" data-node-id="8436:7237" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[25px] not-italic relative shrink-0 text-[#172222] text-[25px] tracking-[-0.875px] whitespace-nowrap" data-node-id="8436:7238">
+                      0
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[23px] items-start pt-[9px] relative shrink-0 w-[88.625px]" data-node-id="8436:7239" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[14px] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7240">
+                      All caught up
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[0.8px] border-[rgba(53,175,79,0.24)] border-solid col-4 content-stretch drop-shadow-[0px_10px_16px_rgba(20,46,34,0.04)] flex gap-[14px] items-start justify-self-stretch min-h-[117px] pb-[17px] pt-[18px] px-[18px] relative rounded-[13px] row-1 self-stretch shrink-0" data-node-id="8436:7243" style={{ backgroundImage: "linear-gradient(145.21610340639424deg, rgb(255, 255, 255) 33.094%, rgb(228, 248, 231) 92.265%)" }} data-name="Article">
+                <div className="bg-[#e4f8e7] grid grid-cols-[_40px] grid-rows-[_40px] relative rounded-[11px] shrink-0 size-[40px]" data-node-id="8436:7244" data-name="Container">
+                  <div className="col-1 justify-self-center relative row-1 self-center shrink-0 size-[20px]" data-node-id="8436:7245" data-name="Icon">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon15} />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-[94.325px]" data-node-id="8436:7248" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7249" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7250">
+                      Total streams
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[34px] items-start pt-[9px] relative shrink-0 w-[94.325px]" data-node-id="8436:7251" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[25px] not-italic relative shrink-0 text-[#172222] text-[25px] tracking-[-0.875px] whitespace-nowrap" data-node-id="8436:7252">
+                      12
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col h-[23px] items-start pt-[9px] relative shrink-0 w-[94.325px]" data-node-id="8436:7253" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[0] not-italic relative shrink-0 text-[#1da448] text-[0px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7254">
+                      <span className="leading-[14px] text-[10px]">↗ 2.4%</span>
+                      <span className="font-['Segoe_UI:Regular'] leading-[14px] text-[#789087] text-[10px]">{` vs last 30 days`}</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start pt-[18px] relative shrink-0 w-full" data-node-id="8436:7467" data-name="Section:margin">
+            <div className="gap-x-[17px] gap-y-[17px] grid grid-cols-[__733.54px_458.46px] grid-rows-[_342.50px] relative shrink-0 w-full" data-node-id="8436:7257" data-name="Section">
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid col-1 content-stretch drop-shadow-[0px_10px_16px_rgba(20,46,34,0.04)] flex flex-col items-start justify-self-stretch pb-[var(--spacing\/spacing-6,20px)] pt-[21px] px-[21px] relative rounded-[14px] row-1 self-stretch shrink-0" data-node-id="8436:7258" data-name="Article">
+                <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-node-id="8436:7259" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-[201.637px]" data-node-id="8436:7260" data-name="Container">
+                    <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7261" data-name="Heading 3">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[length:var(--type\/font-size\/16,16px)] tracking-[-0.48px] whitespace-nowrap" data-node-id="8436:7262">
+                        Streaming activity
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col h-[22px] items-start pt-[5px] relative shrink-0 w-[201.637px]" data-node-id="8436:7264" data-name="Container">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[16.5px] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7265">
+                        Live and completed streams from your club
+                      </p>
+                    </div>
+                  </div>
+                  <div className="bg-[#f7faf9] border-[#e5ece8] border-[0.8px] border-solid content-stretch flex flex-col items-center justify-center px-[10px] py-[9px] relative rounded-[var(--radius\/radius-4,8px)] shrink-0" data-node-id="8436:7268" data-name="Button">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] text-center whitespace-nowrap" data-node-id="8436:7269">
+                      Last 30 days⌄
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start pt-[23px] relative shrink-0 w-full" data-node-id="8436:7307" data-name="Container:margin">
+                  <div className="h-[33px] relative shrink-0 w-full" data-node-id="8436:7271" data-name="Container">
+                    <p className="[word-break:break-word] absolute font-['Segoe_UI:Bold'] leading-[normal] left-0 not-italic text-[#172222] text-[length:var(--type\/font-size\/24,24px)] top-0 tracking-[-0.96px] whitespace-nowrap" data-node-id="8436:7273">
+                      12
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Segoe_UI:Regular'] leading-[normal] left-[33.7px] not-italic text-[#789087] text-[11px] top-[13.6px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7276">
+                      Total streams
+                    </p>
+                    <div className="absolute bg-[#e4f8e7] content-stretch flex flex-col items-start left-[102.82px] px-[7px] py-[5px] rounded-[30px] top-[10.2px]" data-node-id="8436:7277" data-name="Text">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7278">
+                        ↗ 2.4%
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start pt-[9px] relative shrink-0 w-full" data-node-id="8436:7308" data-name="Container:margin">
+                  <div className="h-[178px] relative shrink-0 w-full" data-node-id="8436:7280" data-name="Icon">
+                    <div className="absolute inset-[10.53%_1.09%_11.05%_5.78%]" data-node-id="8436:7282" data-name="Vector">
+                      <div className="absolute inset-[-0.36%_0]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector} />
+                      </div>
+                    </div>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[6.84%_96.24%_84.73%_1.88%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7283">
+                      12
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[26.84%_96.18%_64.73%_2.66%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7284">
+                      9
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[46.84%_96.18%_44.73%_2.66%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7285">
+                      6
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[66.84%_96.18%_24.73%_2.66%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7286">
+                      3
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[85.26%_96.18%_6.31%_2.66%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7287">
+                      0
+                    </p>
+                    <div className="absolute inset-[17.43%_1.09%_11.05%_5.78%]" data-node-id="8436:7288" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                    </div>
+                    <div className="absolute inset-[17.43%_1.09%_16.32%_5.78%]" data-node-id="8436:7289" data-name="Vector">
+                      <div className="absolute inset-[-1.45%_-0.27%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector2} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[63.16%_82.5%_32.63%_16.25%]" data-node-id="8436:7290" data-name="Vector">
+                      <div className="absolute inset-[-20.11%_-17.48%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[31.05%_60.78%_64.74%_37.97%]" data-node-id="8436:7291" data-name="Vector">
+                      <div className="absolute inset-[-20.11%_-17.48%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[81.58%_49.69%_14.21%_49.06%]" data-node-id="8436:7292" data-name="Vector">
+                      <div className="absolute inset-[-20.11%_-17.48%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[60.53%_39.06%_35.26%_59.69%]" data-node-id="8436:7293" data-name="Vector">
+                      <div className="absolute inset-[-20.11%_-17.48%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[15.79%_19.22%_80%_79.53%]" data-node-id="8436:7294" data-name="Vector">
+                      <div className="absolute inset-[-20.11%_-17.48%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[40%_8.44%_55.79%_90.31%]" data-node-id="8436:7295" data-name="Vector">
+                      <div className="absolute inset-[-20.11%_-17.48%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                      </div>
+                    </div>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[92.11%_84.68%_-0.53%_9.38%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7296">
+                      Week 1
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[92.11%_60.33%_-0.53%_33.44%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7297">
+                      Week 2
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[92.11%_36.27%_-0.53%_57.5%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7298">
+                      Week 3
+                    </p>
+                    <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal inset-[92.11%_11.27%_-0.53%_82.5%] leading-[normal] not-italic text-[#789087] text-[12.06px] whitespace-nowrap" data-node-id="8436:7299">
+                      Week 4
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-center pt-px relative shrink-0 w-full" data-node-id="8436:7309" data-name="Container:margin">
+                  <div className="content-stretch flex gap-[19px] items-center justify-center relative shrink-0 w-full" data-node-id="8436:7300" data-name="Container">
+                    <div className="h-[12.8px] relative shrink-0 w-[46.563px]" data-node-id="8436:7301" data-name="Text">
+                      <div className="absolute bg-[#159c42] left-0 rounded-[3.5px] size-[7px] top-[3.4px]" data-node-id="8436:7302" data-name="Text" />
+                      <p className="[word-break:break-word] absolute font-['Segoe_UI:Regular'] leading-[normal] left-[13px] not-italic text-[#789087] text-[length:var(--type\/font-size\/10,10px)] top-0 tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7303">
+                        Streams
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7305" data-name="Text">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7306">
+                        Updated today
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid col-2 content-stretch drop-shadow-[0px_10px_16px_rgba(20,46,34,0.04)] flex flex-col items-start justify-self-stretch pb-[15px] pt-[21px] px-[21px] relative rounded-[14px] row-1 self-stretch shrink-0" data-node-id="8436:7310" data-name="Article">
+                <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-node-id="8436:7311" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-[139.713px]" data-node-id="8436:7312" data-name="Container">
+                    <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7313" data-name="Heading 3">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[0] not-italic relative shrink-0 text-[#172222] text-[0px] tracking-[-0.48px] whitespace-nowrap" data-node-id="8436:7314">
+                        <span className="leading-[normal] text-[16px]">{`Live right now `}</span>
+                        <span className="leading-[normal] text-[#e3454e] text-[10px]">● 2</span>
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col h-[22px] items-start pt-[5px] relative shrink-0 w-[139.713px]" data-node-id="8436:7315" data-name="Container">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[16.5px] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7316">
+                        Catch the action as it happens
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7318" data-name="Link">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#129a39] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7319">
+                      View all ↗
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-4,12px)] h-[248.2px] items-start pt-[17px] relative shrink-0 w-full" data-node-id="8436:7320" data-name="Container">
+                  <div className="bg-[#f7faf9] border-[#e5ece8] border-[0.8px] border-solid content-stretch flex gap-[13px] items-center p-[9px] relative rounded-[11px] shrink-0 w-[414.863px]" data-node-id="8436:7321" data-name="Container">
+                    <div className="h-[82px] relative rounded-[var(--radius\/radius-4,8px)] shrink-0 w-[118px]" data-node-id="8436:7322" data-name="Image (Hockey game)">
+                      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[var(--radius\/radius-4,8px)] size-full" src={imgImageHockeyGame} />
+                    </div>
+                    <div className="content-stretch flex flex-[237.563_0_0] flex-col items-start min-w-px relative" data-node-id="8436:7323" data-name="Container">
+                      <div className="h-[31px] relative shrink-0 w-full" data-node-id="8436:7340" data-name="Container">
+                        <div className="absolute bg-[#feebed] content-stretch flex items-start left-0 px-[6px] py-[3px] rounded-[var(--radius\/radius-2,4px)] top-[5px]" data-node-id="8436:7324" data-name="Text">
+                          <div className="content-stretch flex flex-col h-[12px] items-start pr-[var(--spacing\/spacing-2,4px)] relative shrink-0 w-[8.025px]" data-node-id="8436:7325" data-name="Text">
+                            <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#e54c56] text-[7px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7326">
+                              ●
+                            </p>
+                          </div>
+                          <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#e54c56] text-[9px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7328">
+                            LIVE
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7331" data-name="Heading 4">
+                        <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[15px] not-italic relative shrink-0 text-[#172222] text-[length:var(--type\/font-size\/12,12px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7332">
+                          EAGLES VS PHOENIX
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[19px] items-start pt-[6px] relative shrink-0 w-[230.263px]" data-node-id="8436:7334" data-name="Paragraph">
+                        <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7335">
+                          Hockey · Club tournament
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[25px] items-start pt-[var(--spacing\/spacing-4,12px)] relative shrink-0 w-[230.263px]" data-node-id="8436:7336" data-name="Container">
+                        <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7337">
+                          ◉ 1.2K watching
+                        </p>
+                      </div>
+                    </div>
+                    <div className="flex flex-row items-center self-stretch" data-node-id="0:4">
+                      <div className="content-stretch flex h-full items-start overflow-clip relative shrink-0" data-name="Auto-added frame">
+                        <div className="content-stretch flex flex-col items-start px-[var(--spacing\/spacing-2,4px)] py-[var(--spacing\/spacing-3,8px)] relative shrink-0" data-node-id="8436:7341" data-name="Text">
+                          <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[19px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7342">
+                            ⋮
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="bg-[#f7faf9] border-[#e5ece8] border-[0.8px] border-solid content-stretch flex gap-[13px] items-center p-[9px] relative rounded-[11px] shrink-0 w-[414.863px]" data-node-id="8436:7344" data-name="Container">
+                    <div className="h-[82px] relative rounded-[var(--radius\/radius-4,8px)] shrink-0 w-[118px]" data-node-id="8436:7345" data-name="Image (Volleyball game)">
+                      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[var(--radius\/radius-4,8px)] size-full" src={imgImageVolleyballGame} />
+                    </div>
+                    <div className="content-stretch flex flex-[237.563_0_0] flex-col items-start min-w-px relative" data-node-id="8436:7346" data-name="Container">
+                      <div className="h-[31px] relative shrink-0 w-full" data-node-id="8436:7360" data-name="Container">
+                        <div className="absolute bg-[#feebed] content-stretch flex items-start left-0 px-[6px] py-[3px] rounded-[var(--radius\/radius-2,4px)] top-[5px]" data-node-id="8436:7347" data-name="Text">
+                          <div className="content-stretch flex flex-col h-[12px] items-start pr-[var(--spacing\/spacing-2,4px)] relative shrink-0 w-[8.025px]" data-node-id="8436:7348" data-name="Text">
+                            <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#e54c56] text-[7px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7349">
+                              ●
+                            </p>
+                          </div>
+                          <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#e54c56] text-[9px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7350">
+                            LIVE
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7352" data-name="Heading 4">
+                        <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[15px] not-italic relative shrink-0 text-[#172222] text-[length:var(--type\/font-size\/12,12px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7353">
+                          BROWNS VS CLOTS
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[19px] items-start pt-[6px] relative shrink-0 w-[230.263px]" data-node-id="8436:7354" data-name="Paragraph">
+                        <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7355">
+                          Volleyball · Club tournament
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[25px] items-start pt-[var(--spacing\/spacing-4,12px)] relative shrink-0 w-[230.263px]" data-node-id="8436:7356" data-name="Container">
+                        <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7357">
+                          ◉ 1.2K watching
+                        </p>
+                      </div>
+                    </div>
+                    <div className="flex flex-row items-center self-stretch" data-node-id="0:3">
+                      <div className="content-stretch flex h-full items-start overflow-clip relative shrink-0" data-name="Auto-added frame">
+                        <div className="content-stretch flex flex-col items-start px-[var(--spacing\/spacing-2,4px)] py-[var(--spacing\/spacing-3,8px)] relative shrink-0" data-node-id="8436:7361" data-name="Text">
+                          <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[19px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7362">
+                            ⋮
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start pt-[18px] relative shrink-0 w-full" data-node-id="8436:7468" data-name="Section:margin">
+            <div className="gap-x-[17px] gap-y-[17px] grid grid-cols-[__389.69px_802.31px] grid-rows-[_287.10px] relative shrink-0 w-full" data-node-id="8436:7364" data-name="Section">
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid col-1 content-stretch flex flex-col items-start justify-self-stretch overflow-clip pb-[var(--spacing\/spacing-6,20px)] pt-[21px] px-[21px] relative rounded-[14px] row-1 self-stretch shadow-[0px_10px_32px_0px_rgba(20,46,34,0.04)] shrink-0" data-node-id="8436:7365" data-name="Article">
+                <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-node-id="8436:7366" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-[175.175px]" data-node-id="8436:7367" data-name="Container">
+                    <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7368" data-name="Heading 3">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[length:var(--type\/font-size\/16,16px)] tracking-[-0.48px] whitespace-nowrap" data-node-id="8436:7369">
+                        Storage usage
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col h-[22px] items-start pt-[5px] relative shrink-0 w-[175.175px]" data-node-id="8436:7370" data-name="Container">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[16.5px] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7371">{`Your club's recorded streams and files`}</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[10px] h-[60px] items-center pt-[22px] relative shrink-0 w-[346.087px]" data-node-id="8436:7373" data-name="Container">
+                  <div className="bg-[#e4f8e7] grid grid-cols-[_38px] grid-rows-[_38px] relative rounded-[10px] shrink-0 size-[38px]" data-node-id="8436:7374" data-name="Text">
+                    <div className="col-1 justify-self-center relative row-1 self-center shrink-0 size-[21px]" data-node-id="8436:7375" data-name="Icon">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon16} />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7377" data-name="Container">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[0] not-italic relative shrink-0 text-[#172222] text-[0px] tracking-[-0.84px] whitespace-nowrap" data-node-id="8436:7378">
+                      <span className="leading-[normal] text-[21px]">320GB</span>
+                      <span className="font-['Segoe_UI:Regular'] leading-[normal] text-[#789087] text-[12px] tracking-[-0.21px]">{` of 1TB`}</span>
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] items-start justify-end min-w-px relative" data-node-id="8436:7381" data-name="Text:align">
+                    <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7379" data-name="Text">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7380">
+                        32% used
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start pt-[var(--spacing\/spacing-5,16px)] relative shrink-0 w-full" data-node-id="8436:7388" data-name="Container:margin">
+                  <div className="bg-[#ecf3ef] content-stretch flex flex-col h-[9px] items-start overflow-clip relative rounded-[var(--radius\/radius-7,20px)] shrink-0 w-full" data-node-id="8436:7382" data-name="Container">
+                    <div className="bg-gradient-to-r from-[#13a43d] h-[9px] relative rounded-[var(--radius\/radius-7,20px)] shrink-0 to-[#72da4b] w-[110.738px]" data-node-id="8436:7383" data-name="Italic Text" />
+                  </div>
+                </div>
+                <div className="h-[116.4px] relative shrink-0 w-full" data-node-id="8436:7389" data-name="Container">
+                  <div className="absolute bg-[#f7faf9] border-[#e5ece8] border-[0.8px] border-solid h-[34px] left-0 rounded-[var(--radius\/radius-4,8px)] top-[19px] w-[129.663px]" data-node-id="8436:7384" data-name="Button">
+                    <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Segoe_UI:Bold'] leading-[normal] left-[64px] not-italic text-[#172222] text-[11px] text-center top-[9px] whitespace-nowrap" data-node-id="8436:7385">
+                      ⚙ Manage storage
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute border-20 border-[#e4f8e7] border-solid left-[278.07px] rounded-[95px] size-[190px] top-[190.5px]" data-node-id="8436:7386" data-name="Text" />
+              </div>
+              <div className="bg-white border-[#e5ece8] border-[0.8px] border-solid col-2 content-stretch drop-shadow-[0px_10px_16px_rgba(20,46,34,0.04)] flex flex-col items-start justify-self-stretch pb-[var(--spacing\/spacing-6,20px)] pt-[21px] px-[21px] relative rounded-[14px] row-1 self-stretch shrink-0" data-node-id="8436:7390" data-name="Article">
+                <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-node-id="8436:7391" data-name="Container">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-[191.5px]" data-node-id="8436:7392" data-name="Container">
+                    <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="8436:7393" data-name="Heading 3">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Bold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[length:var(--type\/font-size\/16,16px)] tracking-[-0.48px] whitespace-nowrap" data-node-id="8436:7394">
+                        Recent broadcast requests
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col h-[22px] items-start pt-[5px] relative shrink-0 w-[191.5px]" data-node-id="8436:7395" data-name="Container">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[16.5px] not-italic relative shrink-0 text-[#789087] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7396">
+                        Review the latest requests from your club
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7398" data-name="Link">
+                    <p className="[word-break:break-word] font-['Segoe_UI:Black'] leading-[normal] not-italic relative shrink-0 text-[#129a39] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7399">
+                      View all ↗
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start pt-[15px] relative shrink-0 w-full" data-node-id="8436:7459" data-name="Table:margin">
+                  <div className="grid grid-cols-[____218.05px_212.44px_160.75px_167.48px] grid-rows-[____34.80px_50.40px_50.80px_50.40px] h-[186.4px] relative shrink-0 w-[758.713px]" data-node-id="8436:7400" data-name="Table">
+                    <div className="bg-[#f4f8f6] col-1 content-stretch flex flex-col h-[34.8px] items-start justify-center px-[var(--spacing\/spacing-4,12px)] py-[11px] relative rounded-bl-[var(--radius\/radius-4,8px)] rounded-tl-[var(--radius\/radius-4,8px)] row-1 shrink-0 w-[218.05px]" data-node-id="8436:7403" data-name="Header Cell">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7404">
+                        Requester
+                      </p>
+                    </div>
+                    <div className="bg-[#f4f8f6] col-2 content-stretch flex flex-col h-[34.8px] items-start justify-center px-[var(--spacing\/spacing-4,12px)] py-[11px] relative row-1 shrink-0 w-[212.438px]" data-node-id="8436:7406" data-name="Header Cell">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7407">
+                        Team
+                      </p>
+                    </div>
+                    <div className="bg-[#f4f8f6] col-3 content-stretch flex flex-col h-[34.8px] items-start justify-center px-[var(--spacing\/spacing-4,12px)] py-[11px] relative row-1 shrink-0 w-[160.75px]" data-node-id="8436:7408" data-name="Header Cell">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7409">
+                        Requested on
+                      </p>
+                    </div>
+                    <div className="bg-[#f4f8f6] col-4 content-stretch flex flex-col h-[34.8px] items-start justify-center px-[var(--spacing\/spacing-4,12px)] py-[11px] relative rounded-br-[var(--radius\/radius-4,8px)] rounded-tr-[var(--radius\/radius-4,8px)] row-1 shrink-0 w-[167.475px]" data-node-id="8436:7410" data-name="Header Cell">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7411">
+                        Status
+                      </p>
+                    </div>
+                    <div className="border-[#e5ece8] border-b-[0.8px] border-solid col-1 content-stretch flex flex-col h-[50.4px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-2 shrink-0 w-[218.05px]" data-node-id="8436:7414" data-name="Table Cell">
+                      <div className="content-stretch flex gap-[9px] items-center relative shrink-0 w-[194.05px]" data-node-id="8436:7415" data-name="Container">
+                        <div className="bg-[#e4f8e7] grid grid-cols-[_26px] grid-rows-[_26px] relative rounded-[13px] shrink-0 size-[26px]" data-node-id="8436:7416" data-name="Text">
+                          <p className="[word-break:break-word] col-1 font-['Segoe_UI:Black'] justify-self-center leading-[normal] not-italic relative row-1 self-center shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7417">
+                            JC
+                          </p>
+                        </div>
+                        <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7418">
+                          John Carter
+                        </p>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] border-[#e5ece8] border-b-[0.8px] border-solid col-2 h-[50.4px] leading-[normal] not-italic relative row-2 shrink-0 text-[11px] tracking-[-0.21px] w-[212.438px] whitespace-nowrap" data-node-id="8436:7419" data-name="Table Cell">
+                      <p className="absolute font-['Segoe_UI:Black'] left-[12px] text-[#852fca] top-[17.8px]" data-node-id="8436:7421">
+                        ✦
+                      </p>
+                      <p className="absolute font-['Segoe_UI:Regular'] left-[25.77px] text-[#172222] top-[17.8px]" data-node-id="8436:7422">
+                        Riverside FC
+                      </p>
+                    </div>
+                    <div className="border-[#e5ece8] border-b-[0.8px] border-solid col-3 content-stretch flex flex-col h-[50.4px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-2 shrink-0 w-[160.75px]" data-node-id="8436:7423" data-name="Table Cell">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7424">
+                        Wed 1:00 PM
+                      </p>
+                    </div>
+                    <div className="border-[#e5ece8] border-b-[0.8px] border-solid col-4 content-stretch flex flex-col h-[50.4px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-2 shrink-0 w-[167.475px]" data-node-id="8436:7425" data-name="Table Cell">
+                      <div className="bg-[#e8f8e8] h-[22px] relative rounded-[30px] shrink-0 w-[65.6px]" data-node-id="8436:7426" data-name="Text">
+                        <p className="[word-break:break-word] absolute font-['Segoe_UI:Bold'] leading-[normal] left-[9px] not-italic text-[#169743] text-[9px] top-[5px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7427">
+                          ● Approved
+                        </p>
+                      </div>
+                    </div>
+                    <div className="border-[#e5ece8] border-b-[0.8px] border-solid col-1 content-stretch flex flex-col h-[50.8px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-3 shrink-0 w-[218.05px]" data-node-id="8436:7430" data-name="Table Cell">
+                      <div className="content-stretch flex gap-[9px] items-center relative shrink-0 w-[194.05px]" data-node-id="8436:7431" data-name="Container">
+                        <div className="bg-[#e4f8e7] grid grid-cols-[_26px] grid-rows-[_26px] relative rounded-[13px] shrink-0 size-[26px]" data-node-id="8436:7432" data-name="Text">
+                          <p className="[word-break:break-word] col-1 font-['Segoe_UI:Black'] justify-self-center leading-[normal] not-italic relative row-1 self-center shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7433">
+                            JC
+                          </p>
+                        </div>
+                        <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7434">
+                          John Carter
+                        </p>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] border-[#e5ece8] border-b-[0.8px] border-solid col-2 h-[50.8px] leading-[normal] not-italic relative row-3 shrink-0 text-[11px] tracking-[-0.21px] w-[212.438px] whitespace-nowrap" data-node-id="8436:7435" data-name="Table Cell">
+                      <p className="absolute font-['Segoe_UI:Black'] left-[12px] text-[#852fca] top-[18.2px]" data-node-id="8436:7437">
+                        ✦
+                      </p>
+                      <p className="absolute font-['Segoe_UI:Regular'] left-[25.77px] text-[#172222] top-[18.2px]" data-node-id="8436:7438">
+                        Lakeview United
+                      </p>
+                    </div>
+                    <div className="border-[#e5ece8] border-b-[0.8px] border-solid col-3 content-stretch flex flex-col h-[50.8px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-3 shrink-0 w-[160.75px]" data-node-id="8436:7439" data-name="Table Cell">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7440">
+                        Wed 1:00 PM
+                      </p>
+                    </div>
+                    <div className="border-[#e5ece8] border-b-[0.8px] border-solid col-4 content-stretch flex flex-col h-[50.8px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-3 shrink-0 w-[167.475px]" data-node-id="8436:7441" data-name="Table Cell">
+                      <div className="bg-[#fff3da] h-[22px] relative rounded-[30px] shrink-0 w-[58.763px]" data-node-id="8436:7442" data-name="Text">
+                        <p className="[word-break:break-word] absolute font-['Segoe_UI:Bold'] leading-[normal] left-[9px] not-italic text-[#a77d17] text-[9px] top-[5px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7443">
+                          ● Pending
+                        </p>
+                      </div>
+                    </div>
+                    <div className="col-1 content-stretch flex flex-col h-[50.4px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-4 shrink-0 w-[218.05px]" data-node-id="8436:7445" data-name="Table Cell">
+                      <div className="content-stretch flex gap-[9px] items-center relative shrink-0 w-[194.05px]" data-node-id="8436:7446" data-name="Container">
+                        <div className="bg-[#e4f8e7] grid grid-cols-[_26px] grid-rows-[_26px] relative rounded-[13px] shrink-0 size-[26px]" data-node-id="8436:7447" data-name="Text">
+                          <p className="[word-break:break-word] col-1 font-['Segoe_UI:Black'] justify-self-center leading-[normal] not-italic relative row-1 self-center shrink-0 text-[#129a39] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7448">
+                            JC
+                          </p>
+                        </div>
+                        <p className="[word-break:break-word] font-['Segoe_UI:Semibold'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7449">
+                          John Carter
+                        </p>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] col-2 h-[50.4px] leading-[normal] not-italic relative row-4 shrink-0 text-[11px] tracking-[-0.21px] w-[212.438px] whitespace-nowrap" data-node-id="8436:7450" data-name="Table Cell">
+                      <p className="absolute font-['Segoe_UI:Black'] left-[12px] text-[#852fca] top-[18.2px]" data-node-id="8436:7452">
+                        ✦
+                      </p>
+                      <p className="absolute font-['Segoe_UI:Regular'] left-[25.77px] text-[#172222] top-[18.2px]" data-node-id="8436:7453">
+                        Pinecrest
+                      </p>
+                    </div>
+                    <div className="col-3 content-stretch flex flex-col h-[50.4px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-4 shrink-0 w-[160.75px]" data-node-id="8436:7454" data-name="Table Cell">
+                      <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#172222] text-[11px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7455">
+                        Wed 1:00 PM
+                      </p>
+                    </div>
+                    <div className="col-4 content-stretch flex flex-col h-[50.4px] items-start justify-center p-[var(--spacing\/spacing-4,12px)] relative row-4 shrink-0 w-[167.475px]" data-node-id="8436:7456" data-name="Table Cell">
+                      <div className="bg-[#ffebeb] h-[22px] relative rounded-[30px] shrink-0 w-[60px]" data-node-id="8436:7457" data-name="Text">
+                        <p className="[word-break:break-word] absolute font-['Segoe_UI:Bold'] leading-[normal] left-[9px] not-italic text-[#c84d4d] text-[9px] top-[5px] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7458">
+                          ● Rejected
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex h-[31px] items-start justify-between pt-[18px] px-[3px] relative shrink-0 w-[1209px]" data-node-id="8436:7460" data-name="Container">
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7461" data-name="Text">
+              <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7462">
+                JWV Streaming · Club Dashboard
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8436:7463" data-name="Text">
+              <p className="[word-break:break-word] font-['Segoe_UI:Regular'] leading-[normal] not-italic relative shrink-0 text-[#789087] text-[length:var(--type\/font-size\/10,10px)] tracking-[-0.21px] whitespace-nowrap" data-node-id="8436:7464">
+                Concept redesign · Light / Dark theme
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

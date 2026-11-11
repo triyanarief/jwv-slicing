@@ -1,0 +1,2 @@
+This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.
+Figma Debug UUID: 74bd5164-efa2-46cb-ae8c-2e0bd44de98f

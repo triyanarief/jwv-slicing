@@ -1,0 +1,205 @@
+{
+  "output": [
+    {
+      "slug": "transaction-history-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    },
+    {
+      "slug": "broadcaster-requests-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    },
+    {
+      "slug": "rejected-broadcasters-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    },
+    {
+      "slug": "broadcaster-requests-empty-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    },
+    {
+      "slug": "rejected-broadcasters-empty-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    },
+    {
+      "slug": "youtube-channel-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    },
+    {
+      "slug": "storage-services-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    },
+    {
+      "slug": "transaction-history-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,8 @@
+{
+  "threadId": "01a1c933-702d-76d1-b602-8ee7afab4ddd",
+  "model": "gpt-6-astra",
+  "effort": "high",
+  "cwd": "/Users/triyanwibowo/Documents/Codex/jwv-slicing",
+  "source": "own turn_context metadata",
+  "prelaunchScreenshot": "docs/status/codex-before-start-1300.png"
+}

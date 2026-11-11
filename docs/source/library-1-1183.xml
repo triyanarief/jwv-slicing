@@ -1,0 +1,783 @@
+<canvas id="1:1183" name="      ↳ Buttons" x="0" y="0" width="0" height="0">
+  <frame id="3287:427074" name="Buttons/Button" x="80" y="590" width="1364" height="1568">
+    <symbol id="3287:427299" name="Size=md, Hierarchy=Primary, State=Default, Icon only=False" x="376" y="16" width="158" height="40" />
+    <symbol id="3287:427307" name="Size=md, Hierarchy=Link color, State=Default, Icon only=False" x="376" y="1120" width="126" height="20" />
+    <symbol id="3287:427311" name="Size=md, Hierarchy=Link gray, State=Default, Icon only=False" x="376" y="1368" width="126" height="20" />
+    <symbol id="3287:427319" name="Size=md, Hierarchy=Tertiary, State=Default, Icon only=False" x="376" y="752" width="158" height="40" />
+    <symbol id="3287:427323" name="Size=md, Hierarchy=Secondary, State=Default, Icon only=False" x="376" y="384" width="158" height="40" />
+    <symbol id="3287:427327" name="Size=md, Hierarchy=Primary, State=Disabled, Icon only=False" x="376" y="208" width="158" height="40" />
+    <symbol id="3287:427335" name="Size=md, Hierarchy=Link color, State=Disabled, Icon only=False" x="376" y="1240" width="126" height="20" />
+    <symbol id="3287:427339" name="Size=md, Hierarchy=Link gray, State=Disabled, Icon only=False" x="376" y="1488" width="126" height="20" />
+    <symbol id="3287:427347" name="Size=md, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="376" y="944" width="158" height="40" />
+    <symbol id="3287:427351" name="Size=md, Hierarchy=Secondary, State=Disabled, Icon only=False" x="376" y="576" width="158" height="40" />
+    <symbol id="3287:427355" name="Size=md, Hierarchy=Primary, State=Focused, Icon only=False" x="376" y="144" width="158" height="40" />
+    <symbol id="3287:427363" name="Size=md, Hierarchy=Link color, State=Focused, Icon only=False" x="376" y="1200" width="126" height="20" />
+    <symbol id="3287:427367" name="Size=md, Hierarchy=Link gray, State=Focused, Icon only=False" x="376" y="1448" width="126" height="20" />
+    <symbol id="3287:427375" name="Size=md, Hierarchy=Tertiary, State=Focused, Icon only=False" x="376" y="880" width="158" height="40" />
+    <symbol id="3287:427379" name="Size=md, Hierarchy=Secondary, State=Focused, Icon only=False" x="376" y="512" width="158" height="40" />
+    <symbol id="3287:427383" name="Size=md, Hierarchy=Primary, State=Hover, Icon only=False" x="376" y="80" width="158" height="40" />
+    <symbol id="8993:329748" name="Size=md, Hierarchy=Primary, State=Loading, Icon only=False" x="376" y="272" width="143" height="40" />
+    <symbol id="3287:427391" name="Size=md, Hierarchy=Link color, State=Hover, Icon only=False" x="376" y="1160" width="126" height="20" />
+    <symbol id="8993:551948" name="Size=md, Hierarchy=Link color, State=Loading, Icon only=False" x="376" y="1282" width="111" height="20" />
+    <symbol id="3287:427395" name="Size=md, Hierarchy=Link gray, State=Hover, Icon only=False" x="376" y="1408" width="126" height="20" />
+    <symbol id="8993:551838" name="Size=md, Hierarchy=Link gray, State=Loading, Icon only=False" x="376" y="1528" width="111" height="20" />
+    <symbol id="3287:427403" name="Size=md, Hierarchy=Tertiary, State=Hover, Icon only=False" x="376" y="816" width="158" height="40" />
+    <symbol id="8993:551842" name="Size=md, Hierarchy=Tertiary, State=Loading, Icon only=False" x="376" y="1008" width="143" height="40" />
+    <symbol id="3287:427407" name="Size=md, Hierarchy=Secondary, State=Hover, Icon only=False" x="376" y="448" width="158" height="40" />
+    <symbol id="8993:551690" name="Size=md, Hierarchy=Secondary, State=Loading, Icon only=False" x="376" y="640" width="143" height="40" />
+    <symbol id="3287:427415" name="Size=md, Hierarchy=Primary, State=Default, Icon only=True" x="1152" y="16" width="40" height="40" />
+    <symbol id="3287:427447" name="Size=md, Hierarchy=Tertiary, State=Default, Icon only=True" x="1152" y="752" width="40" height="40" />
+    <symbol id="3287:427455" name="Size=md, Hierarchy=Secondary, State=Default, Icon only=True" x="1152" y="384" width="40" height="40" />
+    <symbol id="3287:427463" name="Size=md, Hierarchy=Primary, State=Disabled, Icon only=True" x="1152" y="208" width="40" height="40" />
+    <symbol id="3287:427495" name="Size=md, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1152" y="944" width="40" height="40" />
+    <symbol id="3287:427503" name="Size=md, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1152" y="576" width="40" height="40" />
+    <symbol id="3287:427511" name="Size=md, Hierarchy=Primary, State=Focused, Icon only=True" x="1152" y="144" width="40" height="40" />
+    <symbol id="3287:427543" name="Size=md, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1152" y="880" width="40" height="40" />
+    <symbol id="3287:427551" name="Size=md, Hierarchy=Secondary, State=Focused, Icon only=True" x="1152" y="512" width="40" height="40" />
+    <symbol id="3287:427559" name="Size=md, Hierarchy=Primary, State=Hover, Icon only=True" x="1152" y="80" width="40" height="40" />
+    <symbol id="8993:329753" name="Size=md, Hierarchy=Primary, State=Loading, Icon only=True" x="1152" y="272" width="40" height="40" />
+    <symbol id="3287:427591" name="Size=md, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1152" y="816" width="40" height="40" />
+    <symbol id="8993:551847" name="Size=md, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1152" y="1008" width="40" height="40" />
+    <symbol id="3287:427599" name="Size=md, Hierarchy=Secondary, State=Hover, Icon only=True" x="1152" y="448" width="40" height="40" />
+    <symbol id="8993:551695" name="Size=md, Hierarchy=Secondary, State=Loading, Icon only=True" x="1152" y="640" width="40" height="40" />
+    <symbol id="3287:427827" name="Size=lg, Hierarchy=Primary, State=Default, Icon only=False" x="566" y="16" width="177" height="44" />
+    <symbol id="3287:427835" name="Size=lg, Hierarchy=Link color, State=Default, Icon only=False" x="566" y="1120" width="141" height="24" />
+    <symbol id="3287:427839" name="Size=lg, Hierarchy=Link gray, State=Default, Icon only=False" x="566" y="1368" width="141" height="24" />
+    <symbol id="3287:427847" name="Size=lg, Hierarchy=Tertiary, State=Default, Icon only=False" x="566" y="752" width="177" height="44" />
+    <symbol id="3287:427851" name="Size=lg, Hierarchy=Secondary, State=Default, Icon only=False" x="566" y="384" width="177" height="44" />
+    <symbol id="3287:427855" name="Size=lg, Hierarchy=Primary, State=Disabled, Icon only=False" x="566" y="208" width="177" height="44" />
+    <symbol id="3287:427863" name="Size=lg, Hierarchy=Link color, State=Disabled, Icon only=False" x="566" y="1240" width="145" height="24" />
+    <symbol id="3287:427867" name="Size=lg, Hierarchy=Link gray, State=Disabled, Icon only=False" x="566" y="1488" width="141" height="24" />
+    <symbol id="3287:427875" name="Size=lg, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="566" y="944" width="177" height="44" />
+    <symbol id="3287:427879" name="Size=lg, Hierarchy=Secondary, State=Disabled, Icon only=False" x="566" y="576" width="177" height="44" />
+    <symbol id="3287:427883" name="Size=lg, Hierarchy=Primary, State=Focused, Icon only=False" x="566" y="144" width="177" height="44" />
+    <symbol id="3287:427891" name="Size=lg, Hierarchy=Link color, State=Focused, Icon only=False" x="566" y="1200" width="145" height="24" />
+    <symbol id="3287:427895" name="Size=lg, Hierarchy=Link gray, State=Focused, Icon only=False" x="566" y="1448" width="141" height="24" />
+    <symbol id="3287:427903" name="Size=lg, Hierarchy=Tertiary, State=Focused, Icon only=False" x="566" y="880" width="177" height="44" />
+    <symbol id="3287:427907" name="Size=lg, Hierarchy=Secondary, State=Focused, Icon only=False" x="566" y="512" width="177" height="44" />
+    <symbol id="3287:427911" name="Size=lg, Hierarchy=Primary, State=Hover, Icon only=False" x="566" y="80" width="177" height="44" />
+    <symbol id="8993:329758" name="Size=lg, Hierarchy=Primary, State=Loading, Icon only=False" x="566" y="272" width="161" height="44" />
+    <symbol id="3287:427919" name="Size=lg, Hierarchy=Link color, State=Hover, Icon only=False" x="566" y="1160" width="145" height="24" />
+    <symbol id="8993:551849" name="Size=lg, Hierarchy=Link color, State=Loading, Icon only=False" x="566" y="1280" width="127" height="24" />
+    <symbol id="3287:427923" name="Size=lg, Hierarchy=Link gray, State=Hover, Icon only=False" x="566" y="1408" width="141" height="24" />
+    <symbol id="8993:551853" name="Size=lg, Hierarchy=Link gray, State=Loading, Icon only=False" x="566" y="1528" width="125" height="24" />
+    <symbol id="3287:427931" name="Size=lg, Hierarchy=Tertiary, State=Hover, Icon only=False" x="566" y="816" width="177" height="44" />
+    <symbol id="8993:551857" name="Size=lg, Hierarchy=Tertiary, State=Loading, Icon only=False" x="566" y="1008" width="161" height="44" />
+    <symbol id="3287:427935" name="Size=lg, Hierarchy=Secondary, State=Hover, Icon only=False" x="566" y="448" width="177" height="44" />
+    <symbol id="8993:551697" name="Size=lg, Hierarchy=Secondary, State=Loading, Icon only=False" x="566" y="640" width="161" height="44" />
+    <symbol id="3287:427943" name="Size=lg, Hierarchy=Primary, State=Default, Icon only=True" x="1224" y="16" width="44" height="44" />
+    <symbol id="3287:427975" name="Size=lg, Hierarchy=Tertiary, State=Default, Icon only=True" x="1224" y="752" width="44" height="44" />
+    <symbol id="3287:427983" name="Size=lg, Hierarchy=Secondary, State=Default, Icon only=True" x="1224" y="384" width="44" height="44" />
+    <symbol id="3287:427991" name="Size=lg, Hierarchy=Primary, State=Disabled, Icon only=True" x="1224" y="208" width="44" height="44" />
+    <symbol id="3287:428023" name="Size=lg, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1224" y="944" width="44" height="44" />
+    <symbol id="3287:428031" name="Size=lg, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1224" y="576" width="44" height="44" />
+    <symbol id="3287:428039" name="Size=lg, Hierarchy=Primary, State=Focused, Icon only=True" x="1224" y="144" width="44" height="44" />
+    <symbol id="3287:428071" name="Size=lg, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1224" y="880" width="44" height="44" />
+    <symbol id="3287:428079" name="Size=lg, Hierarchy=Secondary, State=Focused, Icon only=True" x="1224" y="512" width="44" height="44" />
+    <symbol id="3287:428087" name="Size=lg, Hierarchy=Primary, State=Hover, Icon only=True" x="1224" y="80" width="44" height="44" />
+    <symbol id="8993:329763" name="Size=lg, Hierarchy=Primary, State=Loading, Icon only=True" x="1224" y="272" width="44" height="44" />
+    <symbol id="3287:428119" name="Size=lg, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1224" y="816" width="44" height="44" />
+    <symbol id="8993:551862" name="Size=lg, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1224" y="1008" width="44" height="44" />
+    <symbol id="3287:428127" name="Size=lg, Hierarchy=Secondary, State=Hover, Icon only=True" x="1224" y="448" width="44" height="44" />
+    <symbol id="8993:551702" name="Size=lg, Hierarchy=Secondary, State=Loading, Icon only=True" x="1224" y="640" width="44" height="44" />
+    <symbol id="3287:428579" name="Size=xl, Hierarchy=Primary, State=Default, Icon only=False" x="775" y="16" width="181" height="48" />
+    <symbol id="3287:428595" name="Size=xl, Hierarchy=Link color, State=Default, Icon only=False" x="775" y="1120" width="141" height="24" />
+    <symbol id="3287:428603" name="Size=xl, Hierarchy=Link gray, State=Default, Icon only=False" x="775" y="1368" width="141" height="24" />
+    <symbol id="3287:428619" name="Size=xl, Hierarchy=Tertiary, State=Default, Icon only=False" x="775" y="752" width="181" height="48" />
+    <symbol id="3287:428627" name="Size=xl, Hierarchy=Secondary, State=Default, Icon only=False" x="775" y="384" width="181" height="48" />
+    <symbol id="3287:428635" name="Size=xl, Hierarchy=Primary, State=Disabled, Icon only=False" x="775" y="208" width="181" height="48" />
+    <symbol id="3287:428651" name="Size=xl, Hierarchy=Link color, State=Disabled, Icon only=False" x="775" y="1240" width="141" height="24" />
+    <symbol id="3287:428659" name="Size=xl, Hierarchy=Link gray, State=Disabled, Icon only=False" x="775" y="1488" width="141" height="24" />
+    <symbol id="3287:428675" name="Size=xl, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="775" y="944" width="181" height="48" />
+    <symbol id="3287:428683" name="Size=xl, Hierarchy=Secondary, State=Disabled, Icon only=False" x="775" y="576" width="181" height="48" />
+    <symbol id="3287:428691" name="Size=xl, Hierarchy=Primary, State=Focused, Icon only=False" x="775" y="144" width="181" height="48" />
+    <symbol id="3287:428707" name="Size=xl, Hierarchy=Link color, State=Focused, Icon only=False" x="775" y="1200" width="141" height="24" />
+    <symbol id="3287:428715" name="Size=xl, Hierarchy=Link gray, State=Focused, Icon only=False" x="775" y="1448" width="141" height="24" />
+    <symbol id="3287:428731" name="Size=xl, Hierarchy=Tertiary, State=Focused, Icon only=False" x="775" y="880" width="181" height="48" />
+    <symbol id="3287:428739" name="Size=xl, Hierarchy=Secondary, State=Focused, Icon only=False" x="775" y="512" width="181" height="48" />
+    <symbol id="3287:428747" name="Size=xl, Hierarchy=Primary, State=Hover, Icon only=False" x="775" y="80" width="181" height="48" />
+    <symbol id="8993:329771" name="Size=xl, Hierarchy=Primary, State=Loading, Icon only=False" x="775" y="272" width="165" height="48" />
+    <symbol id="3287:428763" name="Size=xl, Hierarchy=Link color, State=Hover, Icon only=False" x="775" y="1160" width="141" height="24" />
+    <symbol id="8993:551864" name="Size=xl, Hierarchy=Link color, State=Loading, Icon only=False" x="775" y="1280" width="125" height="24" />
+    <symbol id="3287:428771" name="Size=xl, Hierarchy=Link gray, State=Hover, Icon only=False" x="775" y="1408" width="141" height="24" />
+    <symbol id="8993:551872" name="Size=xl, Hierarchy=Link gray, State=Loading, Icon only=False" x="775" y="1528" width="125" height="24" />
+    <symbol id="3287:428787" name="Size=xl, Hierarchy=Tertiary, State=Hover, Icon only=False" x="775" y="816" width="181" height="48" />
+    <symbol id="8993:551880" name="Size=xl, Hierarchy=Tertiary, State=Loading, Icon only=False" x="775" y="1008" width="165" height="48" />
+    <symbol id="3287:428795" name="Size=xl, Hierarchy=Secondary, State=Hover, Icon only=False" x="775" y="448" width="181" height="48" />
+    <symbol id="8993:551704" name="Size=xl, Hierarchy=Secondary, State=Loading, Icon only=False" x="775" y="640" width="165" height="48" />
+    <symbol id="3287:428811" name="Size=xl, Hierarchy=Primary, State=Default, Icon only=True" x="1300" y="16" width="48" height="48" />
+    <symbol id="3287:428875" name="Size=xl, Hierarchy=Tertiary, State=Default, Icon only=True" x="1300" y="752" width="48" height="48" />
+    <symbol id="3287:428891" name="Size=xl, Hierarchy=Secondary, State=Default, Icon only=True" x="1300" y="384" width="48" height="48" />
+    <symbol id="3287:428907" name="Size=xl, Hierarchy=Primary, State=Disabled, Icon only=True" x="1300" y="208" width="48" height="48" />
+    <symbol id="3287:428971" name="Size=xl, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1300" y="944" width="48" height="48" />
+    <symbol id="3287:428987" name="Size=xl, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1300" y="576" width="48" height="48" />
+    <symbol id="3287:429003" name="Size=xl, Hierarchy=Primary, State=Focused, Icon only=True" x="1300" y="144" width="48" height="48" />
+    <symbol id="3287:429067" name="Size=xl, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1300" y="880" width="48" height="48" />
+    <symbol id="3287:429083" name="Size=xl, Hierarchy=Secondary, State=Focused, Icon only=True" x="1300" y="512" width="48" height="48" />
+    <symbol id="3287:429099" name="Size=xl, Hierarchy=Primary, State=Hover, Icon only=True" x="1300" y="80" width="48" height="48" />
+    <symbol id="8993:329781" name="Size=xl, Hierarchy=Primary, State=Loading, Icon only=True" x="1300" y="272" width="48" height="48" />
+    <symbol id="3287:429163" name="Size=xl, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1300" y="816" width="48" height="48" />
+    <symbol id="8993:551890" name="Size=xl, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1300" y="1008" width="48" height="48" />
+    <symbol id="3287:429179" name="Size=xl, Hierarchy=Secondary, State=Hover, Icon only=True" x="1300" y="448" width="48" height="48" />
+    <symbol id="8993:551714" name="Size=xl, Hierarchy=Secondary, State=Loading, Icon only=True" x="1300" y="640" width="48" height="48" />
+    <symbol id="3287:429411" name="Size=sm, Hierarchy=Primary, State=Default, Icon only=False" x="190" y="16" width="154" height="36" />
+    <symbol id="11128:618633" name="Size=xs, Hierarchy=Primary, State=Default, Icon only=False" x="16" y="16" width="142" height="32" />
+    <symbol id="3287:429419" name="Size=sm, Hierarchy=Link color, State=Default, Icon only=False" x="190" y="1120" width="126" height="20" />
+    <symbol id="11128:618638" name="Size=xs, Hierarchy=Link color, State=Default, Icon only=False" x="16" y="1120" width="118" height="20" />
+    <symbol id="3287:429423" name="Size=sm, Hierarchy=Link gray, State=Default, Icon only=False" x="190" y="1368" width="126" height="20" />
+    <symbol id="11128:618642" name="Size=xs, Hierarchy=Link gray, State=Default, Icon only=False" x="16" y="1368" width="118" height="20" />
+    <symbol id="3287:429431" name="Size=sm, Hierarchy=Tertiary, State=Default, Icon only=False" x="190" y="752" width="154" height="36" />
+    <symbol id="11128:618646" name="Size=xs, Hierarchy=Tertiary, State=Default, Icon only=False" x="16" y="752" width="142" height="32" />
+    <symbol id="3287:429435" name="Size=sm, Hierarchy=Secondary, State=Default, Icon only=False" x="190" y="384" width="154" height="36" />
+    <symbol id="11128:618651" name="Size=xs, Hierarchy=Secondary, State=Default, Icon only=False" x="16" y="384" width="142" height="32" />
+    <symbol id="3287:429439" name="Size=sm, Hierarchy=Primary, State=Disabled, Icon only=False" x="190" y="208" width="154" height="36" />
+    <symbol id="11128:618656" name="Size=xs, Hierarchy=Primary, State=Disabled, Icon only=False" x="16" y="208" width="142" height="32" />
+    <symbol id="3287:429447" name="Size=sm, Hierarchy=Link color, State=Disabled, Icon only=False" x="190" y="1240" width="126" height="20" />
+    <symbol id="11128:618661" name="Size=xs, Hierarchy=Link color, State=Disabled, Icon only=False" x="16" y="1240" width="118" height="20" />
+    <symbol id="3287:429451" name="Size=sm, Hierarchy=Link gray, State=Disabled, Icon only=False" x="190" y="1488" width="126" height="20" />
+    <symbol id="11128:618665" name="Size=xs, Hierarchy=Link gray, State=Disabled, Icon only=False" x="16" y="1488" width="118" height="20" />
+    <symbol id="3287:429459" name="Size=sm, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="190" y="944" width="154" height="36" />
+    <symbol id="11128:618669" name="Size=xs, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="16" y="944" width="142" height="32" />
+    <symbol id="3287:429463" name="Size=sm, Hierarchy=Secondary, State=Disabled, Icon only=False" x="190" y="576" width="154" height="36" />
+    <symbol id="11128:618674" name="Size=xs, Hierarchy=Secondary, State=Disabled, Icon only=False" x="16" y="576" width="142" height="32" />
+    <symbol id="3287:429467" name="Size=sm, Hierarchy=Primary, State=Focused, Icon only=False" x="190" y="144" width="154" height="36" />
+    <symbol id="11128:618679" name="Size=xs, Hierarchy=Primary, State=Focused, Icon only=False" x="16" y="144" width="142" height="32" />
+    <symbol id="3287:429475" name="Size=sm, Hierarchy=Link color, State=Focused, Icon only=False" x="190" y="1200" width="126" height="20" />
+    <symbol id="11128:618684" name="Size=xs, Hierarchy=Link color, State=Focused, Icon only=False" x="16" y="1200" width="118" height="20" />
+    <symbol id="3287:429479" name="Size=sm, Hierarchy=Link gray, State=Focused, Icon only=False" x="190" y="1448" width="126" height="20" />
+    <symbol id="11128:618688" name="Size=xs, Hierarchy=Link gray, State=Focused, Icon only=False" x="16" y="1448" width="118" height="20" />
+    <symbol id="3287:429487" name="Size=sm, Hierarchy=Tertiary, State=Focused, Icon only=False" x="190" y="880" width="154" height="36" />
+    <symbol id="11128:618692" name="Size=xs, Hierarchy=Tertiary, State=Focused, Icon only=False" x="16" y="880" width="142" height="32" />
+    <symbol id="3287:429491" name="Size=sm, Hierarchy=Secondary, State=Focused, Icon only=False" x="190" y="512" width="154" height="36" />
+    <symbol id="11128:618697" name="Size=xs, Hierarchy=Secondary, State=Focused, Icon only=False" x="16" y="512" width="142" height="32" />
+    <symbol id="3287:429495" name="Size=sm, Hierarchy=Primary, State=Hover, Icon only=False" x="190" y="80" width="154" height="36" />
+    <symbol id="11128:618702" name="Size=xs, Hierarchy=Primary, State=Hover, Icon only=False" x="16" y="80" width="142" height="32" />
+    <symbol id="8993:329788" name="Size=sm, Hierarchy=Primary, State=Loading, Icon only=False" x="190" y="272" width="139" height="36" />
+    <symbol id="11128:618707" name="Size=xs, Hierarchy=Primary, State=Loading, Icon only=False" x="16" y="272" width="131" height="32" />
+    <symbol id="3287:429503" name="Size=sm, Hierarchy=Link color, State=Hover, Icon only=False" x="190" y="1160" width="126" height="20" />
+    <symbol id="11128:618711" name="Size=xs, Hierarchy=Link color, State=Hover, Icon only=False" x="16" y="1160" width="118" height="20" />
+    <symbol id="8993:551952" name="Size=sm, Hierarchy=Link color, State=Loading, Icon only=False" x="190" y="1282" width="111" height="20" />
+    <symbol id="11128:618715" name="Size=xs, Hierarchy=Link color, State=Loading, Icon only=False" x="16" y="1282" width="107" height="20" />
+    <symbol id="3287:429507" name="Size=sm, Hierarchy=Link gray, State=Hover, Icon only=False" x="190" y="1408" width="126" height="20" />
+    <symbol id="11128:618718" name="Size=xs, Hierarchy=Link gray, State=Hover, Icon only=False" x="16" y="1408" width="118" height="20" />
+    <symbol id="8993:551894" name="Size=sm, Hierarchy=Link gray, State=Loading, Icon only=False" x="190" y="1528" width="111" height="20" />
+    <symbol id="11128:618722" name="Size=xs, Hierarchy=Link gray, State=Loading, Icon only=False" x="16" y="1528" width="107" height="20" />
+    <symbol id="3287:429515" name="Size=sm, Hierarchy=Tertiary, State=Hover, Icon only=False" x="190" y="816" width="154" height="36" />
+    <symbol id="11128:618725" name="Size=xs, Hierarchy=Tertiary, State=Hover, Icon only=False" x="16" y="816" width="142" height="32" />
+    <symbol id="8993:551898" name="Size=sm, Hierarchy=Tertiary, State=Loading, Icon only=False" x="190" y="1008" width="139" height="36" />
+    <symbol id="11128:618730" name="Size=xs, Hierarchy=Tertiary, State=Loading, Icon only=False" x="16" y="1008" width="131" height="32" />
+    <symbol id="3287:429519" name="Size=sm, Hierarchy=Secondary, State=Hover, Icon only=False" x="190" y="448" width="154" height="36" />
+    <symbol id="11128:618734" name="Size=xs, Hierarchy=Secondary, State=Hover, Icon only=False" x="16" y="448" width="142" height="32" />
+    <symbol id="8993:551718" name="Size=sm, Hierarchy=Secondary, State=Loading, Icon only=False" x="190" y="640" width="139" height="36" />
+    <symbol id="11128:618739" name="Size=xs, Hierarchy=Secondary, State=Loading, Icon only=False" x="16" y="640" width="131" height="32" />
+    <symbol id="3287:429527" name="Size=sm, Hierarchy=Primary, State=Default, Icon only=True" x="1084" y="16" width="36" height="36" />
+    <symbol id="11129:5698" name="Size=xs, Hierarchy=Primary, State=Default, Icon only=True" x="1020" y="16" width="32" height="32" />
+    <symbol id="3287:429559" name="Size=sm, Hierarchy=Tertiary, State=Default, Icon only=True" x="1084" y="752" width="36" height="36" />
+    <symbol id="11129:5700" name="Size=xs, Hierarchy=Tertiary, State=Default, Icon only=True" x="1020" y="752" width="32" height="32" />
+    <symbol id="3287:429567" name="Size=sm, Hierarchy=Secondary, State=Default, Icon only=True" x="1084" y="384" width="36" height="36" />
+    <symbol id="11129:5702" name="Size=xs, Hierarchy=Secondary, State=Default, Icon only=True" x="1020" y="384" width="32" height="32" />
+    <symbol id="3287:429575" name="Size=sm, Hierarchy=Primary, State=Disabled, Icon only=True" x="1084" y="208" width="36" height="36" />
+    <symbol id="11129:5704" name="Size=xs, Hierarchy=Primary, State=Disabled, Icon only=True" x="1020" y="208" width="32" height="32" />
+    <symbol id="3287:429607" name="Size=sm, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1084" y="944" width="36" height="36" />
+    <symbol id="11129:5706" name="Size=xs, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1020" y="944" width="32" height="32" />
+    <symbol id="3287:429615" name="Size=sm, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1084" y="576" width="36" height="36" />
+    <symbol id="11129:5708" name="Size=xs, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1020" y="576" width="32" height="32" />
+    <symbol id="3287:429623" name="Size=sm, Hierarchy=Primary, State=Focused, Icon only=True" x="1084" y="144" width="36" height="36" />
+    <symbol id="11129:5710" name="Size=xs, Hierarchy=Primary, State=Focused, Icon only=True" x="1020" y="144" width="32" height="32" />
+    <symbol id="3287:429655" name="Size=sm, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1084" y="880" width="36" height="36" />
+    <symbol id="11129:5712" name="Size=xs, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1020" y="880" width="32" height="32" />
+    <symbol id="3287:429663" name="Size=sm, Hierarchy=Secondary, State=Focused, Icon only=True" x="1084" y="512" width="36" height="36" />
+    <symbol id="11129:5714" name="Size=xs, Hierarchy=Secondary, State=Focused, Icon only=True" x="1020" y="512" width="32" height="32" />
+    <symbol id="3287:429671" name="Size=sm, Hierarchy=Primary, State=Hover, Icon only=True" x="1084" y="80" width="36" height="36" />
+    <symbol id="11129:5716" name="Size=xs, Hierarchy=Primary, State=Hover, Icon only=True" x="1020" y="80" width="32" height="32" />
+    <symbol id="8993:329793" name="Size=sm, Hierarchy=Primary, State=Loading, Icon only=True" x="1084" y="272" width="36" height="36" />
+    <symbol id="11129:5718" name="Size=xs, Hierarchy=Primary, State=Loading, Icon only=True" x="1020" y="272" width="32" height="32" />
+    <symbol id="3287:429703" name="Size=sm, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1084" y="816" width="36" height="36" />
+    <symbol id="11129:5720" name="Size=xs, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1020" y="816" width="32" height="32" />
+    <symbol id="8993:551903" name="Size=sm, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1084" y="1008" width="36" height="36" />
+    <symbol id="11129:5722" name="Size=xs, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1020" y="1008" width="32" height="32" />
+    <symbol id="3287:429711" name="Size=sm, Hierarchy=Secondary, State=Hover, Icon only=True" x="1084" y="448" width="36" height="36" />
+    <symbol id="11129:5724" name="Size=xs, Hierarchy=Secondary, State=Hover, Icon only=True" x="1020" y="448" width="32" height="32" />
+    <symbol id="8993:551723" name="Size=sm, Hierarchy=Secondary, State=Loading, Icon only=True" x="1084" y="640" width="36" height="36" />
+    <symbol id="11129:5726" name="Size=xs, Hierarchy=Secondary, State=Loading, Icon only=True" x="1020" y="640" width="32" height="32" />
+  </frame>
+  <frame id="1256:130788" name="Buttons/Social button" x="2891" y="590" width="2095" height="1336">
+    <symbol id="1256:130787" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Brand, State=Default" x="1027" y="244" width="232" height="44" />
+    <symbol id="11767:539904" name="Size=md, Social=Facebook, Supporting text=True, Theme=Brand, State=Default" x="16" y="244" width="201" height="40" />
+    <symbol id="1269:421" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Brand, State=Hover" x="1027" y="304" width="232" height="44" />
+    <symbol id="11767:539907" name="Size=md, Social=Facebook, Supporting text=True, Theme=Brand, State=Hover" x="16" y="304" width="201" height="40" />
+    <symbol id="1269:777" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Brand, State=Focused" x="1027" y="364" width="232" height="44" />
+    <symbol id="11767:539910" name="Size=md, Social=Facebook, Supporting text=True, Theme=Brand, State=Focused" x="16" y="364" width="201" height="40" />
+    <symbol id="1256:131981" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Color, State=Default" x="1399" y="244" width="232" height="44" />
+    <symbol id="11767:539913" name="Size=md, Social=Facebook, Supporting text=True, Theme=Color, State=Default" x="353" y="244" width="201" height="40" />
+    <symbol id="1269:418" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Color, State=Hover" x="1399" y="304" width="232" height="44" />
+    <symbol id="11767:539916" name="Size=md, Social=Facebook, Supporting text=True, Theme=Color, State=Hover" x="353" y="304" width="201" height="40" />
+    <symbol id="1269:774" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Color, State=Focused" x="1399" y="364" width="232" height="44" />
+    <symbol id="11767:539919" name="Size=md, Social=Facebook, Supporting text=True, Theme=Color, State=Focused" x="353" y="364" width="201" height="40" />
+    <symbol id="1256:132908" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Gray, State=Default" x="1771" y="244" width="232" height="44" />
+    <symbol id="11767:539922" name="Size=md, Social=Facebook, Supporting text=True, Theme=Gray, State=Default" x="690" y="244" width="201" height="40" />
+    <symbol id="1269:406" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Gray, State=Hover" x="1771" y="304" width="232" height="44" />
+    <symbol id="11767:539925" name="Size=md, Social=Facebook, Supporting text=True, Theme=Gray, State=Hover" x="690" y="304" width="201" height="40" />
+    <symbol id="1269:761" name="Size=lg, Social=Facebook, Supporting text=True, Theme=Gray, State=Focused" x="1771" y="364" width="232" height="44" />
+    <symbol id="11767:539928" name="Size=md, Social=Facebook, Supporting text=True, Theme=Gray, State=Focused" x="690" y="364" width="201" height="40" />
+    <symbol id="1256:130881" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Brand, State=Default" x="1293" y="244" width="44" height="44" />
+    <symbol id="11767:539931" name="Size=md, Social=Facebook, Supporting text=False, Theme=Brand, State=Default" x="249" y="244" width="40" height="40" />
+    <symbol id="1269:404" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Brand, State=Hover" x="1293" y="304" width="44" height="44" />
+    <symbol id="11767:539933" name="Size=md, Social=Facebook, Supporting text=False, Theme=Brand, State=Hover" x="249" y="304" width="40" height="40" />
+    <symbol id="1269:754" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Brand, State=Focused" x="1293" y="364" width="44" height="44" />
+    <symbol id="11767:539935" name="Size=md, Social=Facebook, Supporting text=False, Theme=Brand, State=Focused" x="249" y="364" width="40" height="40" />
+    <symbol id="1256:131977" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Color, State=Default" x="1663" y="244" width="44" height="44" />
+    <symbol id="11767:539937" name="Size=md, Social=Facebook, Supporting text=False, Theme=Color, State=Default" x="586" y="244" width="40" height="40" />
+    <symbol id="1269:409" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Color, State=Hover" x="1663" y="304" width="44" height="44" />
+    <symbol id="11767:539939" name="Size=md, Social=Facebook, Supporting text=False, Theme=Color, State=Hover" x="586" y="304" width="40" height="40" />
+    <symbol id="1269:767" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Color, State=Focused" x="1663" y="364" width="44" height="44" />
+    <symbol id="11767:539941" name="Size=md, Social=Facebook, Supporting text=False, Theme=Color, State=Focused" x="586" y="364" width="40" height="40" />
+    <symbol id="1256:132906" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Gray, State=Default" x="2035" y="244" width="44" height="44" />
+    <symbol id="11767:539943" name="Size=md, Social=Facebook, Supporting text=False, Theme=Gray, State=Default" x="923" y="244" width="40" height="40" />
+    <symbol id="1269:402" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Gray, State=Hover" x="2035" y="304" width="44" height="44" />
+    <symbol id="11767:539945" name="Size=md, Social=Facebook, Supporting text=False, Theme=Gray, State=Hover" x="923" y="304" width="40" height="40" />
+    <symbol id="1269:752" name="Size=lg, Social=Facebook, Supporting text=False, Theme=Gray, State=Focused" x="2035" y="364" width="44" height="44" />
+    <symbol id="11767:539947" name="Size=md, Social=Facebook, Supporting text=False, Theme=Gray, State=Focused" x="923" y="364" width="40" height="40" />
+    <symbol id="1256:130789" name="Size=lg, Social=Google, Supporting text=True, Theme=Brand, State=Default" x="1027" y="16" width="211" height="44" />
+    <symbol id="11767:539949" name="Size=md, Social=Google, Supporting text=True, Theme=Brand, State=Default" x="16" y="16" width="183" height="40" />
+    <symbol id="1269:399" name="Size=lg, Social=Google, Supporting text=True, Theme=Brand, State=Hover" x="1027" y="76" width="211" height="44" />
+    <symbol id="11767:539952" name="Size=md, Social=Google, Supporting text=True, Theme=Brand, State=Hover" x="16" y="76" width="183" height="40" />
+    <symbol id="1269:746" name="Size=lg, Social=Google, Supporting text=True, Theme=Brand, State=Focused" x="1027" y="136" width="211" height="44" />
+    <symbol id="11767:539955" name="Size=md, Social=Google, Supporting text=True, Theme=Brand, State=Focused" x="16" y="136" width="183" height="40" />
+    <symbol id="1256:131974" name="Size=lg, Social=Google, Supporting text=True, Theme=Color, State=Default" x="1399" y="16" width="211" height="44" />
+    <symbol id="11767:539958" name="Size=md, Social=Google, Supporting text=True, Theme=Color, State=Default" x="353" y="16" width="183" height="40" />
+    <symbol id="1269:393" name="Size=lg, Social=Google, Supporting text=True, Theme=Color, State=Hover" x="1399" y="76" width="211" height="44" />
+    <symbol id="11767:539961" name="Size=md, Social=Google, Supporting text=True, Theme=Color, State=Hover" x="353" y="76" width="183" height="40" />
+    <symbol id="1269:740" name="Size=lg, Social=Google, Supporting text=True, Theme=Color, State=Focused" x="1399" y="136" width="211" height="44" />
+    <symbol id="11767:539964" name="Size=md, Social=Google, Supporting text=True, Theme=Color, State=Focused" x="353" y="136" width="183" height="40" />
+    <symbol id="1256:132898" name="Size=lg, Social=Google, Supporting text=True, Theme=Gray, State=Default" x="1771" y="16" width="211" height="44" />
+    <symbol id="11767:539967" name="Size=md, Social=Google, Supporting text=True, Theme=Gray, State=Default" x="690" y="16" width="183" height="40" />
+    <symbol id="1269:390" name="Size=lg, Social=Google, Supporting text=True, Theme=Gray, State=Hover" x="1771" y="76" width="211" height="44" />
+    <symbol id="11767:539970" name="Size=md, Social=Google, Supporting text=True, Theme=Gray, State=Hover" x="690" y="76" width="183" height="40" />
+    <symbol id="1269:734" name="Size=lg, Social=Google, Supporting text=True, Theme=Gray, State=Focused" x="1771" y="136" width="211" height="44" />
+    <symbol id="11767:539973" name="Size=md, Social=Google, Supporting text=True, Theme=Gray, State=Focused" x="690" y="136" width="183" height="40" />
+    <symbol id="1256:130878" name="Size=lg, Social=Google, Supporting text=False, Theme=Brand, State=Default" x="1293" y="16" width="44" height="44" />
+    <symbol id="11767:539976" name="Size=md, Social=Google, Supporting text=False, Theme=Brand, State=Default" x="249" y="16" width="40" height="40" />
+    <symbol id="1269:383" name="Size=lg, Social=Google, Supporting text=False, Theme=Brand, State=Hover" x="1293" y="76" width="44" height="44" />
+    <symbol id="11767:539978" name="Size=md, Social=Google, Supporting text=False, Theme=Brand, State=Hover" x="249" y="76" width="40" height="40" />
+    <symbol id="1269:729" name="Size=lg, Social=Google, Supporting text=False, Theme=Brand, State=Focused" x="1293" y="136" width="44" height="44" />
+    <symbol id="11767:539980" name="Size=md, Social=Google, Supporting text=False, Theme=Brand, State=Focused" x="249" y="136" width="40" height="40" />
+    <symbol id="1256:131979" name="Size=lg, Social=Google, Supporting text=False, Theme=Color, State=Default" x="1663" y="16" width="44" height="44" />
+    <symbol id="11767:539982" name="Size=md, Social=Google, Supporting text=False, Theme=Color, State=Default" x="586" y="16" width="40" height="40" />
+    <symbol id="1269:416" name="Size=lg, Social=Google, Supporting text=False, Theme=Color, State=Hover" x="1663" y="76" width="44" height="44" />
+    <symbol id="11767:539984" name="Size=md, Social=Google, Supporting text=False, Theme=Color, State=Hover" x="586" y="76" width="40" height="40" />
+    <symbol id="1269:772" name="Size=lg, Social=Google, Supporting text=False, Theme=Color, State=Focused" x="1663" y="136" width="44" height="44" />
+    <symbol id="11767:539986" name="Size=md, Social=Google, Supporting text=False, Theme=Color, State=Focused" x="586" y="136" width="40" height="40" />
+    <symbol id="1256:132896" name="Size=lg, Social=Google, Supporting text=False, Theme=Gray, State=Default" x="2035" y="16" width="44" height="44" />
+    <symbol id="11767:539988" name="Size=md, Social=Google, Supporting text=False, Theme=Gray, State=Default" x="923" y="16" width="40" height="40" />
+    <symbol id="1269:376" name="Size=lg, Social=Google, Supporting text=False, Theme=Gray, State=Hover" x="2035" y="76" width="44" height="44" />
+    <symbol id="11767:539990" name="Size=md, Social=Google, Supporting text=False, Theme=Gray, State=Hover" x="923" y="76" width="40" height="40" />
+    <symbol id="1269:724" name="Size=lg, Social=Google, Supporting text=False, Theme=Gray, State=Focused" x="2035" y="136" width="44" height="44" />
+    <symbol id="11767:539992" name="Size=md, Social=Google, Supporting text=False, Theme=Gray, State=Focused" x="923" y="136" width="40" height="40" />
+    <symbol id="1256:130809" name="Size=lg, Social=Apple, Supporting text=True, Theme=Brand, State=Default" x="1027" y="472" width="202" height="44" />
+    <symbol id="11767:539994" name="Size=md, Social=Apple, Supporting text=True, Theme=Brand, State=Default" x="16" y="472" width="174" height="40" />
+    <symbol id="1269:368" name="Size=lg, Social=Apple, Supporting text=True, Theme=Brand, State=Hover" x="1027" y="532" width="202" height="44" />
+    <symbol id="11767:539997" name="Size=md, Social=Apple, Supporting text=True, Theme=Brand, State=Hover" x="16" y="532" width="174" height="40" />
+    <symbol id="1269:749" name="Size=lg, Social=Apple, Supporting text=True, Theme=Brand, State=Focused" x="1027" y="592" width="202" height="44" />
+    <symbol id="11767:540000" name="Size=md, Social=Apple, Supporting text=True, Theme=Brand, State=Focused" x="16" y="592" width="174" height="40" />
+    <symbol id="1256:132051" name="Size=lg, Social=Figma, Supporting text=True, Theme=Brand, State=Default" x="1027" y="928" width="203" height="44" />
+    <symbol id="11767:540003" name="Size=md, Social=Figma, Supporting text=True, Theme=Brand, State=Default" x="16" y="928" width="176" height="40" />
+    <symbol id="1269:365" name="Size=lg, Social=Figma, Supporting text=True, Theme=Brand, State=Hover" x="1027" y="988" width="203" height="44" />
+    <symbol id="11767:540006" name="Size=md, Social=Figma, Supporting text=True, Theme=Brand, State=Hover" x="16" y="988" width="176" height="40" />
+    <symbol id="1269:758" name="Size=lg, Social=Figma, Supporting text=True, Theme=Brand, State=Focused" x="1027" y="1048" width="203" height="44" />
+    <symbol id="11767:540009" name="Size=md, Social=Figma, Supporting text=True, Theme=Brand, State=Focused" x="16" y="1048" width="176" height="40" />
+    <symbol id="1256:132143" name="Size=lg, Social=Figma, Supporting text=True, Theme=Color, State=Default" x="1399" y="928" width="203" height="44" />
+    <symbol id="11767:540012" name="Size=md, Social=Figma, Supporting text=True, Theme=Color, State=Default" x="353" y="928" width="176" height="40" />
+    <symbol id="1269:359" name="Size=lg, Social=Figma, Supporting text=True, Theme=Color, State=Hover" x="1399" y="988" width="203" height="44" />
+    <symbol id="11767:540015" name="Size=md, Social=Figma, Supporting text=True, Theme=Color, State=Hover" x="353" y="988" width="176" height="40" />
+    <symbol id="1269:737" name="Size=lg, Social=Figma, Supporting text=True, Theme=Color, State=Focused" x="1399" y="1048" width="203" height="44" />
+    <symbol id="11767:540018" name="Size=md, Social=Figma, Supporting text=True, Theme=Color, State=Focused" x="353" y="1048" width="176" height="40" />
+    <symbol id="1256:132901" name="Size=lg, Social=Figma, Supporting text=True, Theme=Gray, State=Default" x="1771" y="928" width="203" height="44" />
+    <symbol id="11767:540021" name="Size=md, Social=Figma, Supporting text=True, Theme=Gray, State=Default" x="690" y="928" width="176" height="40" />
+    <symbol id="1269:356" name="Size=lg, Social=Figma, Supporting text=True, Theme=Gray, State=Hover" x="1771" y="988" width="203" height="44" />
+    <symbol id="11767:540024" name="Size=md, Social=Figma, Supporting text=True, Theme=Gray, State=Hover" x="690" y="988" width="176" height="40" />
+    <symbol id="1269:764" name="Size=lg, Social=Figma, Supporting text=True, Theme=Gray, State=Focused" x="1771" y="1048" width="203" height="44" />
+    <symbol id="11767:540027" name="Size=md, Social=Figma, Supporting text=True, Theme=Gray, State=Focused" x="690" y="1048" width="176" height="40" />
+    <symbol id="1256:132085" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Brand, State=Default" x="1027" y="1156" width="222" height="44" />
+    <symbol id="11767:540030" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Brand, State=Default" x="16" y="1156" width="192" height="40" />
+    <symbol id="1269:380" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Brand, State=Hover" x="1027" y="1216" width="222" height="44" />
+    <symbol id="11767:540033" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Brand, State=Hover" x="16" y="1216" width="192" height="40" />
+    <symbol id="1269:726" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Brand, State=Focused" x="1027" y="1276" width="222" height="44" />
+    <symbol id="11767:540036" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Brand, State=Focused" x="16" y="1276" width="192" height="40" />
+    <symbol id="1256:132138" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Color, State=Default" x="1399" y="1156" width="222" height="44" />
+    <symbol id="11767:540039" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Color, State=Default" x="353" y="1156" width="192" height="40" />
+    <symbol id="1269:396" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Color, State=Hover" x="1399" y="1216" width="222" height="44" />
+    <symbol id="11767:540042" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Color, State=Hover" x="353" y="1216" width="192" height="40" />
+    <symbol id="1269:743" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Color, State=Focused" x="1399" y="1276" width="222" height="44" />
+    <symbol id="11767:540045" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Color, State=Focused" x="353" y="1276" width="192" height="40" />
+    <symbol id="1256:132893" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Gray, State=Default" x="1771" y="1156" width="222" height="44" />
+    <symbol id="11767:540048" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Gray, State=Default" x="690" y="1156" width="192" height="40" />
+    <symbol id="1269:373" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Gray, State=Hover" x="1771" y="1216" width="222" height="44" />
+    <symbol id="11767:540051" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Gray, State=Hover" x="690" y="1216" width="192" height="40" />
+    <symbol id="1269:721" name="Size=lg, Social=Dribbble, Supporting text=True, Theme=Gray, State=Focused" x="1771" y="1276" width="222" height="44" />
+    <symbol id="11767:540054" name="Size=md, Social=Dribbble, Supporting text=True, Theme=Gray, State=Focused" x="690" y="1276" width="192" height="40" />
+    <symbol id="1256:132033" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Brand, State=Default" x="1027" y="700" width="167" height="44" />
+    <symbol id="11767:540057" name="Size=md, Social=Twitter, Supporting text=True, Theme=Brand, State=Default" x="16" y="700" width="144" height="40" />
+    <symbol id="1269:387" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Brand, State=Hover" x="1027" y="760" width="167" height="44" />
+    <symbol id="11767:540060" name="Size=md, Social=Twitter, Supporting text=True, Theme=Brand, State=Hover" x="16" y="760" width="144" height="40" />
+    <symbol id="1269:731" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Brand, State=Focused" x="1027" y="820" width="167" height="44" />
+    <symbol id="11767:540063" name="Size=md, Social=Twitter, Supporting text=True, Theme=Brand, State=Focused" x="16" y="820" width="144" height="40" />
+    <symbol id="1256:132135" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Color, State=Default" x="1399" y="700" width="167" height="44" />
+    <symbol id="11767:540066" name="Size=md, Social=Twitter, Supporting text=True, Theme=Color, State=Default" x="353" y="700" width="144" height="40" />
+    <symbol id="1269:362" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Color, State=Hover" x="1399" y="760" width="167" height="44" />
+    <symbol id="11767:540069" name="Size=md, Social=Twitter, Supporting text=True, Theme=Color, State=Hover" x="353" y="760" width="144" height="40" />
+    <symbol id="1269:718" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Color, State=Focused" x="1399" y="820" width="167" height="44" />
+    <symbol id="11767:540072" name="Size=md, Social=Twitter, Supporting text=True, Theme=Color, State=Focused" x="353" y="820" width="144" height="40" />
+    <symbol id="1256:132890" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Gray, State=Default" x="1771" y="700" width="167" height="44" />
+    <symbol id="11767:540075" name="Size=md, Social=Twitter, Supporting text=True, Theme=Gray, State=Default" x="690" y="700" width="144" height="40" />
+    <symbol id="1269:413" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Gray, State=Hover" x="1771" y="760" width="167" height="44" />
+    <symbol id="11767:540078" name="Size=md, Social=Twitter, Supporting text=True, Theme=Gray, State=Hover" x="690" y="760" width="144" height="40" />
+    <symbol id="1269:769" name="Size=lg, Social=Twitter, Supporting text=True, Theme=Gray, State=Focused" x="1771" y="820" width="167" height="44" />
+    <symbol id="11767:540081" name="Size=md, Social=Twitter, Supporting text=True, Theme=Gray, State=Focused" x="690" y="820" width="144" height="40" />
+    <symbol id="1256:131971" name="Size=lg, Social=Apple, Supporting text=True, Theme=Color, State=Default" x="1399" y="472" width="202" height="44" />
+    <symbol id="11767:540084" name="Size=md, Social=Apple, Supporting text=True, Theme=Color, State=Default" x="353" y="472" width="174" height="40" />
+    <symbol id="1269:353" name="Size=lg, Social=Apple, Supporting text=True, Theme=Color, State=Hover" x="1399" y="532" width="202" height="44" />
+    <symbol id="11767:540087" name="Size=md, Social=Apple, Supporting text=True, Theme=Color, State=Hover" x="353" y="532" width="174" height="40" />
+    <symbol id="1269:715" name="Size=lg, Social=Apple, Supporting text=True, Theme=Color, State=Focused" x="1399" y="592" width="202" height="44" />
+    <symbol id="11767:540090" name="Size=md, Social=Apple, Supporting text=True, Theme=Color, State=Focused" x="353" y="592" width="174" height="40" />
+    <symbol id="1256:132887" name="Size=lg, Social=Apple, Supporting text=True, Theme=Gray, State=Default" x="1771" y="472" width="202" height="44" />
+    <symbol id="11767:540093" name="Size=md, Social=Apple, Supporting text=True, Theme=Gray, State=Default" x="690" y="472" width="174" height="40" />
+    <symbol id="1269:350" name="Size=lg, Social=Apple, Supporting text=True, Theme=Gray, State=Hover" x="1771" y="532" width="202" height="44" />
+    <symbol id="11767:540096" name="Size=md, Social=Apple, Supporting text=True, Theme=Gray, State=Hover" x="690" y="532" width="174" height="40" />
+    <symbol id="1269:712" name="Size=lg, Social=Apple, Supporting text=True, Theme=Gray, State=Focused" x="1771" y="592" width="202" height="44" />
+    <symbol id="11767:540099" name="Size=md, Social=Apple, Supporting text=True, Theme=Gray, State=Focused" x="690" y="592" width="174" height="40" />
+    <symbol id="1256:130875" name="Size=lg, Social=Apple, Supporting text=False, Theme=Brand, State=Default" x="1293" y="472" width="44" height="44" />
+    <symbol id="11767:540102" name="Size=md, Social=Apple, Supporting text=False, Theme=Brand, State=Default" x="249" y="472" width="40" height="40" />
+    <symbol id="1269:348" name="Size=lg, Social=Apple, Supporting text=False, Theme=Brand, State=Hover" x="1293" y="532" width="44" height="44" />
+    <symbol id="11767:540104" name="Size=md, Social=Apple, Supporting text=False, Theme=Brand, State=Hover" x="249" y="532" width="40" height="40" />
+    <symbol id="1269:710" name="Size=lg, Social=Apple, Supporting text=False, Theme=Brand, State=Focused" x="1293" y="592" width="44" height="44" />
+    <symbol id="11767:540106" name="Size=md, Social=Apple, Supporting text=False, Theme=Brand, State=Focused" x="249" y="592" width="40" height="40" />
+    <symbol id="1256:132049" name="Size=lg, Social=Figma, Supporting text=False, Theme=Brand, State=Default" x="1293" y="928" width="44" height="44" />
+    <symbol id="11767:540108" name="Size=md, Social=Figma, Supporting text=False, Theme=Brand, State=Default" x="249" y="928" width="40" height="40" />
+    <symbol id="1269:346" name="Size=lg, Social=Figma, Supporting text=False, Theme=Brand, State=Hover" x="1293" y="988" width="44" height="44" />
+    <symbol id="11767:540110" name="Size=md, Social=Figma, Supporting text=False, Theme=Brand, State=Hover" x="249" y="988" width="40" height="40" />
+    <symbol id="1269:708" name="Size=lg, Social=Figma, Supporting text=False, Theme=Brand, State=Focused" x="1293" y="1048" width="44" height="44" />
+    <symbol id="11767:540112" name="Size=md, Social=Figma, Supporting text=False, Theme=Brand, State=Focused" x="249" y="1048" width="40" height="40" />
+    <symbol id="1256:132141" name="Size=lg, Social=Figma, Supporting text=False, Theme=Color, State=Default" x="1663" y="928" width="44" height="44" />
+    <symbol id="11767:540114" name="Size=md, Social=Figma, Supporting text=False, Theme=Color, State=Default" x="586" y="928" width="40" height="40" />
+    <symbol id="1269:344" name="Size=lg, Social=Figma, Supporting text=False, Theme=Color, State=Hover" x="1663" y="988" width="44" height="44" />
+    <symbol id="11767:540116" name="Size=md, Social=Figma, Supporting text=False, Theme=Color, State=Hover" x="586" y="988" width="40" height="40" />
+    <symbol id="1269:706" name="Size=lg, Social=Figma, Supporting text=False, Theme=Color, State=Focused" x="1663" y="1048" width="44" height="44" />
+    <symbol id="11767:540118" name="Size=md, Social=Figma, Supporting text=False, Theme=Color, State=Focused" x="586" y="1048" width="40" height="40" />
+    <symbol id="1256:132885" name="Size=lg, Social=Figma, Supporting text=False, Theme=Gray, State=Default" x="2035" y="928" width="44" height="44" />
+    <symbol id="11767:540120" name="Size=md, Social=Figma, Supporting text=False, Theme=Gray, State=Default" x="923" y="928" width="40" height="40" />
+    <symbol id="1269:342" name="Size=lg, Social=Figma, Supporting text=False, Theme=Gray, State=Hover" x="2035" y="988" width="44" height="44" />
+    <symbol id="11767:540122" name="Size=md, Social=Figma, Supporting text=False, Theme=Gray, State=Hover" x="923" y="988" width="40" height="40" />
+    <symbol id="1269:704" name="Size=lg, Social=Figma, Supporting text=False, Theme=Gray, State=Focused" x="2035" y="1048" width="44" height="44" />
+    <symbol id="11767:540124" name="Size=md, Social=Figma, Supporting text=False, Theme=Gray, State=Focused" x="923" y="1048" width="40" height="40" />
+    <symbol id="1256:132083" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Brand, State=Default" x="1293" y="1156" width="44" height="44" />
+    <symbol id="11767:540126" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Brand, State=Default" x="249" y="1156" width="40" height="40" />
+    <symbol id="1269:340" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Brand, State=Hover" x="1293" y="1216" width="44" height="44" />
+    <symbol id="11767:540128" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Brand, State=Hover" x="249" y="1216" width="40" height="40" />
+    <symbol id="1269:702" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Brand, State=Focused" x="1293" y="1276" width="44" height="44" />
+    <symbol id="11767:540130" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Brand, State=Focused" x="249" y="1276" width="40" height="40" />
+    <symbol id="1256:132133" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Color, State=Default" x="1663" y="1156" width="44" height="44" />
+    <symbol id="11767:540132" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Color, State=Default" x="586" y="1156" width="40" height="40" />
+    <symbol id="1269:338" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Color, State=Hover" x="1663" y="1216" width="44" height="44" />
+    <symbol id="11767:540134" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Color, State=Hover" x="586" y="1216" width="40" height="40" />
+    <symbol id="1269:700" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Color, State=Focused" x="1663" y="1276" width="44" height="44" />
+    <symbol id="11767:540136" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Color, State=Focused" x="586" y="1276" width="40" height="40" />
+    <symbol id="1256:132883" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Gray, State=Default" x="2035" y="1156" width="44" height="44" />
+    <symbol id="11767:540138" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Gray, State=Default" x="923" y="1156" width="40" height="40" />
+    <symbol id="1269:336" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Gray, State=Hover" x="2035" y="1216" width="44" height="44" />
+    <symbol id="11767:540140" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Gray, State=Hover" x="923" y="1216" width="40" height="40" />
+    <symbol id="1269:698" name="Size=lg, Social=Dribbble, Supporting text=False, Theme=Gray, State=Focused" x="2035" y="1276" width="44" height="44" />
+    <symbol id="11767:540142" name="Size=md, Social=Dribbble, Supporting text=False, Theme=Gray, State=Focused" x="923" y="1276" width="40" height="40" />
+    <symbol id="1256:132031" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Brand, State=Default" x="1293" y="700" width="44" height="44" />
+    <symbol id="11767:540144" name="Size=md, Social=Twitter, Supporting text=False, Theme=Brand, State=Default" x="249" y="700" width="40" height="40" />
+    <symbol id="1269:334" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Brand, State=Hover" x="1293" y="760" width="44" height="44" />
+    <symbol id="11767:540146" name="Size=md, Social=Twitter, Supporting text=False, Theme=Brand, State=Hover" x="249" y="760" width="40" height="40" />
+    <symbol id="1269:696" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Brand, State=Focused" x="1293" y="820" width="44" height="44" />
+    <symbol id="11767:540148" name="Size=md, Social=Twitter, Supporting text=False, Theme=Brand, State=Focused" x="249" y="820" width="40" height="40" />
+    <symbol id="1256:132131" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Color, State=Default" x="1663" y="700" width="44" height="44" />
+    <symbol id="11767:540150" name="Size=md, Social=Twitter, Supporting text=False, Theme=Color, State=Default" x="586" y="700" width="40" height="40" />
+    <symbol id="1269:385" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Color, State=Hover" x="1663" y="760" width="44" height="44" />
+    <symbol id="11767:540152" name="Size=md, Social=Twitter, Supporting text=False, Theme=Color, State=Hover" x="586" y="760" width="40" height="40" />
+    <symbol id="1269:694" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Color, State=Focused" x="1663" y="820" width="44" height="44" />
+    <symbol id="11767:540154" name="Size=md, Social=Twitter, Supporting text=False, Theme=Color, State=Focused" x="586" y="820" width="40" height="40" />
+    <symbol id="1256:132904" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Gray, State=Default" x="2035" y="700" width="44" height="44" />
+    <symbol id="11767:540156" name="Size=md, Social=Twitter, Supporting text=False, Theme=Gray, State=Default" x="923" y="700" width="40" height="40" />
+    <symbol id="1269:378" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Gray, State=Hover" x="2035" y="760" width="44" height="44" />
+    <symbol id="11767:540158" name="Size=md, Social=Twitter, Supporting text=False, Theme=Gray, State=Hover" x="923" y="760" width="40" height="40" />
+    <symbol id="1269:692" name="Size=lg, Social=Twitter, Supporting text=False, Theme=Gray, State=Focused" x="2035" y="820" width="44" height="44" />
+    <symbol id="11767:540160" name="Size=md, Social=Twitter, Supporting text=False, Theme=Gray, State=Focused" x="923" y="820" width="40" height="40" />
+    <symbol id="1256:131969" name="Size=lg, Social=Apple, Supporting text=False, Theme=Color, State=Default" x="1663" y="472" width="44" height="44" />
+    <symbol id="11767:540162" name="Size=md, Social=Apple, Supporting text=False, Theme=Color, State=Default" x="586" y="472" width="40" height="40" />
+    <symbol id="1269:411" name="Size=lg, Social=Apple, Supporting text=False, Theme=Color, State=Hover" x="1663" y="532" width="44" height="44" />
+    <symbol id="11767:540164" name="Size=md, Social=Apple, Supporting text=False, Theme=Color, State=Hover" x="586" y="532" width="40" height="40" />
+    <symbol id="1269:756" name="Size=lg, Social=Apple, Supporting text=False, Theme=Color, State=Focused" x="1663" y="592" width="44" height="44" />
+    <symbol id="11767:540166" name="Size=md, Social=Apple, Supporting text=False, Theme=Color, State=Focused" x="586" y="592" width="40" height="40" />
+    <symbol id="1256:132881" name="Size=lg, Social=Apple, Supporting text=False, Theme=Gray, State=Default" x="2035" y="472" width="44" height="44" />
+    <symbol id="11767:540168" name="Size=md, Social=Apple, Supporting text=False, Theme=Gray, State=Default" x="923" y="472" width="40" height="40" />
+    <symbol id="1269:371" name="Size=lg, Social=Apple, Supporting text=False, Theme=Gray, State=Hover" x="2035" y="532" width="44" height="44" />
+    <symbol id="11767:540170" name="Size=md, Social=Apple, Supporting text=False, Theme=Gray, State=Hover" x="923" y="532" width="40" height="40" />
+    <symbol id="1269:690" name="Size=lg, Social=Apple, Supporting text=False, Theme=Gray, State=Focused" x="2035" y="592" width="44" height="44" />
+    <symbol id="11767:540172" name="Size=md, Social=Apple, Supporting text=False, Theme=Gray, State=Focused" x="923" y="592" width="40" height="40" />
+  </frame>
+  <frame id="1256:132638" name="Buttons/Social button group" x="5050" y="590" width="1440" height="628">
+    <symbol id="11768:541776" name="Size=md, Style=Buttons, Theme=Color" x="16" y="236" width="320" height="140" />
+    <symbol id="11768:541781" name="Size=md, Style=Buttons, Theme=Gray" x="16" y="456" width="320" height="140" />
+    <symbol id="11768:541786" name="Size=md, Style=Buttons, Theme=Brand" x="16" y="16" width="320" height="140" />
+    <symbol id="11768:541791" name="Size=md, Style=Icons, Theme=Color" x="368" y="236" width="320" height="40" />
+    <symbol id="11768:541796" name="Size=md, Style=Icons, Theme=Gray" x="368" y="456" width="320" height="40" />
+    <symbol id="11768:541801" name="Size=md, Style=Icons, Theme=Brand" x="368" y="16" width="320" height="40" />
+    <symbol id="1256:132637" name="Size=lg, Style=Buttons, Theme=Color" x="752" y="236" width="320" height="156" />
+    <symbol id="1256:132987" name="Size=lg, Style=Buttons, Theme=Gray" x="752" y="456" width="320" height="156" />
+    <symbol id="1256:132758" name="Size=lg, Style=Buttons, Theme=Brand" x="752" y="16" width="320" height="156" />
+    <symbol id="1256:132636" name="Size=lg, Style=Icons, Theme=Color" x="1104" y="236" width="320" height="44" />
+    <symbol id="1256:132982" name="Size=lg, Style=Icons, Theme=Gray" x="1104" y="456" width="320" height="44" />
+    <symbol id="1256:132753" name="Size=lg, Style=Icons, Theme=Brand" x="1104" y="16" width="320" height="44" />
+  </frame>
+  <frame id="1303:2162" name="Mobile app store badge" x="7050" y="590" width="1804" height="136">
+    <symbol id="1303:2163" name="Size=md, Store=Google Play, Style=Outline" x="16" y="72" width="135" height="40" />
+    <symbol id="1316:1060" name="Size=lg, Store=Google Play, Style=Outline" x="899" y="72" width="148.5" height="44" />
+    <symbol id="1303:2170" name="Size=md, Store=App Store, Style=Outline" x="183" y="72" width="120" height="40" />
+    <symbol id="1316:1045" name="Size=lg, Store=App Store, Style=Outline" x="1080" y="76" width="132" height="44" />
+    <symbol id="1303:2174" name="Size=md, Store=Galaxy Store, Style=Outline" x="523" y="72" width="147" height="40" />
+    <symbol id="1316:1036" name="Size=lg, Store=Galaxy Store, Style=Outline" x="1448" y="76" width="161.6999969482422" height="44" />
+    <symbol id="1303:2180" name="Size=md, Store=AppGallery, Style=Outline" x="702" y="72" width="133" height="40" />
+    <symbol id="1316:1027" name="Size=lg, Store=AppGallery, Style=Outline" x="1642" y="76" width="146.3000030517578" height="44" />
+    <symbol id="1303:2188" name="Size=md, Store=Google Play, Style=Brand" x="16" y="16" width="135" height="40" />
+    <symbol id="1316:1011" name="Size=lg, Store=Google Play, Style=Brand" x="899" y="16" width="148.5" height="44" />
+    <symbol id="1303:2196" name="Size=md, Store=App Store, Style=Brand" x="183" y="16" width="120" height="40" />
+    <symbol id="1316:1007" name="Size=lg, Store=App Store, Style=Brand" x="1080" y="16" width="132" height="44" />
+    <symbol id="1303:2200" name="Size=md, Store=Galaxy Store, Style=Brand" x="523" y="16" width="147" height="40" />
+    <symbol id="1316:1000" name="Size=lg, Store=Galaxy Store, Style=Brand" x="1448" y="16" width="161.6999969482422" height="44" />
+    <symbol id="1303:2207" name="Size=md, Store=AppGallery, Style=Brand" x="702" y="16" width="133" height="40" />
+    <symbol id="1316:993" name="Size=lg, Store=AppGallery, Style=Brand" x="1642" y="16" width="146.3000030517578" height="44" />
+    <symbol id="8284:2195" name="Size=md, Store=Mac App Store, Style=Brand" x="335" y="16" width="156" height="40" />
+    <symbol id="8284:20814" name="Size=lg, Store=Mac App Store, Style=Brand" x="1244" y="16" width="172" height="44" />
+    <symbol id="8284:20802" name="Size=md, Store=Mac App Store, Style=Outline" x="335" y="72" width="156" height="40" />
+    <symbol id="8284:20818" name="Size=lg, Store=Mac App Store, Style=Outline" x="1244" y="76" width="172" height="44" />
+  </frame>
+  <instance id="1532:357069" name="Design system header" x="-1.4210854715202004e-14" y="0" width="2400" height="462" />
+  <instance id="1532:357364" name="Design system header" x="2800" y="0" width="3770" height="462" />
+  <instance id="1532:357673" name="Design system header" x="6970" y="0" width="2400" height="462" />
+  <frame id="1532:357715" name="Notes and documentation (you can delete this)" x="9770" y="0" width="1600" height="11446">
+    <instance id="6723:26531" name="Design system header" x="0" y="0" width="1600" height="462" />
+    <frame id="1532:357717" name="Section" x="0" y="462" width="1600" height="10598">
+      <frame id="3956:470983" name="Rich text" x="80" y="80" width="720" height="10438">
+        <instance id="3956:470984" name="Content item" x="0" y="0" width="720" height="58" />
+        <instance id="3956:470985" name="Content item" x="0" y="58" width="720" height="260" />
+        <frame id="3956:470986" name="Image wrap" x="0" y="318" width="720" height="384">
+          <frame id="12573:6833" name="Documentation image" x="0" y="32" width="720" height="320">
+            <frame id="13036:555737" name="Buttons 01" x="0" y="0" width="720" height="320" />
+          </frame>
+        </frame>
+        <instance id="3956:470997" name="Content item" x="0" y="702" width="720" height="56" />
+        <frame id="3956:470998" name="Image wrap" x="0" y="758" width="720" height="352">
+          <frame id="12573:6839" name="Documentation image" x="0" y="32" width="720" height="320">
+            <frame id="13036:555734" name="Buttons 02" x="0" y="0" width="720" height="320" />
+          </frame>
+        </frame>
+        <instance id="3956:471010" name="Content item" x="0" y="1110" width="720" height="96" />
+        <instance id="3956:471011" name="Content item" x="0" y="1206" width="720" height="58" />
+        <instance id="3956:471012" name="Content item" x="0" y="1264" width="720" height="344" />
+        <frame id="3956:471013" name="Image wrap" x="0" y="1608" width="720" height="384">
+          <frame id="12573:6843" name="Documentation image" x="0" y="32" width="720" height="320">
+            <frame id="13036:555738" name="Button hierarchy" x="0" y="0" width="720" height="320" />
+          </frame>
+        </frame>
+        <instance id="3956:471026" name="Content item" x="0" y="1992" width="720" height="84" />
+        <frame id="3956:471027" name="Image wrap" x="0" y="2076" width="720" height="352">
+          <frame id="12573:6847" name="Documentation image" x="0" y="32" width="720" height="320">
+            <frame id="13036:555736" name="Buttons without hierarchy" x="0" y="0" width="720" height="320" />
+          </frame>
+        </frame>
+        <instance id="3956:471034" name="Content item" x="0" y="2428" width="720" height="96" />
+        <instance id="3956:471035" name="Content item" x="0" y="2524" width="720" height="58" />
+        <instance id="3956:471036" name="Content item" x="0" y="2582" width="720" height="84" />
+        <frame id="3956:471037" name="Image wrap" x="0" y="2666" width="720" height="544">
+          <frame id="12573:6851" name="Documentation image" x="0" y="32" width="720" height="480">
+            <frame id="13036:555735" name="Modal with destructive button" x="0" y="0" width="720" height="480" />
+          </frame>
+        </frame>
+        <instance id="3956:471039" name="Content item" x="0" y="3210" width="720" height="28" />
+        <frame id="3956:471040" name="Image wrap" x="0" y="3238" width="720" height="544">
+          <frame id="12573:6855" name="Documentation image" x="0" y="32" width="720" height="480">
+            <frame id="13036:555730" name="Modal without destructive button" x="0" y="0" width="720" height="480" />
+          </frame>
+        </frame>
+        <instance id="3956:471042" name="Content item" x="0" y="3782" width="720" height="84" />
+        <frame id="3956:471043" name="Image wrap" x="0" y="3866" width="720" height="544">
+          <frame id="12573:6859" name="Documentation image" x="0" y="32" width="720" height="480">
+            <frame id="13036:555725" name="Modal for destructive actions" x="0" y="0" width="720" height="480" />
+          </frame>
+        </frame>
+        <instance id="6464:71666" name="Content item" x="0" y="4410" width="720" height="96" />
+        <instance id="6464:71672" name="Content item" x="0" y="4506" width="720" height="58" />
+        <instance id="6464:71673" name="Content item" x="0" y="4564" width="720" height="214" />
+        <frame id="6464:72297" name="Image wrap" x="0" y="4778" width="720" height="416">
+          <frame id="12573:6863" name="Documentation image" x="0" y="32" width="720" height="352">
+            <frame id="13036:555729" name="Icon padding and structure" x="0" y="0" width="720" height="352" />
+          </frame>
+        </frame>
+        <instance id="6464:72299" name="Content item" x="0" y="5194" width="720" height="84" />
+        <frame id="6464:72302" name="Image wrap" x="0" y="5278" width="720" height="430">
+          <frame id="12573:6867" name="Documentation image" x="0" y="32" width="720" height="366">
+            <frame id="13036:555732" name="Button icon padding example" x="0" y="0" width="720" height="366" />
+          </frame>
+        </frame>
+        <instance id="6562:266165" name="Content item" x="0" y="5708" width="720" height="158" />
+        <frame id="6562:266169" name="Image wrap" x="0" y="5866" width="720" height="506">
+          <frame id="12573:6871" name="Documentation image" x="0" y="32" width="720" height="442">
+            <frame id="13036:555728" name="Button padding increases" x="0" y="0" width="720" height="442" />
+          </frame>
+        </frame>
+        <instance id="6562:266171" name="Content item" x="0" y="6372" width="720" height="158" />
+        <frame id="6562:266174" name="Image wrap" x="0" y="6530" width="720" height="446">
+          <frame id="12573:6875" name="Documentation image" x="0" y="32" width="720" height="414">
+            <frame id="13036:555726" name="Untitled UI buttons" x="0" y="0" width="720" height="414" />
+          </frame>
+        </frame>
+        <instance id="7457:131817" name="Content item" x="0" y="6976" width="720" height="96" />
+        <instance id="7457:131806" name="Content item" x="0" y="7072" width="720" height="58" />
+        <instance id="7457:131807" name="Content item" x="0" y="7130" width="720" height="158" />
+        <frame id="7457:131808" name="Image wrap" x="0" y="7288" width="720" height="672">
+          <frame id="12573:6879" name="Documentation image" x="0" y="32" width="720" height="608">
+            <frame id="13036:555733" name="Buttons with skeuomorphism" x="0" y="0" width="720" height="608" />
+          </frame>
+        </frame>
+        <instance id="7457:131810" name="Content item" x="0" y="7960" width="720" height="260" />
+        <frame id="7457:131811" name="Image wrap" x="0" y="8220" width="720" height="1040">
+          <frame id="12573:6882" name="Documentation image" x="0" y="32" width="720" height="960">
+            <frame id="13036:555727" name="Skeuomorphic effects" x="0" y="0" width="720" height="960" />
+          </frame>
+        </frame>
+        <instance id="7457:131813" name="Content item" x="0" y="9260" width="720" height="48" />
+        <instance id="7457:131814" name="Content item" x="0" y="9308" width="720" height="130" />
+        <frame id="7457:131815" name="Image wrap" x="0" y="9438" width="720" height="1000">
+          <frame id="12573:6885" name="Documentation image" x="0" y="32" width="720" height="968">
+            <frame id="13036:555731" name="Remove skeuomorphic effects" x="0" y="0" width="720" height="968" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <instance id="1532:357863" name="Design system footer" x="0" y="11060" width="1600" height="386" />
+  </frame>
+  <frame id="2763:420129" name="Buttons/Button close X" x="1508" y="590" width="477" height="188">
+    <symbol id="2763:420142" name="Size=lg, Dark background=False, State=Default" x="158" y="16" width="44" height="44" />
+    <symbol id="2763:420384" name="Size=md, Dark background=False, State=Default" x="86" y="16" width="40" height="40" />
+    <symbol id="2763:420456" name="Size=sm, Dark background=False, State=Default" x="18" y="16" width="36" height="36" />
+    <symbol id="2763:420158" name="Size=lg, Dark background=False, State=Focused" x="158" y="128" width="44" height="44" />
+    <symbol id="2763:420392" name="Size=md, Dark background=False, State=Focused" x="86" y="128" width="40" height="40" />
+    <symbol id="2763:420464" name="Size=sm, Dark background=False, State=Focused" x="18" y="128" width="36" height="36" />
+    <symbol id="2763:420174" name="Size=lg, Dark background=False, State=Hover" x="158" y="72" width="44" height="44" />
+    <symbol id="2763:420400" name="Size=md, Dark background=False, State=Hover" x="86" y="72" width="40" height="40" />
+    <symbol id="2763:420472" name="Size=sm, Dark background=False, State=Hover" x="18" y="72" width="36" height="36" />
+    <symbol id="2763:420140" name="Size=lg, Dark background=True, State=Default" x="406" y="16" width="44" height="44" />
+    <symbol id="2763:420382" name="Size=md, Dark background=True, State=Default" x="334" y="16" width="40" height="40" />
+    <symbol id="2763:420454" name="Size=sm, Dark background=True, State=Default" x="266" y="16" width="36" height="36" />
+    <symbol id="2763:420156" name="Size=lg, Dark background=True, State=Focused" x="406" y="128" width="44" height="44" />
+    <symbol id="2763:420390" name="Size=md, Dark background=True, State=Focused" x="334" y="128" width="40" height="40" />
+    <symbol id="2763:420462" name="Size=sm, Dark background=True, State=Focused" x="266" y="128" width="36" height="36" />
+    <symbol id="2763:420172" name="Size=lg, Dark background=True, State=Hover" x="406" y="72" width="44" height="44" />
+    <symbol id="2763:420398" name="Size=md, Dark background=True, State=Hover" x="334" y="72" width="40" height="40" />
+    <symbol id="2763:420470" name="Size=sm, Dark background=True, State=Hover" x="266" y="72" width="36" height="36" />
+  </frame>
+  <frame id="6218:85578" name="Buttons/Button destructive" x="80" y="2286" width="1364" height="1320">
+    <symbol id="3287:427301" name="Size=md, Hierarchy=Primary, State=Default, Icon only=False" x="376" y="16" width="158" height="40" />
+    <symbol id="3287:427313" name="Size=md, Hierarchy=Link, State=Default, Icon only=False" x="376" y="1120" width="126" height="20" />
+    <symbol id="3287:427321" name="Size=md, Hierarchy=Tertiary, State=Default, Icon only=False" x="376" y="752" width="158" height="40" />
+    <symbol id="3287:427325" name="Size=md, Hierarchy=Secondary, State=Default, Icon only=False" x="376" y="384" width="158" height="40" />
+    <symbol id="3287:427329" name="Size=md, Hierarchy=Primary, State=Disabled, Icon only=False" x="376" y="208" width="158" height="40" />
+    <symbol id="3287:427341" name="Size=md, Hierarchy=Link, State=Disabled, Icon only=False" x="376" y="1240" width="126" height="20" />
+    <symbol id="3287:427349" name="Size=md, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="376" y="944" width="158" height="40" />
+    <symbol id="3287:427353" name="Size=md, Hierarchy=Secondary, State=Disabled, Icon only=False" x="376" y="576" width="158" height="40" />
+    <symbol id="3287:427357" name="Size=md, Hierarchy=Primary, State=Focused, Icon only=False" x="376" y="144" width="158" height="40" />
+    <symbol id="3287:427369" name="Size=md, Hierarchy=Link, State=Focused, Icon only=False" x="376" y="1200" width="126" height="20" />
+    <symbol id="3287:427377" name="Size=md, Hierarchy=Tertiary, State=Focused, Icon only=False" x="376" y="880" width="158" height="40" />
+    <symbol id="3287:427381" name="Size=md, Hierarchy=Secondary, State=Focused, Icon only=False" x="376" y="512" width="158" height="40" />
+    <symbol id="3287:427385" name="Size=md, Hierarchy=Primary, State=Hover, Icon only=False" x="376" y="80" width="158" height="40" />
+    <symbol id="8994:552266" name="Size=md, Hierarchy=Primary, State=Loading, Icon only=False" x="376" y="272" width="143" height="40" />
+    <symbol id="3287:427397" name="Size=md, Hierarchy=Link, State=Hover, Icon only=False" x="376" y="1160" width="126" height="20" />
+    <symbol id="8994:552446" name="Size=md, Hierarchy=Link, State=Loading, Icon only=False" x="376" y="1280" width="111" height="20" />
+    <symbol id="3287:427405" name="Size=md, Hierarchy=Tertiary, State=Hover, Icon only=False" x="376" y="816" width="158" height="40" />
+    <symbol id="8994:552271" name="Size=md, Hierarchy=Tertiary, State=Loading, Icon only=False" x="376" y="1008" width="143" height="40" />
+    <symbol id="3287:427409" name="Size=md, Hierarchy=Secondary, State=Hover, Icon only=False" x="376" y="448" width="158" height="40" />
+    <symbol id="8994:552276" name="Size=md, Hierarchy=Secondary, State=Loading, Icon only=False" x="376" y="640" width="143" height="40" />
+    <symbol id="3287:427417" name="Size=md, Hierarchy=Primary, State=Default, Icon only=True" x="1152" y="16" width="40" height="40" />
+    <symbol id="3287:427449" name="Size=md, Hierarchy=Tertiary, State=Default, Icon only=True" x="1152" y="752" width="40" height="40" />
+    <symbol id="3287:427457" name="Size=md, Hierarchy=Secondary, State=Default, Icon only=True" x="1152" y="384" width="40" height="40" />
+    <symbol id="3287:427465" name="Size=md, Hierarchy=Primary, State=Disabled, Icon only=True" x="1152" y="208" width="40" height="40" />
+    <symbol id="3287:427497" name="Size=md, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1152" y="944" width="40" height="40" />
+    <symbol id="3287:427505" name="Size=md, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1152" y="576" width="40" height="40" />
+    <symbol id="3287:427513" name="Size=md, Hierarchy=Primary, State=Focused, Icon only=True" x="1152" y="144" width="40" height="40" />
+    <symbol id="3287:427545" name="Size=md, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1152" y="880" width="40" height="40" />
+    <symbol id="3287:427553" name="Size=md, Hierarchy=Secondary, State=Focused, Icon only=True" x="1152" y="512" width="40" height="40" />
+    <symbol id="3287:427561" name="Size=md, Hierarchy=Primary, State=Hover, Icon only=True" x="1152" y="80" width="40" height="40" />
+    <symbol id="8994:552281" name="Size=md, Hierarchy=Primary, State=Loading, Icon only=True" x="1152" y="272" width="40" height="40" />
+    <symbol id="3287:427593" name="Size=md, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1152" y="816" width="40" height="40" />
+    <symbol id="8994:552283" name="Size=md, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1152" y="1008" width="40" height="40" />
+    <symbol id="3287:427601" name="Size=md, Hierarchy=Secondary, State=Hover, Icon only=True" x="1152" y="448" width="40" height="40" />
+    <symbol id="8994:552285" name="Size=md, Hierarchy=Secondary, State=Loading, Icon only=True" x="1152" y="640" width="40" height="40" />
+    <symbol id="3287:427829" name="Size=lg, Hierarchy=Primary, State=Default, Icon only=False" x="566" y="16" width="177" height="44" />
+    <symbol id="3287:427841" name="Size=lg, Hierarchy=Link, State=Default, Icon only=False" x="566" y="1120" width="141" height="24" />
+    <symbol id="3287:427849" name="Size=lg, Hierarchy=Tertiary, State=Default, Icon only=False" x="566" y="752" width="177" height="44" />
+    <symbol id="3287:427853" name="Size=lg, Hierarchy=Secondary, State=Default, Icon only=False" x="566" y="384" width="177" height="44" />
+    <symbol id="3287:427857" name="Size=lg, Hierarchy=Primary, State=Disabled, Icon only=False" x="566" y="208" width="177" height="44" />
+    <symbol id="3287:427869" name="Size=lg, Hierarchy=Link, State=Disabled, Icon only=False" x="566" y="1240" width="141" height="24" />
+    <symbol id="3287:427877" name="Size=lg, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="566" y="944" width="177" height="44" />
+    <symbol id="3287:427881" name="Size=lg, Hierarchy=Secondary, State=Disabled, Icon only=False" x="566" y="576" width="177" height="44" />
+    <symbol id="3287:427885" name="Size=lg, Hierarchy=Primary, State=Focused, Icon only=False" x="566" y="144" width="177" height="44" />
+    <symbol id="3287:427897" name="Size=lg, Hierarchy=Link, State=Focused, Icon only=False" x="566" y="1200" width="141" height="24" />
+    <symbol id="3287:427905" name="Size=lg, Hierarchy=Tertiary, State=Focused, Icon only=False" x="566" y="880" width="177" height="44" />
+    <symbol id="3287:427909" name="Size=lg, Hierarchy=Secondary, State=Focused, Icon only=False" x="566" y="512" width="177" height="44" />
+    <symbol id="3287:427913" name="Size=lg, Hierarchy=Primary, State=Hover, Icon only=False" x="566" y="80" width="177" height="44" />
+    <symbol id="8994:552287" name="Size=lg, Hierarchy=Primary, State=Loading, Icon only=False" x="566" y="272" width="161" height="44" />
+    <symbol id="3287:427925" name="Size=lg, Hierarchy=Link, State=Hover, Icon only=False" x="566" y="1160" width="141" height="24" />
+    <symbol id="8994:552450" name="Size=lg, Hierarchy=Link, State=Loading, Icon only=False" x="566" y="1280" width="125" height="24" />
+    <symbol id="3287:427933" name="Size=lg, Hierarchy=Tertiary, State=Hover, Icon only=False" x="566" y="816" width="177" height="44" />
+    <symbol id="8994:552292" name="Size=lg, Hierarchy=Tertiary, State=Loading, Icon only=False" x="566" y="1008" width="161" height="44" />
+    <symbol id="3287:427937" name="Size=lg, Hierarchy=Secondary, State=Hover, Icon only=False" x="566" y="448" width="177" height="44" />
+    <symbol id="8994:552297" name="Size=lg, Hierarchy=Secondary, State=Loading, Icon only=False" x="566" y="640" width="161" height="44" />
+    <symbol id="3287:427945" name="Size=lg, Hierarchy=Primary, State=Default, Icon only=True" x="1224" y="16" width="44" height="44" />
+    <symbol id="3287:427977" name="Size=lg, Hierarchy=Tertiary, State=Default, Icon only=True" x="1224" y="752" width="44" height="44" />
+    <symbol id="3287:427985" name="Size=lg, Hierarchy=Secondary, State=Default, Icon only=True" x="1224" y="384" width="44" height="44" />
+    <symbol id="3287:427993" name="Size=lg, Hierarchy=Primary, State=Disabled, Icon only=True" x="1224" y="208" width="44" height="44" />
+    <symbol id="3287:428025" name="Size=lg, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1224" y="944" width="44" height="44" />
+    <symbol id="3287:428033" name="Size=lg, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1224" y="576" width="44" height="44" />
+    <symbol id="3287:428041" name="Size=lg, Hierarchy=Primary, State=Focused, Icon only=True" x="1224" y="144" width="44" height="44" />
+    <symbol id="3287:428073" name="Size=lg, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1224" y="880" width="44" height="44" />
+    <symbol id="3287:428081" name="Size=lg, Hierarchy=Secondary, State=Focused, Icon only=True" x="1224" y="512" width="44" height="44" />
+    <symbol id="3287:428089" name="Size=lg, Hierarchy=Primary, State=Hover, Icon only=True" x="1224" y="80" width="44" height="44" />
+    <symbol id="8994:552302" name="Size=lg, Hierarchy=Primary, State=Loading, Icon only=True" x="1224" y="272" width="44" height="44" />
+    <symbol id="3287:428121" name="Size=lg, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1224" y="816" width="44" height="44" />
+    <symbol id="8994:552304" name="Size=lg, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1224" y="1008" width="44" height="44" />
+    <symbol id="3287:428129" name="Size=lg, Hierarchy=Secondary, State=Hover, Icon only=True" x="1224" y="448" width="44" height="44" />
+    <symbol id="8994:552306" name="Size=lg, Hierarchy=Secondary, State=Loading, Icon only=True" x="1224" y="640" width="44" height="44" />
+    <symbol id="3287:428583" name="Size=xl, Hierarchy=Primary, State=Default, Icon only=False" x="775" y="16" width="181" height="48" />
+    <symbol id="3287:428607" name="Size=xl, Hierarchy=Link, State=Default, Icon only=False" x="775" y="1120" width="141" height="24" />
+    <symbol id="3287:428623" name="Size=xl, Hierarchy=Tertiary, State=Default, Icon only=False" x="775" y="752" width="181" height="48" />
+    <symbol id="3287:428631" name="Size=xl, Hierarchy=Secondary, State=Default, Icon only=False" x="775" y="384" width="181" height="48" />
+    <symbol id="3287:428639" name="Size=xl, Hierarchy=Primary, State=Disabled, Icon only=False" x="775" y="208" width="181" height="48" />
+    <symbol id="3287:428663" name="Size=xl, Hierarchy=Link, State=Disabled, Icon only=False" x="775" y="1240" width="141" height="24" />
+    <symbol id="3287:428679" name="Size=xl, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="775" y="944" width="181" height="48" />
+    <symbol id="3287:428687" name="Size=xl, Hierarchy=Secondary, State=Disabled, Icon only=False" x="775" y="576" width="181" height="48" />
+    <symbol id="3287:428695" name="Size=xl, Hierarchy=Primary, State=Focused, Icon only=False" x="775" y="144" width="181" height="48" />
+    <symbol id="3287:428719" name="Size=xl, Hierarchy=Link, State=Focused, Icon only=False" x="775" y="1200" width="141" height="24" />
+    <symbol id="3287:428735" name="Size=xl, Hierarchy=Tertiary, State=Focused, Icon only=False" x="775" y="880" width="181" height="48" />
+    <symbol id="3287:428743" name="Size=xl, Hierarchy=Secondary, State=Focused, Icon only=False" x="775" y="512" width="181" height="48" />
+    <symbol id="3287:428751" name="Size=xl, Hierarchy=Primary, State=Hover, Icon only=False" x="775" y="80" width="181" height="48" />
+    <symbol id="8994:552308" name="Size=xl, Hierarchy=Primary, State=Loading, Icon only=False" x="775" y="272" width="165" height="48" />
+    <symbol id="3287:428775" name="Size=xl, Hierarchy=Link, State=Hover, Icon only=False" x="775" y="1160" width="141" height="24" />
+    <symbol id="8994:552454" name="Size=xl, Hierarchy=Link, State=Loading, Icon only=False" x="775" y="1280" width="125" height="24" />
+    <symbol id="3287:428791" name="Size=xl, Hierarchy=Tertiary, State=Hover, Icon only=False" x="775" y="816" width="181" height="48" />
+    <symbol id="8994:552318" name="Size=xl, Hierarchy=Tertiary, State=Loading, Icon only=False" x="775" y="1008" width="165" height="48" />
+    <symbol id="3287:428799" name="Size=xl, Hierarchy=Secondary, State=Hover, Icon only=False" x="775" y="448" width="181" height="48" />
+    <symbol id="8994:552328" name="Size=xl, Hierarchy=Secondary, State=Loading, Icon only=False" x="775" y="640" width="165" height="48" />
+    <symbol id="3287:428815" name="Size=xl, Hierarchy=Primary, State=Default, Icon only=True" x="1300" y="16" width="48" height="48" />
+    <symbol id="3287:428879" name="Size=xl, Hierarchy=Tertiary, State=Default, Icon only=True" x="1300" y="752" width="48" height="48" />
+    <symbol id="3287:428895" name="Size=xl, Hierarchy=Secondary, State=Default, Icon only=True" x="1300" y="384" width="48" height="48" />
+    <symbol id="3287:428911" name="Size=xl, Hierarchy=Primary, State=Disabled, Icon only=True" x="1300" y="208" width="48" height="48" />
+    <symbol id="3287:428975" name="Size=xl, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1300" y="944" width="48" height="48" />
+    <symbol id="3287:428991" name="Size=xl, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1300" y="576" width="48" height="48" />
+    <symbol id="3287:429007" name="Size=xl, Hierarchy=Primary, State=Focused, Icon only=True" x="1300" y="144" width="48" height="48" />
+    <symbol id="3287:429071" name="Size=xl, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1300" y="880" width="48" height="48" />
+    <symbol id="3287:429087" name="Size=xl, Hierarchy=Secondary, State=Focused, Icon only=True" x="1300" y="512" width="48" height="48" />
+    <symbol id="3287:429103" name="Size=xl, Hierarchy=Primary, State=Hover, Icon only=True" x="1300" y="80" width="48" height="48" />
+    <symbol id="8994:552338" name="Size=xl, Hierarchy=Primary, State=Loading, Icon only=True" x="1300" y="272" width="48" height="48" />
+    <symbol id="3287:429167" name="Size=xl, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1300" y="816" width="48" height="48" />
+    <symbol id="8994:552342" name="Size=xl, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1300" y="1008" width="48" height="48" />
+    <symbol id="3287:429183" name="Size=xl, Hierarchy=Secondary, State=Hover, Icon only=True" x="1300" y="448" width="48" height="48" />
+    <symbol id="8994:552346" name="Size=xl, Hierarchy=Secondary, State=Loading, Icon only=True" x="1300" y="640" width="48" height="48" />
+    <symbol id="3287:429413" name="Size=sm, Hierarchy=Primary, State=Default, Icon only=False" x="190" y="16" width="154" height="36" />
+    <symbol id="11129:3523" name="Size=xs, Hierarchy=Primary, State=Default, Icon only=False" x="16" y="16" width="142" height="32" />
+    <symbol id="3287:429425" name="Size=sm, Hierarchy=Link, State=Default, Icon only=False" x="190" y="1120" width="126" height="20" />
+    <symbol id="11129:3528" name="Size=xs, Hierarchy=Link, State=Default, Icon only=False" x="16" y="1120" width="118" height="20" />
+    <symbol id="3287:429433" name="Size=sm, Hierarchy=Tertiary, State=Default, Icon only=False" x="190" y="752" width="154" height="36" />
+    <symbol id="11129:3532" name="Size=xs, Hierarchy=Tertiary, State=Default, Icon only=False" x="16" y="752" width="142" height="32" />
+    <symbol id="3287:429437" name="Size=sm, Hierarchy=Secondary, State=Default, Icon only=False" x="190" y="384" width="154" height="36" />
+    <symbol id="11129:3537" name="Size=xs, Hierarchy=Secondary, State=Default, Icon only=False" x="16" y="384" width="142" height="32" />
+    <symbol id="3287:429441" name="Size=sm, Hierarchy=Primary, State=Disabled, Icon only=False" x="190" y="208" width="154" height="36" />
+    <symbol id="11129:3542" name="Size=xs, Hierarchy=Primary, State=Disabled, Icon only=False" x="16" y="208" width="142" height="32" />
+    <symbol id="3287:429453" name="Size=sm, Hierarchy=Link, State=Disabled, Icon only=False" x="190" y="1240" width="126" height="20" />
+    <symbol id="11129:3547" name="Size=xs, Hierarchy=Link, State=Disabled, Icon only=False" x="16" y="1240" width="118" height="20" />
+    <symbol id="3287:429461" name="Size=sm, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="190" y="944" width="154" height="36" />
+    <symbol id="11129:3551" name="Size=xs, Hierarchy=Tertiary, State=Disabled, Icon only=False" x="16" y="944" width="142" height="32" />
+    <symbol id="3287:429465" name="Size=sm, Hierarchy=Secondary, State=Disabled, Icon only=False" x="190" y="576" width="154" height="36" />
+    <symbol id="11129:3556" name="Size=xs, Hierarchy=Secondary, State=Disabled, Icon only=False" x="16" y="576" width="142" height="32" />
+    <symbol id="3287:429469" name="Size=sm, Hierarchy=Primary, State=Focused, Icon only=False" x="190" y="144" width="154" height="36" />
+    <symbol id="11129:3561" name="Size=xs, Hierarchy=Primary, State=Focused, Icon only=False" x="16" y="144" width="142" height="32" />
+    <symbol id="3287:429481" name="Size=sm, Hierarchy=Link, State=Focused, Icon only=False" x="190" y="1200" width="126" height="20" />
+    <symbol id="11129:3566" name="Size=xs, Hierarchy=Link, State=Focused, Icon only=False" x="16" y="1200" width="118" height="20" />
+    <symbol id="3287:429489" name="Size=sm, Hierarchy=Tertiary, State=Focused, Icon only=False" x="190" y="880" width="154" height="36" />
+    <symbol id="11129:3570" name="Size=xs, Hierarchy=Tertiary, State=Focused, Icon only=False" x="16" y="880" width="142" height="32" />
+    <symbol id="3287:429493" name="Size=sm, Hierarchy=Secondary, State=Focused, Icon only=False" x="190" y="512" width="154" height="36" />
+    <symbol id="11129:3575" name="Size=xs, Hierarchy=Secondary, State=Focused, Icon only=False" x="16" y="512" width="142" height="32" />
+    <symbol id="3287:429497" name="Size=sm, Hierarchy=Primary, State=Hover, Icon only=False" x="190" y="80" width="154" height="36" />
+    <symbol id="11129:3580" name="Size=xs, Hierarchy=Primary, State=Hover, Icon only=False" x="16" y="80" width="142" height="32" />
+    <symbol id="8994:552350" name="Size=sm, Hierarchy=Primary, State=Loading, Icon only=False" x="190" y="272" width="139" height="36" />
+    <symbol id="11129:3585" name="Size=xs, Hierarchy=Primary, State=Loading, Icon only=False" x="16" y="272" width="131" height="32" />
+    <symbol id="3287:429509" name="Size=sm, Hierarchy=Link, State=Hover, Icon only=False" x="190" y="1160" width="126" height="20" />
+    <symbol id="11129:3589" name="Size=xs, Hierarchy=Link, State=Hover, Icon only=False" x="16" y="1160" width="118" height="20" />
+    <symbol id="8994:552462" name="Size=sm, Hierarchy=Link, State=Loading, Icon only=False" x="190" y="1280" width="111" height="20" />
+    <symbol id="11129:3593" name="Size=xs, Hierarchy=Link, State=Loading, Icon only=False" x="16" y="1280" width="107" height="20" />
+    <symbol id="3287:429517" name="Size=sm, Hierarchy=Tertiary, State=Hover, Icon only=False" x="190" y="816" width="154" height="36" />
+    <symbol id="11129:3596" name="Size=xs, Hierarchy=Tertiary, State=Hover, Icon only=False" x="16" y="816" width="142" height="32" />
+    <symbol id="8994:552355" name="Size=sm, Hierarchy=Tertiary, State=Loading, Icon only=False" x="190" y="1008" width="139" height="36" />
+    <symbol id="11129:3601" name="Size=xs, Hierarchy=Tertiary, State=Loading, Icon only=False" x="16" y="1008" width="131" height="32" />
+    <symbol id="3287:429521" name="Size=sm, Hierarchy=Secondary, State=Hover, Icon only=False" x="190" y="448" width="154" height="36" />
+    <symbol id="11129:3605" name="Size=xs, Hierarchy=Secondary, State=Hover, Icon only=False" x="16" y="448" width="142" height="32" />
+    <symbol id="8994:552360" name="Size=sm, Hierarchy=Secondary, State=Loading, Icon only=False" x="190" y="640" width="139" height="36" />
+    <symbol id="11129:3610" name="Size=xs, Hierarchy=Secondary, State=Loading, Icon only=False" x="16" y="640" width="131" height="32" />
+    <symbol id="3287:429529" name="Size=sm, Hierarchy=Primary, State=Default, Icon only=True" x="1084" y="16" width="36" height="36" />
+    <symbol id="11129:5794" name="Size=xs, Hierarchy=Primary, State=Default, Icon only=True" x="1020" y="16" width="32" height="32" />
+    <symbol id="3287:429561" name="Size=sm, Hierarchy=Tertiary, State=Default, Icon only=True" x="1084" y="752" width="36" height="36" />
+    <symbol id="11129:5796" name="Size=xs, Hierarchy=Tertiary, State=Default, Icon only=True" x="1020" y="752" width="32" height="32" />
+    <symbol id="3287:429569" name="Size=sm, Hierarchy=Secondary, State=Default, Icon only=True" x="1084" y="384" width="36" height="36" />
+    <symbol id="11129:5798" name="Size=xs, Hierarchy=Secondary, State=Default, Icon only=True" x="1020" y="384" width="32" height="32" />
+    <symbol id="3287:429577" name="Size=sm, Hierarchy=Primary, State=Disabled, Icon only=True" x="1084" y="208" width="36" height="36" />
+    <symbol id="11129:5800" name="Size=xs, Hierarchy=Primary, State=Disabled, Icon only=True" x="1020" y="208" width="32" height="32" />
+    <symbol id="3287:429609" name="Size=sm, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1084" y="944" width="36" height="36" />
+    <symbol id="11129:5802" name="Size=xs, Hierarchy=Tertiary, State=Disabled, Icon only=True" x="1020" y="944" width="32" height="32" />
+    <symbol id="3287:429617" name="Size=sm, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1084" y="576" width="36" height="36" />
+    <symbol id="11129:5804" name="Size=xs, Hierarchy=Secondary, State=Disabled, Icon only=True" x="1020" y="576" width="32" height="32" />
+    <symbol id="3287:429625" name="Size=sm, Hierarchy=Primary, State=Focused, Icon only=True" x="1084" y="144" width="36" height="36" />
+    <symbol id="11129:5806" name="Size=xs, Hierarchy=Primary, State=Focused, Icon only=True" x="1020" y="144" width="32" height="32" />
+    <symbol id="3287:429657" name="Size=sm, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1084" y="880" width="36" height="36" />
+    <symbol id="11129:5808" name="Size=xs, Hierarchy=Tertiary, State=Focused, Icon only=True" x="1020" y="880" width="32" height="32" />
+    <symbol id="3287:429665" name="Size=sm, Hierarchy=Secondary, State=Focused, Icon only=True" x="1084" y="512" width="36" height="36" />
+    <symbol id="11129:5810" name="Size=xs, Hierarchy=Secondary, State=Focused, Icon only=True" x="1020" y="512" width="32" height="32" />
+    <symbol id="3287:429673" name="Size=sm, Hierarchy=Primary, State=Hover, Icon only=True" x="1084" y="80" width="36" height="36" />
+    <symbol id="11129:5812" name="Size=xs, Hierarchy=Primary, State=Hover, Icon only=True" x="1020" y="80" width="32" height="32" />
+    <symbol id="8994:552365" name="Size=sm, Hierarchy=Primary, State=Loading, Icon only=True" x="1084" y="272" width="36" height="36" />
+    <symbol id="11129:5814" name="Size=xs, Hierarchy=Primary, State=Loading, Icon only=True" x="1020" y="272" width="32" height="32" />
+    <symbol id="3287:429705" name="Size=sm, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1084" y="816" width="36" height="36" />
+    <symbol id="11129:5816" name="Size=xs, Hierarchy=Tertiary, State=Hover, Icon only=True" x="1020" y="816" width="32" height="32" />
+    <symbol id="8994:552367" name="Size=sm, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1084" y="1008" width="36" height="36" />
+    <symbol id="11129:5818" name="Size=xs, Hierarchy=Tertiary, State=Loading, Icon only=True" x="1020" y="1008" width="32" height="32" />
+    <symbol id="3287:429713" name="Size=sm, Hierarchy=Secondary, State=Hover, Icon only=True" x="1084" y="448" width="36" height="36" />
+    <symbol id="11129:5820" name="Size=xs, Hierarchy=Secondary, State=Hover, Icon only=True" x="1020" y="448" width="32" height="32" />
+    <symbol id="8994:552369" name="Size=sm, Hierarchy=Secondary, State=Loading, Icon only=True" x="1084" y="640" width="36" height="36" />
+    <symbol id="11129:5822" name="Size=xs, Hierarchy=Secondary, State=Loading, Icon only=True" x="1020" y="640" width="32" height="32" />
+  </frame>
+  <frame id="8003:526508" name="Buttons/Button utility" x="1508" y="842" width="192" height="528">
+    <symbol id="8003:526509" name="Size=sm, Hierarchy=Tertiary, State=Default" x="128" y="296" width="32" height="32" />
+    <symbol id="8014:532004" name="Size=sm, Hierarchy=Tertiary, State=Disabled" x="128" y="480" width="32" height="32" />
+    <symbol id="8003:526541" name="Size=sm, Hierarchy=Secondary, State=Default" x="128" y="16" width="32" height="32" />
+    <symbol id="8014:532051" name="Size=sm, Hierarchy=Secondary, State=Disabled" x="128" y="200" width="32" height="32" />
+    <symbol id="8014:532022" name="Size=xs, Hierarchy=Secondary, State=Default" x="32" y="16" width="28" height="28" />
+    <symbol id="8014:532053" name="Size=xs, Hierarchy=Secondary, State=Disabled" x="32" y="200" width="28" height="28" />
+    <symbol id="8003:526511" name="Size=sm, Hierarchy=Tertiary, State=Focused" x="128" y="432" width="32" height="32" />
+    <symbol id="8003:526543" name="Size=sm, Hierarchy=Secondary, State=Focused" x="128" y="152" width="32" height="32" />
+    <symbol id="8014:532024" name="Size=xs, Hierarchy=Secondary, State=Focused" x="32" y="152" width="28" height="28" />
+    <symbol id="8003:526513" name="Size=sm, Hierarchy=Tertiary, State=Hover" x="128" y="384" width="32" height="32" />
+    <symbol id="8003:526545" name="Size=sm, Hierarchy=Secondary, State=Hover" x="128" y="104" width="32" height="32" />
+    <symbol id="8014:532026" name="Size=xs, Hierarchy=Secondary, State=Hover" x="32" y="104" width="28" height="28" />
+    <symbol id="7932:552045" name="Size=xs, Hierarchy=Tertiary, State=Default" x="32" y="296" width="28" height="28" />
+    <symbol id="7932:552048" name="Size=xs, Hierarchy=Tertiary, State=Disabled" x="32" y="480" width="28" height="28" />
+    <symbol id="7932:552047" name="Size=xs, Hierarchy=Tertiary, State=Focused" x="32" y="432" width="28" height="28" />
+    <symbol id="7932:552046" name="Size=xs, Hierarchy=Tertiary, State=Hover" x="32" y="384" width="28" height="28" />
+  </frame>
+  <frame id="8993:429278" name="Buttons/Button loading icon" x="1764" y="842" width="108" height="56">
+    <symbol id="8993:329670" name="Size=sm" x="16" y="16" width="20" height="20" />
+    <symbol id="8993:429023" name="Size=md" x="68" y="16" width="24" height="24" />
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

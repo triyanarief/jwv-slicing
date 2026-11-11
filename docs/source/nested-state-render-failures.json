@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8352:13652",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 008bab7b-083b-4578-af6f-83ed7cfeb936",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8352:12770",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 77ee404b-5955-4ea8-a835-39507bd4c930",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8352:11744",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 0b659447-e914-4518-84b9-4c104d84a868",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8352:23903",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 74bd5164-efa2-46cb-ae8c-2e0bd44de98f",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8352:24023",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: fffc9db6-5734-4ae7-a6ce-bdeedc4f0b05",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8352:12288",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 0be4a193-dea5-4cc0-b81a-d0f54eacf470",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8352:12224",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 3f0c54b6-fc10-4607-9e6b-12d7b3a96501",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8406:15090",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: cbe08d45-13e0-4621-9f18-3e6a1058cc3e",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8406:15113",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: b18ceaaa-12ca-46b2-a232-eba67a08a685",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8406:1957",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 2d2b8498-68bf-4722-b268-d0c09e216535",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8406:16465",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 8e9884ce-e740-4350-b798-ec1e08d0d1d5",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  },
+  {
+    "id": "8352:12358",
+    "attempt1": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.\nFigma Debug UUID: 8c1541bd-c934-4c94-b4bc-a3d9ed2984a6",
+    "attempt2": "This is an invalid node selection. Ask the user to select a node from a visible page on the canvas.",
+    "status": "Stopped after second invalid-selection response; no further render route attempted"
+  }
+]

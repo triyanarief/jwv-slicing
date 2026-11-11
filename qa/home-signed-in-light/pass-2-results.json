@@ -1,0 +1,235 @@
+{
+  "slug": "home-signed-in-light",
+  "node": "8212:3267",
+  "pass": 2,
+  "checkedAt": "2026-11-11T08:05:51.154Z",
+  "responsive": [
+    {
+      "native": true,
+      "width": 1512,
+      "documentWidth": 1512,
+      "height": 6294,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 6294,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1024,
+      "documentWidth": 1024,
+      "height": 6907,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 768,
+      "documentWidth": 768,
+      "height": 7605,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    },
+    {
+      "native": false,
+      "width": 390,
+      "documentWidth": 390,
+      "height": 7767,
+      "missingImages": [],
+      "activeDestinations": [
+        "Home"
+      ]
+    }
+  ],
+  "interactions": {
+    "mobileMenuOpen": true,
+    "mobileMenuEscape": true,
+    "skipLinkFocused": true,
+    "skipLinkTarget": true,
+    "categoryCarousel": true,
+    "homeEmptySearch": true,
+    "homeEmptyMessage": true,
+    "previewTimelineKeyboard": true,
+    "staticPreviewFullscreen": true,
+    "localLinksResolve": true,
+    "themeNavigation": true
+  },
+  "linkChecks": [
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-light/index.html#main",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-light/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-light/index.html#live-streams",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-light/index.html#sports",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-light/index.html#replays",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/register-broadcaster-light/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-light/index.html#devices",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-signed-in-light/index.html#trending",
+      "status": 200
+    }
+  ],
+  "unavailableControls": [
+    {
+      "label": "Schedule",
+      "reason": "A schedule screen is not supplied in Design Ready.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Profile unavailable",
+      "reason": "Profile menu is blocked: no profile or account-menu design is supplied.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Watch Live",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "‹",
+      "reason": "Other featured hero slide states are not supplied.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "›",
+      "reason": "Other featured hero slide states are not supplied.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Watch EAGLES VS PHOENIX unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Watch BROWNS VS CLOTS unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Watch UNITED FC VS RIVERSIDE unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Set reminder unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Set reminder unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Find a channel",
+      "reason": "Channel browsing has no supplied destination design.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Pick a game",
+      "reason": "Game details and playback destinations are not supplied.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Browse HOCKEY unavailable",
+      "reason": "Sport channel browsing is not supplied in Design Ready.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Browse Hockey unavailable",
+      "reason": "Sport channel browsing is not supplied in Design Ready.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Open BLUE JACKETS VS TITANS unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Open BILLS VS RAVENS unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Open THUNDER VS FURY unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Open ORIOLES VS RED SOX unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Watch Live",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Resume",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Audio unavailable",
+      "reason": "No playable media or game-details design is supplied. This is a local sample state; no live connection, playback, reminder or broadcast has started.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "About Us",
+      "reason": "About Us has no supplied page design.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Privacy Policy",
+      "reason": "Privacy Policy has no supplied page design.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Terms of Service",
+      "reason": "Terms of Service has no supplied page design.",
+      "ariaDisabled": "true"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "httpErrors": [],
+  "passed": true
+}

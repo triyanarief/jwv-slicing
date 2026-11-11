@@ -1,0 +1,16 @@
+{
+  "8413:25313": "broadcaster-requests-dark",
+  "8414:26323": "rejected-broadcasters-dark",
+  "8413:24824": "broadcaster-requests-empty-dark",
+  "8414:26474": "rejected-broadcasters-empty-dark",
+  "8414:25524": "youtube-channel-dark",
+  "8414:26200": "storage-services-dark",
+  "8414:26846": "transaction-history-dark",
+  "8427:1027": "broadcaster-requests-light",
+  "8427:1194": "rejected-broadcasters-light",
+  "8427:1359": "broadcaster-requests-empty-light",
+  "8427:1482": "rejected-broadcasters-empty-light",
+  "8427:1603": "youtube-channel-light",
+  "8427:1758": "storage-services-light",
+  "8427:1958": "transaction-history-light"
+}

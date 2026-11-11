@@ -1,0 +1,1136 @@
+[
+  {
+    "path": "shared/assets/club-dashboard-light/imgImageHockeyGame.png",
+    "exit": 0,
+    "bytes": 37134,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgImageVolleyballGame.png",
+    "exit": 0,
+    "bytes": 34253,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon.svg",
+    "exit": 0,
+    "bytes": 1302,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon1.svg",
+    "exit": 0,
+    "bytes": 1003,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon2.svg",
+    "exit": 0,
+    "bytes": 716,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon3.svg",
+    "exit": 0,
+    "bytes": 679,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon4.svg",
+    "exit": 0,
+    "bytes": 621,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon5.svg",
+    "exit": 0,
+    "bytes": 624,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon6.svg",
+    "exit": 0,
+    "bytes": 902,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon7.svg",
+    "exit": 0,
+    "bytes": 623,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon8.svg",
+    "exit": 0,
+    "bytes": 499,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon9.svg",
+    "exit": 0,
+    "bytes": 612,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon10.svg",
+    "exit": 0,
+    "bytes": 604,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon11.svg",
+    "exit": 0,
+    "bytes": 305,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon12.svg",
+    "exit": 0,
+    "bytes": 646,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon13.svg",
+    "exit": 0,
+    "bytes": 742,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon14.svg",
+    "exit": 0,
+    "bytes": 797,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon15.svg",
+    "exit": 0,
+    "bytes": 601,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgVector.svg",
+    "exit": 0,
+    "bytes": 10090,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgVector1.svg",
+    "exit": 0,
+    "bytes": 968,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgVector2.svg",
+    "exit": 0,
+    "bytes": 749,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgVector3.svg",
+    "exit": 0,
+    "bytes": 480,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-light/imgIcon16.svg",
+    "exit": 0,
+    "bytes": 873,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgMagnificPreserveTheOriginalCompositionAndExactlyFive654021.png",
+    "exit": 0,
+    "bytes": 1889845,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgMatchCard.png",
+    "exit": 0,
+    "bytes": 6473575,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgTeamLogo.png",
+    "exit": 0,
+    "bytes": 257084,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgTeamLogo1.png",
+    "exit": 0,
+    "bytes": 35744,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgAvatar.png",
+    "exit": 0,
+    "bytes": 127545,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgAvatar1.png",
+    "exit": 0,
+    "bytes": 129066,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgAvatar2.png",
+    "exit": 0,
+    "bytes": 150644,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 293,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 547,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgMenuSquare.svg",
+    "exit": 0,
+    "bytes": 4481,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgUserGroup.svg",
+    "exit": 0,
+    "bytes": 1638,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgWallet01.svg",
+    "exit": 0,
+    "bytes": 1294,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgNoteAdd.svg",
+    "exit": 0,
+    "bytes": 1053,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgCancelCircle.svg",
+    "exit": 0,
+    "bytes": 646,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgYoutube.svg",
+    "exit": 0,
+    "bytes": 1306,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgCloudUpload.svg",
+    "exit": 0,
+    "bytes": 1033,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgReceiptText.svg",
+    "exit": 0,
+    "bytes": 1908,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgSearchLg.svg",
+    "exit": 0,
+    "bytes": 498,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgIcon.svg",
+    "exit": 0,
+    "bytes": 612,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgContainer.svg",
+    "exit": 0,
+    "bytes": 1853,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgUser.svg",
+    "exit": 0,
+    "bytes": 1136,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgPlus.svg",
+    "exit": 0,
+    "bytes": 370,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgCast.svg",
+    "exit": 0,
+    "bytes": 1478,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgArrowUp.svg",
+    "exit": 0,
+    "bytes": 348,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgNoteAdd1.svg",
+    "exit": 0,
+    "bytes": 2791,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgUserGroup02.svg",
+    "exit": 0,
+    "bytes": 1927,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgPlayCircle.svg",
+    "exit": 0,
+    "bytes": 902,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgArrowDown01.svg",
+    "exit": 0,
+    "bytes": 339,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgLine.svg",
+    "exit": 0,
+    "bytes": 2016,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgLine1.svg",
+    "exit": 0,
+    "bytes": 235,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgLine2.svg",
+    "exit": 0,
+    "bytes": 708,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgSingleLine1.svg",
+    "exit": 0,
+    "bytes": 618,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgSingleLine2.svg",
+    "exit": 0,
+    "bytes": 946,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgRipple.svg",
+    "exit": 0,
+    "bytes": 245,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgEllipseFill.svg",
+    "exit": 0,
+    "bytes": 250,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgEllipse2.svg",
+    "exit": 0,
+    "bytes": 227,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgView.svg",
+    "exit": 0,
+    "bytes": 803,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgEllipse5.svg",
+    "exit": 0,
+    "bytes": 235,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgCloudUpload1.svg",
+    "exit": 0,
+    "bytes": 2280,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/club-dashboard-dark/imgSettings01.svg",
+    "exit": 0,
+    "bytes": 2232,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 293,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 547,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgMenuSquare.svg",
+    "exit": 0,
+    "bytes": 1137,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgUserGroup02.svg",
+    "exit": 0,
+    "bytes": 1900,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgWallet01.svg",
+    "exit": 0,
+    "bytes": 1294,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgNoteAdd.svg",
+    "exit": 0,
+    "bytes": 1053,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgCancelCircle.svg",
+    "exit": 0,
+    "bytes": 646,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgYoutube.svg",
+    "exit": 0,
+    "bytes": 1306,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgCloudUpload.svg",
+    "exit": 0,
+    "bytes": 1033,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgReceiptText.svg",
+    "exit": 0,
+    "bytes": 1908,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgPlus.svg",
+    "exit": 0,
+    "bytes": 370,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon.svg",
+    "exit": 0,
+    "bytes": 1284,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon1.svg",
+    "exit": 0,
+    "bytes": 1136,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon2.svg",
+    "exit": 0,
+    "bytes": 1297,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon3.svg",
+    "exit": 0,
+    "bytes": 1150,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgSearchLg.svg",
+    "exit": 0,
+    "bytes": 498,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgArrowDown01.svg",
+    "exit": 0,
+    "bytes": 339,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgList.svg",
+    "exit": 0,
+    "bytes": 1595,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgMenuSquare1.svg",
+    "exit": 0,
+    "bytes": 4489,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon4.svg",
+    "exit": 0,
+    "bytes": 2035,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon5.svg",
+    "exit": 0,
+    "bytes": 888,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon6.svg",
+    "exit": 0,
+    "bytes": 1885,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon7.svg",
+    "exit": 0,
+    "bytes": 2049,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgIcon8.svg",
+    "exit": 0,
+    "bytes": 1901,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgChevronDown.svg",
+    "exit": 0,
+    "bytes": 320,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-list/imgChevronRight.svg",
+    "exit": 0,
+    "bytes": 332,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgContainer.png",
+    "exit": 0,
+    "bytes": 241136,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgContainer1.png",
+    "exit": 0,
+    "bytes": 85375,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgContainer2.png",
+    "exit": 0,
+    "bytes": 219611,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgContainer3.png",
+    "exit": 0,
+    "bytes": 185218,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 293,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 547,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgMenuSquare.svg",
+    "exit": 0,
+    "bytes": 1137,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgUserGroup02.svg",
+    "exit": 0,
+    "bytes": 1900,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgWallet01.svg",
+    "exit": 0,
+    "bytes": 1294,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgNoteAdd.svg",
+    "exit": 0,
+    "bytes": 1053,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgCancelCircle.svg",
+    "exit": 0,
+    "bytes": 646,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgYoutube.svg",
+    "exit": 0,
+    "bytes": 1306,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgCloudUpload.svg",
+    "exit": 0,
+    "bytes": 1033,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgReceiptText.svg",
+    "exit": 0,
+    "bytes": 1908,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgPlus.svg",
+    "exit": 0,
+    "bytes": 370,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon.svg",
+    "exit": 0,
+    "bytes": 1284,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon1.svg",
+    "exit": 0,
+    "bytes": 1136,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon2.svg",
+    "exit": 0,
+    "bytes": 1297,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon3.svg",
+    "exit": 0,
+    "bytes": 1150,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgSearchLg.svg",
+    "exit": 0,
+    "bytes": 498,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgArrowDown01.svg",
+    "exit": 0,
+    "bytes": 339,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgList.svg",
+    "exit": 0,
+    "bytes": 1595,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgMenuSquare1.svg",
+    "exit": 0,
+    "bytes": 4489,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon4.svg",
+    "exit": 0,
+    "bytes": 1326,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon5.svg",
+    "exit": 0,
+    "bytes": 888,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon6.svg",
+    "exit": 0,
+    "bytes": 1174,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon7.svg",
+    "exit": 0,
+    "bytes": 1340,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/teams-grid/imgIcon8.svg",
+    "exit": 0,
+    "bytes": 1182,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgArticle.png",
+    "exit": 0,
+    "bytes": 338226,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 293,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 547,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgMenuSquare.svg",
+    "exit": 0,
+    "bytes": 1137,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgUserGroup02.svg",
+    "exit": 0,
+    "bytes": 1900,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgWallet01.svg",
+    "exit": 0,
+    "bytes": 1294,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgNoteAdd.svg",
+    "exit": 0,
+    "bytes": 1053,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgCancelCircle.svg",
+    "exit": 0,
+    "bytes": 646,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgYoutube.svg",
+    "exit": 0,
+    "bytes": 1306,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgCloudUpload.svg",
+    "exit": 0,
+    "bytes": 1033,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgReceiptText.svg",
+    "exit": 0,
+    "bytes": 1908,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgCast.svg",
+    "exit": 0,
+    "bytes": 1478,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgPlus.svg",
+    "exit": 0,
+    "bytes": 370,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon.svg",
+    "exit": 0,
+    "bytes": 353,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon1.svg",
+    "exit": 0,
+    "bytes": 643,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon2.svg",
+    "exit": 0,
+    "bytes": 310,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon3.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon4.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon5.svg",
+    "exit": 0,
+    "bytes": 1092,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon6.svg",
+    "exit": 0,
+    "bytes": 756,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon7.svg",
+    "exit": 0,
+    "bytes": 1246,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon8.svg",
+    "exit": 0,
+    "bytes": 363,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/broadcasters-wallets/imgIcon9.svg",
+    "exit": 0,
+    "bytes": 568,
+    "error": ""
+  },
+  {
+    "path": "qa/club-dashboard-light/figma.png",
+    "exit": 0,
+    "bytes": 502641,
+    "error": ""
+  },
+  {
+    "path": "qa/club-dashboard-dark/figma.png",
+    "exit": 0,
+    "bytes": 985138,
+    "error": ""
+  },
+  {
+    "path": "qa/teams-list/figma.png",
+    "exit": 0,
+    "bytes": 447516,
+    "error": ""
+  },
+  {
+    "path": "qa/teams-grid/figma.png",
+    "exit": 0,
+    "bytes": 727054,
+    "error": ""
+  },
+  {
+    "path": "qa/broadcasters-wallets/figma.png",
+    "exit": 0,
+    "bytes": 519099,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-dark/imgLogIn.png",
+    "exit": 0,
+    "bytes": 2357678,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-dark/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 265,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-dark/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-dark/imgArrowLeft02.svg",
+    "exit": 0,
+    "bytes": 349,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-dark/imgHelpIcon.svg",
+    "exit": 0,
+    "bytes": 954,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgTypeHandPoint.svg",
+    "exit": 0,
+    "bytes": 8852,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "exit": 0,
+    "bytes": 868,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgRegisterAsUser.png",
+    "exit": 0,
+    "bytes": 2357678,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 265,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgArrowLeft02.svg",
+    "exit": 0,
+    "bytes": 349,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgChevronDown.svg",
+    "exit": 0,
+    "bytes": 324,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-dark/imgHelpIcon.svg",
+    "exit": 0,
+    "bytes": 954,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgTypeHandPoint.svg",
+    "exit": 0,
+    "bytes": 8852,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "exit": 0,
+    "bytes": 868,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgRegisterAsBroadcaster.png",
+    "exit": 0,
+    "bytes": 2357678,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 265,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgArrowLeft02.svg",
+    "exit": 0,
+    "bytes": 349,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgChevronDown.svg",
+    "exit": 0,
+    "bytes": 303,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgChevronDown1.svg",
+    "exit": 0,
+    "bytes": 324,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-dark/imgHelpIcon.svg",
+    "exit": 0,
+    "bytes": 954,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-light/imgLogIn.png",
+    "exit": 0,
+    "bytes": 2357678,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-light/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 265,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-light/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-light/imgArrowLeft02.svg",
+    "exit": 0,
+    "bytes": 351,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/login-light/imgHelpIcon.svg",
+    "exit": 0,
+    "bytes": 954,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgTypeHandPoint.svg",
+    "exit": 0,
+    "bytes": 8852,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "exit": 0,
+    "bytes": 868,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgLogIn.png",
+    "exit": 0,
+    "bytes": 2357678,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 265,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgArrowLeft02.svg",
+    "exit": 0,
+    "bytes": 351,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgChevronDown.svg",
+    "exit": 0,
+    "bytes": 324,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-user-light/imgHelpIcon.svg",
+    "exit": 0,
+    "bytes": 954,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgTypeHandPoint.svg",
+    "exit": 0,
+    "bytes": 8852,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "exit": 0,
+    "bytes": 868,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgLogIn.png",
+    "exit": 0,
+    "bytes": 2357678,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgCurvedHighlight.svg",
+    "exit": 0,
+    "bytes": 265,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgPlayEmblem.svg",
+    "exit": 0,
+    "bytes": 336,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgArrowLeft02.svg",
+    "exit": 0,
+    "bytes": 351,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgChevronDown.svg",
+    "exit": 0,
+    "bytes": 303,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgChevronDown1.svg",
+    "exit": 0,
+    "bytes": 324,
+    "error": ""
+  },
+  {
+    "path": "shared/assets/register-broadcaster-light/imgHelpIcon.svg",
+    "exit": 0,
+    "bytes": 954,
+    "error": ""
+  }
+]

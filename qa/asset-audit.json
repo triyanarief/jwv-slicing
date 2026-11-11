@@ -1,0 +1,4587 @@
+{
+  "checkedAt": "2026-11-11T08:07:27.126914+00:00",
+  "asset_files_validated": 776,
+  "asset_validation_errors": [],
+  "missing_local_references": [],
+  "remote_runtime_references": [],
+  "referenced_paths": [
+    "broadcaster-requests-dark/index.html",
+    "broadcaster-requests-empty-dark/index.html",
+    "broadcaster-requests-empty-light/index.html",
+    "broadcaster-requests-light/index.html",
+    "broadcasters-wallets-light/index.html",
+    "broadcasters-wallets/index.html",
+    "club-dashboard-dark/index.html",
+    "club-dashboard-light/index.html",
+    "docs/status/tracker.md",
+    "home-dark/index.html",
+    "home-light/index.html",
+    "home-signed-in-dark/index.html",
+    "home-signed-in-light/index.html",
+    "index.html",
+    "login-dark/index.html",
+    "login-light/index.html",
+    "register-broadcaster-dark/index.html",
+    "register-broadcaster-light/index.html",
+    "register-user-dark/index.html",
+    "register-user-light/index.html",
+    "rejected-broadcasters-dark/index.html",
+    "rejected-broadcasters-empty-dark/index.html",
+    "rejected-broadcasters-empty-light/index.html",
+    "rejected-broadcasters-light/index.html",
+    "shared/admin.css",
+    "shared/assets/broadcaster-requests-dark/imgCancelCircle.svg",
+    "shared/assets/broadcaster-requests-dark/imgChevronRight.svg",
+    "shared/assets/broadcaster-requests-dark/imgCloudUpload.svg",
+    "shared/assets/broadcaster-requests-dark/imgCurvedHighlight.svg",
+    "shared/assets/broadcaster-requests-dark/imgMenuSquare.svg",
+    "shared/assets/broadcaster-requests-dark/imgNoteAdd.svg",
+    "shared/assets/broadcaster-requests-dark/imgPlayEmblem.svg",
+    "shared/assets/broadcaster-requests-dark/imgReceiptText.svg",
+    "shared/assets/broadcaster-requests-dark/imgUserGroup.svg",
+    "shared/assets/broadcaster-requests-dark/imgWallet01.svg",
+    "shared/assets/broadcaster-requests-dark/imgYoutube.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgCancelCircle.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgCloudUpload.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgCurvedHighlight.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgGroup.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgMenuSquare.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgNoteAdd.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgPlayEmblem.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgReceiptText.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgUserGroup.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgVector.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgVector1.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgVector2.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgVector3.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgVector4.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgWallet01.svg",
+    "shared/assets/broadcaster-requests-empty-dark/imgYoutube.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgCancelCircle.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgCloudUpload.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgCurvedHighlight.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgGroup.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgMenuSquare.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgNoteAdd.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgPlayEmblem.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgReceiptText.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgUserGroup.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgVector.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgVector1.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgVector2.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgVector3.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgVector4.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgWallet01.svg",
+    "shared/assets/broadcaster-requests-empty-light/imgYoutube.svg",
+    "shared/assets/broadcaster-requests-light/imgCancelCircle.svg",
+    "shared/assets/broadcaster-requests-light/imgChevronRight.svg",
+    "shared/assets/broadcaster-requests-light/imgCloudUpload.svg",
+    "shared/assets/broadcaster-requests-light/imgCurvedHighlight.svg",
+    "shared/assets/broadcaster-requests-light/imgMenuSquare.svg",
+    "shared/assets/broadcaster-requests-light/imgNoteAdd.svg",
+    "shared/assets/broadcaster-requests-light/imgPlayEmblem.svg",
+    "shared/assets/broadcaster-requests-light/imgReceiptText.svg",
+    "shared/assets/broadcaster-requests-light/imgUserGroup.svg",
+    "shared/assets/broadcaster-requests-light/imgWallet01.svg",
+    "shared/assets/broadcaster-requests-light/imgYoutube.svg",
+    "shared/assets/broadcasters-wallets-light/imgCancelCircle.svg",
+    "shared/assets/broadcasters-wallets-light/imgCast.svg",
+    "shared/assets/broadcasters-wallets-light/imgChevronDown.svg",
+    "shared/assets/broadcasters-wallets-light/imgChevronRight.svg",
+    "shared/assets/broadcasters-wallets-light/imgCloudUpload.svg",
+    "shared/assets/broadcasters-wallets-light/imgCurvedHighlight.svg",
+    "shared/assets/broadcasters-wallets-light/imgDot.svg",
+    "shared/assets/broadcasters-wallets-light/imgDot1.svg",
+    "shared/assets/broadcasters-wallets-light/imgEdit01.svg",
+    "shared/assets/broadcasters-wallets-light/imgMenuSquare.svg",
+    "shared/assets/broadcasters-wallets-light/imgNoteAdd.svg",
+    "shared/assets/broadcasters-wallets-light/imgPlayEmblem.svg",
+    "shared/assets/broadcasters-wallets-light/imgPlus.svg",
+    "shared/assets/broadcasters-wallets-light/imgReceiptText.svg",
+    "shared/assets/broadcasters-wallets-light/imgUserGroup.svg",
+    "shared/assets/broadcasters-wallets-light/imgWallet01.svg",
+    "shared/assets/broadcasters-wallets-light/imgYoutube.svg",
+    "shared/assets/broadcasters-wallets/imgArticle.png",
+    "shared/assets/broadcasters-wallets/imgCancelCircle.svg",
+    "shared/assets/broadcasters-wallets/imgCast.svg",
+    "shared/assets/broadcasters-wallets/imgCloudUpload.svg",
+    "shared/assets/broadcasters-wallets/imgCurvedHighlight.svg",
+    "shared/assets/broadcasters-wallets/imgIcon.svg",
+    "shared/assets/broadcasters-wallets/imgIcon1.svg",
+    "shared/assets/broadcasters-wallets/imgIcon2.svg",
+    "shared/assets/broadcasters-wallets/imgIcon3.svg",
+    "shared/assets/broadcasters-wallets/imgIcon4.svg",
+    "shared/assets/broadcasters-wallets/imgIcon5.svg",
+    "shared/assets/broadcasters-wallets/imgIcon6.svg",
+    "shared/assets/broadcasters-wallets/imgIcon7.svg",
+    "shared/assets/broadcasters-wallets/imgIcon8.svg",
+    "shared/assets/broadcasters-wallets/imgIcon9.svg",
+    "shared/assets/broadcasters-wallets/imgMenuSquare.svg",
+    "shared/assets/broadcasters-wallets/imgNoteAdd.svg",
+    "shared/assets/broadcasters-wallets/imgPlayEmblem.svg",
+    "shared/assets/broadcasters-wallets/imgPlus.svg",
+    "shared/assets/broadcasters-wallets/imgReceiptText.svg",
+    "shared/assets/broadcasters-wallets/imgUserGroup02.svg",
+    "shared/assets/broadcasters-wallets/imgWallet01.svg",
+    "shared/assets/broadcasters-wallets/imgYoutube.svg",
+    "shared/assets/club-dashboard-dark/imgArrowDown01.svg",
+    "shared/assets/club-dashboard-dark/imgAvatar.png",
+    "shared/assets/club-dashboard-dark/imgAvatar1.png",
+    "shared/assets/club-dashboard-dark/imgAvatar2.png",
+    "shared/assets/club-dashboard-dark/imgCancelCircle.svg",
+    "shared/assets/club-dashboard-dark/imgCast.svg",
+    "shared/assets/club-dashboard-dark/imgCloudUpload.svg",
+    "shared/assets/club-dashboard-dark/imgCloudUpload1.svg",
+    "shared/assets/club-dashboard-dark/imgContainer.svg",
+    "shared/assets/club-dashboard-dark/imgCurvedHighlight.svg",
+    "shared/assets/club-dashboard-dark/imgIcon.svg",
+    "shared/assets/club-dashboard-dark/imgMagnificPreserveTheOriginalCompositionAndExactlyFive654021.png",
+    "shared/assets/club-dashboard-dark/imgMatchCard.png",
+    "shared/assets/club-dashboard-dark/imgMenuSquare.svg",
+    "shared/assets/club-dashboard-dark/imgNoteAdd.svg",
+    "shared/assets/club-dashboard-dark/imgNoteAdd1.svg",
+    "shared/assets/club-dashboard-dark/imgPlayCircle.svg",
+    "shared/assets/club-dashboard-dark/imgPlayEmblem.svg",
+    "shared/assets/club-dashboard-dark/imgPlus.svg",
+    "shared/assets/club-dashboard-dark/imgReceiptText.svg",
+    "shared/assets/club-dashboard-dark/imgSearchLg.svg",
+    "shared/assets/club-dashboard-dark/imgSettings01.svg",
+    "shared/assets/club-dashboard-dark/imgTeamLogo.png",
+    "shared/assets/club-dashboard-dark/imgTeamLogo1.png",
+    "shared/assets/club-dashboard-dark/imgUser.svg",
+    "shared/assets/club-dashboard-dark/imgUserGroup02.svg",
+    "shared/assets/club-dashboard-dark/imgView.svg",
+    "shared/assets/club-dashboard-dark/imgWallet01.svg",
+    "shared/assets/club-dashboard-dark/imgYoutube.svg",
+    "shared/assets/club-dashboard-light/imgIcon.svg",
+    "shared/assets/club-dashboard-light/imgIcon1.svg",
+    "shared/assets/club-dashboard-light/imgIcon10.svg",
+    "shared/assets/club-dashboard-light/imgIcon11.svg",
+    "shared/assets/club-dashboard-light/imgIcon12.svg",
+    "shared/assets/club-dashboard-light/imgIcon13.svg",
+    "shared/assets/club-dashboard-light/imgIcon14.svg",
+    "shared/assets/club-dashboard-light/imgIcon15.svg",
+    "shared/assets/club-dashboard-light/imgIcon16.svg",
+    "shared/assets/club-dashboard-light/imgIcon2.svg",
+    "shared/assets/club-dashboard-light/imgIcon3.svg",
+    "shared/assets/club-dashboard-light/imgIcon4.svg",
+    "shared/assets/club-dashboard-light/imgIcon5.svg",
+    "shared/assets/club-dashboard-light/imgIcon6.svg",
+    "shared/assets/club-dashboard-light/imgIcon7.svg",
+    "shared/assets/club-dashboard-light/imgIcon8.svg",
+    "shared/assets/club-dashboard-light/imgIcon9.svg",
+    "shared/assets/club-dashboard-light/imgImageHockeyGame.png",
+    "shared/assets/club-dashboard-light/imgImageVolleyballGame.png",
+    "shared/assets/dashboard-charts/8436-7280.svg",
+    "shared/assets/dashboard-charts/8436-8252.svg",
+    "shared/assets/home-artwork/8212-1257.png",
+    "shared/assets/home-artwork/8212-12582.png",
+    "shared/assets/home-artwork/8212-13823.png",
+    "shared/assets/home-artwork/8212-34.png",
+    "shared/assets/home-artwork/8292-3265.svg",
+    "shared/assets/home-artwork/8292-3293.svg",
+    "shared/assets/home-artwork/8292-3330.svg",
+    "shared/assets/home-artwork/8307-11971.png",
+    "shared/assets/home-artwork/8307-8679.png",
+    "shared/assets/home-artwork/8307-9902.png",
+    "shared/assets/home-dark-benefits/imgCloud.svg",
+    "shared/assets/home-dark-benefits/imgComputer.svg",
+    "shared/assets/home-dark-benefits/imgComputerPhoneSync.svg",
+    "shared/assets/home-dark-benefits/imgDollarCircle.svg",
+    "shared/assets/home-dark-benefits/imgHouseHeart.svg",
+    "shared/assets/home-dark-benefits/imgRss.svg",
+    "shared/assets/home-dark-benefits/imgYoutube.svg",
+    "shared/assets/home-dark-categories/imgArrowUpRight01.svg",
+    "shared/assets/home-dark-categories/imgCategoryImage.png",
+    "shared/assets/home-dark-categories/imgCategoryImage1.png",
+    "shared/assets/home-dark-categories/imgCategoryImage2.png",
+    "shared/assets/home-dark-categories/imgCategoryImage3.png",
+    "shared/assets/home-dark-categories/imgCategoryImage4.png",
+    "shared/assets/home-dark-categories/imgCategoryImage5.png",
+    "shared/assets/home-dark-categories/imgChevronRight1.svg",
+    "shared/assets/home-dark-devices/imgGroup41.svg",
+    "shared/assets/home-dark-devices/imgGroup44.svg",
+    "shared/assets/home-dark-devices/imgImage.png",
+    "shared/assets/home-dark-devices/imgMonitor.svg",
+    "shared/assets/home-dark-find/imgSearch01.svg",
+    "shared/assets/home-dark-footer/imgCall02.svg",
+    "shared/assets/home-dark-footer/imgCurvedHighlight.svg",
+    "shared/assets/home-dark-footer/imgLocation01.svg",
+    "shared/assets/home-dark-footer/imgMail01.svg",
+    "shared/assets/home-dark-footer/imgPlayEmblem.svg",
+    "shared/assets/home-dark-hero/img05AutoOrderV2.png",
+    "shared/assets/home-dark-hero/imgAppleIcloudSeeklogo1.svg",
+    "shared/assets/home-dark-hero/imgArrowRight02.svg",
+    "shared/assets/home-dark-hero/imgColor.svg",
+    "shared/assets/home-dark-hero/imgCurvedHighlight.svg",
+    "shared/assets/home-dark-hero/imgGroup.svg",
+    "shared/assets/home-dark-hero/imgGroup41.svg",
+    "shared/assets/home-dark-hero/imgGroup44.svg",
+    "shared/assets/home-dark-hero/imgLayer2.svg",
+    "shared/assets/home-dark-hero/imgOnedriveSeeklogo1.svg",
+    "shared/assets/home-dark-hero/imgPlay.svg",
+    "shared/assets/home-dark-hero/imgPlayEmblem.svg",
+    "shared/assets/home-dark-hero/imgSearch01.svg",
+    "shared/assets/home-light-benefits/imgCloud.svg",
+    "shared/assets/home-light-benefits/imgComputer.svg",
+    "shared/assets/home-light-benefits/imgComputerPhoneSync.svg",
+    "shared/assets/home-light-benefits/imgDollarCircle.svg",
+    "shared/assets/home-light-benefits/imgHouseHeart.svg",
+    "shared/assets/home-light-benefits/imgYoutube.svg",
+    "shared/assets/home-light-categories/imgArrowUpRight01.svg",
+    "shared/assets/home-light-categories/imgCategoryImage.png",
+    "shared/assets/home-light-categories/imgCategoryImage1.png",
+    "shared/assets/home-light-categories/imgCategoryImage2.png",
+    "shared/assets/home-light-categories/imgCategoryImage3.png",
+    "shared/assets/home-light-categories/imgCategoryImage4.png",
+    "shared/assets/home-light-categories/imgCategoryImage5.png",
+    "shared/assets/home-light-categories/imgChevronRight.svg",
+    "shared/assets/home-light-devices/imgGoogleTvSeeklogo1.svg",
+    "shared/assets/home-light-devices/imgGroup41.svg",
+    "shared/assets/home-light-devices/imgGroup44.svg",
+    "shared/assets/home-light-devices/imgImage.png",
+    "shared/assets/home-light-devices/imgImage1.png",
+    "shared/assets/home-light-devices/imgImage2.png",
+    "shared/assets/home-light-devices/imgImage3.png",
+    "shared/assets/home-light-devices/imgImage4.png",
+    "shared/assets/home-light-devices/imgMonitor.svg",
+    "shared/assets/home-light-devices/imgSamsungLogoPng12951.png",
+    "shared/assets/home-light-find/imgSearch01.svg",
+    "shared/assets/home-light-footer/imgCall02.svg",
+    "shared/assets/home-light-footer/imgCurvedHighlight.svg",
+    "shared/assets/home-light-footer/imgLocation01.svg",
+    "shared/assets/home-light-footer/imgMail01.svg",
+    "shared/assets/home-light-footer/imgPlayEmblem.svg",
+    "shared/assets/home-light-hero/img05AutoOrderV2.png",
+    "shared/assets/home-light-hero/imgAppleIcloudSeeklogo1.svg",
+    "shared/assets/home-light-hero/imgArrowRight02.svg",
+    "shared/assets/home-light-hero/imgColor.svg",
+    "shared/assets/home-light-hero/imgCurvedHighlight.svg",
+    "shared/assets/home-light-hero/imgGroup.svg",
+    "shared/assets/home-light-hero/imgGroup41.svg",
+    "shared/assets/home-light-hero/imgGroup44.svg",
+    "shared/assets/home-light-hero/imgLayer2.svg",
+    "shared/assets/home-light-hero/imgOnedriveSeeklogo1.svg",
+    "shared/assets/home-light-hero/imgPlay.svg",
+    "shared/assets/home-light-hero/imgPlayEmblem.svg",
+    "shared/assets/home-light-hero/imgSearch01.svg",
+    "shared/assets/home-signed-in-dark-categories/imgArrowUpRight01.svg",
+    "shared/assets/home-signed-in-dark-categories/imgCategoryImage.png",
+    "shared/assets/home-signed-in-dark-categories/imgCategoryImage1.png",
+    "shared/assets/home-signed-in-dark-categories/imgCategoryImage2.png",
+    "shared/assets/home-signed-in-dark-categories/imgCategoryImage3.png",
+    "shared/assets/home-signed-in-dark-categories/imgCategoryImage4.png",
+    "shared/assets/home-signed-in-dark-categories/imgCategoryImage5.png",
+    "shared/assets/home-signed-in-dark-categories/imgChevronRight1.svg",
+    "shared/assets/home-signed-in-dark-continue/imgCalendar03.svg",
+    "shared/assets/home-signed-in-dark-continue/imgChevronRight1.svg",
+    "shared/assets/home-signed-in-dark-continue/imgClock01.svg",
+    "shared/assets/home-signed-in-dark-continue/imgImage.png",
+    "shared/assets/home-signed-in-dark-continue/imgImage1.png",
+    "shared/assets/home-signed-in-dark-continue/imgPlay.svg",
+    "shared/assets/home-signed-in-dark-cta/imgAmericanFootballPlayerNeonStyle2.svg",
+    "shared/assets/home-signed-in-dark-cta/imgAmericanFootballPlayerNeonStyle3.png",
+    "shared/assets/home-signed-in-dark-cta/imgNext.svg",
+    "shared/assets/home-signed-in-dark-features/imgCloudUpload.svg",
+    "shared/assets/home-signed-in-dark-features/imgDollarCircle.svg",
+    "shared/assets/home-signed-in-dark-features/imgImage.png",
+    "shared/assets/home-signed-in-dark-features/imgMonitor.svg",
+    "shared/assets/home-signed-in-dark-features/imgTv01.svg",
+    "shared/assets/home-signed-in-dark-footer/imgCall02.svg",
+    "shared/assets/home-signed-in-dark-footer/imgCurvedHighlight.svg",
+    "shared/assets/home-signed-in-dark-footer/imgLocation01.svg",
+    "shared/assets/home-signed-in-dark-footer/imgMail01.svg",
+    "shared/assets/home-signed-in-dark-footer/imgPlayEmblem.svg",
+    "shared/assets/home-signed-in-dark-hero/imgCurvedHighlight.svg",
+    "shared/assets/home-signed-in-dark-hero/imgHockeyPlayers3.png",
+    "shared/assets/home-signed-in-dark-hero/imgImage.png",
+    "shared/assets/home-signed-in-dark-hero/imgImage1.png",
+    "shared/assets/home-signed-in-dark-hero/imgImage2.png",
+    "shared/assets/home-signed-in-dark-hero/imgImage3.png",
+    "shared/assets/home-signed-in-dark-hero/imgImage4.png",
+    "shared/assets/home-signed-in-dark-hero/imgNotification01.svg",
+    "shared/assets/home-signed-in-dark-hero/imgPlay.svg",
+    "shared/assets/home-signed-in-dark-hero/imgPlay1.svg",
+    "shared/assets/home-signed-in-dark-hero/imgPlayEmblem.svg",
+    "shared/assets/home-signed-in-dark-hero/imgRss.svg",
+    "shared/assets/home-signed-in-dark-hero/imgSearch01.svg",
+    "shared/assets/home-signed-in-dark-hero/imgUser.svg",
+    "shared/assets/home-signed-in-dark-showcase/img4K.svg",
+    "shared/assets/home-signed-in-dark-showcase/imgContainer.png",
+    "shared/assets/home-signed-in-dark-showcase/imgFullscreen.svg",
+    "shared/assets/home-signed-in-dark-showcase/imgLiveStatus.svg",
+    "shared/assets/home-signed-in-dark-showcase/imgRss.svg",
+    "shared/assets/home-signed-in-dark-showcase/imgUser02.svg",
+    "shared/assets/home-signed-in-dark-showcase/imgVolume02.svg",
+    "shared/assets/home-signed-in-dark-showcase/imgWifi01.svg",
+    "shared/assets/home-signed-in-dark-trending/imgBookmark02.svg",
+    "shared/assets/home-signed-in-dark-trending/imgChevronRight1.svg",
+    "shared/assets/home-signed-in-dark-trending/imgMatchCard.png",
+    "shared/assets/home-signed-in-dark-trending/imgMatchCard1.png",
+    "shared/assets/home-signed-in-dark-trending/imgMatchCard2.png",
+    "shared/assets/home-signed-in-dark-trending/imgMatchCard3.png",
+    "shared/assets/home-signed-in-dark-trending/imgMatchCard4.png",
+    "shared/assets/home-signed-in-dark-trending/imgNotification01.svg",
+    "shared/assets/home-signed-in-dark-trending/imgPlay.svg",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo1.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo2.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo3.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo4.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo5.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo6.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo7.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo8.png",
+    "shared/assets/home-signed-in-dark-trending/imgTeamLogo9.png",
+    "shared/assets/home-signed-in-dark-trending/imgView.svg",
+    "shared/assets/home-signed-in-light-categories/imgArrowUpRight01.svg",
+    "shared/assets/home-signed-in-light-categories/imgCategoryImage.png",
+    "shared/assets/home-signed-in-light-categories/imgCategoryImage1.png",
+    "shared/assets/home-signed-in-light-categories/imgCategoryImage2.png",
+    "shared/assets/home-signed-in-light-categories/imgCategoryImage3.png",
+    "shared/assets/home-signed-in-light-categories/imgCategoryImage4.png",
+    "shared/assets/home-signed-in-light-categories/imgCategoryImage5.png",
+    "shared/assets/home-signed-in-light-categories/imgChevronRight.svg",
+    "shared/assets/home-signed-in-light-continue/imgCalendar03.svg",
+    "shared/assets/home-signed-in-light-continue/imgChevronRight.svg",
+    "shared/assets/home-signed-in-light-continue/imgClock01.svg",
+    "shared/assets/home-signed-in-light-continue/imgImage.png",
+    "shared/assets/home-signed-in-light-continue/imgImage1.png",
+    "shared/assets/home-signed-in-light-continue/imgPlay.svg",
+    "shared/assets/home-signed-in-light-cta/imgAmericanFootballPlayerNeonStyle2.svg",
+    "shared/assets/home-signed-in-light-cta/imgAmericanFootballPlayerNeonStyle3.png",
+    "shared/assets/home-signed-in-light-cta/imgNext.svg",
+    "shared/assets/home-signed-in-light-features/imgCloudUpload.svg",
+    "shared/assets/home-signed-in-light-features/imgDollarCircle.svg",
+    "shared/assets/home-signed-in-light-features/imgImage.png",
+    "shared/assets/home-signed-in-light-features/imgMonitor.svg",
+    "shared/assets/home-signed-in-light-features/imgTv01.svg",
+    "shared/assets/home-signed-in-light-find/imgSearch01.svg",
+    "shared/assets/home-signed-in-light-footer/imgCall02.svg",
+    "shared/assets/home-signed-in-light-footer/imgCurvedHighlight.svg",
+    "shared/assets/home-signed-in-light-footer/imgLocation01.svg",
+    "shared/assets/home-signed-in-light-footer/imgMail01.svg",
+    "shared/assets/home-signed-in-light-footer/imgPlayEmblem.svg",
+    "shared/assets/home-signed-in-light-hero/imgCurvedHighlight.svg",
+    "shared/assets/home-signed-in-light-hero/imgFeaturedMatch.png",
+    "shared/assets/home-signed-in-light-hero/imgImage.png",
+    "shared/assets/home-signed-in-light-hero/imgImage1.png",
+    "shared/assets/home-signed-in-light-hero/imgImage2.png",
+    "shared/assets/home-signed-in-light-hero/imgImage3.png",
+    "shared/assets/home-signed-in-light-hero/imgImage4.png",
+    "shared/assets/home-signed-in-light-hero/imgNotification01.svg",
+    "shared/assets/home-signed-in-light-hero/imgPlay.svg",
+    "shared/assets/home-signed-in-light-hero/imgPlay1.svg",
+    "shared/assets/home-signed-in-light-hero/imgPlayEmblem.svg",
+    "shared/assets/home-signed-in-light-hero/imgRss.svg",
+    "shared/assets/home-signed-in-light-hero/imgSearch01.svg",
+    "shared/assets/home-signed-in-light-hero/imgUser.svg",
+    "shared/assets/home-signed-in-light-showcase/img4K.svg",
+    "shared/assets/home-signed-in-light-showcase/imgContainer.png",
+    "shared/assets/home-signed-in-light-showcase/imgFullscreen.svg",
+    "shared/assets/home-signed-in-light-showcase/imgLiveStatus.svg",
+    "shared/assets/home-signed-in-light-showcase/imgRss.svg",
+    "shared/assets/home-signed-in-light-showcase/imgUser02.svg",
+    "shared/assets/home-signed-in-light-showcase/imgVolume02.svg",
+    "shared/assets/home-signed-in-light-showcase/imgWifi01.svg",
+    "shared/assets/home-signed-in-light-trending/imgBookmark02.svg",
+    "shared/assets/home-signed-in-light-trending/imgChevronRight.svg",
+    "shared/assets/home-signed-in-light-trending/imgMatchCard.png",
+    "shared/assets/home-signed-in-light-trending/imgMatchCard1.png",
+    "shared/assets/home-signed-in-light-trending/imgMatchCard2.png",
+    "shared/assets/home-signed-in-light-trending/imgMatchCard3.png",
+    "shared/assets/home-signed-in-light-trending/imgMatchCard4.png",
+    "shared/assets/home-signed-in-light-trending/imgNotification01.svg",
+    "shared/assets/home-signed-in-light-trending/imgPlay.svg",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo1.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo2.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo3.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo4.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo5.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo6.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo7.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo8.png",
+    "shared/assets/home-signed-in-light-trending/imgTeamLogo9.png",
+    "shared/assets/home-signed-in-light-trending/imgView.svg",
+    "shared/assets/login-dark/imgArrowLeft02.svg",
+    "shared/assets/login-dark/imgCurvedHighlight.svg",
+    "shared/assets/login-dark/imgHelpIcon.svg",
+    "shared/assets/login-dark/imgLogIn.png",
+    "shared/assets/login-dark/imgPlayEmblem.svg",
+    "shared/assets/login-light/imgArrowLeft02.svg",
+    "shared/assets/login-light/imgCurvedHighlight.svg",
+    "shared/assets/login-light/imgHelpIcon.svg",
+    "shared/assets/login-light/imgLogIn.png",
+    "shared/assets/login-light/imgPlayEmblem.svg",
+    "shared/assets/register-broadcaster-dark/imgArrowLeft02.svg",
+    "shared/assets/register-broadcaster-dark/imgChevronDown.svg",
+    "shared/assets/register-broadcaster-dark/imgChevronDown1.svg",
+    "shared/assets/register-broadcaster-dark/imgCurvedHighlight.svg",
+    "shared/assets/register-broadcaster-dark/imgHelpIcon.svg",
+    "shared/assets/register-broadcaster-dark/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "shared/assets/register-broadcaster-dark/imgPlayEmblem.svg",
+    "shared/assets/register-broadcaster-dark/imgRegisterAsBroadcaster.png",
+    "shared/assets/register-broadcaster-light/imgArrowLeft02.svg",
+    "shared/assets/register-broadcaster-light/imgChevronDown.svg",
+    "shared/assets/register-broadcaster-light/imgChevronDown1.svg",
+    "shared/assets/register-broadcaster-light/imgCurvedHighlight.svg",
+    "shared/assets/register-broadcaster-light/imgHelpIcon.svg",
+    "shared/assets/register-broadcaster-light/imgLogIn.png",
+    "shared/assets/register-broadcaster-light/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "shared/assets/register-broadcaster-light/imgPlayEmblem.svg",
+    "shared/assets/register-user-dark/imgArrowLeft02.svg",
+    "shared/assets/register-user-dark/imgChevronDown.svg",
+    "shared/assets/register-user-dark/imgCurvedHighlight.svg",
+    "shared/assets/register-user-dark/imgHelpIcon.svg",
+    "shared/assets/register-user-dark/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "shared/assets/register-user-dark/imgPlayEmblem.svg",
+    "shared/assets/register-user-dark/imgRegisterAsUser.png",
+    "shared/assets/register-user-light/imgArrowLeft02.svg",
+    "shared/assets/register-user-light/imgChevronDown.svg",
+    "shared/assets/register-user-light/imgCurvedHighlight.svg",
+    "shared/assets/register-user-light/imgHelpIcon.svg",
+    "shared/assets/register-user-light/imgLogIn.png",
+    "shared/assets/register-user-light/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+    "shared/assets/register-user-light/imgPlayEmblem.svg",
+    "shared/assets/rejected-broadcasters-dark/imgChevronRight.svg",
+    "shared/assets/rejected-broadcasters-dark/imgCircleX.svg",
+    "shared/assets/rejected-broadcasters-dark/imgCloudUpload.svg",
+    "shared/assets/rejected-broadcasters-dark/imgCurvedHighlight.svg",
+    "shared/assets/rejected-broadcasters-dark/imgMenuSquare.svg",
+    "shared/assets/rejected-broadcasters-dark/imgNoteAdd.svg",
+    "shared/assets/rejected-broadcasters-dark/imgPlayEmblem.svg",
+    "shared/assets/rejected-broadcasters-dark/imgReceiptText.svg",
+    "shared/assets/rejected-broadcasters-dark/imgUserGroup.svg",
+    "shared/assets/rejected-broadcasters-dark/imgWallet01.svg",
+    "shared/assets/rejected-broadcasters-dark/imgYoutube.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgCircleX.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgCloudUpload.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgCurvedHighlight.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgGroup.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgMenuSquare.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgNoteAdd.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgPlayEmblem.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgReceiptText.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgUserGroup.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgVector.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgVector1.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgVector2.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgVector3.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgVector4.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgWallet01.svg",
+    "shared/assets/rejected-broadcasters-empty-dark/imgYoutube.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgCircleX.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgCloudUpload.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgCurvedHighlight.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgGroup.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgMenuSquare.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgNoteAdd.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgPlayEmblem.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgReceiptText.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgUserGroup.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgVector.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgVector1.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgVector2.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgVector3.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgVector4.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgWallet01.svg",
+    "shared/assets/rejected-broadcasters-empty-light/imgYoutube.svg",
+    "shared/assets/rejected-broadcasters-light/imgChevronRight.svg",
+    "shared/assets/rejected-broadcasters-light/imgCircleX.svg",
+    "shared/assets/rejected-broadcasters-light/imgCloudUpload.svg",
+    "shared/assets/rejected-broadcasters-light/imgCurvedHighlight.svg",
+    "shared/assets/rejected-broadcasters-light/imgMenuSquare.svg",
+    "shared/assets/rejected-broadcasters-light/imgNoteAdd.svg",
+    "shared/assets/rejected-broadcasters-light/imgPlayEmblem.svg",
+    "shared/assets/rejected-broadcasters-light/imgReceiptText.svg",
+    "shared/assets/rejected-broadcasters-light/imgUserGroup.svg",
+    "shared/assets/rejected-broadcasters-light/imgWallet01.svg",
+    "shared/assets/rejected-broadcasters-light/imgYoutube.svg",
+    "shared/assets/storage-services-dark/imgCalendar04.svg",
+    "shared/assets/storage-services-dark/imgCancelCircle.svg",
+    "shared/assets/storage-services-dark/imgCheckmarkCircle02.svg",
+    "shared/assets/storage-services-dark/imgCloudUpload.svg",
+    "shared/assets/storage-services-dark/imgCloudUpload1.svg",
+    "shared/assets/storage-services-dark/imgCurvedHighlight.svg",
+    "shared/assets/storage-services-dark/imgFi2504719.svg",
+    "shared/assets/storage-services-dark/imgFrame.svg",
+    "shared/assets/storage-services-dark/imgLink04.svg",
+    "shared/assets/storage-services-dark/imgMenuSquare.svg",
+    "shared/assets/storage-services-dark/imgNoteAdd.svg",
+    "shared/assets/storage-services-dark/imgPlayEmblem.svg",
+    "shared/assets/storage-services-dark/imgReceiptText.svg",
+    "shared/assets/storage-services-dark/imgShare04.svg",
+    "shared/assets/storage-services-dark/imgUnlink04.svg",
+    "shared/assets/storage-services-dark/imgUser.svg",
+    "shared/assets/storage-services-dark/imgUserGroup.svg",
+    "shared/assets/storage-services-dark/imgWallet01.svg",
+    "shared/assets/storage-services-dark/imgX346Dropbox.svg",
+    "shared/assets/storage-services-dark/imgYoutube.svg",
+    "shared/assets/storage-services-light/imgCalendar04.svg",
+    "shared/assets/storage-services-light/imgCancelCircle.svg",
+    "shared/assets/storage-services-light/imgCheckmarkCircle02.svg",
+    "shared/assets/storage-services-light/imgCloudUpload.svg",
+    "shared/assets/storage-services-light/imgCloudUpload1.svg",
+    "shared/assets/storage-services-light/imgCurvedHighlight.svg",
+    "shared/assets/storage-services-light/imgFi2504719.svg",
+    "shared/assets/storage-services-light/imgFrame.svg",
+    "shared/assets/storage-services-light/imgLink04.svg",
+    "shared/assets/storage-services-light/imgMenuSquare.svg",
+    "shared/assets/storage-services-light/imgNoteAdd.svg",
+    "shared/assets/storage-services-light/imgPlayEmblem.svg",
+    "shared/assets/storage-services-light/imgReceiptText.svg",
+    "shared/assets/storage-services-light/imgShare04.svg",
+    "shared/assets/storage-services-light/imgUnlink04.svg",
+    "shared/assets/storage-services-light/imgUser.svg",
+    "shared/assets/storage-services-light/imgUserGroup.svg",
+    "shared/assets/storage-services-light/imgWallet01.svg",
+    "shared/assets/storage-services-light/imgX346Dropbox.svg",
+    "shared/assets/storage-services-light/imgYoutube.svg",
+    "shared/assets/teams-grid/imgArrowDown01.svg",
+    "shared/assets/teams-grid/imgCancelCircle.svg",
+    "shared/assets/teams-grid/imgCloudUpload.svg",
+    "shared/assets/teams-grid/imgContainer.png",
+    "shared/assets/teams-grid/imgContainer1.png",
+    "shared/assets/teams-grid/imgContainer2.png",
+    "shared/assets/teams-grid/imgContainer3.png",
+    "shared/assets/teams-grid/imgCurvedHighlight.svg",
+    "shared/assets/teams-grid/imgIcon.svg",
+    "shared/assets/teams-grid/imgIcon1.svg",
+    "shared/assets/teams-grid/imgIcon2.svg",
+    "shared/assets/teams-grid/imgIcon3.svg",
+    "shared/assets/teams-grid/imgIcon4.svg",
+    "shared/assets/teams-grid/imgIcon5.svg",
+    "shared/assets/teams-grid/imgIcon6.svg",
+    "shared/assets/teams-grid/imgIcon7.svg",
+    "shared/assets/teams-grid/imgIcon8.svg",
+    "shared/assets/teams-grid/imgList.svg",
+    "shared/assets/teams-grid/imgMenuSquare.svg",
+    "shared/assets/teams-grid/imgMenuSquare1.svg",
+    "shared/assets/teams-grid/imgNoteAdd.svg",
+    "shared/assets/teams-grid/imgPlayEmblem.svg",
+    "shared/assets/teams-grid/imgPlus.svg",
+    "shared/assets/teams-grid/imgReceiptText.svg",
+    "shared/assets/teams-grid/imgSearchLg.svg",
+    "shared/assets/teams-grid/imgUserGroup02.svg",
+    "shared/assets/teams-grid/imgWallet01.svg",
+    "shared/assets/teams-grid/imgYoutube.svg",
+    "shared/assets/teams-list-light/imgCancelCircle.svg",
+    "shared/assets/teams-list-light/imgChevronRight.svg",
+    "shared/assets/teams-list-light/imgCloudUpload.svg",
+    "shared/assets/teams-list-light/imgCurvedHighlight.svg",
+    "shared/assets/teams-list-light/imgEdit01.svg",
+    "shared/assets/teams-list-light/imgMenuSquare.svg",
+    "shared/assets/teams-list-light/imgNoteAdd.svg",
+    "shared/assets/teams-list-light/imgPlayEmblem.svg",
+    "shared/assets/teams-list-light/imgPlus.svg",
+    "shared/assets/teams-list-light/imgReceiptText.svg",
+    "shared/assets/teams-list-light/imgTrash01.svg",
+    "shared/assets/teams-list-light/imgUserGroup02.svg",
+    "shared/assets/teams-list-light/imgWallet01.svg",
+    "shared/assets/teams-list-light/imgYoutube.svg",
+    "shared/assets/teams-list/imgArrowDown01.svg",
+    "shared/assets/teams-list/imgCancelCircle.svg",
+    "shared/assets/teams-list/imgChevronRight.svg",
+    "shared/assets/teams-list/imgCloudUpload.svg",
+    "shared/assets/teams-list/imgCurvedHighlight.svg",
+    "shared/assets/teams-list/imgIcon.svg",
+    "shared/assets/teams-list/imgIcon1.svg",
+    "shared/assets/teams-list/imgIcon2.svg",
+    "shared/assets/teams-list/imgIcon3.svg",
+    "shared/assets/teams-list/imgIcon4.svg",
+    "shared/assets/teams-list/imgIcon5.svg",
+    "shared/assets/teams-list/imgIcon6.svg",
+    "shared/assets/teams-list/imgIcon7.svg",
+    "shared/assets/teams-list/imgIcon8.svg",
+    "shared/assets/teams-list/imgList.svg",
+    "shared/assets/teams-list/imgMenuSquare.svg",
+    "shared/assets/teams-list/imgMenuSquare1.svg",
+    "shared/assets/teams-list/imgNoteAdd.svg",
+    "shared/assets/teams-list/imgPlayEmblem.svg",
+    "shared/assets/teams-list/imgPlus.svg",
+    "shared/assets/teams-list/imgReceiptText.svg",
+    "shared/assets/teams-list/imgSearchLg.svg",
+    "shared/assets/teams-list/imgUserGroup02.svg",
+    "shared/assets/teams-list/imgWallet01.svg",
+    "shared/assets/teams-list/imgYoutube.svg",
+    "shared/assets/transaction-history-dark/imgCancelCircle.svg",
+    "shared/assets/transaction-history-dark/imgCloudUpload.svg",
+    "shared/assets/transaction-history-dark/imgCurvedHighlight.svg",
+    "shared/assets/transaction-history-dark/imgGroup.svg",
+    "shared/assets/transaction-history-dark/imgInvoice01.svg",
+    "shared/assets/transaction-history-dark/imgMenuSquare.svg",
+    "shared/assets/transaction-history-dark/imgNoteAdd.svg",
+    "shared/assets/transaction-history-dark/imgPlayEmblem.svg",
+    "shared/assets/transaction-history-dark/imgUserGroup.svg",
+    "shared/assets/transaction-history-dark/imgVector.svg",
+    "shared/assets/transaction-history-dark/imgVector1.svg",
+    "shared/assets/transaction-history-dark/imgVector2.svg",
+    "shared/assets/transaction-history-dark/imgVector3.svg",
+    "shared/assets/transaction-history-dark/imgVector4.svg",
+    "shared/assets/transaction-history-dark/imgWallet01.svg",
+    "shared/assets/transaction-history-dark/imgYoutube.svg",
+    "shared/assets/transaction-history-light/imgCancelCircle.svg",
+    "shared/assets/transaction-history-light/imgCloudUpload.svg",
+    "shared/assets/transaction-history-light/imgCurvedHighlight.svg",
+    "shared/assets/transaction-history-light/imgGroup.svg",
+    "shared/assets/transaction-history-light/imgInvoice01.svg",
+    "shared/assets/transaction-history-light/imgMenuSquare.svg",
+    "shared/assets/transaction-history-light/imgNoteAdd.svg",
+    "shared/assets/transaction-history-light/imgPlayEmblem.svg",
+    "shared/assets/transaction-history-light/imgUserGroup.svg",
+    "shared/assets/transaction-history-light/imgVector.svg",
+    "shared/assets/transaction-history-light/imgVector1.svg",
+    "shared/assets/transaction-history-light/imgVector2.svg",
+    "shared/assets/transaction-history-light/imgVector3.svg",
+    "shared/assets/transaction-history-light/imgVector4.svg",
+    "shared/assets/transaction-history-light/imgWallet01.svg",
+    "shared/assets/transaction-history-light/imgYoutube.svg",
+    "shared/assets/youtube-channel-dark/imgCancelCircle.svg",
+    "shared/assets/youtube-channel-dark/imgCheckmarkCircle02.svg",
+    "shared/assets/youtube-channel-dark/imgCheckmarkCircle3.svg",
+    "shared/assets/youtube-channel-dark/imgCloudUpload.svg",
+    "shared/assets/youtube-channel-dark/imgCurvedHighlight.svg",
+    "shared/assets/youtube-channel-dark/imgDownload04.svg",
+    "shared/assets/youtube-channel-dark/imgG7433.svg",
+    "shared/assets/youtube-channel-dark/imgG7449.svg",
+    "shared/assets/youtube-channel-dark/imgHistory.svg",
+    "shared/assets/youtube-channel-dark/imgInfo.svg",
+    "shared/assets/youtube-channel-dark/imgMenuSquare.svg",
+    "shared/assets/youtube-channel-dark/imgNoteAdd.svg",
+    "shared/assets/youtube-channel-dark/imgPlayEmblem.svg",
+    "shared/assets/youtube-channel-dark/imgReceiptText.svg",
+    "shared/assets/youtube-channel-dark/imgUnlink04.svg",
+    "shared/assets/youtube-channel-dark/imgUserGroup.svg",
+    "shared/assets/youtube-channel-dark/imgWallet01.svg",
+    "shared/assets/youtube-channel-dark/imgYoutube.svg",
+    "shared/assets/youtube-channel-dark/imgYoutube1.svg",
+    "shared/assets/youtube-channel-light/imgCancelCircle.svg",
+    "shared/assets/youtube-channel-light/imgCheckmarkCircle02.svg",
+    "shared/assets/youtube-channel-light/imgCheckmarkCircle3.svg",
+    "shared/assets/youtube-channel-light/imgCloudUpload.svg",
+    "shared/assets/youtube-channel-light/imgCurvedHighlight.svg",
+    "shared/assets/youtube-channel-light/imgDownload04.svg",
+    "shared/assets/youtube-channel-light/imgG7433.svg",
+    "shared/assets/youtube-channel-light/imgG7449.svg",
+    "shared/assets/youtube-channel-light/imgHistory.svg",
+    "shared/assets/youtube-channel-light/imgInfo.svg",
+    "shared/assets/youtube-channel-light/imgMenuSquare.svg",
+    "shared/assets/youtube-channel-light/imgNoteAdd.svg",
+    "shared/assets/youtube-channel-light/imgPlayEmblem.svg",
+    "shared/assets/youtube-channel-light/imgReceiptText.svg",
+    "shared/assets/youtube-channel-light/imgUnlink04.svg",
+    "shared/assets/youtube-channel-light/imgUserGroup.svg",
+    "shared/assets/youtube-channel-light/imgWallet01.svg",
+    "shared/assets/youtube-channel-light/imgYoutube.svg",
+    "shared/assets/youtube-channel-light/imgYoutube1.svg",
+    "shared/auth.css",
+    "shared/dashboard.css",
+    "shared/fonts/arimo.ttf",
+    "shared/fonts/inter.ttf",
+    "shared/fonts/manrope.ttf",
+    "shared/fonts/montserrat.ttf",
+    "shared/fonts/outfit.ttf",
+    "shared/fonts/selawk.ttf",
+    "shared/fonts/selawkb.ttf",
+    "shared/fonts/selawkl.ttf",
+    "shared/fonts/selawksb.ttf",
+    "shared/fonts/selawksl.ttf",
+    "shared/fonts/urbanist.ttf",
+    "shared/home.css",
+    "shared/site.css",
+    "shared/site.js",
+    "shared/wallet.css",
+    "storage-services-dark/index.html",
+    "storage-services-light/index.html",
+    "teams-grid/index.html",
+    "teams-list-light/index.html",
+    "teams-list/index.html",
+    "transaction-history-dark/index.html",
+    "transaction-history-light/index.html",
+    "youtube-channel-dark/index.html",
+    "youtube-channel-light/index.html"
+  ],
+  "files": [
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgChevronDown.svg",
+      "bytes": 320,
+      "sha256": "34b870ed1d65c944e86692e48dcacaca6824328c035a658d7cdc717f9b92cd72"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgChevronRight.svg",
+      "bytes": 332,
+      "sha256": "f0719a49fc0c1d0c3cbfda4511221414eee5bbd87f3b3aab4611d6a2f9970d78"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgDot.svg",
+      "bytes": 248,
+      "sha256": "939de98e7575961a829ad924d71ef7d96d462557bff2e14e93e0d63e3914fc22"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgNoteAdd.svg",
+      "bytes": 2760,
+      "sha256": "b27a210551bd9c668358076c58fa089539f824bf6ea0b47609ab14ef7b29903d"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "a60ca5b5211d20cd2fdcb40863d4fe4de93fef4c0ac7bb166e8f28003fb49503"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-dark/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgGroup.svg",
+      "bytes": 2318,
+      "sha256": "44256fa510f424db0e8616eb6768d3b8e80ccad17bb5ff0a294596c235802867"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgNoteAdd.svg",
+      "bytes": 2760,
+      "sha256": "b27a210551bd9c668358076c58fa089539f824bf6ea0b47609ab14ef7b29903d"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgPlayEmblem.svg",
+      "bytes": 545,
+      "sha256": "e6914fb5544a352f0754d3a7302214b47c78d103422d40e0cb6290d55daac2ea"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgVector.svg",
+      "bytes": 1355,
+      "sha256": "38cb39e775bb8fc5257c87222f2535de4158ab06c29cf175b9b9a7ac5800a660"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgVector1.svg",
+      "bytes": 764,
+      "sha256": "e62c83bcf6dd8150270249de963c78b8d67456da99050b26f1d586bc81bf494d"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgVector2.svg",
+      "bytes": 765,
+      "sha256": "fb7c5f672aa80d4b6b66b0f8e5c78402b70775f8ecbf5d9432f1da23099bc117"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgVector3.svg",
+      "bytes": 606,
+      "sha256": "46a0bd5f23e8064353bc81f105737ce82282511d39579a2c0a01bbd2a18b0dbd"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgVector4.svg",
+      "bytes": 606,
+      "sha256": "7c24a09a4fa40237de44639218a6997621203421232a41d54f7310293ea61710"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-dark/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "6a75985ec23354bc08c874e19614f517f99559086cef72104637d624399be609"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "db8a51c6d1caa17d208b5b3f7d52860835639e7f573db7bbb8a44f705d562650"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgGroup.svg",
+      "bytes": 2318,
+      "sha256": "44256fa510f424db0e8616eb6768d3b8e80ccad17bb5ff0a294596c235802867"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgNoteAdd.svg",
+      "bytes": 2770,
+      "sha256": "7f350ae96f6bb55caf4076af177b76d58693fb31986f80894a25d2775f5d5c3e"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgPlayEmblem.svg",
+      "bytes": 545,
+      "sha256": "d2144db01bd3b907bf89f3fb6d3adcc58440a7c81eb3c39131633034328be646"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "f67971e6bc64808753a737c03b50d3c8428b67080b2ebaf338bbcc1d7c1f42aa"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "c7b3b0478ddcc1bdc0c5f6e409885247341f5c5cd4a417b72ad0d2fe62e42b63"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgVector.svg",
+      "bytes": 1355,
+      "sha256": "a1f8daef56e3036eaeaf0779012cf73c95ae16e9e9b8198ddbcea080c0092572"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgVector1.svg",
+      "bytes": 764,
+      "sha256": "e62c83bcf6dd8150270249de963c78b8d67456da99050b26f1d586bc81bf494d"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgVector2.svg",
+      "bytes": 765,
+      "sha256": "fb7c5f672aa80d4b6b66b0f8e5c78402b70775f8ecbf5d9432f1da23099bc117"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgVector3.svg",
+      "bytes": 606,
+      "sha256": "46a0bd5f23e8064353bc81f105737ce82282511d39579a2c0a01bbd2a18b0dbd"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgVector4.svg",
+      "bytes": 606,
+      "sha256": "7c24a09a4fa40237de44639218a6997621203421232a41d54f7310293ea61710"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "03adcb3ea0e051b2b05c23b5bffdd3f750b9c76c19678bf538d9778a17fdddec"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-empty-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "6a75985ec23354bc08c874e19614f517f99559086cef72104637d624399be609"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgChevronDown.svg",
+      "bytes": 320,
+      "sha256": "34b870ed1d65c944e86692e48dcacaca6824328c035a658d7cdc717f9b92cd72"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgChevronRight.svg",
+      "bytes": 332,
+      "sha256": "35da624331c3d14d63da7ef48948f654a378b357d660b62ae621aea4e38fb737"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "db8a51c6d1caa17d208b5b3f7d52860835639e7f573db7bbb8a44f705d562650"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgDot.svg",
+      "bytes": 248,
+      "sha256": "939de98e7575961a829ad924d71ef7d96d462557bff2e14e93e0d63e3914fc22"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgNoteAdd.svg",
+      "bytes": 2770,
+      "sha256": "7f350ae96f6bb55caf4076af177b76d58693fb31986f80894a25d2775f5d5c3e"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "13e93869b5b081e82ea0d89bfc0e495da03ae1abe5a4cd329a91f776c6f47e89"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "f67971e6bc64808753a737c03b50d3c8428b67080b2ebaf338bbcc1d7c1f42aa"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "c7b3b0478ddcc1bdc0c5f6e409885247341f5c5cd4a417b72ad0d2fe62e42b63"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "03adcb3ea0e051b2b05c23b5bffdd3f750b9c76c19678bf538d9778a17fdddec"
+    },
+    {
+      "path": "shared/assets/broadcaster-requests-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgArticle.png",
+      "bytes": 338226,
+      "sha256": "4db77536eba6a138451d896b231b37f407dd15b26f0fbf76033ed5bf7cd17f5f"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgCast.svg",
+      "bytes": 1478,
+      "sha256": "1df299e647ffdd5e636283b04eaffe409a6d11bd0094402328491fcacf5b6730"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon.svg",
+      "bytes": 353,
+      "sha256": "3a3d045938c48bb0f69650b1fdca1c621642d62b05d01f094ae67a32636dffed"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon1.svg",
+      "bytes": 643,
+      "sha256": "98fa043f29f501c14a9e1e12f3d76016e93c023265d55d89bf2377d73cd60af9"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon2.svg",
+      "bytes": 310,
+      "sha256": "2ff6222086559c2a87f6eda3c75dd55e556ca74a797353fc2e90be4993331f3d"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon3.svg",
+      "bytes": 336,
+      "sha256": "e3de5190abf5ec409d585d3c82bcdf550c896ec242e0c7fc2c156a9aa0169f38"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon4.svg",
+      "bytes": 336,
+      "sha256": "b39424d70cfe8083ff30cba6ab647d6d1dc5c3fa35876c3d3d134fd6e89eb408"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon5.svg",
+      "bytes": 1092,
+      "sha256": "912ac3a1c774e1679e3ba4a4c56a37bf58fb51f4d23db66ffb6526495d7b2112"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon6.svg",
+      "bytes": 756,
+      "sha256": "6834c6dbcf97c2d7d4424adbd10db3c0e4de5c45ce9b5ef517188afa87f67de3"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon7.svg",
+      "bytes": 1246,
+      "sha256": "8f6a4b09755002ba25a60fc8785872f36834f6cbe28a331901fbdf284731fde3"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon8.svg",
+      "bytes": 363,
+      "sha256": "f84516680b1b322b9af0ce85dcfcbc76fc735da91119b3d6077b3cba8f0cccd0"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgIcon9.svg",
+      "bytes": 568,
+      "sha256": "79d9f2ddf2683f7b0ddd6472e1ea2e9773f35a6e4c1af4722b69e0ac1f92205f"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "5ec2321bd56eaef939d807834d73477ee6009fc1035ed5cd714bf2f6c08f37b3"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgPlus.svg",
+      "bytes": 370,
+      "sha256": "f854e135fa322d22599ae4b4b2d50af0ab78cacfcd8e353d05087c38ae18468b"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgUserGroup02.svg",
+      "bytes": 1900,
+      "sha256": "47e752e1d338739a04e6f66f26fa1e641e8e693d45346be654a0e9b0ba268914"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "6a75985ec23354bc08c874e19614f517f99559086cef72104637d624399be609"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgCast.svg",
+      "bytes": 1478,
+      "sha256": "1df299e647ffdd5e636283b04eaffe409a6d11bd0094402328491fcacf5b6730"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgChevronDown.svg",
+      "bytes": 320,
+      "sha256": "34b870ed1d65c944e86692e48dcacaca6824328c035a658d7cdc717f9b92cd72"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgChevronRight.svg",
+      "bytes": 332,
+      "sha256": "35da624331c3d14d63da7ef48948f654a378b357d660b62ae621aea4e38fb737"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "db8a51c6d1caa17d208b5b3f7d52860835639e7f573db7bbb8a44f705d562650"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgDot.svg",
+      "bytes": 248,
+      "sha256": "5d83f2fb121cd0b8d1b97ad0cc9f9fcf91f7d2236b244eb625cc71729c44f323"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgDot1.svg",
+      "bytes": 248,
+      "sha256": "e54b08e7f50747e07ef19e3fffae31164ccf76458f10327207cfc276d47acd42"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgEdit01.svg",
+      "bytes": 867,
+      "sha256": "2cea71e69b08b797b45e476fa798cb13a3251309dceb8d8b350527934d54bff3"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgEllipse5.svg",
+      "bytes": 235,
+      "sha256": "447d0f25ab990d6d2d517ea96a560211e77795ee12ddb4516a803d3f9dcdaa89"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "e7df142b4710bf68690054448569b46794de33bf2dac0a593acf311a0e0e2ffd"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "679ba74e016753960510874bea7ce6db6bc9b91b4b9506e2a2ecd78c82fdf3df"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgPlus.svg",
+      "bytes": 370,
+      "sha256": "f854e135fa322d22599ae4b4b2d50af0ab78cacfcd8e353d05087c38ae18468b"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "f67971e6bc64808753a737c03b50d3c8428b67080b2ebaf338bbcc1d7c1f42aa"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "c7b3b0478ddcc1bdc0c5f6e409885247341f5c5cd4a417b72ad0d2fe62e42b63"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgWallet01.svg",
+      "bytes": 1908,
+      "sha256": "5091a0cb82df2d8fa64af9c7355d58555fa0a6ae794204728a0209c3b6d6ee7a"
+    },
+    {
+      "path": "shared/assets/broadcasters-wallets-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgArrowDown01.svg",
+      "bytes": 339,
+      "sha256": "cf105e2933432c3af5f85f988e997dd7ec9406b655c37acbc80ff57d0fc35d12"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgArrowUp.svg",
+      "bytes": 348,
+      "sha256": "3fb2bd2671b46592f8c41374019e82adacaf13515364baacc328ff61aaa643b6"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgAvatar.png",
+      "bytes": 127545,
+      "sha256": "7259c0f5495c7db04b5bc85fe484d2d62c870f1c8be92ccbc4b015d8a01831f4"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgAvatar1.png",
+      "bytes": 129066,
+      "sha256": "c408d6fa7060c38c827a1c5af3afab09860d9439ac777cc0ab3169a9f5a67b17"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgAvatar2.png",
+      "bytes": 150644,
+      "sha256": "eb89be199b4a63113d96493e5d234821b6c6e66f50cde7576ab5549bbf54809d"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgCast.svg",
+      "bytes": 1478,
+      "sha256": "1df299e647ffdd5e636283b04eaffe409a6d11bd0094402328491fcacf5b6730"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgCloudUpload1.svg",
+      "bytes": 2280,
+      "sha256": "8507ca254af8ca6e50806fa5e7cb819046294700f66fa8493fc7c34218851db2"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgContainer.svg",
+      "bytes": 1853,
+      "sha256": "f771a519a225ebff16ff544fe5e8e1b62bfca990cb2e3de7d396766fd0c9c78b"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgEllipse5.svg",
+      "bytes": 235,
+      "sha256": "34eb6c0ed210a85a0f69e1aa2cb2dce7969bc980ed3953730dfc5d86575a6594"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgEllipseFill.svg",
+      "bytes": 250,
+      "sha256": "089749f965cc75773fc2ba5e1f957dc3f343ae503846cad93a2342cf456052e5"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgIcon.svg",
+      "bytes": 612,
+      "sha256": "200e067f3e5fc27e312378d430ac851b29a11a40fdcce85a901ea4d3d7d59467"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgLine.svg",
+      "bytes": 2016,
+      "sha256": "e62d398ed5685c8b445aa6108767fed348ae381019101c071ed44d70c322f296"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgLine1.svg",
+      "bytes": 235,
+      "sha256": "eb43a258fae746161c96385f597d3b581ff0db85243d9d3c9b07f70f64cdd4bc"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgLine2.svg",
+      "bytes": 708,
+      "sha256": "f3cc5db899616d5a56485252a855b7fd9e99752e93a7022972edb862c5fedd80"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgMagnificPreserveTheOriginalCompositionAndExactlyFive654021.png",
+      "bytes": 1889845,
+      "sha256": "f4e3df4bdeebe3d42e5df5751bfd80cab0fca820f4a3d9086bf979387455a61e"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgMatchCard.png",
+      "bytes": 6473575,
+      "sha256": "d8e85afcee95262aabef1be579be1bedbd3b99b1147b1310f7c9203368dcd5c4"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgMenuSquare.svg",
+      "bytes": 4481,
+      "sha256": "7cc319c992392d6a6bcea3c9739f3c97a62f2f64ee3edc470802635626f2be74"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgNoteAdd1.svg",
+      "bytes": 2791,
+      "sha256": "c978ada2af6adb8d62129b6c6be32be3094c3067d16efede5b8fedb4368ec27c"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgPlayCircle.svg",
+      "bytes": 902,
+      "sha256": "255b8edc0f574b17d4e37dbd32345941acdcff6a01aa35d9bf12b781c61573a2"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "5c6487d37e291e2188bf23cbba53af6eb1a3c5e705a45a27c88eef23f8fd7b70"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgPlus.svg",
+      "bytes": 370,
+      "sha256": "f854e135fa322d22599ae4b4b2d50af0ab78cacfcd8e353d05087c38ae18468b"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgRipple.svg",
+      "bytes": 245,
+      "sha256": "70c884ba86c4cf72fe9cdac943880136cbbb99543bd82471067ae34b72191208"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgSearchLg.svg",
+      "bytes": 498,
+      "sha256": "29bd3f3c725df40889157fb3d2d25ee280030bc8748b48cd62c27495e03da3ca"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgSettings01.svg",
+      "bytes": 2232,
+      "sha256": "0133548a3787c14ef0c17ea1254a0d3daf15f2ff50d326e334ae8d457876d40a"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgSingleLine1.svg",
+      "bytes": 618,
+      "sha256": "9b7dd7bf03ea7d3d659f1a090c3fc3fa0b86060b8885a196e82f798d69b723c6"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgSingleLine2.svg",
+      "bytes": 946,
+      "sha256": "18105a35e2d9351a0c6038abd724dbeaadedf74db20efb215b2dc24c40ce5757"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgTeamLogo.png",
+      "bytes": 257084,
+      "sha256": "521859bcabfb4ee3dd3b8bd63c2e82b04e19fb30332778736c080c56e77edb10"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgTeamLogo1.png",
+      "bytes": 35744,
+      "sha256": "e4cfe1fd7b2d64e29b812375ffd74d12941ec17d7630cda002ab1570bbee6392"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgUser.svg",
+      "bytes": 1136,
+      "sha256": "ec440b87b0202a2072792e27033d7fcaa58c4b572626c67c24599f0dae494e0a"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgUserGroup02.svg",
+      "bytes": 1927,
+      "sha256": "d7380f36bcce93772715d701ae8afb951305b4eb8d841a3e4bc5879261231770"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgView.svg",
+      "bytes": 803,
+      "sha256": "d27794b5f2e3948012dc6ad2f908c7ef3ec3117ed8d28b75b06aa3a2fcc34928"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/club-dashboard-dark/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/hockey.png",
+      "bytes": 37134,
+      "sha256": "f750b4c3b2e8f3163a08c3cdc0cb585340cd60827d12c5f688a10a75413baccc"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon.svg",
+      "bytes": 1302,
+      "sha256": "d08f92f69b4a62e05ac33f8db9721d9b7d732052750ba70481b5311640dd48d9"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon1.svg",
+      "bytes": 1003,
+      "sha256": "e94e811ad3d852e94f7451c097eb9b837c660bf14a9291d8f4965b6f656b0625"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon10.svg",
+      "bytes": 604,
+      "sha256": "70040a3ffebdfe5eddb8a617f714ee48a5c99318e433f9283163ca2bbd2e6af0"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon11.svg",
+      "bytes": 305,
+      "sha256": "4f55a34e7975c9bc1a7b485de390f4abb85e3b8d2efdb483f7eb21f7907f619d"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon12.svg",
+      "bytes": 646,
+      "sha256": "3ea399b4767f134ef08112944dc8f42fe1bc2ce4abe7a809a7174dd18159a595"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon13.svg",
+      "bytes": 742,
+      "sha256": "240820f5b5ef55b630bb6c93e711cd7cea6b40f99ce3814a48622768d489816f"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon14.svg",
+      "bytes": 797,
+      "sha256": "803c1bcbc64d01a3420a08622c1331e764fcd55f3daeabf699fc7d8b1d3a51b7"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon15.svg",
+      "bytes": 601,
+      "sha256": "e79cf6eba520dfafb342436c53b89b51697560cd1e2f92a7fe06cada36300835"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon16.svg",
+      "bytes": 873,
+      "sha256": "add774cc0fcd5f6b86ad1e5c2f1f5b89396d09d08a99664e7d913030ca0aa88d"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon2.svg",
+      "bytes": 716,
+      "sha256": "c63094d438caf6d3206a6059c560adb0c1044c4775b9d0d77d13ec30f90d2608"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon3.svg",
+      "bytes": 679,
+      "sha256": "2326d5b9389919a808591035852c7b6738dfe1f62eab5e17985d9d12d4c82ae5"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon4.svg",
+      "bytes": 621,
+      "sha256": "bb0bbf6b0bf0aa1000e51d0fee776d718f861686fb78ab62aa0fad150a2a0f4b"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon5.svg",
+      "bytes": 624,
+      "sha256": "d6e2ba56883bce4cb48323bc629edafd9bb306c3e0cd96bca0726034d7a382c5"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon6.svg",
+      "bytes": 902,
+      "sha256": "cf6ef88cfb42ac279a7d91fea2e515c89cabb75faf88787319f5dbf64b38dc8a"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon7.svg",
+      "bytes": 623,
+      "sha256": "72056ffcd6356def318510ca424d167b1b33f0bb21af2b0d668f468e4fabe3c8"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon8.svg",
+      "bytes": 499,
+      "sha256": "279cbcb91ae34f4dc2be266b34e59d81a474728261aec6355d09f47ce3dc3b54"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgIcon9.svg",
+      "bytes": 612,
+      "sha256": "6841bc0206866aea09181a6386b2d29fb14559f7157d43547e71b92fa73975e4"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgImageHockeyGame.png",
+      "bytes": 37134,
+      "sha256": "f750b4c3b2e8f3163a08c3cdc0cb585340cd60827d12c5f688a10a75413baccc"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgImageVolleyballGame.png",
+      "bytes": 34253,
+      "sha256": "a8affdc67f71d981adbe2815b97b87d5be38531e49b8288c1ce834177c5849bb"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgVector.svg",
+      "bytes": 10090,
+      "sha256": "bc8bd359f2f6ee38980f6d9407526364480bcf216754211233396b32f2096790"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgVector1.svg",
+      "bytes": 968,
+      "sha256": "71da4e8ef109250c3bf4dda85220cbafc7f34fa926d5a561b491278658599e0d"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgVector2.svg",
+      "bytes": 749,
+      "sha256": "52955cef74099a4b3d7249f867b24a7ac5facdc6290e6a0b80dfc309a4e53fde"
+    },
+    {
+      "path": "shared/assets/club-dashboard-light/imgVector3.svg",
+      "bytes": 480,
+      "sha256": "721852c35a35e1d2062a9366d89b68c0b826d2efed8d439c1e3d4b82f5d521ff"
+    },
+    {
+      "path": "shared/assets/dashboard-charts/8436-7280.svg",
+      "bytes": 25831,
+      "sha256": "a91cd701a0a00223fe7fa3959226a74476fd5e2673a569604e5b21b50f7102eb"
+    },
+    {
+      "path": "shared/assets/dashboard-charts/8436-8252.svg",
+      "bytes": 32475,
+      "sha256": "e19a239b3fa3c7cc766512a5b5a9ab3f1121cfb4b471f2f7e739b012d8b61a57"
+    },
+    {
+      "path": "shared/assets/home-artwork/8212-1257.png",
+      "bytes": 121040,
+      "sha256": "a9d8c0ef751c50c458def6f21f0a4d6c389588d350d20e3c2e1cfd4ada384e4e"
+    },
+    {
+      "path": "shared/assets/home-artwork/8212-12582.png",
+      "bytes": 639001,
+      "sha256": "96688197cff94a6c408df982dd8bc45526bd66a7f700ee6cdcc992ad19a62bbb"
+    },
+    {
+      "path": "shared/assets/home-artwork/8212-13823.png",
+      "bytes": 348694,
+      "sha256": "42be007a684bbbbf2af6c84ae905decc9855b1499b7130cc17f60de68866bd0a"
+    },
+    {
+      "path": "shared/assets/home-artwork/8212-34.png",
+      "bytes": 126379,
+      "sha256": "aeb2a7ca859dc32e95ee7da4e00ea8272c69aacb0028c290aebda092392c2b49"
+    },
+    {
+      "path": "shared/assets/home-artwork/8292-3265.svg",
+      "bytes": 6540,
+      "sha256": "240fdf8a97c27c0903c5e39d828c6fbc98edafa88c49dea3227e8af9bbbc0b07"
+    },
+    {
+      "path": "shared/assets/home-artwork/8292-3293.svg",
+      "bytes": 5813,
+      "sha256": "c747ae9bc02b279cab68b41c51957623e559175762c0c50cbce378ee0e687e20"
+    },
+    {
+      "path": "shared/assets/home-artwork/8292-3330.svg",
+      "bytes": 16050,
+      "sha256": "c48271876aaac676e84bd05bd23c4d983e98310982eb55519d82ef608245c9b3"
+    },
+    {
+      "path": "shared/assets/home-artwork/8307-11971.png",
+      "bytes": 639839,
+      "sha256": "035711aa21c2abf64303522b42665dce29699af48ef564aa49d3a0f13c60d1e8"
+    },
+    {
+      "path": "shared/assets/home-artwork/8307-8679.png",
+      "bytes": 126370,
+      "sha256": "90b71e3ed4014737fc574ee182398be57587fc1e51d182e5b6a43500f574b087"
+    },
+    {
+      "path": "shared/assets/home-artwork/8307-9902.png",
+      "bytes": 59048,
+      "sha256": "1afa59bfc906483259bfd469b349657d882b5bd6e456dd3e258b53338960caa1"
+    },
+    {
+      "path": "shared/assets/home-dark-benefits/imgCloud.svg",
+      "bytes": 854,
+      "sha256": "93bbe5facec57a6d867d86e0b2aebe03be0ea024e773d5ff0637b3879d36d818"
+    },
+    {
+      "path": "shared/assets/home-dark-benefits/imgComputer.svg",
+      "bytes": 1056,
+      "sha256": "201b05d7d6a2bd2700dfc8be2001e8ab65d8dcbc657d04d68bb3a8abbcfdf780"
+    },
+    {
+      "path": "shared/assets/home-dark-benefits/imgComputerPhoneSync.svg",
+      "bytes": 1391,
+      "sha256": "258b7607024dfbedc8b4328d37671f10f82e9b658d53082434e786f6c0677294"
+    },
+    {
+      "path": "shared/assets/home-dark-benefits/imgDollarCircle.svg",
+      "bytes": 952,
+      "sha256": "28d672542569b24400ec7fea2fa2b54bf37b9a82725b6b155869c0e97f64d3cc"
+    },
+    {
+      "path": "shared/assets/home-dark-benefits/imgHouseHeart.svg",
+      "bytes": 1224,
+      "sha256": "78bc94cd771a2b9c11e707dcd59c6157f94edbc5bc23cb470afe0acec544c589"
+    },
+    {
+      "path": "shared/assets/home-dark-benefits/imgRss.svg",
+      "bytes": 879,
+      "sha256": "141212246b573075b5774b5cebe7c0faa3ca70eee800157838b48d8d9be9e908"
+    },
+    {
+      "path": "shared/assets/home-dark-benefits/imgYoutube.svg",
+      "bytes": 1351,
+      "sha256": "33eed1a72c6c873f0c4c95846370ce0ca6e3b076a6882209de3ce22abdcbf2d9"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgArrowUpRight01.svg",
+      "bytes": 348,
+      "sha256": "5a55699ecea8b935c2f697a29af4aa4cb27362e0bfb6956c919df8453e76a186"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgCategoryImage.png",
+      "bytes": 6036855,
+      "sha256": "ea185b23b46cafd27bf7f19022d2fbe3c3f8ff0c180886b3c012231b5fefc964"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgCategoryImage1.png",
+      "bytes": 368418,
+      "sha256": "ab6e890c8ded1f13f13c50713576a46a1eff94be8e4941f82ac4e9a1335dae1e"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgCategoryImage2.png",
+      "bytes": 388081,
+      "sha256": "adafdf8945bbd52e3dbf71613708cdd7a6b2d35deff69d6df75c8b411e374db9"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgCategoryImage3.png",
+      "bytes": 462240,
+      "sha256": "39df747f6cd3fca1e5fe31f34cd928f57b9be7e2afa63f615fba2570ffd72a82"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgCategoryImage4.png",
+      "bytes": 340473,
+      "sha256": "ec5b6d8df93145aea4a9161e4a7b61b6f35376dbb85d8c297834cd9551213fc2"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgCategoryImage5.png",
+      "bytes": 463583,
+      "sha256": "7444d11cd18dda650e4a7bed4f80ca433180daddcdca77e0958fd2823e0eee93"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "0f8520b17fc15380a2b084b987eab3b1073a0ae7cfa43b032da91b4cb2db9d21"
+    },
+    {
+      "path": "shared/assets/home-dark-categories/imgChevronRight1.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-dark-devices/imgGroup41.svg",
+      "bytes": 17648,
+      "sha256": "fa1a86830acb3a027525ca90e47acb46cb4d276bad4b18e5660cc0aa7bc58d87"
+    },
+    {
+      "path": "shared/assets/home-dark-devices/imgGroup44.svg",
+      "bytes": 21281,
+      "sha256": "90202bedcb70a8b44068292b9e0584938f2928901d76774431d79042328d8e06"
+    },
+    {
+      "path": "shared/assets/home-dark-devices/imgImage.png",
+      "bytes": 2069146,
+      "sha256": "5cb3358e61b83f68bf2576007695df5ec725e6ba51bbc60ffbd892fc9d2cee03"
+    },
+    {
+      "path": "shared/assets/home-dark-devices/imgMonitor.svg",
+      "bytes": 1411,
+      "sha256": "f2fa8f580a60c288abefeaa4283397dba19c391c61fab475496cfb6fe0cf1837"
+    },
+    {
+      "path": "shared/assets/home-dark-find/imgIcon.svg",
+      "bytes": 343,
+      "sha256": "3a1dd885bffcae976418b17987e9cf8dd64cfa27a27eed9589b95aec22bd0766"
+    },
+    {
+      "path": "shared/assets/home-dark-find/imgSearch01.svg",
+      "bytes": 630,
+      "sha256": "184cf105a47aebe82eb332e3e805450f8d132e9b3b213db290a307fbdd89605b"
+    },
+    {
+      "path": "shared/assets/home-dark-footer/imgCall02.svg",
+      "bytes": 836,
+      "sha256": "91b34038f657f8595e78b40f96ac49ed0cecb93531aa9f67371ef51c21338822"
+    },
+    {
+      "path": "shared/assets/home-dark-footer/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "77cc30b0023002297ca0fb7ec71a937c5cf928054b5723655429794a5e2dbcb0"
+    },
+    {
+      "path": "shared/assets/home-dark-footer/imgLine190.svg",
+      "bytes": 250,
+      "sha256": "917a9fde79b049bc7ab5c62294aace5d1c9ad98dd65052b465d949a864b14326"
+    },
+    {
+      "path": "shared/assets/home-dark-footer/imgLine3.svg",
+      "bytes": 240,
+      "sha256": "6779a5c092e579bdecc76375ba48fce43cac7d78b77b9997976f94ce896bd6c8"
+    },
+    {
+      "path": "shared/assets/home-dark-footer/imgLocation01.svg",
+      "bytes": 609,
+      "sha256": "eea04b9ff8072644082cf5fad2cc92da079f09ac45bcc787c5ae0d64d3bd7685"
+    },
+    {
+      "path": "shared/assets/home-dark-footer/imgMail01.svg",
+      "bytes": 547,
+      "sha256": "d15897a12037d572ec1f26f909ace974397c15e522a2f163157d9f55f97023d5"
+    },
+    {
+      "path": "shared/assets/home-dark-footer/imgPlayEmblem.svg",
+      "bytes": 410,
+      "sha256": "f32c099e68c83c85ddb306d435a698de811581e0cb78ab1ad6ba73918f723a9a"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/img05AutoOrderV2.png",
+      "bytes": 2685806,
+      "sha256": "69af3190e894d7a12c900186870ba31555abfdc82d75c39b3bba1a20dcc527df"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgAppleIcloudSeeklogo1.svg",
+      "bytes": 1525,
+      "sha256": "9ba9d7959406c783c2ba5471a34321b10647704e0db6ba4fb4e0d2f683dd3ec7"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgArrowRight02.svg",
+      "bytes": 370,
+      "sha256": "08c20a588acfc14a1792e5f803c259e0409e800cf3b216e63740701c319cac78"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgColor.svg",
+      "bytes": 4234,
+      "sha256": "da7b9fea67c71f85a4788c017770fcd3271a64ded9507db639de55c9ab16fd3b"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgCurvedHighlight1.svg",
+      "bytes": 293,
+      "sha256": "2df5841b35eb7450088f0f62da303e802d6fc4dc6c275568eaef0e2c90f0093a"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgGroup.svg",
+      "bytes": 1636,
+      "sha256": "b7bfe2af79c51811e5de9aac319d77884ffa32386373c85deb12a0b339a77eca"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgGroup41.svg",
+      "bytes": 17650,
+      "sha256": "4963ba101c553c9c8b922c106fa38318b68ed132b90f37772a8ce8b6d752524d"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgGroup44.svg",
+      "bytes": 21294,
+      "sha256": "8f4bf4e62d12d1783e269c7393f3a8e414e34700fe9a4918fb33268df6919594"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgGroup7.svg",
+      "bytes": 369,
+      "sha256": "9bfe98dd973eae9ff3321da350aa829bb61a9b0b687b5ee5ae58d0396554abb2"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgImage.svg",
+      "bytes": 7555,
+      "sha256": "3455769e9d8350bf7fcc49c3fb4eeaf4994b57639c4133df3a90a0cd8dd0c1e4"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgLayer2.svg",
+      "bytes": 1714,
+      "sha256": "855a6cc30f26046b906c17b87ca3c571453189e56326d3c203525f8b87ef573c"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgOnedriveSeeklogo1.svg",
+      "bytes": 1844,
+      "sha256": "8d310886c494c5f919094b408c12e18a9e3118f0b6f88b2a5590bf4783f1218e"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgPlay.svg",
+      "bytes": 964,
+      "sha256": "86e9c7d06eecf22d69a8e81f3932ad90b97643322a685752912ef8b5b8f40c9e"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgPlayEmblem.svg",
+      "bytes": 466,
+      "sha256": "af280ce9b7c8111d3cbfd5aeeeb978eafbf47aa748e21bc02d7ed1bebd76e562"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgSearch01.svg",
+      "bytes": 628,
+      "sha256": "15b01bab8353976ac4ea5dac9209abc22ab5568b571720a3a5b304fc11ec9c86"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector.svg",
+      "bytes": 709,
+      "sha256": "f017bef10de4b13b182f21ad70b98eaa625589b004ff66f548827afb7012b4a8"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector1.svg",
+      "bytes": 949,
+      "sha256": "6a0fe3afa8ca217710a78a0e53f6f591917aa50d84ff4f17cc4f4d194aa4f0a8"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector10.svg",
+      "bytes": 572,
+      "sha256": "7bc4a702b9a049247776d577883e8405adb3eaf94637093c4d6f8133489f91f8"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector11.svg",
+      "bytes": 568,
+      "sha256": "80dfa1e895ac495fc4c5b160204e8ed998e5ab9f18c31078ec660692699e6c1f"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector12.svg",
+      "bytes": 813,
+      "sha256": "0b567996e4572adc33ef1e6c53db02ac9cfc684215bae6dc44e885045d9a315b"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector13.svg",
+      "bytes": 814,
+      "sha256": "5412461e4828532ceb2669bb5176b207f86b1a0154ccb43b52c5e075097a4ad7"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector2.svg",
+      "bytes": 963,
+      "sha256": "a2c41cfbbecdcb25352780f1728b040e22ead1fb1e3f3337721b0d1f381ec65c"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector3.svg",
+      "bytes": 767,
+      "sha256": "882814892af31b6184411aa6a18e494379339d009c3ea5632e9342fcffd0da08"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector4.svg",
+      "bytes": 914,
+      "sha256": "ef7af6f9a42ec603b7bc2e6fa6c908b87e2e041456183a086cd0dc220b4d8978"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector5.svg",
+      "bytes": 990,
+      "sha256": "37497145eb0c8500f34f0e22a27760050a44ce0e3aee1ef1fa50147cc20112bf"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector6.svg",
+      "bytes": 559,
+      "sha256": "f2205aaf5c390abe0d4e0368beb0b94146be5f5a83597b6069b089c60a4f3f4e"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector7.svg",
+      "bytes": 559,
+      "sha256": "b062f539332c6b7879865edb24a8ff2b10d6a415661f8d429761d749df99f799"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector8.svg",
+      "bytes": 557,
+      "sha256": "3a5860d215c28619b9fd82fcd1d43b15b4f0a1f9e795a88845812929c017a95f"
+    },
+    {
+      "path": "shared/assets/home-dark-hero/imgVector9.svg",
+      "bytes": 571,
+      "sha256": "a8031d07effbdf285be1e0d8f557e50f96162849080b312a741845b00add6834"
+    },
+    {
+      "path": "shared/assets/home-light-benefits/imgCloud.svg",
+      "bytes": 856,
+      "sha256": "bb5ce88a441542c214e1ad133c756b1cb9455562e0d3c8c7ffdd7e3e1b7b54c0"
+    },
+    {
+      "path": "shared/assets/home-light-benefits/imgComputer.svg",
+      "bytes": 1060,
+      "sha256": "89e13636b58260e1adf1a610a57019ffb22e1a7160c4d0710a29f46a58df1b83"
+    },
+    {
+      "path": "shared/assets/home-light-benefits/imgComputerPhoneSync.svg",
+      "bytes": 1397,
+      "sha256": "1a10acc316d9370bab31695203c9d5398acad3be429cf05484e3990c04dacaee"
+    },
+    {
+      "path": "shared/assets/home-light-benefits/imgDollarCircle.svg",
+      "bytes": 956,
+      "sha256": "54d2e4cad11b9c6fe1ae381176824989d8d6fe4b9c7155c9c49b73c24391a68f"
+    },
+    {
+      "path": "shared/assets/home-light-benefits/imgHouseHeart.svg",
+      "bytes": 1228,
+      "sha256": "d8e224a97c628c84c52a789df52c953396a6614d3c32a0037fe25b2e32dd5132"
+    },
+    {
+      "path": "shared/assets/home-light-benefits/imgYoutube.svg",
+      "bytes": 1355,
+      "sha256": "0e0d4c8292fa5b3de87c3c5aaed3e84966e4620188ca54d3cd481bdbfc0f71ff"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgArrowUpRight01.svg",
+      "bytes": 348,
+      "sha256": "5a55699ecea8b935c2f697a29af4aa4cb27362e0bfb6956c919df8453e76a186"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgCategoryImage.png",
+      "bytes": 6036855,
+      "sha256": "ea185b23b46cafd27bf7f19022d2fbe3c3f8ff0c180886b3c012231b5fefc964"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgCategoryImage1.png",
+      "bytes": 368418,
+      "sha256": "ab6e890c8ded1f13f13c50713576a46a1eff94be8e4941f82ac4e9a1335dae1e"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgCategoryImage2.png",
+      "bytes": 388081,
+      "sha256": "adafdf8945bbd52e3dbf71613708cdd7a6b2d35deff69d6df75c8b411e374db9"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgCategoryImage3.png",
+      "bytes": 462240,
+      "sha256": "39df747f6cd3fca1e5fe31f34cd928f57b9be7e2afa63f615fba2570ffd72a82"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgCategoryImage4.png",
+      "bytes": 340473,
+      "sha256": "ec5b6d8df93145aea4a9161e4a7b61b6f35376dbb85d8c297834cd9551213fc2"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgCategoryImage5.png",
+      "bytes": 463583,
+      "sha256": "7444d11cd18dda650e4a7bed4f80ca433180daddcdca77e0958fd2823e0eee93"
+    },
+    {
+      "path": "shared/assets/home-light-categories/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgGoogleTvSeeklogo1.svg",
+      "bytes": 4068,
+      "sha256": "466880033b4beabadd14a0563a564025b61e3347b16906207e633a263f12488d"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgGroup41.svg",
+      "bytes": 17648,
+      "sha256": "fa1a86830acb3a027525ca90e47acb46cb4d276bad4b18e5660cc0aa7bc58d87"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgGroup44.svg",
+      "bytes": 21301,
+      "sha256": "3ba9b3b07a33d9b3026a5fcce52ea177dc7c7a79a78c3a9df1233e7681176a79"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgImage.png",
+      "bytes": 2069146,
+      "sha256": "5cb3358e61b83f68bf2576007695df5ec725e6ba51bbc60ffbd892fc9d2cee03"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgImage1.png",
+      "bytes": 138891,
+      "sha256": "58bc59b323a405feabf1e4cd803c12a7af10153a3f866a5609f49bddeb3a478d"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgImage2.png",
+      "bytes": 665480,
+      "sha256": "22a88db98adec6bae1efea3361650a6065ab43ca1dbb23b4b7d637338c154485"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgImage3.png",
+      "bytes": 50079,
+      "sha256": "d33d47ef22211574786be7eea4f2e44e7f8cef20918743f1f83c68475ec08d5d"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgImage4.png",
+      "bytes": 189655,
+      "sha256": "c9e40a94fcae3e20cf4d917468671632e9043871bf5d69d579eedecfe2d51781"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgMonitor.svg",
+      "bytes": 1411,
+      "sha256": "f2fa8f580a60c288abefeaa4283397dba19c391c61fab475496cfb6fe0cf1837"
+    },
+    {
+      "path": "shared/assets/home-light-devices/imgSamsungLogoPng12951.png",
+      "bytes": 159836,
+      "sha256": "4c3c19a5fc29db3a692de9ad80b5640a622462f2be4fd2f358a73715caf43c8b"
+    },
+    {
+      "path": "shared/assets/home-light-find/imgIcon.svg",
+      "bytes": 343,
+      "sha256": "3a1dd885bffcae976418b17987e9cf8dd64cfa27a27eed9589b95aec22bd0766"
+    },
+    {
+      "path": "shared/assets/home-light-find/imgSearch01.svg",
+      "bytes": 634,
+      "sha256": "55a8bc68a8871aeaff85534911c29bdd2484535d51e11dce627a4bd7c0a6cddc"
+    },
+    {
+      "path": "shared/assets/home-light-footer/imgCall02.svg",
+      "bytes": 836,
+      "sha256": "306e4176cc861d9114889fd13945a70b6681ad2cb3ffd357c64b69fe9ea3c5ab"
+    },
+    {
+      "path": "shared/assets/home-light-footer/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "77cc30b0023002297ca0fb7ec71a937c5cf928054b5723655429794a5e2dbcb0"
+    },
+    {
+      "path": "shared/assets/home-light-footer/imgLine190.svg",
+      "bytes": 250,
+      "sha256": "917a9fde79b049bc7ab5c62294aace5d1c9ad98dd65052b465d949a864b14326"
+    },
+    {
+      "path": "shared/assets/home-light-footer/imgLine3.svg",
+      "bytes": 240,
+      "sha256": "934c89036352b8c772b74e234e4be3f026d881a214fc6a97cca7b03ff0544386"
+    },
+    {
+      "path": "shared/assets/home-light-footer/imgLocation01.svg",
+      "bytes": 609,
+      "sha256": "5217af8a2bb7c972a0ef6bbf327ded8c83989374098e36a28e1325b978ef0541"
+    },
+    {
+      "path": "shared/assets/home-light-footer/imgMail01.svg",
+      "bytes": 547,
+      "sha256": "258112bad1594410fe174f04c139c11913de54b5cb2217b672239f673ed7ef48"
+    },
+    {
+      "path": "shared/assets/home-light-footer/imgPlayEmblem.svg",
+      "bytes": 410,
+      "sha256": "f32c099e68c83c85ddb306d435a698de811581e0cb78ab1ad6ba73918f723a9a"
+    },
+    {
+      "path": "shared/assets/home-light-hero/img05AutoOrderV2.png",
+      "bytes": 2685806,
+      "sha256": "69af3190e894d7a12c900186870ba31555abfdc82d75c39b3bba1a20dcc527df"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgAppleIcloudSeeklogo1.svg",
+      "bytes": 1525,
+      "sha256": "e7e87ca787bdef23997bfd492ded9741d9fd6269f5407cdecf1c36a34b484bde"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgArrowRight02.svg",
+      "bytes": 370,
+      "sha256": "08c20a588acfc14a1792e5f803c259e0409e800cf3b216e63740701c319cac78"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgColor.svg",
+      "bytes": 4234,
+      "sha256": "da7b9fea67c71f85a4788c017770fcd3271a64ded9507db639de55c9ab16fd3b"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgCurvedHighlight1.svg",
+      "bytes": 293,
+      "sha256": "2df5841b35eb7450088f0f62da303e802d6fc4dc6c275568eaef0e2c90f0093a"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgGroup.svg",
+      "bytes": 1636,
+      "sha256": "b7bfe2af79c51811e5de9aac319d77884ffa32386373c85deb12a0b339a77eca"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgGroup41.svg",
+      "bytes": 17650,
+      "sha256": "4963ba101c553c9c8b922c106fa38318b68ed132b90f37772a8ce8b6d752524d"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgGroup44.svg",
+      "bytes": 21294,
+      "sha256": "86ba7d2adb502fc424f24e5c0692cbb8fa5c59c49c862d9ed38453c28e1e4c0c"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgGroup7.svg",
+      "bytes": 369,
+      "sha256": "9bfe98dd973eae9ff3321da350aa829bb61a9b0b687b5ee5ae58d0396554abb2"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgImage.svg",
+      "bytes": 7555,
+      "sha256": "a7aec71b17930b515a0a345a41ea229bd20fe34cf07077bebff2968390f75943"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgLayer2.svg",
+      "bytes": 1714,
+      "sha256": "855a6cc30f26046b906c17b87ca3c571453189e56326d3c203525f8b87ef573c"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgOnedriveSeeklogo1.svg",
+      "bytes": 1844,
+      "sha256": "8d310886c494c5f919094b408c12e18a9e3118f0b6f88b2a5590bf4783f1218e"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgPlay.svg",
+      "bytes": 964,
+      "sha256": "86e9c7d06eecf22d69a8e81f3932ad90b97643322a685752912ef8b5b8f40c9e"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgPlayEmblem.svg",
+      "bytes": 466,
+      "sha256": "af280ce9b7c8111d3cbfd5aeeeb978eafbf47aa748e21bc02d7ed1bebd76e562"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgSearch01.svg",
+      "bytes": 628,
+      "sha256": "46d0399a1518390dd33b489c9ffa0369b2d939de540085fe6c0e27cb46749afd"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector.svg",
+      "bytes": 709,
+      "sha256": "39d82cf29d08da4f75df709fb0bb6a347d07502ff6ec69021f9f8c290cc69988"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector1.svg",
+      "bytes": 949,
+      "sha256": "e6c97570d706d2fb9b0d157fdd04255b487bd7e3b7e1a56c02dd4cb17e6bdef0"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector10.svg",
+      "bytes": 572,
+      "sha256": "f1199208f582be54778da06efa00f5ef456df61a73b09883744efd7b6cd2fd12"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector11.svg",
+      "bytes": 570,
+      "sha256": "bb4de90ef70ccac8401bcd9a98c236de35f8c2a58d3595fed29f1bd35f8f00aa"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector12.svg",
+      "bytes": 813,
+      "sha256": "6f23d04dd51cdf8b03cb512e432cf9603f77db3232ae04b3f469e9e99dc79fc4"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector13.svg",
+      "bytes": 814,
+      "sha256": "e77dbaab496f5f6c85ebe65ac319ce4c9af41e859cd2bdf42f0fc7508ec8c7d3"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector2.svg",
+      "bytes": 963,
+      "sha256": "63644303f7e1a42a362a8b01da5f9219c46a2af56700b69c032743c078587952"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector3.svg",
+      "bytes": 767,
+      "sha256": "3c5e2f8baf60322f02fd356716b22011f44155ce175168793a35f80857b8df78"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector4.svg",
+      "bytes": 914,
+      "sha256": "340f5dab92e2a885d8e862a3668649422aa8ec1a372005253113c035461ad2a5"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector5.svg",
+      "bytes": 990,
+      "sha256": "376dcd95afcbb38a0ad92ab7fbb6a19dcab15d53e3ae486ec9c9ccc39ac8eb9c"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector6.svg",
+      "bytes": 559,
+      "sha256": "e39a1c44b57b45d0bd49233d197f14a408681823c29ccab36bd6c1c1eafde64d"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector7.svg",
+      "bytes": 559,
+      "sha256": "59bff7a4cd507137eae1f6bfa69a50fa3dc6aa3103ea0ce51ca3df1098b9f634"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector8.svg",
+      "bytes": 557,
+      "sha256": "d500b0767c3abb27042cad92e373b106f25fb1df4e31937eed885d64aae8a200"
+    },
+    {
+      "path": "shared/assets/home-light-hero/imgVector9.svg",
+      "bytes": 571,
+      "sha256": "0d5bbe5e39aad46d0fccf04953706a0e6ed484730e6ec95642ffb67671182ab3"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgArrowUpRight01.svg",
+      "bytes": 348,
+      "sha256": "5a55699ecea8b935c2f697a29af4aa4cb27362e0bfb6956c919df8453e76a186"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgCategoryImage.png",
+      "bytes": 6036855,
+      "sha256": "ea185b23b46cafd27bf7f19022d2fbe3c3f8ff0c180886b3c012231b5fefc964"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgCategoryImage1.png",
+      "bytes": 368418,
+      "sha256": "ab6e890c8ded1f13f13c50713576a46a1eff94be8e4941f82ac4e9a1335dae1e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgCategoryImage2.png",
+      "bytes": 388081,
+      "sha256": "adafdf8945bbd52e3dbf71613708cdd7a6b2d35deff69d6df75c8b411e374db9"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgCategoryImage3.png",
+      "bytes": 462240,
+      "sha256": "39df747f6cd3fca1e5fe31f34cd928f57b9be7e2afa63f615fba2570ffd72a82"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgCategoryImage4.png",
+      "bytes": 340473,
+      "sha256": "ec5b6d8df93145aea4a9161e4a7b61b6f35376dbb85d8c297834cd9551213fc2"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgCategoryImage5.png",
+      "bytes": 463583,
+      "sha256": "7444d11cd18dda650e4a7bed4f80ca433180daddcdca77e0958fd2823e0eee93"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "0f8520b17fc15380a2b084b987eab3b1073a0ae7cfa43b032da91b4cb2db9d21"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-categories/imgChevronRight1.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgCalendar03.svg",
+      "bytes": 2097,
+      "sha256": "1b112b686ec529ab9c0b4a876cd685dd06f50c390a2cd8e12433a564a62efd98"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "0f8520b17fc15380a2b084b987eab3b1073a0ae7cfa43b032da91b4cb2db9d21"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgChevronRight1.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgClock01.svg",
+      "bytes": 611,
+      "sha256": "784267729242496430aaed1c99cdf7702c4af29c7eefe8de173c394e33cc2a7a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgEllipse5.svg",
+      "bytes": 227,
+      "sha256": "d31c12a0f00dde1c8d4957c0a481139839abccd306198788ab6960b37cc6f6ac"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgEllipse6.svg",
+      "bytes": 227,
+      "sha256": "1b580a3833e858af2f62f11652594f65a71382c472069ed168124c0decc11732"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgImage.png",
+      "bytes": 8483046,
+      "sha256": "2bbdfd973d48ee2b0d4f90ab8591db302e96be9692c3a6338a6d274f710ca6ed"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgImage1.png",
+      "bytes": 8499175,
+      "sha256": "7a6897cca3489aa1d8969dbe50e2b703e6358907d5650fec417040240eccf9c5"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgLine1.svg",
+      "bytes": 234,
+      "sha256": "6279b84d507f27daee9cba822283e2517f0b56a623a2f318ebe228c54df1448b"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgPlay.svg",
+      "bytes": 964,
+      "sha256": "86e9c7d06eecf22d69a8e81f3932ad90b97643322a685752912ef8b5b8f40c9e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-continue/imgPlay1.svg",
+      "bytes": 467,
+      "sha256": "bbe1a2901a5535b044d4767c87ee17d67de62f5d24116b3a733afc2f064b42e1"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-cta/imgAmericanFootballPlayerNeonStyle2.svg",
+      "bytes": 601,
+      "sha256": "580664d55b53e9ab6c21ad0b11e53351abb150fe8f35c247768015888fef7d41"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-cta/imgAmericanFootballPlayerNeonStyle3.png",
+      "bytes": 8241036,
+      "sha256": "1bb94ee4f3cf8cfa5739e1e908f35ed704f27ea3c7f205ff495274c0608a2bfc"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-cta/imgNext.svg",
+      "bytes": 1258,
+      "sha256": "5d5b8e8b1628c0021974485d82ce64f5cdf4ee3fb3e31f68917477afbffee279"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-features/imgCloudUpload.svg",
+      "bytes": 1383,
+      "sha256": "6b1f03b55b0665f82522069af0c6910cb077b7eb63f88c01a25106830865a7f8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-features/imgDollarCircle.svg",
+      "bytes": 1345,
+      "sha256": "ae35df5bb004a3e220924175cafedbe03d8e4ca792aed98c63060ccd90143f24"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-features/imgImage.png",
+      "bytes": 6631035,
+      "sha256": "52cf1ad63ee855b47af69c3aaefc45e40c151154cf46e62de142c8cd688797b4"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-features/imgMonitor.svg",
+      "bytes": 1411,
+      "sha256": "f2fa8f580a60c288abefeaa4283397dba19c391c61fab475496cfb6fe0cf1837"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-features/imgTv01.svg",
+      "bytes": 1446,
+      "sha256": "195b630ff45e7798c6482cd7b01443d23784eeece1354f09e2e6b7e5191c7d2c"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-footer/imgCall02.svg",
+      "bytes": 836,
+      "sha256": "91b34038f657f8595e78b40f96ac49ed0cecb93531aa9f67371ef51c21338822"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-footer/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "77cc30b0023002297ca0fb7ec71a937c5cf928054b5723655429794a5e2dbcb0"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-footer/imgLine190.svg",
+      "bytes": 250,
+      "sha256": "917a9fde79b049bc7ab5c62294aace5d1c9ad98dd65052b465d949a864b14326"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-footer/imgLine3.svg",
+      "bytes": 240,
+      "sha256": "6779a5c092e579bdecc76375ba48fce43cac7d78b77b9997976f94ce896bd6c8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-footer/imgLocation01.svg",
+      "bytes": 609,
+      "sha256": "eea04b9ff8072644082cf5fad2cc92da079f09ac45bcc787c5ae0d64d3bd7685"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-footer/imgMail01.svg",
+      "bytes": 547,
+      "sha256": "d15897a12037d572ec1f26f909ace974397c15e522a2f163157d9f55f97023d5"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-footer/imgPlayEmblem.svg",
+      "bytes": 410,
+      "sha256": "f32c099e68c83c85ddb306d435a698de811581e0cb78ab1ad6ba73918f723a9a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgChevronRight.svg",
+      "bytes": 334,
+      "sha256": "e887e66521ea90d3c0c4d082c175a556a99238b6a5892cc18c3317f08787b508"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgChevronRight1.svg",
+      "bytes": 334,
+      "sha256": "e887e66521ea90d3c0c4d082c175a556a99238b6a5892cc18c3317f08787b508"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgEllipse3.svg",
+      "bytes": 269,
+      "sha256": "b9866599a626bcfc3adda89cd704383a40a654229e6455793ddb463a889f54de"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgEllipse5.svg",
+      "bytes": 227,
+      "sha256": "d31c12a0f00dde1c8d4957c0a481139839abccd306198788ab6960b37cc6f6ac"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgEllipse6.svg",
+      "bytes": 227,
+      "sha256": "1b580a3833e858af2f62f11652594f65a71382c472069ed168124c0decc11732"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgEllipse7.svg",
+      "bytes": 648,
+      "sha256": "685b1bc6b6415bdc1d584bd1b053c2da032a1393adbd0850ab67a6cae50622ed"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgHockeyPlayers2.svg",
+      "bytes": 491,
+      "sha256": "a2364cf63b6d41b407ce6e9eb30336bf65e43d48ba2edc7cf314dcc81b5a8bba"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgHockeyPlayers3.png",
+      "bytes": 9184620,
+      "sha256": "6630f648615181caf43861de4a7403187401d1121b6733153f843265cc42b812"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgImage.png",
+      "bytes": 5883016,
+      "sha256": "961e6028751bf5b7dd3c3a5393ffcc589ae94d5d65092a333903f6fc41843801"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgImage1.png",
+      "bytes": 672829,
+      "sha256": "55d548a94886516376456b58c42256723fb26060d06cb95f04b1d0115e16391b"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgImage2.png",
+      "bytes": 8483046,
+      "sha256": "2bbdfd973d48ee2b0d4f90ab8591db302e96be9692c3a6338a6d274f710ca6ed"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgImage3.png",
+      "bytes": 5242182,
+      "sha256": "d570fff59861b70f5441bfcd135458fc4dafb8d0e63db4a5e511468966926bcc"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgImage4.png",
+      "bytes": 6971260,
+      "sha256": "2799ff6a915075eb11f877481cd5a52b91de6a3888243a08c436e4df30e3dd22"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgNotification01.svg",
+      "bytes": 836,
+      "sha256": "150e04d2db0be7300f0f648a50bd8049c9c29f7ec7cf3e529eac574021924a9a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgPlay.svg",
+      "bytes": 964,
+      "sha256": "86e9c7d06eecf22d69a8e81f3932ad90b97643322a685752912ef8b5b8f40c9e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgPlay1.svg",
+      "bytes": 994,
+      "sha256": "f221d4dc695ddfefe768771d7f3e91be2a2d50ef00ca4654c6b9cbfa8a3f9837"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgPlayEmblem.svg",
+      "bytes": 464,
+      "sha256": "7d7cf612584a6eefa89deec8ff675d8d46f7233ad9456362e0111fcd7298c0bb"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgRss.svg",
+      "bytes": 1022,
+      "sha256": "71c09df0b4d3d7a3129b3ac4763e9093a0e397b092d1f636da4ab28ee17f1ab0"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgSearch01.svg",
+      "bytes": 628,
+      "sha256": "15b01bab8353976ac4ea5dac9209abc22ab5568b571720a3a5b304fc11ec9c86"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-hero/imgUser.svg",
+      "bytes": 1130,
+      "sha256": "b7673bfc3adbb50ff65dd69f2a60de9b7c88b7d448e46049ed5be539cca012c8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/img4K.svg",
+      "bytes": 1064,
+      "sha256": "2c0dd79c4f80834e6b67b6797cc73e873dcae274ec265f4a5e1671d0780b019e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgContainer.png",
+      "bytes": 610434,
+      "sha256": "1db1743a49051e144db2197b368173760572a6b0a328a6f10a471ef85e188ac5"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgFullscreen.svg",
+      "bytes": 896,
+      "sha256": "02b3db31d01bc22b902851c663ccbe22c6afb01982f98889b41eadec1f6e3061"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgLine190.svg",
+      "bytes": 284,
+      "sha256": "15cdb16aaa490e829349c1ecdc05e9821862c01c8244f528940d245d48f3b712"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgLiveStatus.svg",
+      "bytes": 656,
+      "sha256": "3a44c16e76d784f90916a4c54b0ae17c9e1cac8255772a33aaaef9124a41eecc"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgProgress.svg",
+      "bytes": 759,
+      "sha256": "c0d3d7bd38e31a52e60133290d20d407c62e1e3558207baaae32d10ca5f6024f"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgRss.svg",
+      "bytes": 879,
+      "sha256": "141212246b573075b5774b5cebe7c0faa3ca70eee800157838b48d8d9be9e908"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgUser02.svg",
+      "bytes": 766,
+      "sha256": "2d57364771fa441ca004496e27c9e33963e03dccb893bf82d10bfc121ae8cb2e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgVolume02.svg",
+      "bytes": 2149,
+      "sha256": "c3041cd789dd62f98fc5f93d56e705e71a75cd2038fc364771b0ded82a849bc6"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-showcase/imgWifi01.svg",
+      "bytes": 975,
+      "sha256": "1af07327dd424e0ffb85cb0b1573498502991b86e2cb168bead2069780f70fd7"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgBookmark02.svg",
+      "bytes": 443,
+      "sha256": "fe6ce6c0088d8d921b1d5d42b79d3c02ec0080f462f326bad5fbafa45aefccb6"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "0f8520b17fc15380a2b084b987eab3b1073a0ae7cfa43b032da91b4cb2db9d21"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgChevronRight1.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgEllipse3.svg",
+      "bytes": 235,
+      "sha256": "1d96356f80ac64e24f1285a07b0e822d97b07e7c2e1948e7333f07f79227e131"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgEllipse4.svg",
+      "bytes": 235,
+      "sha256": "11aff6478531d0f7472b39d26065cbea73a81740a3827337be60028fe67d2869"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgEllipse5.svg",
+      "bytes": 227,
+      "sha256": "d31c12a0f00dde1c8d4957c0a481139839abccd306198788ab6960b37cc6f6ac"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgLine2.svg",
+      "bytes": 548,
+      "sha256": "33c4e5cbd598ecb162c09648fb71f0e2d08368490541265349a31939cf80254c"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgMatchCard.png",
+      "bytes": 6473575,
+      "sha256": "d8e85afcee95262aabef1be579be1bedbd3b99b1147b1310f7c9203368dcd5c4"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgMatchCard1.png",
+      "bytes": 7291270,
+      "sha256": "954b4ede6ab32c8be99904f39183d17945b21561ff293471ea62f2749df9623a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgMatchCard2.png",
+      "bytes": 1058006,
+      "sha256": "001749f4d616c30eb818e2f151db2ba93ca04856592ec6c3879180203473f57c"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgMatchCard3.png",
+      "bytes": 8499175,
+      "sha256": "7a6897cca3489aa1d8969dbe50e2b703e6358907d5650fec417040240eccf9c5"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgMatchCard4.png",
+      "bytes": 2506312,
+      "sha256": "ffb9b922772d39696dd2aa05e88ba4799c15bf1e890a33229d0b12c7810c81ed"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgNotification01.svg",
+      "bytes": 808,
+      "sha256": "891226920b5938f8956470bbfceb8b9c81d13779fbd30ebf4ae4fe7bed5428a4"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgPlay.svg",
+      "bytes": 982,
+      "sha256": "5d8e28829c886c69c43deb04baf18015e49edf786e9c95eb245a4245e890a021"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgPlay1.svg",
+      "bytes": 956,
+      "sha256": "c38c3daf1419ddb73c38b2b6c7d2fb8cd74851653465d84362ab461f3a234474"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo.png",
+      "bytes": 257084,
+      "sha256": "521859bcabfb4ee3dd3b8bd63c2e82b04e19fb30332778736c080c56e77edb10"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo1.png",
+      "bytes": 35744,
+      "sha256": "e4cfe1fd7b2d64e29b812375ffd74d12941ec17d7630cda002ab1570bbee6392"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo2.png",
+      "bytes": 535114,
+      "sha256": "fb19e18ceaa409fbfa7c6b627973fce470ba967b6db106ecbd08c59068c6d06a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo3.png",
+      "bytes": 1343154,
+      "sha256": "508d73c78d39f9610c4fb3c01541f4207c85d98467900b7c9f12e82fc248cbe7"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo4.png",
+      "bytes": 71369,
+      "sha256": "ce6307d19aa8014935ab0b768ceeabcfcc983cab6d318178eaefc7dcc57ef9a2"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo5.png",
+      "bytes": 1520903,
+      "sha256": "3c9e12df3b1dc9fb91874f31a18f2701ac16636c66b3ac5e465ad4d7cf4a56ad"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo6.png",
+      "bytes": 585809,
+      "sha256": "c4de43e08ddbd28c4b7442d280b37ba78f565d12e1f274bc40f7c1fccff95ce0"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo7.png",
+      "bytes": 150275,
+      "sha256": "b40b3261e87f13839aa2b8f71c857b928d3fad58abe04dec1f963158b9cd7297"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo8.png",
+      "bytes": 95188,
+      "sha256": "cd9235caeb57dc9b37d0d6e435b5be4dab5a73ab13de9a5620537e2e1092f1c8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgTeamLogo9.png",
+      "bytes": 236382,
+      "sha256": "f6fdf6ad18a017c7657915320dcf92dca114995a5d6ad637e3d127320c0ca0d9"
+    },
+    {
+      "path": "shared/assets/home-signed-in-dark-trending/imgView.svg",
+      "bytes": 803,
+      "sha256": "d27794b5f2e3948012dc6ad2f908c7ef3ec3117ed8d28b75b06aa3a2fcc34928"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgArrowUpRight01.svg",
+      "bytes": 348,
+      "sha256": "5a55699ecea8b935c2f697a29af4aa4cb27362e0bfb6956c919df8453e76a186"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgCategoryImage.png",
+      "bytes": 6036855,
+      "sha256": "ea185b23b46cafd27bf7f19022d2fbe3c3f8ff0c180886b3c012231b5fefc964"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgCategoryImage1.png",
+      "bytes": 368418,
+      "sha256": "ab6e890c8ded1f13f13c50713576a46a1eff94be8e4941f82ac4e9a1335dae1e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgCategoryImage2.png",
+      "bytes": 388081,
+      "sha256": "adafdf8945bbd52e3dbf71613708cdd7a6b2d35deff69d6df75c8b411e374db9"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgCategoryImage3.png",
+      "bytes": 462240,
+      "sha256": "39df747f6cd3fca1e5fe31f34cd928f57b9be7e2afa63f615fba2570ffd72a82"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgCategoryImage4.png",
+      "bytes": 340473,
+      "sha256": "ec5b6d8df93145aea4a9161e4a7b61b6f35376dbb85d8c297834cd9551213fc2"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgCategoryImage5.png",
+      "bytes": 463583,
+      "sha256": "7444d11cd18dda650e4a7bed4f80ca433180daddcdca77e0958fd2823e0eee93"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-categories/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgCalendar03.svg",
+      "bytes": 2097,
+      "sha256": "02f8bec03bf2f79465e39977d1196b4e3e9666699a9abb3cc6ffbb148c087ae1"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgCalendar4.svg",
+      "bytes": 2097,
+      "sha256": "1b112b686ec529ab9c0b4a876cd685dd06f50c390a2cd8e12433a564a62efd98"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgClock01.svg",
+      "bytes": 611,
+      "sha256": "32ca57bbaab1b623305972ad4e9f47a44fac4e0ff7b57856650ba530837e78da"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgClock2.svg",
+      "bytes": 611,
+      "sha256": "784267729242496430aaed1c99cdf7702c4af29c7eefe8de173c394e33cc2a7a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgEllipse5.svg",
+      "bytes": 229,
+      "sha256": "bc85a85f43761e64452d44ba8d1329a4933c75b7ebcc9c110e41b53243469125"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgEllipse6.svg",
+      "bytes": 229,
+      "sha256": "326279d2b446603f0a1bbb7ff1397a4245eaf13c1eb324e9e3eec90c1ea7b902"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgEllipse7.svg",
+      "bytes": 227,
+      "sha256": "1b580a3833e858af2f62f11652594f65a71382c472069ed168124c0decc11732"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgEllipse8.svg",
+      "bytes": 227,
+      "sha256": "d31c12a0f00dde1c8d4957c0a481139839abccd306198788ab6960b37cc6f6ac"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgImage.png",
+      "bytes": 8483046,
+      "sha256": "2bbdfd973d48ee2b0d4f90ab8591db302e96be9692c3a6338a6d274f710ca6ed"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgImage1.png",
+      "bytes": 8499175,
+      "sha256": "7a6897cca3489aa1d8969dbe50e2b703e6358907d5650fec417040240eccf9c5"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgLine1.svg",
+      "bytes": 234,
+      "sha256": "76653117e3988dbfa26452b4b33606a043f0ccfe7a4cf7b0d54212563cc68a76"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgLine2.svg",
+      "bytes": 234,
+      "sha256": "6279b84d507f27daee9cba822283e2517f0b56a623a2f318ebe228c54df1448b"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgPlay.svg",
+      "bytes": 964,
+      "sha256": "86e9c7d06eecf22d69a8e81f3932ad90b97643322a685752912ef8b5b8f40c9e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-continue/imgPlay1.svg",
+      "bytes": 467,
+      "sha256": "bbe1a2901a5535b044d4767c87ee17d67de62f5d24116b3a733afc2f064b42e1"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-cta/imgAmericanFootballPlayerNeonStyle2.svg",
+      "bytes": 622,
+      "sha256": "0ac1bd38877069d542e6cc091d31e5f62dc735158538aecbec1461996fc7e94f"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-cta/imgAmericanFootballPlayerNeonStyle3.png",
+      "bytes": 8241036,
+      "sha256": "1bb94ee4f3cf8cfa5739e1e908f35ed704f27ea3c7f205ff495274c0608a2bfc"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-cta/imgNext.svg",
+      "bytes": 1258,
+      "sha256": "5d5b8e8b1628c0021974485d82ce64f5cdf4ee3fb3e31f68917477afbffee279"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-features/imgCloudUpload.svg",
+      "bytes": 1383,
+      "sha256": "6b1f03b55b0665f82522069af0c6910cb077b7eb63f88c01a25106830865a7f8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-features/imgDollarCircle.svg",
+      "bytes": 1345,
+      "sha256": "ae35df5bb004a3e220924175cafedbe03d8e4ca792aed98c63060ccd90143f24"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-features/imgImage.png",
+      "bytes": 6631035,
+      "sha256": "52cf1ad63ee855b47af69c3aaefc45e40c151154cf46e62de142c8cd688797b4"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-features/imgMonitor.svg",
+      "bytes": 1411,
+      "sha256": "f2fa8f580a60c288abefeaa4283397dba19c391c61fab475496cfb6fe0cf1837"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-features/imgTv01.svg",
+      "bytes": 1446,
+      "sha256": "195b630ff45e7798c6482cd7b01443d23784eeece1354f09e2e6b7e5191c7d2c"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-find/imgIcon.svg",
+      "bytes": 343,
+      "sha256": "3a1dd885bffcae976418b17987e9cf8dd64cfa27a27eed9589b95aec22bd0766"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-find/imgSearch01.svg",
+      "bytes": 634,
+      "sha256": "55a8bc68a8871aeaff85534911c29bdd2484535d51e11dce627a4bd7c0a6cddc"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-footer/imgCall02.svg",
+      "bytes": 836,
+      "sha256": "306e4176cc861d9114889fd13945a70b6681ad2cb3ffd357c64b69fe9ea3c5ab"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-footer/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "77cc30b0023002297ca0fb7ec71a937c5cf928054b5723655429794a5e2dbcb0"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-footer/imgLine190.svg",
+      "bytes": 250,
+      "sha256": "917a9fde79b049bc7ab5c62294aace5d1c9ad98dd65052b465d949a864b14326"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-footer/imgLine3.svg",
+      "bytes": 240,
+      "sha256": "934c89036352b8c772b74e234e4be3f026d881a214fc6a97cca7b03ff0544386"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-footer/imgLocation01.svg",
+      "bytes": 609,
+      "sha256": "5217af8a2bb7c972a0ef6bbf327ded8c83989374098e36a28e1325b978ef0541"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-footer/imgMail01.svg",
+      "bytes": 547,
+      "sha256": "258112bad1594410fe174f04c139c11913de54b5cb2217b672239f673ed7ef48"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-footer/imgPlayEmblem.svg",
+      "bytes": 410,
+      "sha256": "f32c099e68c83c85ddb306d435a698de811581e0cb78ab1ad6ba73918f723a9a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgChevronRight.svg",
+      "bytes": 334,
+      "sha256": "e887e66521ea90d3c0c4d082c175a556a99238b6a5892cc18c3317f08787b508"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgChevronRight1.svg",
+      "bytes": 334,
+      "sha256": "e887e66521ea90d3c0c4d082c175a556a99238b6a5892cc18c3317f08787b508"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgEllipse3.svg",
+      "bytes": 269,
+      "sha256": "b9866599a626bcfc3adda89cd704383a40a654229e6455793ddb463a889f54de"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgEllipse5.svg",
+      "bytes": 229,
+      "sha256": "68f4e7e7d261f9aa4a312f8207df8249751e316a7f2e3b7a022508cb9a4ae9fc"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgEllipse6.svg",
+      "bytes": 227,
+      "sha256": "1b580a3833e858af2f62f11652594f65a71382c472069ed168124c0decc11732"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgEllipse7.svg",
+      "bytes": 651,
+      "sha256": "6436f14fd24dcf8881999ababf1604829634c07087c3f0b911cf5ec77c056cb8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgFeaturedMatch.png",
+      "bytes": 9972332,
+      "sha256": "6ace7430bc199525e476b9777108365c3990eb3276e2362e6b8dda8312e25060"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgImage.png",
+      "bytes": 5883016,
+      "sha256": "961e6028751bf5b7dd3c3a5393ffcc589ae94d5d65092a333903f6fc41843801"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgImage1.png",
+      "bytes": 672829,
+      "sha256": "55d548a94886516376456b58c42256723fb26060d06cb95f04b1d0115e16391b"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgImage2.png",
+      "bytes": 8483046,
+      "sha256": "2bbdfd973d48ee2b0d4f90ab8591db302e96be9692c3a6338a6d274f710ca6ed"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgImage3.png",
+      "bytes": 5242182,
+      "sha256": "d570fff59861b70f5441bfcd135458fc4dafb8d0e63db4a5e511468966926bcc"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgImage4.png",
+      "bytes": 6971260,
+      "sha256": "2799ff6a915075eb11f877481cd5a52b91de6a3888243a08c436e4df30e3dd22"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgNotification01.svg",
+      "bytes": 836,
+      "sha256": "150e04d2db0be7300f0f648a50bd8049c9c29f7ec7cf3e529eac574021924a9a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgPlay.svg",
+      "bytes": 964,
+      "sha256": "86e9c7d06eecf22d69a8e81f3932ad90b97643322a685752912ef8b5b8f40c9e"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgPlay1.svg",
+      "bytes": 989,
+      "sha256": "60082b491f00898082dffaa284643feeb91939266b757124455c61cd5bf37705"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgPlay2.svg",
+      "bytes": 994,
+      "sha256": "f221d4dc695ddfefe768771d7f3e91be2a2d50ef00ca4654c6b9cbfa8a3f9837"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgPlayEmblem.svg",
+      "bytes": 464,
+      "sha256": "e45005f1b285fbf03c94af4a196c6c0ee04392fa08a4aca2ce788b90b1ea4cf7"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgRss.svg",
+      "bytes": 1022,
+      "sha256": "71c09df0b4d3d7a3129b3ac4763e9093a0e397b092d1f636da4ab28ee17f1ab0"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgSearch01.svg",
+      "bytes": 628,
+      "sha256": "46d0399a1518390dd33b489c9ffa0369b2d939de540085fe6c0e27cb46749afd"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-hero/imgUser.svg",
+      "bytes": 1130,
+      "sha256": "b7673bfc3adbb50ff65dd69f2a60de9b7c88b7d448e46049ed5be539cca012c8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/img4K.svg",
+      "bytes": 1064,
+      "sha256": "bc859d6839c160b4a9c3e7d1f5ac524262c0838f07f1fe6d5970581edf4f2981"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgContainer.png",
+      "bytes": 610434,
+      "sha256": "1db1743a49051e144db2197b368173760572a6b0a328a6f10a471ef85e188ac5"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgFullscreen.svg",
+      "bytes": 896,
+      "sha256": "02b3db31d01bc22b902851c663ccbe22c6afb01982f98889b41eadec1f6e3061"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgLine190.svg",
+      "bytes": 284,
+      "sha256": "f199dc5f1258e46fa6ec95f300531dc63f1e59ab64e5abe3e2fdd009d4531c0f"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgLiveStatus.svg",
+      "bytes": 654,
+      "sha256": "5aa28f0154615f7bfb1c46c0cbc194591459bcd75f51edcb1e1865d6b5a12ffd"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgProgress.svg",
+      "bytes": 759,
+      "sha256": "cc116923231ad3c468ef9baeeb9f8a78f4d3af00609fdbde334034ef86365923"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgRss.svg",
+      "bytes": 879,
+      "sha256": "141212246b573075b5774b5cebe7c0faa3ca70eee800157838b48d8d9be9e908"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgUser02.svg",
+      "bytes": 766,
+      "sha256": "8ba048ed9aa4da8b58033105aa680dbdcfad6c4a6fd9ca1b40436b16757b7a9a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgVolume02.svg",
+      "bytes": 2149,
+      "sha256": "c3041cd789dd62f98fc5f93d56e705e71a75cd2038fc364771b0ded82a849bc6"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-showcase/imgWifi01.svg",
+      "bytes": 975,
+      "sha256": "24b93978fcf0a65d08e996b61cf068b55e3bde0277c04c33141b15858d3a8b7a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgBookmark02.svg",
+      "bytes": 443,
+      "sha256": "fe6ce6c0088d8d921b1d5d42b79d3c02ec0080f462f326bad5fbafa45aefccb6"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgChevronRight.svg",
+      "bytes": 322,
+      "sha256": "1f3f891f740794ef0a87522623dd47215135ab64bfbdf68b6fba8a7b5fdc28be"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgEllipse2.svg",
+      "bytes": 227,
+      "sha256": "1cdf9b80654c3c613c86475def7e75b2419646fdd351bfbb634e66849454d440"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgEllipse3.svg",
+      "bytes": 235,
+      "sha256": "1d96356f80ac64e24f1285a07b0e822d97b07e7c2e1948e7333f07f79227e131"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgEllipse4.svg",
+      "bytes": 235,
+      "sha256": "11aff6478531d0f7472b39d26065cbea73a81740a3827337be60028fe67d2869"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgEllipse5.svg",
+      "bytes": 227,
+      "sha256": "d31c12a0f00dde1c8d4957c0a481139839abccd306198788ab6960b37cc6f6ac"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgLine2.svg",
+      "bytes": 548,
+      "sha256": "76cb853e2a74dbdeddb8e3cb4a1813ff47d3eb86cc9b0c454a578381e9303eb9"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgMatchCard.png",
+      "bytes": 6473575,
+      "sha256": "d8e85afcee95262aabef1be579be1bedbd3b99b1147b1310f7c9203368dcd5c4"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgMatchCard1.png",
+      "bytes": 7291270,
+      "sha256": "954b4ede6ab32c8be99904f39183d17945b21561ff293471ea62f2749df9623a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgMatchCard2.png",
+      "bytes": 1058006,
+      "sha256": "001749f4d616c30eb818e2f151db2ba93ca04856592ec6c3879180203473f57c"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgMatchCard3.png",
+      "bytes": 8499175,
+      "sha256": "7a6897cca3489aa1d8969dbe50e2b703e6358907d5650fec417040240eccf9c5"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgMatchCard4.png",
+      "bytes": 2506312,
+      "sha256": "ffb9b922772d39696dd2aa05e88ba4799c15bf1e890a33229d0b12c7810c81ed"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgNotification01.svg",
+      "bytes": 808,
+      "sha256": "891226920b5938f8956470bbfceb8b9c81d13779fbd30ebf4ae4fe7bed5428a4"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgPlay.svg",
+      "bytes": 982,
+      "sha256": "5d8e28829c886c69c43deb04baf18015e49edf786e9c95eb245a4245e890a021"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgPlay1.svg",
+      "bytes": 956,
+      "sha256": "c38c3daf1419ddb73c38b2b6c7d2fb8cd74851653465d84362ab461f3a234474"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo.png",
+      "bytes": 257084,
+      "sha256": "521859bcabfb4ee3dd3b8bd63c2e82b04e19fb30332778736c080c56e77edb10"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo1.png",
+      "bytes": 35744,
+      "sha256": "e4cfe1fd7b2d64e29b812375ffd74d12941ec17d7630cda002ab1570bbee6392"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo2.png",
+      "bytes": 535114,
+      "sha256": "fb19e18ceaa409fbfa7c6b627973fce470ba967b6db106ecbd08c59068c6d06a"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo3.png",
+      "bytes": 1343154,
+      "sha256": "508d73c78d39f9610c4fb3c01541f4207c85d98467900b7c9f12e82fc248cbe7"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo4.png",
+      "bytes": 71369,
+      "sha256": "ce6307d19aa8014935ab0b768ceeabcfcc983cab6d318178eaefc7dcc57ef9a2"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo5.png",
+      "bytes": 1520903,
+      "sha256": "3c9e12df3b1dc9fb91874f31a18f2701ac16636c66b3ac5e465ad4d7cf4a56ad"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo6.png",
+      "bytes": 585809,
+      "sha256": "c4de43e08ddbd28c4b7442d280b37ba78f565d12e1f274bc40f7c1fccff95ce0"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo7.png",
+      "bytes": 150275,
+      "sha256": "b40b3261e87f13839aa2b8f71c857b928d3fad58abe04dec1f963158b9cd7297"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo8.png",
+      "bytes": 95188,
+      "sha256": "cd9235caeb57dc9b37d0d6e435b5be4dab5a73ab13de9a5620537e2e1092f1c8"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgTeamLogo9.png",
+      "bytes": 236382,
+      "sha256": "f6fdf6ad18a017c7657915320dcf92dca114995a5d6ad637e3d127320c0ca0d9"
+    },
+    {
+      "path": "shared/assets/home-signed-in-light-trending/imgView.svg",
+      "bytes": 803,
+      "sha256": "d27794b5f2e3948012dc6ad2f908c7ef3ec3117ed8d28b75b06aa3a2fcc34928"
+    },
+    {
+      "path": "shared/assets/login-dark/imgArrowLeft02.svg",
+      "bytes": 349,
+      "sha256": "0b055356e0da70857f1d06c96fcf8dbc39ec2f9a3627b5ddce222e554fc3c151"
+    },
+    {
+      "path": "shared/assets/login-dark/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/login-dark/imgHelpIcon.svg",
+      "bytes": 954,
+      "sha256": "1d5fc0aa44f37b605e057fc42771d6a540197d7dc7967aa61787a41561701c2e"
+    },
+    {
+      "path": "shared/assets/login-dark/imgLogIn.png",
+      "bytes": 2357678,
+      "sha256": "aa591a8d255ad853ff7c366832c5be9766c667afbc88ad7e8a54ef192354e8b4"
+    },
+    {
+      "path": "shared/assets/login-dark/imgPlayEmblem.svg",
+      "bytes": 336,
+      "sha256": "a2341a8ccb99466e1c2d20eb5e131a20c710c9375dec17dd2947df64bb672257"
+    },
+    {
+      "path": "shared/assets/login-light/imgArrowLeft02.svg",
+      "bytes": 351,
+      "sha256": "84a331c50adddae5c8a47bcb78a6374b12b268c9605ab6e95cbcadd242831db8"
+    },
+    {
+      "path": "shared/assets/login-light/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/login-light/imgHelpIcon.svg",
+      "bytes": 954,
+      "sha256": "1d5fc0aa44f37b605e057fc42771d6a540197d7dc7967aa61787a41561701c2e"
+    },
+    {
+      "path": "shared/assets/login-light/imgLogIn.png",
+      "bytes": 2357678,
+      "sha256": "aa591a8d255ad853ff7c366832c5be9766c667afbc88ad7e8a54ef192354e8b4"
+    },
+    {
+      "path": "shared/assets/login-light/imgPlayEmblem.svg",
+      "bytes": 336,
+      "sha256": "a2341a8ccb99466e1c2d20eb5e131a20c710c9375dec17dd2947df64bb672257"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgArrowLeft02.svg",
+      "bytes": 349,
+      "sha256": "0b055356e0da70857f1d06c96fcf8dbc39ec2f9a3627b5ddce222e554fc3c151"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgChevronDown.svg",
+      "bytes": 303,
+      "sha256": "ead0d6f8f918a7483231ad7c93cb0b8a338998a32dfd28d27c2839d2dc2ff9b6"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgChevronDown1.svg",
+      "bytes": 324,
+      "sha256": "8963381c98b7e47b05eebaa2a52789e36a8e4373357a75f1fbb3a370b5633f47"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgHelpIcon.svg",
+      "bytes": 954,
+      "sha256": "1d5fc0aa44f37b605e057fc42771d6a540197d7dc7967aa61787a41561701c2e"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+      "bytes": 868,
+      "sha256": "53056c1caa1489de1e10770d0469964bf50a72c3a92d552f3e5ec9635bf8fa78"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgPlayEmblem.svg",
+      "bytes": 336,
+      "sha256": "a2341a8ccb99466e1c2d20eb5e131a20c710c9375dec17dd2947df64bb672257"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgRegisterAsBroadcaster.png",
+      "bytes": 2357678,
+      "sha256": "aa591a8d255ad853ff7c366832c5be9766c667afbc88ad7e8a54ef192354e8b4"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-dark/imgTypeHandPoint.svg",
+      "bytes": 8852,
+      "sha256": "f1565a2179ae4cf87218134172a48218ea1980e3e6bdc1ef0f6c701629a911b9"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgArrowLeft02.svg",
+      "bytes": 351,
+      "sha256": "84a331c50adddae5c8a47bcb78a6374b12b268c9605ab6e95cbcadd242831db8"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgChevronDown.svg",
+      "bytes": 303,
+      "sha256": "ead0d6f8f918a7483231ad7c93cb0b8a338998a32dfd28d27c2839d2dc2ff9b6"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgChevronDown1.svg",
+      "bytes": 324,
+      "sha256": "8963381c98b7e47b05eebaa2a52789e36a8e4373357a75f1fbb3a370b5633f47"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgHelpIcon.svg",
+      "bytes": 954,
+      "sha256": "1d5fc0aa44f37b605e057fc42771d6a540197d7dc7967aa61787a41561701c2e"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgLogIn.png",
+      "bytes": 2357678,
+      "sha256": "aa591a8d255ad853ff7c366832c5be9766c667afbc88ad7e8a54ef192354e8b4"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+      "bytes": 868,
+      "sha256": "7550a020a8c010116251a5158cbad0af052d7037fca4f1b60cb3ece78834ac67"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgPlayEmblem.svg",
+      "bytes": 336,
+      "sha256": "a2341a8ccb99466e1c2d20eb5e131a20c710c9375dec17dd2947df64bb672257"
+    },
+    {
+      "path": "shared/assets/register-broadcaster-light/imgTypeHandPoint.svg",
+      "bytes": 8852,
+      "sha256": "f1565a2179ae4cf87218134172a48218ea1980e3e6bdc1ef0f6c701629a911b9"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgArrowLeft02.svg",
+      "bytes": 349,
+      "sha256": "0b055356e0da70857f1d06c96fcf8dbc39ec2f9a3627b5ddce222e554fc3c151"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgChevronDown.svg",
+      "bytes": 324,
+      "sha256": "8963381c98b7e47b05eebaa2a52789e36a8e4373357a75f1fbb3a370b5633f47"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgHelpIcon.svg",
+      "bytes": 954,
+      "sha256": "1d5fc0aa44f37b605e057fc42771d6a540197d7dc7967aa61787a41561701c2e"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+      "bytes": 868,
+      "sha256": "685633b729333af55cb2cced464f95cad03e66466c141503924adbc033425e92"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgPlayEmblem.svg",
+      "bytes": 336,
+      "sha256": "a2341a8ccb99466e1c2d20eb5e131a20c710c9375dec17dd2947df64bb672257"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgRegisterAsUser.png",
+      "bytes": 2357678,
+      "sha256": "aa591a8d255ad853ff7c366832c5be9766c667afbc88ad7e8a54ef192354e8b4"
+    },
+    {
+      "path": "shared/assets/register-user-dark/imgTypeHandPoint.svg",
+      "bytes": 8852,
+      "sha256": "088234ba827e3505a7886a24a56b0820b6498995ac17252517bceffd54c82885"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgArrowLeft02.svg",
+      "bytes": 351,
+      "sha256": "84a331c50adddae5c8a47bcb78a6374b12b268c9605ab6e95cbcadd242831db8"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgChevronDown.svg",
+      "bytes": 324,
+      "sha256": "8963381c98b7e47b05eebaa2a52789e36a8e4373357a75f1fbb3a370b5633f47"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgCurvedHighlight.svg",
+      "bytes": 265,
+      "sha256": "1d591ec87e500793d372f291167e1433d8b17314ff71f7c106d0d38754cb4e11"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgHelpIcon.svg",
+      "bytes": 954,
+      "sha256": "1d5fc0aa44f37b605e057fc42771d6a540197d7dc7967aa61787a41561701c2e"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgLogIn.png",
+      "bytes": 2357678,
+      "sha256": "aa591a8d255ad853ff7c366832c5be9766c667afbc88ad7e8a54ef192354e8b4"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgOpenFalseSupportingTextFalseTooltipTopNoArrow.svg",
+      "bytes": 868,
+      "sha256": "53056c1caa1489de1e10770d0469964bf50a72c3a92d552f3e5ec9635bf8fa78"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgPlayEmblem.svg",
+      "bytes": 336,
+      "sha256": "a2341a8ccb99466e1c2d20eb5e131a20c710c9375dec17dd2947df64bb672257"
+    },
+    {
+      "path": "shared/assets/register-user-light/imgTypeHandPoint.svg",
+      "bytes": 8852,
+      "sha256": "088234ba827e3505a7886a24a56b0820b6498995ac17252517bceffd54c82885"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgChevronDown.svg",
+      "bytes": 320,
+      "sha256": "34b870ed1d65c944e86692e48dcacaca6824328c035a658d7cdc717f9b92cd72"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgChevronRight.svg",
+      "bytes": 332,
+      "sha256": "f0719a49fc0c1d0c3cbfda4511221414eee5bbd87f3b3aab4611d6a2f9970d78"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgCircleX.svg",
+      "bytes": 908,
+      "sha256": "3293da2ab61041842726b86ba02c7a8d3ad6d3425780874b28000a4e6f99bd35"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgDot.svg",
+      "bytes": 248,
+      "sha256": "a4f2645679ceab723bee4f6d1505d1219e3950d83d8a39d3465f6feef406b830"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "dbdc7fb9ced4e005b70c3c6a7a1298905723809347d037f48cd073ca424f40d9"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-dark/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgCircleX.svg",
+      "bytes": 908,
+      "sha256": "3293da2ab61041842726b86ba02c7a8d3ad6d3425780874b28000a4e6f99bd35"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgGroup.svg",
+      "bytes": 2318,
+      "sha256": "44256fa510f424db0e8616eb6768d3b8e80ccad17bb5ff0a294596c235802867"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgPlayEmblem.svg",
+      "bytes": 545,
+      "sha256": "2f6d6ce3853c9e9163cea374f329e5a8f7c68830e3dec58d1d92ea55743c2306"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgVector.svg",
+      "bytes": 1355,
+      "sha256": "a15df227aba83e0896c9cc820ade3085e732a5702a97f773bdc6c242fd5d89ef"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgVector1.svg",
+      "bytes": 764,
+      "sha256": "e62c83bcf6dd8150270249de963c78b8d67456da99050b26f1d586bc81bf494d"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgVector2.svg",
+      "bytes": 765,
+      "sha256": "fb7c5f672aa80d4b6b66b0f8e5c78402b70775f8ecbf5d9432f1da23099bc117"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgVector3.svg",
+      "bytes": 606,
+      "sha256": "46a0bd5f23e8064353bc81f105737ce82282511d39579a2c0a01bbd2a18b0dbd"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgVector4.svg",
+      "bytes": 606,
+      "sha256": "7c24a09a4fa40237de44639218a6997621203421232a41d54f7310293ea61710"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-dark/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgCircleX.svg",
+      "bytes": 910,
+      "sha256": "a9e8a1bb498ebab3936896ff440b71136954e083d691f3aa48edce73735fa949"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "db8a51c6d1caa17d208b5b3f7d52860835639e7f573db7bbb8a44f705d562650"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgGroup.svg",
+      "bytes": 2368,
+      "sha256": "afb6b9600edc73a5c5ddacea0bcad0636b1f82f25ecde354f89af5a9873e1b55"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "e7df142b4710bf68690054448569b46794de33bf2dac0a593acf311a0e0e2ffd"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgPlayEmblem.svg",
+      "bytes": 545,
+      "sha256": "d2144db01bd3b907bf89f3fb6d3adcc58440a7c81eb3c39131633034328be646"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "f67971e6bc64808753a737c03b50d3c8428b67080b2ebaf338bbcc1d7c1f42aa"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "c7b3b0478ddcc1bdc0c5f6e409885247341f5c5cd4a417b72ad0d2fe62e42b63"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgVector.svg",
+      "bytes": 1355,
+      "sha256": "7ff1cbc867884bf27f004a9d7edf7037cddcce601a3a14e2949aec8f2db9dde3"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgVector1.svg",
+      "bytes": 764,
+      "sha256": "e62c83bcf6dd8150270249de963c78b8d67456da99050b26f1d586bc81bf494d"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgVector2.svg",
+      "bytes": 765,
+      "sha256": "fb7c5f672aa80d4b6b66b0f8e5c78402b70775f8ecbf5d9432f1da23099bc117"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgVector3.svg",
+      "bytes": 606,
+      "sha256": "46a0bd5f23e8064353bc81f105737ce82282511d39579a2c0a01bbd2a18b0dbd"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgVector4.svg",
+      "bytes": 606,
+      "sha256": "7c24a09a4fa40237de44639218a6997621203421232a41d54f7310293ea61710"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "03adcb3ea0e051b2b05c23b5bffdd3f750b9c76c19678bf538d9778a17fdddec"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-empty-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgChevronDown.svg",
+      "bytes": 320,
+      "sha256": "34b870ed1d65c944e86692e48dcacaca6824328c035a658d7cdc717f9b92cd72"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgChevronRight.svg",
+      "bytes": 332,
+      "sha256": "35da624331c3d14d63da7ef48948f654a378b357d660b62ae621aea4e38fb737"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgCircleX.svg",
+      "bytes": 910,
+      "sha256": "a9e8a1bb498ebab3936896ff440b71136954e083d691f3aa48edce73735fa949"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "db8a51c6d1caa17d208b5b3f7d52860835639e7f573db7bbb8a44f705d562650"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgDot.svg",
+      "bytes": 248,
+      "sha256": "a4f2645679ceab723bee4f6d1505d1219e3950d83d8a39d3465f6feef406b830"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "e7df142b4710bf68690054448569b46794de33bf2dac0a593acf311a0e0e2ffd"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "2da9db9d8a8ae6ad3f36027d27851af347c1d0528175c775faf7d44618a31973"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "f67971e6bc64808753a737c03b50d3c8428b67080b2ebaf338bbcc1d7c1f42aa"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "c7b3b0478ddcc1bdc0c5f6e409885247341f5c5cd4a417b72ad0d2fe62e42b63"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "03adcb3ea0e051b2b05c23b5bffdd3f750b9c76c19678bf538d9778a17fdddec"
+    },
+    {
+      "path": "shared/assets/rejected-broadcasters-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgCalendar04.svg",
+      "bytes": 893,
+      "sha256": "c0276040fb53730234cc947c8296875bb6e626db961492eba6fea77ac6a14a48"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgCheckmarkCircle02.svg",
+      "bytes": 858,
+      "sha256": "b40fb96f6f72617583c2b3e301d418cd9808558e5e94357151509cae68fc108e"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgCloudUpload.svg",
+      "bytes": 2258,
+      "sha256": "37c1cd98dfec65b8590b26096b70c828b151f1280e4c155d65b9698eed35b8d7"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgCloudUpload1.svg",
+      "bytes": 1029,
+      "sha256": "0f6e7567d44af59dd7129757c2eb14f377448c32d70b2c21311f7351aaa8139a"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgFi2504719.svg",
+      "bytes": 940,
+      "sha256": "7b4e720e193aaa0ab108342860f3200953ba284ef1e55ee667816ddb69dd1190"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgFrame.svg",
+      "bytes": 6087,
+      "sha256": "c28a7a1a6b5c3fbbfc4227eee6bcf29e9b49b5e3a42ba1b43e0f22a0964d028e"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgLink04.svg",
+      "bytes": 888,
+      "sha256": "823ed874bf5e00b5c4e3c32fc38a790e7fb40e6d938c085269db9b0004fe0622"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "7add9de994ab5415f0f3479e0561201e06a2bc4bea745a63a0abcf6be129942d"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgShare04.svg",
+      "bytes": 804,
+      "sha256": "1d25c0e1cafc5eccabeeafe368c2bcd169d71ac7de49901a06e6d45c569df8d7"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgUnlink04.svg",
+      "bytes": 1185,
+      "sha256": "ef8defff2d78912331deda461a9dee37c5c1bcf090fff625844c88fb9119c8b5"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgUser.svg",
+      "bytes": 786,
+      "sha256": "72ec8e8597122af41bfeaf59ff97dce7757d5054d242a4421fe43df14d96bb5e"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgX346Dropbox.svg",
+      "bytes": 2033,
+      "sha256": "d6966d5b26d57c02d7f425fa23f950d61b35f0808e78836d1b2808f394c539be"
+    },
+    {
+      "path": "shared/assets/storage-services-dark/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgCalendar04.svg",
+      "bytes": 893,
+      "sha256": "65a43a6713884b7c8b82172185d8b603921616627439065725f144429b9b0e3f"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "6a75985ec23354bc08c874e19614f517f99559086cef72104637d624399be609"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgCheckmarkCircle02.svg",
+      "bytes": 858,
+      "sha256": "b40fb96f6f72617583c2b3e301d418cd9808558e5e94357151509cae68fc108e"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgCloudUpload.svg",
+      "bytes": 2262,
+      "sha256": "daa9982d59f4fd5c994b5ba2dc58cdae0088b7fe63592718fbbebf23ba78e7f2"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgCloudUpload1.svg",
+      "bytes": 1029,
+      "sha256": "c38fe1a50f64f8f77915183ec5c4f14bdf656f109cfa1530f03955dfaf71ef9b"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgFi2504719.svg",
+      "bytes": 940,
+      "sha256": "b60e37101a4760ae91441666d609aea75057e4a905440c1fed89c945f979c1ff"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgFrame.svg",
+      "bytes": 6069,
+      "sha256": "f8c296468a4fd7de77d42a917fb97e0b59df2392e661a66bf0f5a62cda475842"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgLink04.svg",
+      "bytes": 888,
+      "sha256": "823ed874bf5e00b5c4e3c32fc38a790e7fb40e6d938c085269db9b0004fe0622"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "e7df142b4710bf68690054448569b46794de33bf2dac0a593acf311a0e0e2ffd"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "7c2b2f4f1da2f3b999e8db151a92d76780fe276af27eaa509abd08ae8fde566e"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "f67971e6bc64808753a737c03b50d3c8428b67080b2ebaf338bbcc1d7c1f42aa"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgShare04.svg",
+      "bytes": 804,
+      "sha256": "c0db95a764f8cf6188c71f2d8f12d9a7e71a43fb6335d03f9479977f6ce42315"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgUnlink04.svg",
+      "bytes": 1185,
+      "sha256": "7d2aecbf1fcfbf3a8a22d57c77bcfcef2381cf0dcc9af643cea1585fe19d6c7b"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgUser.svg",
+      "bytes": 790,
+      "sha256": "4dd5f7e53b7b809b6c2eb1e7c537bb02b3d325073df45dbbaf06b874966d5606"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "c7b3b0478ddcc1bdc0c5f6e409885247341f5c5cd4a417b72ad0d2fe62e42b63"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "03adcb3ea0e051b2b05c23b5bffdd3f750b9c76c19678bf538d9778a17fdddec"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgX346Dropbox.svg",
+      "bytes": 2033,
+      "sha256": "d6966d5b26d57c02d7f425fa23f950d61b35f0808e78836d1b2808f394c539be"
+    },
+    {
+      "path": "shared/assets/storage-services-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgArrowDown01.svg",
+      "bytes": 339,
+      "sha256": "cf105e2933432c3af5f85f988e997dd7ec9406b655c37acbc80ff57d0fc35d12"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgContainer.png",
+      "bytes": 241136,
+      "sha256": "72448c58f20dd7491d7d9b5fd13ad7408d7c53e8fc58341b88cad8f7d38088fc"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgContainer1.png",
+      "bytes": 85375,
+      "sha256": "c272950f22ed48d60084128f91cbc477e61dc6ddb668084997d1d1e16b559787"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgContainer2.png",
+      "bytes": 219611,
+      "sha256": "2b4c3a8fa1f5a487c22c459060a71c766e48d4f91d040049c740195126e96b3a"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgContainer3.png",
+      "bytes": 185218,
+      "sha256": "7f1d59c5344556f76d28daa56c8419cdc4331cbfea2f765e6dc7cf8cc32de178"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon.svg",
+      "bytes": 1284,
+      "sha256": "1c2033af16a09ed69e3a8e2b8c178f9acdbecdcf1a69c1cd075003153d601c31"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon1.svg",
+      "bytes": 1136,
+      "sha256": "d08f13d3686a3988e81768ebe2bc17d3b342236a79e94cd89fa9b41c62bfdb9c"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon2.svg",
+      "bytes": 1297,
+      "sha256": "5a9198dec341de7e7114ebcf32b58d54d030bea2cc91a16c6e300bdfd69a2668"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon3.svg",
+      "bytes": 1150,
+      "sha256": "926240967972e433f6529af025f8d528a6af5b94c53f900438ead1cce3ffb4b4"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon4.svg",
+      "bytes": 1326,
+      "sha256": "7b03393b134bfea0f181967699db2aee9de9b18d942797fff7578dea97cdcb6b"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon5.svg",
+      "bytes": 888,
+      "sha256": "c2c5243e212cee47d6c8e37cd0054e65eff18e158721952ed95c8dbcaf78c33b"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon6.svg",
+      "bytes": 1174,
+      "sha256": "097ff652d91a8934753dd44d06dbbf0001ec6fc4c8ab9ee21b13580aeac73dcb"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon7.svg",
+      "bytes": 1340,
+      "sha256": "565b1cf6afaa7737e833a1307badf58b90edc7fd53f5da53bcd3b0903d2233b6"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgIcon8.svg",
+      "bytes": 1182,
+      "sha256": "239b0201d2d35ee2e4ec884bc811f5429734388ec47d6a3a7e2709b79fb5088c"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgList.svg",
+      "bytes": 1595,
+      "sha256": "8b60c63c3e33231c3f2012f4a77f5c9dc7df9746e9af7085eba83ecf76a27d68"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgMenuSquare1.svg",
+      "bytes": 4489,
+      "sha256": "6b760ec0fa142c283dc94dd44390d7548a55879d67231e62f619b537576bf050"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "953725e5f801d7e89e84f3855010972f7f9df19afb53818a5f7a829b78ee7530"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgPlus.svg",
+      "bytes": 370,
+      "sha256": "f854e135fa322d22599ae4b4b2d50af0ab78cacfcd8e353d05087c38ae18468b"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgSearchLg.svg",
+      "bytes": 498,
+      "sha256": "29bd3f3c725df40889157fb3d2d25ee280030bc8748b48cd62c27495e03da3ca"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgUserGroup02.svg",
+      "bytes": 1900,
+      "sha256": "47e752e1d338739a04e6f66f26fa1e641e8e693d45346be654a0e9b0ba268914"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/teams-grid/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/teams-list/imgArrowDown01.svg",
+      "bytes": 339,
+      "sha256": "cf105e2933432c3af5f85f988e997dd7ec9406b655c37acbc80ff57d0fc35d12"
+    },
+    {
+      "path": "shared/assets/teams-list/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/teams-list/imgChevronDown.svg",
+      "bytes": 320,
+      "sha256": "34b870ed1d65c944e86692e48dcacaca6824328c035a658d7cdc717f9b92cd72"
+    },
+    {
+      "path": "shared/assets/teams-list/imgChevronRight.svg",
+      "bytes": 332,
+      "sha256": "f0719a49fc0c1d0c3cbfda4511221414eee5bbd87f3b3aab4611d6a2f9970d78"
+    },
+    {
+      "path": "shared/assets/teams-list/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/teams-list/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon.svg",
+      "bytes": 1284,
+      "sha256": "1c2033af16a09ed69e3a8e2b8c178f9acdbecdcf1a69c1cd075003153d601c31"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon1.svg",
+      "bytes": 1136,
+      "sha256": "d08f13d3686a3988e81768ebe2bc17d3b342236a79e94cd89fa9b41c62bfdb9c"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon2.svg",
+      "bytes": 1297,
+      "sha256": "5a9198dec341de7e7114ebcf32b58d54d030bea2cc91a16c6e300bdfd69a2668"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon3.svg",
+      "bytes": 1150,
+      "sha256": "926240967972e433f6529af025f8d528a6af5b94c53f900438ead1cce3ffb4b4"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon4.svg",
+      "bytes": 2035,
+      "sha256": "0701b6b06644575d47706a1647f7670dd1ab839f93fc579cf5deae8cf362b621"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon5.svg",
+      "bytes": 888,
+      "sha256": "c2c5243e212cee47d6c8e37cd0054e65eff18e158721952ed95c8dbcaf78c33b"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon6.svg",
+      "bytes": 1885,
+      "sha256": "e5f96e0f59c78a5e53fbe312db27407ea2a78b5f52c5fe0b8badab241e6b783a"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon7.svg",
+      "bytes": 2049,
+      "sha256": "6794920bb2fef6e38cebfc1f017da2b55af78023bc1a9c3014dd4d9d5d7525f0"
+    },
+    {
+      "path": "shared/assets/teams-list/imgIcon8.svg",
+      "bytes": 1901,
+      "sha256": "57fcdb4342adeb7d649787b9ccce3f93297a62660b170e2c360df5afa78940d7"
+    },
+    {
+      "path": "shared/assets/teams-list/imgList.svg",
+      "bytes": 1595,
+      "sha256": "362ce35c7d933efa5708ea56e29a0e9480033b8ea2e73f5f51c75a4cadfa8119"
+    },
+    {
+      "path": "shared/assets/teams-list/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/teams-list/imgMenuSquare1.svg",
+      "bytes": 4489,
+      "sha256": "d40baa99d22eb6e1d519a2c3825c306c99fc065958e656ffe2223409e8b3efe6"
+    },
+    {
+      "path": "shared/assets/teams-list/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/teams-list/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "19a1c63cd924838b564512e26dff57b8d19f40275f69dfd8ab5283229747ddcc"
+    },
+    {
+      "path": "shared/assets/teams-list/imgPlus.svg",
+      "bytes": 370,
+      "sha256": "f854e135fa322d22599ae4b4b2d50af0ab78cacfcd8e353d05087c38ae18468b"
+    },
+    {
+      "path": "shared/assets/teams-list/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/teams-list/imgSearchLg.svg",
+      "bytes": 498,
+      "sha256": "29bd3f3c725df40889157fb3d2d25ee280030bc8748b48cd62c27495e03da3ca"
+    },
+    {
+      "path": "shared/assets/teams-list/imgUserGroup02.svg",
+      "bytes": 1900,
+      "sha256": "47e752e1d338739a04e6f66f26fa1e641e8e693d45346be654a0e9b0ba268914"
+    },
+    {
+      "path": "shared/assets/teams-list/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/teams-list/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "6a75985ec23354bc08c874e19614f517f99559086cef72104637d624399be609"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgChevronDown.svg",
+      "bytes": 320,
+      "sha256": "34b870ed1d65c944e86692e48dcacaca6824328c035a658d7cdc717f9b92cd72"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgChevronRight.svg",
+      "bytes": 332,
+      "sha256": "35da624331c3d14d63da7ef48948f654a378b357d660b62ae621aea4e38fb737"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "db8a51c6d1caa17d208b5b3f7d52860835639e7f573db7bbb8a44f705d562650"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgEdit01.svg",
+      "bytes": 867,
+      "sha256": "7d27f9b8b2306fba73537d30ad44a9003cffa396762ef888b9bf2e4579f07662"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "e7df142b4710bf68690054448569b46794de33bf2dac0a593acf311a0e0e2ffd"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "7e3da9c1d3932d97e72d77954e20147408fe1fe4dc085360c5aef02f5c0bd864"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgPlus.svg",
+      "bytes": 370,
+      "sha256": "f854e135fa322d22599ae4b4b2d50af0ab78cacfcd8e353d05087c38ae18468b"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "f67971e6bc64808753a737c03b50d3c8428b67080b2ebaf338bbcc1d7c1f42aa"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgTrash01.svg",
+      "bytes": 976,
+      "sha256": "aefbb773184d2e3ccf761bda1b4f18e8e13b40cf5c46814cb52e974167d47ef0"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgUserGroup02.svg",
+      "bytes": 1912,
+      "sha256": "0746e33dac16860547069bc935f4d18839fbf99694e2fc5ff8ff4941be92bf0d"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "03adcb3ea0e051b2b05c23b5bffdd3f750b9c76c19678bf538d9778a17fdddec"
+    },
+    {
+      "path": "shared/assets/teams-list-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgGroup.svg",
+      "bytes": 2318,
+      "sha256": "44256fa510f424db0e8616eb6768d3b8e80ccad17bb5ff0a294596c235802867"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgInvoice01.svg",
+      "bytes": 1904,
+      "sha256": "8d70e117327bdab478effef5bac45438946308e8ab0775053e6bd3a7ea421496"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgPlayEmblem.svg",
+      "bytes": 545,
+      "sha256": "d2144db01bd3b907bf89f3fb6d3adcc58440a7c81eb3c39131633034328be646"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgVector.svg",
+      "bytes": 1355,
+      "sha256": "a30763bf78ec3a382f8890d8908ff17ad94acd02a109f35e3d5630a76ad8e5a3"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgVector1.svg",
+      "bytes": 764,
+      "sha256": "e62c83bcf6dd8150270249de963c78b8d67456da99050b26f1d586bc81bf494d"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgVector2.svg",
+      "bytes": 765,
+      "sha256": "fb7c5f672aa80d4b6b66b0f8e5c78402b70775f8ecbf5d9432f1da23099bc117"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgVector3.svg",
+      "bytes": 606,
+      "sha256": "46a0bd5f23e8064353bc81f105737ce82282511d39579a2c0a01bbd2a18b0dbd"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgVector4.svg",
+      "bytes": 606,
+      "sha256": "7c24a09a4fa40237de44639218a6997621203421232a41d54f7310293ea61710"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/transaction-history-dark/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "1eb43807d07b44cc55e9e2c1249a22b37d0d1b1fc6939ea4bfdf06195888358a"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "6a75985ec23354bc08c874e19614f517f99559086cef72104637d624399be609"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "db8a51c6d1caa17d208b5b3f7d52860835639e7f573db7bbb8a44f705d562650"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgGroup.svg",
+      "bytes": 2368,
+      "sha256": "ef9f1fd074d41557497a8943e0787a32e8575773b8d32d0b7e2937203f71b59b"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgInvoice01.svg",
+      "bytes": 1906,
+      "sha256": "9f034a980b17f3a69a6cd216325b4dbe1f31f3a1df5ec0e62c8c55c51310ef2b"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "394374fb21f02967b8db7167f40a4898c51c037c23cbfe54546048805570fb81"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "e7df142b4710bf68690054448569b46794de33bf2dac0a593acf311a0e0e2ffd"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgPlayEmblem.svg",
+      "bytes": 545,
+      "sha256": "5fc23f5d0e94307d8a22a2ee0adb6b1c0449c001218a0ea304f660924cac37b9"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "c7b3b0478ddcc1bdc0c5f6e409885247341f5c5cd4a417b72ad0d2fe62e42b63"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgVector.svg",
+      "bytes": 1355,
+      "sha256": "a1f8daef56e3036eaeaf0779012cf73c95ae16e9e9b8198ddbcea080c0092572"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgVector1.svg",
+      "bytes": 764,
+      "sha256": "e62c83bcf6dd8150270249de963c78b8d67456da99050b26f1d586bc81bf494d"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgVector2.svg",
+      "bytes": 765,
+      "sha256": "fb7c5f672aa80d4b6b66b0f8e5c78402b70775f8ecbf5d9432f1da23099bc117"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgVector3.svg",
+      "bytes": 606,
+      "sha256": "46a0bd5f23e8064353bc81f105737ce82282511d39579a2c0a01bbd2a18b0dbd"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgVector4.svg",
+      "bytes": 606,
+      "sha256": "7c24a09a4fa40237de44639218a6997621203421232a41d54f7310293ea61710"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "03adcb3ea0e051b2b05c23b5bffdd3f750b9c76c19678bf538d9778a17fdddec"
+    },
+    {
+      "path": "shared/assets/transaction-history-light/imgYoutube.svg",
+      "bytes": 1306,
+      "sha256": "60d176db49991b4af117107591c14bd21281851af7f98af6fbd44c7b6562ce55"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgCheckmarkCircle02.svg",
+      "bytes": 827,
+      "sha256": "222ba898f1ff0e2bd42c952806891b599aa0c5492b44bef21fe8dbbd7e9756cc"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgCheckmarkCircle3.svg",
+      "bytes": 835,
+      "sha256": "06f7d2180729cbc6d546948dc663cfc3d63af88db787e51e74fea0318e521361"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgDownload04.svg",
+      "bytes": 1481,
+      "sha256": "530f582836b532397e27cb93813002e0a64879966d725745d49c83b047b139c4"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgG7433.svg",
+      "bytes": 836,
+      "sha256": "b5572f7ad50828bf64918e118568bb4199f4ab750576d0e326e7b35c04e30444"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgG7449.svg",
+      "bytes": 4778,
+      "sha256": "1265437381feec9b71e5d113e80ce91b8ffc972d114a9606067f11f30290c838"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgHistory.svg",
+      "bytes": 777,
+      "sha256": "bab4d74bda6c36c05696dddd4d40d18de033d3d75ae5c6b102763779af0b64a1"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgInfo.svg",
+      "bytes": 849,
+      "sha256": "461f0829ea8cdc95939ea24d3089bf486111f49943c709c6e3979fbcb1a2f603"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgLine192.svg",
+      "bytes": 242,
+      "sha256": "7748af0b5249c1e1817104cfa89baa99cac84547bf8dd9338d97947e40f95ed4"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgPlayEmblem.svg",
+      "bytes": 547,
+      "sha256": "a60ca5b5211d20cd2fdcb40863d4fe4de93fef4c0ac7bb166e8f28003fb49503"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgUnlink04.svg",
+      "bytes": 1185,
+      "sha256": "ef8defff2d78912331deda461a9dee37c5c1bcf090fff625844c88fb9119c8b5"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgYoutube.svg",
+      "bytes": 1614,
+      "sha256": "5f895f700055a1c4484d5b8c395bfa87d45ef399cc31328bfcebf2678be039ee"
+    },
+    {
+      "path": "shared/assets/youtube-channel-dark/imgYoutube1.svg",
+      "bytes": 985,
+      "sha256": "b48f88168d534f4d78bb0ac40424358ce970fe64ffd38cf13dac311a8267d2c5"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgCancelCircle.svg",
+      "bytes": 646,
+      "sha256": "19f7b2a9681af89a57ff34c5ce2cce8e6cb9726c83f1928cee603e6d4a4f31f0"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgCheckmarkCircle02.svg",
+      "bytes": 827,
+      "sha256": "222ba898f1ff0e2bd42c952806891b599aa0c5492b44bef21fe8dbbd7e9756cc"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgCheckmarkCircle3.svg",
+      "bytes": 835,
+      "sha256": "06f7d2180729cbc6d546948dc663cfc3d63af88db787e51e74fea0318e521361"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgCloudUpload.svg",
+      "bytes": 1033,
+      "sha256": "7c522fc943d73ad827e415173f8e881fc5d0b07401de48acd1f06889d15d38de"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgCurvedHighlight.svg",
+      "bytes": 293,
+      "sha256": "370254e33ca7c57c9bdf0cd5496bb333c7a6daf69ef3c0953987ba5b6796b5ca"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgDownload04.svg",
+      "bytes": 1481,
+      "sha256": "530f582836b532397e27cb93813002e0a64879966d725745d49c83b047b139c4"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgG7433.svg",
+      "bytes": 879,
+      "sha256": "df5f152e106b7f4b932aa085321d4396e6dc727be14ef8b23ff0a1476e59b15b"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgG7449.svg",
+      "bytes": 4810,
+      "sha256": "d1975dcc9b0f92c55c8511de725712799f0d0d326be17ab2eeb1f3ac1e9fcbcd"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgHistory.svg",
+      "bytes": 777,
+      "sha256": "bab4d74bda6c36c05696dddd4d40d18de033d3d75ae5c6b102763779af0b64a1"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgInfo.svg",
+      "bytes": 849,
+      "sha256": "359334e22d960bb5ad6429c59e9448129635e1bab83e5e031d4827342a42aff0"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgLine192.svg",
+      "bytes": 248,
+      "sha256": "45875924e905c9659c47e95a50a2d3c6b0e9c1b780bd80cf39fe67d3c1360cc2"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgMenuSquare.svg",
+      "bytes": 1137,
+      "sha256": "af2ce2f37c8699fa1598a6b1123b542bfb51bc1422f76297edfb6f9c57bb9efc"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgNoteAdd.svg",
+      "bytes": 1053,
+      "sha256": "74913ff88d76002792d043006d3fa95b31a1d1d8a2d5bb66325c3552ecd9dd0d"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgPlayEmblem.svg",
+      "bytes": 545,
+      "sha256": "3b94271ece74199033b4c428c734d43b374c8236ebf70f0faa74cc3272a4acf6"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgReceiptText.svg",
+      "bytes": 1908,
+      "sha256": "df060e9d5049f64217f66de20ca642e4daee9a8b84b941e62b93e44e2cc22be7"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgUnlink04.svg",
+      "bytes": 1185,
+      "sha256": "7d2aecbf1fcfbf3a8a22d57c77bcfcef2381cf0dcc9af643cea1585fe19d6c7b"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgUserGroup.svg",
+      "bytes": 1638,
+      "sha256": "85983b656640c3dccf1fcac0572a0103ed952f8c67f6b9cbc86f8f55352c1d75"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgWallet01.svg",
+      "bytes": 1294,
+      "sha256": "0fae8d744fcf9ea0bf92fac8c8b7491d7af919be775e01abffd5f746728cb71f"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgYoutube.svg",
+      "bytes": 1616,
+      "sha256": "23a2953ada55b21a1fe7c46355778fa182eca15ad287aa073dcc4f930d645ae9"
+    },
+    {
+      "path": "shared/assets/youtube-channel-light/imgYoutube1.svg",
+      "bytes": 985,
+      "sha256": "b48f88168d534f4d78bb0ac40424358ce970fe64ffd38cf13dac311a8267d2c5"
+    }
+  ]
+}

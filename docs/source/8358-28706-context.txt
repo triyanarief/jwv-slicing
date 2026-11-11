@@ -1,0 +1,30 @@
+const imgChevronDown = "https://www.figma.com/api/mcp/asset/dc11e51a-b1ea-4159-8ca2-d6bddddf3637.svg";
+
+export default function Dropdown() {
+  return (
+    <div className="content-stretch flex gap-[var(--spacing-xxs,2px)] items-center pl-[var(--spacing\/spacing-2,4px)] py-[var(--spacing-md,8px)] relative size-full" data-node-id="8358:28706" data-name="Dropdown">
+      <p className="[word-break:break-word] font-[family-name:var(--type\/font-family\/family-body,'Urbanist:Regular')] font-normal leading-[normal] relative shrink-0 text-[color:var(--colors\/text\/text-tertiary-\(600\),#525252)] text-[length:var(--type\/body-4\/regular\/size,16px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8358:28707">
+        US
+      </p>
+      <div className="relative shrink-0 size-[12px]" data-node-id="8358:28708" data-name="chevron-down">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgChevronDown} />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Body 4/Regular: Font(family: "Type/Font Family/family-body", style: Regular, size: Type/Body 4/Regular/size, weight: 400, lineHeight: 100, letterSpacing: Type/Body 4/Regular/letter-spacing).
+Component descriptions: The following components have usage descriptions or documentation links defined in Figma. These descriptions provide important context about the intended usage, best practices, and any constraints for each component. Follow these guidelines when implementing or using these components.
+
+## chevron-down
+**Node ID:** 8352:9218
+
+chevron, down, dropdown
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

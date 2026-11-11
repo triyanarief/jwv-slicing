@@ -1,0 +1,102 @@
+{
+  "libraryFile": "sFY0fBvNWRsaDCazSwnW4k",
+  "discovery": "Read-only Computer Use: registration phone help instance → Go to main component → original library. All twelve identities confirmed using equal published component keys.",
+  "states": [
+    {
+      "id": "8352:13652",
+      "name": "Open=True, Supporting text=False, Tooltip=Top no arrow",
+      "key": "d9542f4d80acfea648ae8c9af7742a22823459e2",
+      "remote": true,
+      "libraryId": "1054:14",
+      "keyMatches": true
+    },
+    {
+      "id": "8352:12770",
+      "name": "Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, State=Hover",
+      "key": "4b5f7196b97f746a46cd4f3bc61558bee10db0d8",
+      "remote": true,
+      "libraryId": "1097:63932",
+      "keyMatches": true
+    },
+    {
+      "id": "8352:11744",
+      "name": "Size=md, Hierarchy=Link color, State=Hover, Icon only=False",
+      "key": "b2e0a185857906d42096afe2b8fe0c8ec0edc349",
+      "remote": true,
+      "libraryId": "3287:427391",
+      "keyMatches": true
+    },
+    {
+      "id": "8352:23903",
+      "name": "Current=True, Size=sm, Type=Button minimal, State=Hover",
+      "key": "feb64b2d0eb9be27aa02f7dd4ed90e8af75c015a",
+      "remote": true,
+      "libraryId": "7248:8789",
+      "keyMatches": true
+    },
+    {
+      "id": "8352:24023",
+      "name": "Current=False, Size=sm, Type=Button minimal, State=Hover",
+      "key": "459e6b1dd04809bbb4440668f55e4dc96b0cde0c",
+      "remote": true,
+      "libraryId": "7248:8807",
+      "keyMatches": true
+    },
+    {
+      "id": "8352:12288",
+      "name": "Size=sm, Hierarchy=Secondary, State=Hover, Icon only=False",
+      "key": "cee7cb8d63ee7ac80858dbbfa0f61876ffa067c2",
+      "remote": true,
+      "libraryId": "3287:429519",
+      "keyMatches": true
+    },
+    {
+      "id": "8352:12224",
+      "name": "Size=sm, Hierarchy=Primary, State=Hover, Icon only=False",
+      "key": "9477b24a90835f8e3483ef3b4afd19a1ee71f996",
+      "remote": true,
+      "libraryId": "3287:429495",
+      "keyMatches": true
+    },
+    {
+      "id": "8406:15090",
+      "name": "Help icon=False, Arrow=False, State=Hover",
+      "key": "8ed8d21c99140a778ff094d4140eff5c69eff3b3",
+      "remote": true,
+      "libraryId": "1221:106927",
+      "keyMatches": true
+    },
+    {
+      "id": "8406:15113",
+      "name": "Help icon=True, Arrow=False, State=Hover",
+      "key": "c7eace54e2207e7e8ae0d829bc210896f34fbe3b",
+      "remote": true,
+      "libraryId": "1221:106917",
+      "keyMatches": true
+    },
+    {
+      "id": "8406:1957",
+      "name": "Size=xs, Hierarchy=Tertiary, State=Hover",
+      "key": "7678a8593ac02328f1476ba57329dbc368a6c81e",
+      "remote": true,
+      "libraryId": "7932:552046",
+      "keyMatches": true
+    },
+    {
+      "id": "8406:16465",
+      "name": "Shape=Square, State=Hover/active",
+      "key": "93ed3cb2a6fc81bc7b14b5be1fd34e111b97202b",
+      "remote": true,
+      "libraryId": "1114:68175",
+      "keyMatches": true
+    },
+    {
+      "id": "8352:12358",
+      "name": "Size=sm, Hierarchy=Secondary, State=Hover, Icon only=True",
+      "key": "dab01d0903ea18ad87bb13d45e23e48a5ae938f3",
+      "remote": true,
+      "libraryId": "3287:429711",
+      "keyMatches": true
+    }
+  ]
+}

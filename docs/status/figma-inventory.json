@@ -1,0 +1,658 @@
+{
+  "source": "https://www.figma.com/design/qiE96RQiaLs1FX6jyb6JGB/Justin-Valinski---JWV-Streaming-UI-UX-Design?node-id=1-10",
+  "page": "1:10",
+  "candidate_count": 37,
+  "frame_count": 44,
+  "screen_candidates": [
+    {
+      "id": "8212:33",
+      "name": "home",
+      "x": "17562",
+      "y": "-54",
+      "width": "1512",
+      "height": "6074"
+    },
+    {
+      "id": "8212:3267",
+      "name": "home",
+      "x": "19230",
+      "y": "-54",
+      "width": "1512",
+      "height": "6252"
+    },
+    {
+      "id": "8291:1011",
+      "name": "Home",
+      "x": "21969",
+      "y": "-64",
+      "width": "1512",
+      "height": "4064.800048828125"
+    },
+    {
+      "id": "8292:3387",
+      "name": "Hero",
+      "x": "23572",
+      "y": "-64",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8307:8678",
+      "name": "home",
+      "x": "25302",
+      "y": "-64",
+      "width": "1512",
+      "height": "4157.7998046875"
+    },
+    {
+      "id": "8307:11688",
+      "name": "hero",
+      "x": "26887",
+      "y": "-64",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8350:8841",
+      "name": "Log In",
+      "x": "11065",
+      "y": "-144",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8354:27846",
+      "name": "Register as User",
+      "x": "12617",
+      "y": "-144",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8354:28283",
+      "name": "Register as Broadcaster",
+      "x": "14182",
+      "y": "-144",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8406:18319",
+      "name": "Dashboard",
+      "x": "-5115",
+      "y": "-61",
+      "width": "1512",
+      "height": "1048.5"
+    },
+    {
+      "id": "8411:21364",
+      "name": "Dashboard / Teams List",
+      "x": "-3523",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8411:22575",
+      "name": "Dashboard / Broadcasters & Wallet",
+      "x": "-1931",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8413:25313",
+      "name": "Dashboard / Broadcaster Request / Filled",
+      "x": "1253",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26323",
+      "name": "Dashboard / Rejected Broadcasters / Filled",
+      "x": "4437",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8413:24824",
+      "name": "Dashboard / Broadcaster Request / Empty",
+      "x": "-339",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26474",
+      "name": "Dashboard / Rejected Broadcasters / Empty",
+      "x": "2845",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:25524",
+      "name": "Dashboard / Authorize YouTube Channel",
+      "x": "6029",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26200",
+      "name": "Dashboard / Storage Services",
+      "x": "7621",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26846",
+      "name": "Dashboard / Transaction History / Empty",
+      "x": "9213",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:161",
+      "name": "Dashboard",
+      "x": "100",
+      "y": "380",
+      "width": "1512",
+      "height": "1051"
+    },
+    {
+      "id": "8427:691",
+      "name": "Dashboard / Teams List",
+      "x": "1692",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:846",
+      "name": "Dashboard / Broadcasters & Wallet",
+      "x": "3284",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1027",
+      "name": "Dashboard / Broadcaster Request / Filled",
+      "x": "6468",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1194",
+      "name": "Dashboard / Rejected Broadcasters / Filled",
+      "x": "9652",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1359",
+      "name": "Dashboard / Broadcaster Request / Empty",
+      "x": "4876",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1482",
+      "name": "Dashboard / Rejected Broadcasters / Empty",
+      "x": "8060",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1603",
+      "name": "Dashboard / Authorize YouTube Channel",
+      "x": "11244",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1758",
+      "name": "Dashboard / Storage Services",
+      "x": "12836",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1958",
+      "name": "Dashboard / Transaction History / Empty",
+      "x": "14428",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8433:5384",
+      "name": "Log In",
+      "x": "11418",
+      "y": "2090",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8433:5555",
+      "name": "Log In",
+      "x": "12970",
+      "y": "2090",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8433:5766",
+      "name": "Log In",
+      "x": "14522",
+      "y": "2090",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8436:7027",
+      "name": "JWV Streaming | Club Dashboard Redesign",
+      "x": "-5057",
+      "y": "3564",
+      "width": "1528",
+      "height": "1202"
+    },
+    {
+      "id": "8436:7470",
+      "name": "Club Dashboard Redesign",
+      "x": "-5115",
+      "y": "-1854",
+      "width": "1512",
+      "height": "1265.5999755859375"
+    },
+    {
+      "id": "8438:9957",
+      "name": "Team List Redesign",
+      "x": "-3523",
+      "y": "-1854",
+      "width": "1512",
+      "height": "913"
+    },
+    {
+      "id": "8439:10585",
+      "name": "Team List Redesign",
+      "x": "-1971",
+      "y": "-1854",
+      "width": "1512",
+      "height": "913"
+    },
+    {
+      "id": "8439:11243",
+      "name": "Broadcasters & Wallets (Redesign)",
+      "x": "-3251",
+      "y": "3564",
+      "width": "1528",
+      "height": "922"
+    }
+  ],
+  "all_top_level_frames": [
+    {
+      "id": "8217:16784",
+      "name": "Group 5",
+      "x": "17562",
+      "y": "-420",
+      "width": "3180",
+      "height": "180"
+    },
+    {
+      "id": "8307:8676",
+      "name": "Group 50",
+      "x": "21969",
+      "y": "-420",
+      "width": "3097",
+      "height": "180"
+    },
+    {
+      "id": "8307:8677",
+      "name": "Group 51",
+      "x": "25302",
+      "y": "-420",
+      "width": "3097",
+      "height": "180"
+    },
+    {
+      "id": "8212:33",
+      "name": "home",
+      "x": "17562",
+      "y": "-54",
+      "width": "1512",
+      "height": "6074"
+    },
+    {
+      "id": "8212:3267",
+      "name": "home",
+      "x": "19230",
+      "y": "-54",
+      "width": "1512",
+      "height": "6252"
+    },
+    {
+      "id": "8291:1011",
+      "name": "Home",
+      "x": "21969",
+      "y": "-64",
+      "width": "1512",
+      "height": "4064.800048828125"
+    },
+    {
+      "id": "8292:3387",
+      "name": "Hero",
+      "x": "23572",
+      "y": "-64",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8307:8678",
+      "name": "home",
+      "x": "25302",
+      "y": "-64",
+      "width": "1512",
+      "height": "4157.7998046875"
+    },
+    {
+      "id": "8307:11688",
+      "name": "hero",
+      "x": "26887",
+      "y": "-64",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8350:8841",
+      "name": "Log In",
+      "x": "11065",
+      "y": "-144",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8354:27846",
+      "name": "Register as User",
+      "x": "12617",
+      "y": "-144",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8354:28283",
+      "name": "Register as Broadcaster",
+      "x": "14182",
+      "y": "-144",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8358:28732",
+      "name": "Group 52",
+      "x": "11065",
+      "y": "-420",
+      "width": "4629",
+      "height": "180"
+    },
+    {
+      "id": "8406:1895",
+      "name": "Group 53",
+      "x": "-5115",
+      "y": "-341",
+      "width": "15840",
+      "height": "180"
+    },
+    {
+      "id": "8406:18319",
+      "name": "Dashboard",
+      "x": "-5115",
+      "y": "-61",
+      "width": "1512",
+      "height": "1048.5"
+    },
+    {
+      "id": "8411:21364",
+      "name": "Dashboard / Teams List",
+      "x": "-3523",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8411:22575",
+      "name": "Dashboard / Broadcasters & Wallet",
+      "x": "-1931",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8413:25313",
+      "name": "Dashboard / Broadcaster Request / Filled",
+      "x": "1253",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26323",
+      "name": "Dashboard / Rejected Broadcasters / Filled",
+      "x": "4437",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8413:24824",
+      "name": "Dashboard / Broadcaster Request / Empty",
+      "x": "-339",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26474",
+      "name": "Dashboard / Rejected Broadcasters / Empty",
+      "x": "2845",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:25524",
+      "name": "Dashboard / Authorize YouTube Channel",
+      "x": "6029",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26200",
+      "name": "Dashboard / Storage Services",
+      "x": "7621",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8414:26846",
+      "name": "Dashboard / Transaction History / Empty",
+      "x": "9213",
+      "y": "-61",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:158",
+      "name": "Group 54",
+      "x": "100",
+      "y": "100",
+      "width": "15840",
+      "height": "180"
+    },
+    {
+      "id": "8427:161",
+      "name": "Dashboard",
+      "x": "100",
+      "y": "380",
+      "width": "1512",
+      "height": "1051"
+    },
+    {
+      "id": "8427:691",
+      "name": "Dashboard / Teams List",
+      "x": "1692",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:846",
+      "name": "Dashboard / Broadcasters & Wallet",
+      "x": "3284",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1027",
+      "name": "Dashboard / Broadcaster Request / Filled",
+      "x": "6468",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1194",
+      "name": "Dashboard / Rejected Broadcasters / Filled",
+      "x": "9652",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1359",
+      "name": "Dashboard / Broadcaster Request / Empty",
+      "x": "4876",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1482",
+      "name": "Dashboard / Rejected Broadcasters / Empty",
+      "x": "8060",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1603",
+      "name": "Dashboard / Authorize YouTube Channel",
+      "x": "11244",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1758",
+      "name": "Dashboard / Storage Services",
+      "x": "12836",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8427:1958",
+      "name": "Dashboard / Transaction History / Empty",
+      "x": "14428",
+      "y": "380",
+      "width": "1512",
+      "height": "980"
+    },
+    {
+      "id": "8433:5384",
+      "name": "Log In",
+      "x": "11418",
+      "y": "2090",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8433:5555",
+      "name": "Log In",
+      "x": "12970",
+      "y": "2090",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8433:5766",
+      "name": "Log In",
+      "x": "14522",
+      "y": "2090",
+      "width": "1512",
+      "height": "982"
+    },
+    {
+      "id": "8433:6469",
+      "name": "Group 55",
+      "x": "11418",
+      "y": "1810",
+      "width": "4629",
+      "height": "180"
+    },
+    {
+      "id": "8436:7027",
+      "name": "JWV Streaming | Club Dashboard Redesign",
+      "x": "-5057",
+      "y": "3564",
+      "width": "1528",
+      "height": "1202"
+    },
+    {
+      "id": "8436:7470",
+      "name": "Club Dashboard Redesign",
+      "x": "-5115",
+      "y": "-1854",
+      "width": "1512",
+      "height": "1265.5999755859375"
+    },
+    {
+      "id": "8438:9957",
+      "name": "Team List Redesign",
+      "x": "-3523",
+      "y": "-1854",
+      "width": "1512",
+      "height": "913"
+    },
+    {
+      "id": "8439:10585",
+      "name": "Team List Redesign",
+      "x": "-1971",
+      "y": "-1854",
+      "width": "1512",
+      "height": "913"
+    },
+    {
+      "id": "8439:11243",
+      "name": "Broadcasters & Wallets (Redesign)",
+      "x": "-3251",
+      "y": "3564",
+      "width": "1528",
+      "height": "922"
+    }
+  ]
+}

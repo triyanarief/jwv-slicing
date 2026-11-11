@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1160" height="12" viewBox="0 0 1160 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Progress">
+<path id="Line" d="M3 6L1157 6.00012" stroke-width="6" stroke-linecap="round" stroke="#A6B2BB" stroke-opacity="0.48"/>
+<path id="Line_2" d="M3 6.00002H629.335" stroke-width="6" stroke-linecap="round" stroke="url(#paint0_linear_0_28)"/>
+<path id="Line_3" d="M629.333 6L629.333 6" stroke-width="12" stroke-linecap="round" stroke="#8ECF71"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_28" x1="3" y1="6.50002" x2="629.335" y2="6.50002" gradientUnits="userSpaceOnUse">
+<stop stop-color="#68AF49"/>
+<stop offset="1" stop-color="#8FD072"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,86 @@
+<canvas id="225:7288" name="      ↳ Pagination" x="0" y="0" width="0" height="0">
+  <frame id="1111:1" name="_Pagination dot indicator" x="-1112" y="-949" width="144" height="132">
+    <symbol id="1253:503" name="Current=False, Style=Dot, Size=md" x="16" y="16" width="8" height="8" />
+    <symbol id="1275:139141" name="Current=False, Style=Line, Size=md" x="16" y="84" width="40" height="6" />
+    <symbol id="1253:507" name="Current=False, Style=Dot, Size=lg" x="88" y="16" width="10" height="10" />
+    <symbol id="1275:139142" name="Current=False, Style=Line, Size=lg" x="88" y="84" width="40" height="8" />
+    <symbol id="1253:502" name="Current=True, Style=Dot, Size=md" x="16" y="42" width="8" height="8" />
+    <symbol id="1275:139134" name="Current=True, Style=Line, Size=md" x="16" y="108" width="40" height="6" />
+    <symbol id="1253:506" name="Current=True, Style=Dot, Size=lg" x="88" y="42" width="10" height="10" />
+    <symbol id="1275:139132" name="Current=True, Style=Line, Size=lg" x="88" y="108" width="40" height="8" />
+  </frame>
+  <frame id="1111:38" name="Pagination dot group" x="4488" y="-209" width="400" height="178">
+    <symbol id="1111:84" name="Size=md, Style=Dot, Framed=True" x="16" y="40" width="64" height="24" />
+    <symbol id="1275:139441" name="Size=md, Style=Line, Framed=True" x="16" y="130" width="160" height="22" />
+    <symbol id="1111:260" name="Size=md, Style=Dot, Framed=False" x="16" y="16" width="48" height="8" />
+    <symbol id="1275:139430" name="Size=md, Style=Line, Framed=False" x="16" y="106" width="144" height="6" />
+    <symbol id="1111:128" name="Size=lg, Style=Dot, Framed=True" x="208" y="40" width="86" height="34" />
+    <symbol id="1275:139419" name="Size=lg, Style=Line, Framed=True" x="208" y="130" width="176" height="32" />
+    <symbol id="1111:227" name="Size=lg, Style=Dot, Framed=False" x="208" y="16" width="62" height="10" />
+    <symbol id="1275:139408" name="Size=lg, Style=Line, Framed=False" x="208" y="106" width="152" height="8" />
+  </frame>
+  <frame id="1114:68174" name="_Pagination number base" x="-1112" y="-1185" width="136" height="172">
+    <symbol id="1114:68173" name="Shape=Square, State=Default" x="16" y="16" width="36" height="36" />
+    <symbol id="1114:68771" name="Shape=Circle, State=Default" x="84" y="16" width="36" height="36" />
+    <symbol id="1114:68175" name="Shape=Square, State=Hover/active" x="16" y="68" width="36" height="36" />
+    <symbol id="1114:68768" name="Shape=Circle, State=Hover/active" x="84" y="68" width="36" height="36" />
+    <symbol id="1114:68181" name="Shape=Square, State=Focused" x="16" y="120" width="36" height="36" />
+    <symbol id="1114:68765" name="Shape=Circle, State=Focused" x="84" y="120" width="36" height="36" />
+  </frame>
+  <frame id="1114:68857" name="_Pagination button group base" x="-912" y="-1185" width="395" height="172">
+    <symbol id="1114:69114" name="Type=Icon only, State=Active/hover" x="343" y="68" width="36" height="36" />
+    <symbol id="1114:69377" name="Type=Trailing icon, State=Active/hover" x="227" y="68" width="84" height="36" />
+    <symbol id="1114:69102" name="Type=Icon only, State=Default" x="343" y="16" width="36" height="36" />
+    <symbol id="1114:69373" name="Type=Trailing icon, State=Default" x="227" y="16" width="84" height="36" />
+    <symbol id="1114:69100" name="Type=Icon only, State=Focused" x="343" y="120" width="36" height="36" />
+    <symbol id="1114:69369" name="Type=Trailing icon, State=Focused" x="227" y="120" width="84" height="36" />
+    <symbol id="1114:68898" name="Type=Number, State=Default" x="16" y="16" width="36" height="36" />
+    <symbol id="1114:68920" name="Type=Number, State=Focused" x="16" y="120" width="36" height="36" />
+    <symbol id="1114:68964" name="Type=Number, State=Active/hover" x="16" y="68" width="36" height="36" />
+    <symbol id="1114:69375" name="Type=Leading icon, State=Active/hover" x="84" y="68" width="111" height="36" />
+    <symbol id="1114:69371" name="Type=Leading icon, State=Default" x="84" y="16" width="111" height="36" />
+    <symbol id="1114:69367" name="Type=Leading icon, State=Focused" x="84" y="120" width="111" height="36" />
+  </frame>
+  <frame id="1115:68622" name="Pagination" x="1688" y="-1215" width="1655" height="1220">
+    <symbol id="226:519" name="Type=Page default, Shape=Square, Breakpoint=Desktop" x="16" y="16" width="1216" height="56" />
+    <symbol id="1116:4645" name="Type=Page minimal center aligned, Shape=Square, Breakpoint=Desktop" x="16" y="160" width="1216" height="56" />
+    <symbol id="2812:419428" name="Type=Page minimal center aligned, Shape=Circle, Breakpoint=Desktop" x="16" y="232" width="1216" height="56" />
+    <symbol id="1115:68616" name="Type=Page default, Shape=Circle, Breakpoint=Desktop" x="16" y="88" width="1216" height="56" />
+    <symbol id="226:413" name="Type=Page default, Shape=Square, Breakpoint=Mobile" x="1264" y="16" width="343" height="52" />
+    <symbol id="1116:4640" name="Type=Page minimal center aligned, Shape=Square, Breakpoint=Mobile" x="1264" y="160" width="343" height="52" />
+    <symbol id="2812:419441" name="Type=Page minimal center aligned, Shape=Circle, Breakpoint=Mobile" x="1264" y="232" width="343" height="52" />
+    <symbol id="1115:68619" name="Type=Page default, Shape=Circle, Breakpoint=Mobile" x="1264" y="88" width="343" height="52" />
+    <symbol id="226:331" name="Type=Card minimal right aligned, Shape=Square, Breakpoint=Desktop" x="16" y="560" width="1216" height="64" />
+    <symbol id="11980:560591" name="Type=Card advanced, Shape=Square, Breakpoint=Desktop" x="16" y="1056" width="1216" height="64" />
+    <symbol id="11982:17303" name="Type=Card advanced center aligned, Shape=Square, Breakpoint=Desktop" x="16" y="1140" width="1216" height="64" />
+    <symbol id="1115:68886" name="Type=Card minimal left aligned, Shape=Square, Breakpoint=Desktop" x="16" y="640" width="1216" height="64" />
+    <symbol id="1116:4935" name="Type=Card minimal center aligned, Shape=Square, Breakpoint=Desktop" x="16" y="720" width="1216" height="64" />
+    <symbol id="226:307" name="Type=Card minimal right aligned, Shape=Square, Breakpoint=Mobile" x="1264" y="560" width="375" height="60" />
+    <symbol id="11980:560598" name="Type=Card advanced, Shape=Square, Breakpoint=Mobile" x="1264" y="1056" width="375" height="60" />
+    <symbol id="11982:17328" name="Type=Card advanced center aligned, Shape=Square, Breakpoint=Mobile" x="1264" y="1140" width="375" height="60" />
+    <symbol id="1115:68880" name="Type=Card minimal left aligned, Shape=Square, Breakpoint=Mobile" x="1264" y="640" width="375" height="60" />
+    <symbol id="1116:4929" name="Type=Card minimal center aligned, Shape=Square, Breakpoint=Mobile" x="1264" y="720" width="375" height="60" />
+    <symbol id="226:158" name="Type=Card default, Shape=Square, Breakpoint=Desktop" x="16" y="352" width="1216" height="64" />
+    <symbol id="1115:68617" name="Type=Card default, Shape=Circle, Breakpoint=Desktop" x="16" y="432" width="1216" height="64" />
+    <symbol id="1115:68618" name="Type=Card button group right aligned, Shape=Square, Breakpoint=Desktop" x="16" y="848" width="1216" height="64" />
+    <symbol id="1115:69008" name="Type=Card button group left aligned, Shape=Square, Breakpoint=Desktop" x="16" y="928" width="1216" height="64" />
+    <symbol id="226:136" name="Type=Card default, Shape=Square, Breakpoint=Mobile" x="1264" y="352" width="375" height="60" />
+    <symbol id="1115:68620" name="Type=Card default, Shape=Circle, Breakpoint=Mobile" x="1264" y="432" width="375" height="60" />
+    <symbol id="1115:68621" name="Type=Card button group right aligned, Shape=Square, Breakpoint=Mobile" x="1264" y="848" width="375" height="60" />
+    <symbol id="1115:68993" name="Type=Card button group left aligned, Shape=Square, Breakpoint=Mobile" x="1264" y="928" width="375" height="60" />
+  </frame>
+  <frame id="1253:164" name="_Carousel arrow" x="-1112" y="-753" width="256" height="76">
+    <symbol id="1253:189" name="Size=md, Chevron=Left" x="16" y="16" width="36" height="36" />
+    <symbol id="1253:215" name="Size=lg, Chevron=Left" x="136" y="16" width="44" height="44" />
+    <symbol id="1253:187" name="Size=md, Chevron=Right" x="68" y="16" width="36" height="36" />
+    <symbol id="1253:211" name="Size=lg, Chevron=Right" x="196" y="16" width="44" height="44" />
+  </frame>
+  <frame id="1253:237" name="Carousel image" x="4488" y="-1185" width="672" height="848">
+    <symbol id="1253:274" name="Size=md" x="16" y="16" width="640" height="400" />
+    <symbol id="1253:386" name="Size=lg" x="16" y="432" width="640" height="400" />
+  </frame>
+  <instance id="6721:139491" name="Design system header" x="-1192" y="-1805" width="2400" height="492" />
+  <instance id="1547:265028" name="Design system header" x="1608" y="-1805" width="2400" height="462" />
+  <instance id="1547:265209" name="Design system header" x="4408" y="-1805" width="2400" height="492" />
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

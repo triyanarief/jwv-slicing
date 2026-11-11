@@ -1,0 +1,124 @@
+{
+  "page": "register-broadcaster-dark",
+  "node": "8354:28283",
+  "pass": 1,
+  "widths": [
+    {
+      "width": 1512,
+      "tooltips": [
+        {
+          "label": "Phone number help",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 880.5,
+            "right": 992.1015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        },
+        {
+          "label": "Show create password",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 876.5,
+            "right": 988.1015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        },
+        {
+          "label": "Show confirm password",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 876.5,
+            "right": 988.1015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        }
+      ],
+      "checkboxBorder": true,
+      "checkboxKeyboard": true,
+      "noOverflow": true,
+      "assetsLoaded": true
+    },
+    {
+      "width": 390,
+      "tooltips": [
+        {
+          "label": "Phone number help",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 270,
+            "right": 381.6015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        },
+        {
+          "label": "Show create password",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 270,
+            "right": 381.6015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        },
+        {
+          "label": "Show confirm password",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 270,
+            "right": 381.6015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        }
+      ],
+      "checkboxBorder": true,
+      "checkboxKeyboard": true,
+      "noOverflow": true,
+      "assetsLoaded": true
+    }
+  ],
+  "checkedAt": "2026-11-11T08:57:45.559Z",
+  "errors": [],
+  "passed": true
+}

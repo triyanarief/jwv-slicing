@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-16" y="-16" width="76" height="76"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(8px);clip-path:url(#bgblur_0_0_57_clip_path);height:100%;width:100%"></div></foreignObject><g id="Container" data-figma-bg-blur-radius="16">
+<rect x="0.5" y="0.5" width="43" height="43" rx="11.5" fill="#161C24"/>
+<rect x="0.5" y="0.5" width="43" height="43" rx="11.5" stroke="#29323D"/>
+<g id="bell">
+<path id="Vector" d="M25.9093 27.625H29.0483C29.3413 27.625 29.6275 27.5392 29.8719 27.3784C30.1164 27.2176 30.3082 26.9885 30.4253 26.7208C30.5423 26.4533 30.5798 26.1578 30.5335 25.8697C30.4873 25.5813 30.3589 25.3122 30.1633 25.0949L30.1503 25.0802L29.7328 24.6327C29.3305 24.1812 28.9762 23.7017 28.6928 23.0498C28.3128 22.1758 28.0418 20.9437 28.0417 19.0003C28.0414 15.71 25.3742 13.0419 22.0838 13.0417H21.917C18.6264 13.0417 15.9583 15.7097 15.9583 19.0003C15.9583 20.945 15.6923 22.1779 15.3171 23.0522C14.9443 23.9208 14.4453 24.4828 13.8734 25.0794L13.8604 25.0933C13.6646 25.3102 13.536 25.5792 13.4893 25.8672C13.4426 26.1554 13.4799 26.4515 13.5967 26.7192C13.7135 26.987 13.905 27.2165 14.1493 27.3776C14.3937 27.5387 14.6806 27.6248 14.9736 27.625H18.0908H19.3642H24.6359H25.9093Z" fill="#959BA1"/>
+<path id="Vector_2" d="M18.4079 28.6667C19.037 30.02 20.4086 30.9583 21.9993 30.9583C23.59 30.9583 24.9616 30.02 25.5907 28.6667H18.4079Z" fill-rule="evenodd" clip-rule="evenodd" fill="#959BA1"/>
+</g>
+<circle id="Ellipse 1" cx="29.5" cy="14.5" r="3" fill="#B32424" stroke="#1F1F1F"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_0_57_clip_path" transform="translate(16 16)"><rect x="0.5" y="0.5" width="43" height="43" rx="11.5"/>
+</clipPath></defs>
+</svg>

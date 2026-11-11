@@ -1,0 +1,155 @@
+const imgPlayEmblem = "https://www.figma.com/api/mcp/asset/4aa8d5fd-25a4-4881-860c-e438de804288.svg";
+const imgCurvedHighlight = "https://www.figma.com/api/mcp/asset/b5750905-6a50-4f0f-9dcf-77de3c09df74.svg";
+const imgCall02 = "https://www.figma.com/api/mcp/asset/cf9f3f82-9b78-4cae-a94a-fbfc0ed69009.svg";
+const imgMail01 = "https://www.figma.com/api/mcp/asset/2832e52b-5e47-44b6-9696-08808d4b24c2.svg";
+const imgLocation01 = "https://www.figma.com/api/mcp/asset/83e0b0eb-2052-4317-b034-ae0b77b0b711.svg";
+const imgLine3 = "https://www.figma.com/api/mcp/asset/a1d45507-e5e7-4109-a2ab-f90b3617c443.svg";
+const imgLine190 = "https://www.figma.com/api/mcp/asset/d47e414b-2311-49d2-8804-9d7f6086bda9.svg";
+
+export default function Footer() {
+  return (
+    <div className="content-stretch flex flex-col items-start px-[56px] py-[78px] relative size-full" data-node-id="8212:6311" style={{ backgroundImage: "linear-gradient(181.61422759113566deg, rgba(208, 202, 177, 0) 3.5354%, rgb(197, 192, 177) 100.77%)" }} data-name="footer">
+      <div className="bg-[#f8f3e0] border border-[#f0e9ce] border-solid content-stretch flex flex-col gap-[40px] items-center overflow-clip px-[36px] py-[48px] relative rounded-[20px] shrink-0 w-full" data-node-id="8212:6312" data-name="Image">
+        <div className="content-stretch flex gap-[56px] items-start relative shrink-0 w-full" data-node-id="8212:6313" data-name="Container">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-start min-w-px relative" data-node-id="8212:6314" data-name="Container">
+            <div className="h-[80px] overflow-clip relative shrink-0 w-[111.579px]" data-node-id="8212:6315" data-name="JWV Streaming — Light">
+              <p className="[word-break:break-word] absolute font-['Arimo:Bold'] font-bold h-[5.789px] leading-none left-[12.63px] text-[#9a9a9a] text-[4.211px] top-[69.47px] tracking-[1.9298px] w-[86.316px]" data-node-id="8212:6316">
+                POWERED BY JWV DEV
+              </p>
+              <div className="absolute left-[97.89px] size-[8.421px] top-[57.72px]" data-node-id="8212:6317" data-name="Play emblem">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlayEmblem} />
+              </div>
+              <p className="[word-break:break-word] absolute font-['Arimo:Bold'] font-bold h-[13.684px] leading-none left-[12.63px] text-[#313131] text-[13.684px] top-[55.09px] tracking-[-0.4211px] w-[83.158px]" data-node-id="8212:6320">
+                STREAMING
+              </p>
+              <div className="absolute bg-[#499f29] border-[#347a21] border-[1.404px] border-solid h-[48.421px] left-[1.58px] overflow-clip rounded-[8.421px] shadow-[0px_0.526px_0.877px_0px_rgba(28,67,22,0.17)] top-[4.74px] w-[108.947px]" data-node-id="8212:6321" data-name="Rounded panel">
+                <div className="absolute h-[56.14px] left-[-43.51px] top-[-32.98px] w-[192.982px]" data-node-id="8212:6322" data-name="Curved highlight">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCurvedHighlight} />
+                </div>
+                <div className="absolute border-[#72b957] border-[0.351px] border-solid h-[45.965px] left-[-0.18px] rounded-[7.193px] top-[-0.18px] w-[106.491px]" data-node-id="8212:6323" data-name="Inner rim" />
+                <div className="absolute h-[42.105px] left-[5.61px] top-[1.23px] w-[94.912px]" data-node-id="8212:6324" data-name="Wordmark lockup">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Arimo:Bold'] font-bold h-[42.105px] justify-center leading-[0] left-[47.46px] text-[41.754px] text-center text-shadow-[0px_1.404px_0.526px_#2e751d] text-white top-[21.05px] tracking-[-1.4035px] w-[94.912px]" data-node-id="8212:6325">
+                    <p className="leading-none">JWV</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[0] min-w-full relative shrink-0 text-[#414141] text-[20px] w-[min-content] whitespace-pre-wrap" data-node-id="8212:6326">
+              <p className="leading-[normal] mb-0">{`JWV Streaming offers live and on-demand sport broadcast, connecting fans clubs and broadcasters with seamless `}</p>
+              <p className="leading-[normal]">streaming experiences worldwide.</p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[96px] items-start relative shrink-0" data-node-id="8212:6327" data-name="Container">
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[20px] items-start leading-[26px] relative shrink-0" data-node-id="8212:6328" data-name="Container">
+              <p className="font-['Urbanist:SemiBold'] font-semibold min-w-full relative shrink-0 text-[#3a3a3a] text-[18px] w-[min-content]" data-node-id="8212:6329">
+                Explore
+              </p>
+              <div className="content-stretch flex flex-col font-['Urbanist:Regular'] font-normal gap-[12px] items-start relative shrink-0 text-[#6d6d6d] text-[20px] whitespace-nowrap" data-node-id="8212:6330" data-name="Menu">
+                <p className="relative shrink-0" data-node-id="8212:6331">
+                  Trendings
+                </p>
+                <p className="relative shrink-0" data-node-id="8212:6332">
+                  Live Matches
+                </p>
+                <p className="relative shrink-0" data-node-id="8212:6333">
+                  Upcoming Streams
+                </p>
+                <p className="relative shrink-0" data-node-id="8212:6334">
+                  Replays
+                </p>
+              </div>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[20px] items-start leading-[26px] relative shrink-0 whitespace-nowrap" data-node-id="8212:6335" data-name="Container">
+              <p className="font-['Urbanist:SemiBold'] font-semibold relative shrink-0 text-[#3a3a3a] text-[18px]" data-node-id="8212:6336">
+                JWV Streaming HQ
+              </p>
+              <div className="content-stretch flex flex-col font-['Urbanist:Regular'] font-normal gap-[12px] items-start relative shrink-0 text-[#6d6d6d] text-[20px] w-full" data-node-id="8212:6337" data-name="Menu">
+                <p className="relative shrink-0" data-node-id="8212:6338">
+                  About Us
+                </p>
+                <p className="relative shrink-0" data-node-id="8212:6339">
+                  How It Works
+                </p>
+                <p className="relative shrink-0" data-node-id="8212:6340">
+                  Start Broadcasting
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0" data-node-id="8212:6341" data-name="Container">
+              <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[26px] min-w-full relative shrink-0 text-[#3a3a3a] text-[18px] w-[min-content]" data-node-id="8212:6342">
+                Contact Us
+              </p>
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-[237px]" data-node-id="8212:6343" data-name="Menu">
+                <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-full" data-node-id="8212:6344" data-name="Container">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="8212:6345" data-name="call-02">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCall02} />
+                  </div>
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:Regular'] font-normal leading-[26px] min-w-px relative text-[#6d6d6d] text-[20px]" data-node-id="8212:6347">
+                    +1 (701) 215-1010
+                  </p>
+                </div>
+                <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-full" data-node-id="8212:6348" data-name="Container">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="8212:6349" data-name="mail-01">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMail01} />
+                  </div>
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:Regular'] font-normal leading-[26px] min-w-px relative text-[#6d6d6d] text-[20px]" data-node-id="8212:6352">
+                    info@jwvstreaming.com
+                  </p>
+                </div>
+                <div className="content-stretch flex gap-[8px] items-start relative shrink-0 w-full" data-node-id="8212:6353" data-name="Container">
+                  <div className="content-stretch flex items-center py-[4px] relative shrink-0" data-node-id="8212:6354" data-name="Icon">
+                    <div className="relative shrink-0 size-[18px]" data-node-id="8212:6355" data-name="location-01">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLocation01} />
+                    </div>
+                  </div>
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:Regular'] font-normal leading-[26px] min-w-px relative text-[#6d6d6d] text-[20px]" data-node-id="8212:6358">
+                    Grand Forks, ND, 58201
+                    <br aria-hidden />
+                    United States
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-0 relative shrink-0 w-full" data-node-id="8212:6359">
+          <div className="absolute inset-[-1px_0_0_0]">
+            <img alt="" className="block max-w-none size-full" src={imgLine3} />
+          </div>
+        </div>
+        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="8212:6360" data-name="Container">
+          <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[26px] relative shrink-0 text-[#5b5b5b] text-[18px] whitespace-nowrap" data-node-id="8212:6361">
+            © 2026 JWV Streaming, All Right Reserved
+          </p>
+          <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-node-id="8212:6362" data-name="Container">
+            <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[26px] relative shrink-0 text-[#5b5b5b] text-[18px] whitespace-nowrap" data-node-id="8212:6363">
+              Privacy Policy
+            </p>
+            <div className="flex h-[14px] items-center justify-center relative shrink-0 w-0" data-node-id="8212:6364">
+              <div className="flex-none rotate-90">
+                <div className="h-0 relative w-[14px]">
+                  <div className="absolute inset-[-1px_0_0_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgLine190} />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Urbanist:Regular'] font-normal leading-[26px] relative shrink-0 text-[#5b5b5b] text-[18px] whitespace-nowrap" data-node-id="8212:6365">
+              Terms of Service
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-7: #9A9A9A, Neutral/neutral-12: #313131, Neutral/neutral-1: #FFFFFF, Neutral/neutral-10: #414141, Neutral/neutral-11: #3A3A3A, Neutral/neutral-8: #6D6D6D, Neutral/neutral-9: #5B5B5B.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

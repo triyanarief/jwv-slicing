@@ -1,0 +1,144 @@
+<canvas id="43:0" name="      ↳ Tabs" x="0" y="0" width="0" height="0">
+  <frame id="43:2412" name="_Tab button base" x="80" y="620" width="822" height="1272">
+    <symbol id="43:2572" name="Current=True, Size=sm, Type=Button gray, State=Focus" x="199" y="364" width="151" height="36" />
+    <symbol id="2640:401520" name="Current=True, Size=sm, Type=Button white, State=Focus" x="199" y="984" width="151" height="36" />
+    <symbol id="7248:8783" name="Current=True, Size=sm, Type=Button minimal, State=Focus" x="199" y="1212" width="151" height="36" />
+    <symbol id="1319:9185" name="Current=True, Size=md, Type=Button gray, State=Focus" x="622" y="364" width="168" height="44" />
+    <symbol id="2640:401523" name="Current=True, Size=md, Type=Button white, State=Focus" x="622" y="984" width="168" height="44" />
+    <symbol id="7248:8786" name="Current=True, Size=md, Type=Button minimal, State=Focus" x="622" y="1212" width="168" height="44" />
+    <symbol id="1117:186" name="Current=True, Size=sm, Type=Button brand, State=Focus" x="203" y="136" width="155" height="36" />
+    <symbol id="1319:9157" name="Current=True, Size=md, Type=Button brand, State=Focus" x="626" y="136" width="172" height="44" />
+    <symbol id="43:2570" name="Current=True, Size=sm, Type=Button gray, State=Hover" x="199" y="304" width="151" height="36" />
+    <symbol id="2640:401532" name="Current=True, Size=sm, Type=Button white, State=Hover" x="199" y="924" width="151" height="36" />
+    <symbol id="7248:8789" name="Current=True, Size=sm, Type=Button minimal, State=Hover" x="199" y="1152" width="151" height="36" />
+    <symbol id="1319:9113" name="Current=True, Size=md, Type=Button gray, State=Hover" x="622" y="304" width="168" height="44" />
+    <symbol id="2640:401535" name="Current=True, Size=md, Type=Button white, State=Hover" x="622" y="924" width="168" height="44" />
+    <symbol id="7248:8792" name="Current=True, Size=md, Type=Button minimal, State=Hover" x="622" y="1152" width="168" height="44" />
+    <symbol id="1117:178" name="Current=True, Size=sm, Type=Button brand, State=Hover" x="203" y="76" width="155" height="36" />
+    <symbol id="1319:9084" name="Current=True, Size=md, Type=Button brand, State=Hover" x="626" y="76" width="172" height="44" />
+    <symbol id="43:2568" name="Current=True, Size=sm, Type=Button gray, State=Default" x="199" y="244" width="151" height="36" />
+    <symbol id="2640:401544" name="Current=True, Size=sm, Type=Button white, State=Default" x="199" y="864" width="151" height="36" />
+    <symbol id="7248:8795" name="Current=True, Size=sm, Type=Button minimal, State=Default" x="199" y="1092" width="151" height="36" />
+    <symbol id="1319:8994" name="Current=True, Size=md, Type=Button gray, State=Default" x="622" y="244" width="168" height="44" />
+    <symbol id="2640:401547" name="Current=True, Size=md, Type=Button white, State=Default" x="622" y="864" width="168" height="44" />
+    <symbol id="7248:8798" name="Current=True, Size=md, Type=Button minimal, State=Default" x="622" y="1092" width="168" height="44" />
+    <symbol id="1117:180" name="Current=True, Size=sm, Type=Button brand, State=Default" x="203" y="16" width="155" height="36" />
+    <symbol id="1319:9116" name="Current=True, Size=md, Type=Button brand, State=Default" x="626" y="16" width="172" height="44" />
+    <symbol id="43:2564" name="Current=False, Size=sm, Type=Button gray, State=Focus" x="16" y="364" width="151" height="36" />
+    <symbol id="2640:401556" name="Current=False, Size=sm, Type=Button white, State=Focus" x="16" y="984" width="151" height="36" />
+    <symbol id="7248:8801" name="Current=False, Size=sm, Type=Button minimal, State=Focus" x="16" y="1212" width="151" height="36" />
+    <symbol id="1319:9048" name="Current=False, Size=md, Type=Button gray, State=Focus" x="422" y="364" width="168" height="44" />
+    <symbol id="2640:401559" name="Current=False, Size=md, Type=Button white, State=Focus" x="422" y="984" width="168" height="44" />
+    <symbol id="7248:8804" name="Current=False, Size=md, Type=Button minimal, State=Focus" x="422" y="1212" width="168" height="44" />
+    <symbol id="1117:184" name="Current=False, Size=sm, Type=Button brand, State=Focus" x="16" y="136" width="155" height="36" />
+    <symbol id="1319:8997" name="Current=False, Size=md, Type=Button brand, State=Focus" x="422" y="136" width="172" height="44" />
+    <symbol id="43:2560" name="Current=False, Size=sm, Type=Button gray, State=Hover" x="16" y="304" width="151" height="36" />
+    <symbol id="2640:401568" name="Current=False, Size=sm, Type=Button white, State=Hover" x="16" y="924" width="151" height="36" />
+    <symbol id="7248:8807" name="Current=False, Size=sm, Type=Button minimal, State=Hover" x="16" y="1152" width="151" height="36" />
+    <symbol id="1319:8915" name="Current=False, Size=md, Type=Button gray, State=Hover" x="422" y="304" width="168" height="44" />
+    <symbol id="2640:401571" name="Current=False, Size=md, Type=Button white, State=Hover" x="422" y="924" width="168" height="44" />
+    <symbol id="7248:8810" name="Current=False, Size=md, Type=Button minimal, State=Hover" x="422" y="1152" width="168" height="44" />
+    <symbol id="1117:176" name="Current=False, Size=sm, Type=Button brand, State=Hover" x="16" y="76" width="155" height="36" />
+    <symbol id="1319:8887" name="Current=False, Size=md, Type=Button brand, State=Hover" x="422" y="76" width="172" height="44" />
+    <symbol id="43:2554" name="Current=False, Size=sm, Type=Button gray, State=Default" x="16" y="244" width="151" height="36" />
+    <symbol id="2640:401580" name="Current=False, Size=sm, Type=Button white, State=Default" x="16" y="864" width="151" height="36" />
+    <symbol id="7248:8813" name="Current=False, Size=sm, Type=Button minimal, State=Default" x="16" y="1092" width="151" height="36" />
+    <symbol id="1319:9119" name="Current=False, Size=md, Type=Button gray, State=Default" x="422" y="244" width="168" height="44" />
+    <symbol id="2640:401583" name="Current=False, Size=md, Type=Button white, State=Default" x="422" y="864" width="168" height="44" />
+    <symbol id="7248:8816" name="Current=False, Size=md, Type=Button minimal, State=Default" x="422" y="1092" width="168" height="44" />
+    <symbol id="1117:164" name="Current=False, Size=sm, Type=Button brand, State=Default" x="16" y="16" width="155" height="36" />
+    <symbol id="1319:9089" name="Current=False, Size=md, Type=Button brand, State=Default" x="422" y="16" width="172" height="44" />
+    <symbol id="43:2433" name="Current=True, Size=sm, Type=Underline, State=Focus" x="187" y="572" width="139" height="32" />
+    <symbol id="5011:374446" name="Current=True, Size=sm, Type=Line (vertical tabs), State=Focus" x="205" y="768" width="157" height="24" />
+    <symbol id="1319:8918" name="Current=True, Size=md, Type=Underline, State=Focus" x="610" y="572" width="156" height="36" />
+    <symbol id="5011:374449" name="Current=True, Size=md, Type=Line (vertical tabs), State=Focus" x="630" y="768" width="176" height="32" />
+    <symbol id="43:2429" name="Current=True, Size=sm, Type=Underline, State=Hover" x="187" y="522" width="139" height="32" />
+    <symbol id="5011:374452" name="Current=True, Size=sm, Type=Line (vertical tabs), State=Hover" x="205" y="720" width="157" height="24" />
+    <symbol id="1319:8890" name="Current=True, Size=md, Type=Underline, State=Hover" x="610" y="522" width="156" height="36" />
+    <symbol id="5011:374455" name="Current=True, Size=md, Type=Line (vertical tabs), State=Hover" x="630" y="720" width="176" height="32" />
+    <symbol id="43:2425" name="Current=True, Size=sm, Type=Underline, State=Default" x="187" y="472" width="139" height="32" />
+    <symbol id="5011:374458" name="Current=True, Size=sm, Type=Line (vertical tabs), State=Default" x="205" y="672" width="157" height="24" />
+    <symbol id="1319:8862" name="Current=True, Size=md, Type=Underline, State=Default" x="610" y="472" width="156" height="36" />
+    <symbol id="5011:374461" name="Current=True, Size=md, Type=Line (vertical tabs), State=Default" x="630" y="672" width="176" height="32" />
+    <symbol id="43:2459" name="Current=False, Size=sm, Type=Underline, State=Focus" x="16" y="572" width="139" height="32" />
+    <symbol id="5011:374464" name="Current=False, Size=sm, Type=Line (vertical tabs), State=Focus" x="16" y="768" width="157" height="24" />
+    <symbol id="1319:8810" name="Current=False, Size=md, Type=Underline, State=Focus" x="422" y="572" width="156" height="36" />
+    <symbol id="5011:374467" name="Current=False, Size=md, Type=Line (vertical tabs), State=Focus" x="422" y="768" width="176" height="32" />
+    <symbol id="43:2413" name="Current=False, Size=sm, Type=Underline, State=Hover" x="16" y="522" width="139" height="32" />
+    <symbol id="5011:374470" name="Current=False, Size=sm, Type=Line (vertical tabs), State=Hover" x="16" y="720" width="157" height="24" />
+    <symbol id="1319:8792" name="Current=False, Size=md, Type=Underline, State=Hover" x="422" y="522" width="156" height="36" />
+    <symbol id="5011:374473" name="Current=False, Size=md, Type=Line (vertical tabs), State=Hover" x="422" y="720" width="176" height="32" />
+    <symbol id="43:2411" name="Current=False, Size=sm, Type=Underline, State=Default" x="16" y="472" width="139" height="32" />
+    <symbol id="5011:374476" name="Current=False, Size=sm, Type=Line (vertical tabs), State=Default" x="16" y="672" width="157" height="24" />
+    <symbol id="1319:9160" name="Current=False, Size=md, Type=Underline, State=Default" x="422" y="472" width="156" height="36" />
+    <symbol id="5011:374479" name="Current=False, Size=md, Type=Line (vertical tabs), State=Default" x="422" y="672" width="176" height="32" />
+  </frame>
+  <frame id="1118:69893" name="Horizontal tabs" x="2880" y="590" width="3406" height="832">
+    <symbol id="1118:69892" name="Type=Button brand, Size=sm, Full width=False, Breakpoint=Desktop" x="16" y="16" width="1280" height="36" />
+    <symbol id="1319:13474" name="Type=Button brand, Size=md, Full width=False, Breakpoint=Desktop" x="1735" y="16" width="1280" height="44" />
+    <symbol id="1119:3699" name="Type=Button brand, Size=sm, Full width=False, Breakpoint=Mobile" x="1328" y="16" width="343" height="36" />
+    <symbol id="1319:13472" name="Type=Button brand, Size=md, Full width=False, Breakpoint=Mobile" x="3047" y="16" width="343" height="40" />
+    <symbol id="1119:263" name="Type=Underline, Size=sm, Full width=False, Breakpoint=Desktop" x="16" y="360" width="1280" height="32" />
+    <symbol id="1319:13377" name="Type=Underline, Size=md, Full width=False, Breakpoint=Desktop" x="1735" y="360" width="1280" height="36" />
+    <symbol id="1119:3528" name="Type=Underline, Size=sm, Full width=False, Breakpoint=Mobile" x="1328" y="360" width="343" height="36" />
+    <symbol id="1319:13348" name="Type=Underline, Size=md, Full width=False, Breakpoint=Mobile" x="3047" y="360" width="343" height="40" />
+    <symbol id="1118:69973" name="Type=Button gray, Size=sm, Full width=False, Breakpoint=Desktop" x="16" y="188" width="1280" height="36" />
+    <symbol id="1319:13291" name="Type=Button gray, Size=md, Full width=False, Breakpoint=Desktop" x="1735" y="188" width="1280" height="44" />
+    <symbol id="1119:3688" name="Type=Button gray, Size=sm, Full width=False, Breakpoint=Mobile" x="1328" y="188" width="343" height="36" />
+    <symbol id="1319:13287" name="Type=Button gray, Size=md, Full width=False, Breakpoint=Mobile" x="3047" y="188" width="343" height="40" />
+    <symbol id="1119:1917" name="Type=Button border, Size=sm, Full width=False, Breakpoint=Desktop" x="16" y="520" width="1280" height="44" />
+    <symbol id="7249:43470" name="Type=Button minimal, Size=sm, Full width=False, Breakpoint=Desktop" x="16" y="712" width="1280" height="36" />
+    <symbol id="1319:13263" name="Type=Button border, Size=md, Full width=False, Breakpoint=Desktop" x="1735" y="520" width="1280" height="56" />
+    <symbol id="7249:43482" name="Type=Button minimal, Size=md, Full width=False, Breakpoint=Desktop" x="1735" y="712" width="1280" height="44" />
+    <symbol id="1119:3600" name="Type=Button border, Size=sm, Full width=False, Breakpoint=Mobile" x="1328" y="520" width="343" height="36" />
+    <symbol id="7249:43494" name="Type=Button minimal, Size=sm, Full width=False, Breakpoint=Mobile" x="1328" y="712" width="343" height="36" />
+    <symbol id="1319:13259" name="Type=Button border, Size=md, Full width=False, Breakpoint=Mobile" x="3047" y="520" width="343" height="40" />
+    <symbol id="7249:43496" name="Type=Button minimal, Size=md, Full width=False, Breakpoint=Mobile" x="3047" y="712" width="343" height="40" />
+    <symbol id="1118:69894" name="Type=Button brand, Size=sm, Full width=True, Breakpoint=Desktop" x="16" y="76" width="1280" height="36" />
+    <symbol id="1319:13303" name="Type=Button brand, Size=md, Full width=True, Breakpoint=Desktop" x="1735" y="80" width="1280" height="44" />
+    <symbol id="1119:3721" name="Type=Button brand, Size=sm, Full width=True, Breakpoint=Mobile" x="1328" y="76" width="343" height="36" />
+    <symbol id="1319:13289" name="Type=Button brand, Size=md, Full width=True, Breakpoint=Mobile" x="3047" y="80" width="343" height="40" />
+    <symbol id="1119:252" name="Type=Underline, Size=sm, Full width=True, Breakpoint=Desktop" x="16" y="416" width="1280" height="32" />
+    <symbol id="1319:13204" name="Type=Underline, Size=md, Full width=True, Breakpoint=Desktop" x="1735" y="416" width="1280" height="36" />
+    <symbol id="1119:3587" name="Type=Underline, Size=sm, Full width=True, Breakpoint=Mobile" x="1328" y="416" width="343" height="36" />
+    <symbol id="1319:13189" name="Type=Underline, Size=md, Full width=True, Breakpoint=Mobile" x="3047" y="416" width="343" height="40" />
+    <symbol id="1118:69962" name="Type=Button gray, Size=sm, Full width=True, Breakpoint=Desktop" x="16" y="248" width="1280" height="36" />
+    <symbol id="1319:13160" name="Type=Button gray, Size=md, Full width=True, Breakpoint=Desktop" x="1735" y="252" width="1280" height="44" />
+    <symbol id="1119:3440" name="Type=Button gray, Size=sm, Full width=True, Breakpoint=Mobile" x="1328" y="248" width="343" height="36" />
+    <symbol id="1319:13158" name="Type=Button gray, Size=md, Full width=True, Breakpoint=Mobile" x="3047" y="252" width="343" height="40" />
+    <symbol id="1119:1871" name="Type=Button border, Size=sm, Full width=True, Breakpoint=Desktop" x="16" y="592" width="1280" height="44" />
+    <symbol id="7249:43498" name="Type=Button minimal, Size=sm, Full width=True, Breakpoint=Desktop" x="16" y="772" width="1280" height="36" />
+    <symbol id="1319:13146" name="Type=Button border, Size=md, Full width=True, Breakpoint=Desktop" x="1735" y="592" width="1280" height="56" />
+    <symbol id="7249:43510" name="Type=Button minimal, Size=md, Full width=True, Breakpoint=Desktop" x="1735" y="772" width="1280" height="44" />
+    <symbol id="1119:3416" name="Type=Button border, Size=sm, Full width=True, Breakpoint=Mobile" x="1328" y="592" width="343" height="36" />
+    <symbol id="7249:43522" name="Type=Button minimal, Size=sm, Full width=True, Breakpoint=Mobile" x="1328" y="772" width="343" height="36" />
+    <symbol id="1319:13144" name="Type=Button border, Size=md, Full width=True, Breakpoint=Mobile" x="3047" y="592" width="343" height="40" />
+    <symbol id="7249:43524" name="Type=Button minimal, Size=md, Full width=True, Breakpoint=Mobile" x="3047" y="772" width="343" height="40" />
+  </frame>
+  <frame id="1397:9880" name="Vertical tabs" x="6846" y="590" width="1160" height="2578">
+    <symbol id="1397:9881" name="Type=Button primary, Size=sm, Breakpoint=Desktop" x="16" y="16" width="141" height="396" />
+    <symbol id="5011:374528" name="Type=Line, Size=sm, Breakpoint=Desktop" x="16" y="1096" width="141" height="312" />
+    <symbol id="1397:9893" name="Type=Button primary, Size=md, Breakpoint=Desktop" x="596" y="16" width="153" height="476" />
+    <symbol id="5011:374608" name="Type=Line, Size=md, Breakpoint=Desktop" x="596" y="1096" width="157" height="392" />
+    <symbol id="1397:9905" name="Type=Button primary, Size=sm, Breakpoint=Mobile" x="189" y="16" width="343" height="36" />
+    <symbol id="5011:374539" name="Type=Line, Size=sm, Breakpoint=Mobile" x="189" y="1096" width="343" height="36" />
+    <symbol id="1397:9907" name="Type=Button primary, Size=md, Breakpoint=Mobile" x="789" y="16" width="343" height="40" />
+    <symbol id="5011:374619" name="Type=Line, Size=md, Breakpoint=Mobile" x="793" y="1096" width="343" height="40" />
+    <symbol id="1397:10027" name="Type=Button gray, Size=sm, Breakpoint=Desktop" x="16" y="556" width="137" height="396" />
+    <symbol id="1397:13791" name="Type=Button border, Size=sm, Breakpoint=Desktop" x="16" y="1552" width="145" height="404" />
+    <symbol id="7253:49964" name="Type=Button minimal, Size=sm, Breakpoint=Desktop" x="16" y="2104" width="137" height="378" />
+    <symbol id="1397:10039" name="Type=Button gray, Size=md, Breakpoint=Desktop" x="596" y="556" width="149" height="476" />
+    <symbol id="1397:13769" name="Type=Button border, Size=md, Breakpoint=Desktop" x="596" y="1552" width="161" height="488" />
+    <symbol id="7253:50059" name="Type=Button minimal, Size=md, Breakpoint=Desktop" x="596" y="2104" width="149" height="458" />
+    <symbol id="1397:10051" name="Type=Button gray, Size=sm, Breakpoint=Mobile" x="189" y="556" width="343" height="36" />
+    <symbol id="1397:13756" name="Type=Button border, Size=sm, Breakpoint=Mobile" x="197" y="1552" width="343" height="36" />
+    <symbol id="7253:49975" name="Type=Button minimal, Size=sm, Breakpoint=Mobile" x="189" y="2104" width="343" height="36" />
+    <symbol id="1397:10053" name="Type=Button gray, Size=md, Breakpoint=Mobile" x="789" y="556" width="343" height="40" />
+    <symbol id="1397:13900" name="Type=Button border, Size=md, Breakpoint=Mobile" x="801" y="1552" width="343" height="40" />
+    <symbol id="7253:50070" name="Type=Button minimal, Size=md, Breakpoint=Mobile" x="789" y="2104" width="343" height="40" />
+  </frame>
+  <instance id="6721:143570" name="Design system header" x="0" y="0" width="2400" height="492" />
+  <instance id="1547:265252" name="Design system header" x="2800" y="2.2737367544323206e-13" width="3566" height="462" />
+  <instance id="1547:265397" name="Design system header" x="6766" y="2.2737367544323206e-13" width="2400" height="462" />
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

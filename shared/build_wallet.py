@@ -1,0 +1,26 @@
+"""Approved wallet redesign, Figma 8439:11243; static local data only."""
+from build_pages import asset, document, sidebar, unavailable
+
+def build():
+    f='broadcasters-wallets'
+    def img(name): return asset(f,name)
+    def blocked(label,reason,css='button',icon=''):
+        return unavailable(label,reason,css,img(icon) if icon else '')
+    cast='<span class="credit-icon">'+img('imgCast.svg')+'</span>'
+    heading='''<header class="page-heading"><div><p class="eyebrow">JWV / CLUB MANAGEMENT</p><h1>Broadcasters &amp; Wallets</h1><p class="description">Manage your club's broadcasters, streaming time, and wallet balances.</p></div></header>'''
+    credit=f'''<section class="wallet-credit"><div class="credit-art" aria-hidden="true">{img('imgArticle.png')}</div><div class="credit-title">{cast}<p class="eyebrow">JWV STREAMING CREDIT</p></div><p class="credit-amount"><strong>0</strong> minutes</p><p class="credit-description">Available broadcasting time for your club</p><div class="credit-actions">{blocked('Add streaming time','Streaming-time purchase and payment designs are not supplied. No payment has been made.','button button-primary','imgPlus.svg')}<span>$4.80 / hour</span></div></section>'''
+    transfer=f'''<section class="wallet-transfer"><header><h2>Available to transfer</h2>{cast}</header><p class="transfer-amount">$0.00</p><p class="transfer-description">Credits ready to move into a broadcaster's wallet.</p><footer><div><p>Broadcaster wallets</p><strong>1 on file</strong></div><a href="#club-broadcasters">Manage wallets {img('imgIcon.svg')}</a></footer></section>'''
+    toolbar=f'''<div class="toolbar wallet-toolbar"><h2 class="toolbar-title">Club broadcasters <span class="wallet-count" data-wallet-count>1 broadcaster</span></h2><div class="toolbar-controls"><label class="search-field">{img('imgIcon1.svg')}<span class="sr-only">Search broadcasters</span><input type="search" placeholder="Search broadcasters..." data-wallet-search></label>{blocked('All statuses','The expanded status-filter options are not supplied. Search is available for the one designed broadcaster.','wallet-filter','imgIcon2.svg')}</div></div>'''
+    access=blocked('Manage access','Access options and confirmation are not supplied. No broadcaster permission has changed.','wallet-action','imgIcon3.svg')
+    move=blocked('Transfer','The credit-transfer form and payment integration are not supplied. No credits have moved.','wallet-action transfer-action','imgIcon4.svg')
+    more=blocked('','The broadcaster actions menu has no supplied design. No account has changed.','wallet-more','imgIcon5.svg').replace('<button ','<button aria-label="More broadcaster actions unavailable" ',1)
+    table=f'''<div class="wallet-table-box"><table class="wallet-table"><caption class="sr-only">Club broadcasters and wallet balances</caption><thead><tr><th scope="col">BROADCASTER</th><th scope="col">WALLET BALANCE</th><th scope="col">ACCESS STATUS</th><th scope="col">ACTIONS</th><th scope="col"><span class="sr-only">More actions</span></th></tr></thead><tbody><tr data-wallet-record="Test Club Broadcaster testclubbroadcast@jwvstreaming.com 15189 Allowed"><td><div class="broadcaster-person"><span class="broadcaster-avatar" aria-hidden="true">TC</span><div><h3>Test Club Broadcaster</h3><p>testclubbroadcast@jwvstreaming.com</p><small>ID #15189</small></div></div></td><td data-label="Wallet balance"><strong class="broadcaster-balance">$4.50</strong><small>Wallet balance</small></td><td data-label="Access status"><span class="wallet-status">Allowed</span></td><td data-label="Actions"><div class="wallet-row-actions">{access}{move}</div></td><td>{more}</td></tr></tbody></table><p hidden data-wallet-empty class="no-results" role="status">No broadcasters match your search.</p><div class="wallet-table-footer"><span data-wallet-summary>Showing 1 of 1 broadcasters</span><div class="pagination"><span>Rows per page</span><strong>10</strong><span class="page-number" aria-current="page">1</span></div></div></div>'''
+    note=f'<p class="wallet-note">{img("imgIcon6.svg")}Wallet balances are shown for each broadcaster. Review access before transferring credits or approving new requests.</p>'
+    links='<nav class="wallet-links" aria-label="Related club pages">'
+    for dest,title,description,icon in [('broadcaster-requests-dark','Broadcaster requests','Review requests from people who want to stream.','imgIcon7.svg'),('transaction-history-dark','Transaction history',"Review your club's streaming credit activity.",'imgIcon9.svg')]:
+        links+=f'<a href="../{dest}/index.html"><span class="wallet-link-icon">{img(icon)}</span><div><strong>{title}</strong><p>{description}</p></div>{img("imgIcon8.svg")}</a>'
+    links+='</nav>'
+    content=f'<div class="app-shell">{sidebar(f,f)}<main id="main" class="workspace"><div class="page-panel">{heading}<div class="wallet-cards">{credit}{transfer}</div><section id="club-broadcasters" aria-label="Club broadcasters">{toolbar}{table}{note}</section>{links}</div></main></div>'
+    document(f,'Broadcasters & Wallets',content,body_class='wallet-page',node='8439:11243',extra_css='<link rel="stylesheet" href="../shared/wallet.css">')
+
+if __name__=='__main__':build()

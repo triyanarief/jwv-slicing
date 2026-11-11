@@ -1,0 +1,145 @@
+{
+  "slug": "broadcasters-wallets",
+  "node": "8439:11243",
+  "pass": 2,
+  "checkedAt": "2026-11-11T08:04:26.940Z",
+  "responsive": [
+    {
+      "native": true,
+      "width": 1528,
+      "documentWidth": 1528,
+      "height": 922,
+      "missingImages": [],
+      "activeDestinations": [
+        "Broadcasters & Wallet"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 982,
+      "missingImages": [],
+      "activeDestinations": [
+        "Broadcasters & Wallet"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1024,
+      "documentWidth": 1024,
+      "height": 1294,
+      "missingImages": [],
+      "activeDestinations": [
+        "Broadcasters & Wallet"
+      ]
+    },
+    {
+      "native": false,
+      "width": 768,
+      "documentWidth": 768,
+      "height": 1093,
+      "missingImages": [],
+      "activeDestinations": [
+        "Broadcasters & Wallet"
+      ]
+    },
+    {
+      "native": false,
+      "width": 390,
+      "documentWidth": 390,
+      "height": 1579,
+      "missingImages": [],
+      "activeDestinations": [
+        "Broadcasters & Wallet"
+      ]
+    }
+  ],
+  "interactions": {
+    "mobileMenuOpen": true,
+    "mobileMenuEscape": true,
+    "skipLinkFocused": true,
+    "skipLinkTarget": true,
+    "walletEmptySearch": true,
+    "walletMatch": true,
+    "manageWalletsAnchor": true,
+    "localLinksResolve": true
+  },
+  "linkChecks": [
+    {
+      "url": "http://127.0.0.1:8765/broadcasters-wallets/index.html#main",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/club-dashboard-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/teams-list/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/broadcasters-wallets/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/broadcaster-requests-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/rejected-broadcasters-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/youtube-channel-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/storage-services-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/transaction-history-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/broadcasters-wallets/index.html#club-broadcasters",
+      "status": 200
+    }
+  ],
+  "unavailableControls": [
+    {
+      "label": "Add streaming time",
+      "reason": "Streaming-time purchase and payment designs are not supplied. No payment has been made.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "All statuses",
+      "reason": "The expanded status-filter options are not supplied. Search is available for the one designed broadcaster.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Manage access",
+      "reason": "Access options and confirmation are not supplied. No broadcaster permission has changed.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "Transfer",
+      "reason": "The credit-transfer form and payment integration are not supplied. No credits have moved.",
+      "ariaDisabled": "true"
+    },
+    {
+      "label": "More broadcaster actions unavailable",
+      "reason": "The broadcaster actions menu has no supplied design. No account has changed.",
+      "ariaDisabled": "true"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "httpErrors": [],
+  "passed": true
+}

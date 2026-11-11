@@ -1,0 +1,471 @@
+{
+  "output": [
+    {
+      "slug": "broadcaster-requests-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "keyboardDensity": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "rejected-broadcasters-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "keyboardDensity": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "broadcaster-requests-empty-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "rejected-broadcasters-empty-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "youtube-channel-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "storage-services-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "transaction-history-dark",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "broadcaster-requests-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "keyboardDensity": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "rejected-broadcasters-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "keyboardDensity": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "broadcaster-requests-empty-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "rejected-broadcasters-empty-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "youtube-channel-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "storage-services-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    },
+    {
+      "slug": "transaction-history-light",
+      "responsive": [
+        {
+          "width": 1440,
+          "scroll": 1440,
+          "missingImages": 0
+        },
+        {
+          "width": 1024,
+          "scroll": 1024,
+          "missingImages": 0
+        },
+        {
+          "width": 768,
+          "scroll": 768,
+          "missingImages": 0
+        },
+        {
+          "width": 390,
+          "scroll": 390,
+          "missingImages": 0
+        }
+      ],
+      "interactions": {
+        "mobileMenu": true,
+        "escapeCloses": true,
+        "themeLink": true,
+        "skipLink": true,
+        "skipTarget": true
+      },
+      "activeNavigation": true
+    }
+  ],
+  "errors": []
+}

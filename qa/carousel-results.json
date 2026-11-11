@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "home-dark",
+    "width": 1512,
+    "id": "category-track",
+    "end": {
+      "left": 800,
+      "max": 800,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-dark",
+    "width": 390,
+    "id": "category-track",
+    "end": {
+      "left": 1430,
+      "max": 1430,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-light",
+    "width": 1512,
+    "id": "category-track",
+    "end": {
+      "left": 799.5,
+      "max": 800,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-light",
+    "width": 390,
+    "id": "category-track",
+    "end": {
+      "left": 1430,
+      "max": 1430,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-dark",
+    "width": 1512,
+    "id": "category-track",
+    "end": {
+      "left": 799.5,
+      "max": 800,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-dark",
+    "width": 1512,
+    "id": "trending-track",
+    "end": {
+      "left": 617,
+      "max": 618,
+      "count": 5
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-dark",
+    "width": 1512,
+    "id": "replay-track",
+    "end": {
+      "left": 744,
+      "max": 744,
+      "count": 2
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-dark",
+    "width": 390,
+    "id": "category-track",
+    "end": {
+      "left": 1430,
+      "max": 1430,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-dark",
+    "width": 390,
+    "id": "trending-track",
+    "end": {
+      "left": 1194,
+      "max": 1194,
+      "count": 5
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-dark",
+    "width": 390,
+    "id": "replay-track",
+    "end": {
+      "left": 274,
+      "max": 274,
+      "count": 2
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-light",
+    "width": 1512,
+    "id": "category-track",
+    "end": {
+      "left": 800,
+      "max": 800,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-light",
+    "width": 1512,
+    "id": "trending-track",
+    "end": {
+      "left": 617.5,
+      "max": 618,
+      "count": 5
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-light",
+    "width": 1512,
+    "id": "replay-track",
+    "end": {
+      "left": 743.5,
+      "max": 744,
+      "count": 2
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-light",
+    "width": 390,
+    "id": "category-track",
+    "end": {
+      "left": 1430,
+      "max": 1430,
+      "count": 6
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-light",
+    "width": 390,
+    "id": "trending-track",
+    "end": {
+      "left": 1194,
+      "max": 1194,
+      "count": 5
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  },
+  {
+    "slug": "home-signed-in-light",
+    "width": 390,
+    "id": "replay-track",
+    "end": {
+      "left": 274,
+      "max": 274,
+      "count": 2
+    },
+    "start": 0,
+    "reachedEnd": true,
+    "keyboardReturned": true
+  }
+]

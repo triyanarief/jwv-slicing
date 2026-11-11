@@ -1,0 +1,62 @@
+{
+  "page": "login-light",
+  "node": "8433:5384",
+  "pass": 1,
+  "widths": [
+    {
+      "width": 1512,
+      "tooltips": [
+        {
+          "label": "Show password",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 868,
+            "right": 979.6015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        }
+      ],
+      "checkboxBorder": true,
+      "checkboxKeyboard": true,
+      "signupUnderline": true,
+      "noOverflow": true,
+      "assetsLoaded": true
+    },
+    {
+      "width": 390,
+      "tooltips": [
+        {
+          "label": "Show password",
+          "visible": true,
+          "textMatches": true,
+          "escapeHides": true,
+          "keyboardShows": true,
+          "blurHides": true,
+          "geometry": {
+            "width": 111.6015625,
+            "height": 34,
+            "left": 270,
+            "right": 381.6015625,
+            "font": "600 12px / 18px Inter, sans-serif",
+            "background": "rgb(10, 10, 10)"
+          }
+        }
+      ],
+      "checkboxBorder": true,
+      "checkboxKeyboard": true,
+      "signupUnderline": true,
+      "noOverflow": true,
+      "assetsLoaded": true
+    }
+  ],
+  "checkedAt": "2026-11-11T08:57:44.593Z",
+  "errors": [],
+  "passed": true
+}

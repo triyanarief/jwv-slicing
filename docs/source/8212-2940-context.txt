@@ -1,0 +1,155 @@
+const imgCategoryImage = "https://www.figma.com/api/mcp/asset/01382b08-e740-4b16-bd62-9605dfc8721c.png";
+const imgCategoryImage1 = "https://www.figma.com/api/mcp/asset/40259bda-eebc-4ad6-9154-ea956f469acb.png";
+const imgCategoryImage2 = "https://www.figma.com/api/mcp/asset/30d8e916-e971-4a70-927b-11de4b4319b2.png";
+const imgCategoryImage3 = "https://www.figma.com/api/mcp/asset/d3dc854e-6e8c-4dc0-9869-3ed3f57fbe87.png";
+const imgCategoryImage4 = "https://www.figma.com/api/mcp/asset/5a0f0fe4-ac4a-43ce-a7a5-0bfe1d03bffa.png";
+const imgCategoryImage5 = "https://www.figma.com/api/mcp/asset/3f51a8b3-73a5-449e-87f0-01bdd4aae7cb.png";
+const imgChevronRight = "https://www.figma.com/api/mcp/asset/be5761a8-a906-4d5d-816f-5167d0cc826f.svg";
+const imgChevronRight1 = "https://www.figma.com/api/mcp/asset/352d1a2f-500f-4e2d-93d4-88a8d0b19522.svg";
+const imgArrowUpRight01 = "https://www.figma.com/api/mcp/asset/7015fb76-29a0-4510-83ce-705e3b381360.svg";
+
+export default function Section() {
+  return (
+    <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-12,56px)] items-start px-[var(--spacing\/spacing-12,56px)] py-[36px] relative size-full" data-node-id="8212:2940" data-name="section">
+      <div className="content-stretch flex gap-[var(--spacing\/spacing-3,8px)] items-end relative shrink-0 w-full" data-node-id="8212:2941" data-name="Section Header">
+        <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-w-px relative" data-node-id="8212:2942" data-name="Category Content">
+          <p className="font-['Gilroy-Bold:☞'] leading-[84px] not-italic relative shrink-0 text-[56px] text-white w-full" data-node-id="8212:2943">
+            Explore by Category
+          </p>
+          <p className="font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[#ddd] text-[20px] w-full" data-node-id="8212:2944">
+            From the rink to the field, find the sports you love
+          </p>
+        </div>
+        <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-node-id="8212:2945" data-name="Container">
+          <div className="bg-[rgba(255,255,255,0.2)] content-stretch flex flex-col items-center justify-center p-[4px] relative rounded-[99px] shrink-0 size-[48px]" data-node-id="8212:2946" data-name="Previous">
+            <div className="bg-[#9a9a9a] content-stretch flex items-center justify-center p-[4px] relative rounded-[99px] shrink-0 size-[42px]" data-node-id="8212:2947" data-name="Nav">
+              <div className="flex items-center justify-center relative shrink-0" data-node-id="8212:2948">
+                <div className="-scale-y-100 flex-none rotate-180">
+                  <div className="relative size-[24px]" data-name="chevron-right">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgChevronRight} />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[rgba(255,255,255,0.2)] content-stretch flex flex-col items-center justify-center p-[4px] relative rounded-[99px] shrink-0 size-[48px]" data-node-id="8212:2950" data-name="Next">
+            <div className="bg-white content-stretch flex items-center justify-center p-[4px] relative rounded-[99px] shrink-0 size-[42px]" data-node-id="8212:2951" data-name="Nav">
+              <div className="relative shrink-0 size-[24px]" data-node-id="8212:2952" data-name="chevron-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgChevronRight1} />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex gap-[24px] items-center overflow-clip relative shrink-0 w-[1751px]" data-node-id="8212:2954" data-name="Category List">
+        <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-5,16px)] h-[459px] items-start relative rounded-[20px] shrink-0 w-[356px]" data-node-id="8212:2955" data-name="Category Card">
+          <div className="flex-[1_0_0] min-h-px relative rounded-[20px] w-full" data-node-id="8212:2956" data-name="Category Image">
+            <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[20px]">
+              <img alt="" className="absolute max-w-none object-cover rounded-[20px] size-full" src={imgCategoryImage} />
+              <div className="absolute bg-gradient-to-b from-[55.758%] from-[rgba(0,0,0,0)] inset-0 rounded-[20px] to-[88.017%] to-[rgba(0,0,0,0.6)]" />
+            </div>
+          </div>
+          <div className="absolute bottom-[-0.5px] content-stretch flex items-center justify-between left-0 px-[24px] py-[16px] rounded-[12px] w-[356px]" data-node-id="8212:2957" data-name="Category Label">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:SemiBold'] font-semibold leading-[normal] min-w-px relative text-[32px] text-center text-white uppercase" data-node-id="8212:2958">
+              HOCKEY
+            </p>
+          </div>
+          <div className="absolute bg-[rgba(255,255,255,0.1)] content-stretch flex flex-col items-center justify-center left-[284px] p-[4px] rounded-[99px] size-[56px] top-[16px]" data-node-id="8212:2959" data-name="Category Link">
+            <div className="bg-white content-stretch flex items-center justify-center p-[4px] relative rounded-[99px] shrink-0 size-[42px]" data-node-id="8212:2960" data-name="Nav">
+              <div className="relative shrink-0 size-[28px]" data-node-id="8212:2961" data-name="arrow-up-right-01">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight01} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-5,16px)] h-[459px] items-start relative rounded-[20px] shrink-0 w-[356px]" data-node-id="8344:101" data-name="Category Card">
+          <div className="blur-[2.5px] flex-[1_0_0] min-h-px relative rounded-[20px] w-full" data-node-id="8344:102" data-name="Category Image">
+            <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[20px]">
+              <img alt="" className="absolute max-w-none object-bottom rounded-[20px] size-full" src={imgCategoryImage1} />
+              <div className="absolute bg-gradient-to-b from-[55.758%] from-[rgba(0,0,0,0)] inset-0 rounded-[20px] to-[88.017%] to-[rgba(0,0,0,0.6)]" />
+            </div>
+          </div>
+          <div className="absolute bottom-[-0.5px] content-stretch flex items-center justify-between left-0 px-[24px] py-[16px] rounded-[12px] w-[356px]" data-node-id="8344:103" data-name="Category Label">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:SemiBold'] font-semibold leading-[normal] min-w-px relative text-[32px] text-center text-white uppercase" data-node-id="8344:104">
+              BASEBALL
+            </p>
+          </div>
+          <div className="absolute backdrop-blur-[10px] bg-[rgba(255,255,255,0.4)] border border-[rgba(156,161,170,0.12)] border-solid content-stretch flex items-center left-[16px] px-[var(--spacing\/spacing-3,8px)] py-[6px] rounded-[var(--radius\/radius-full,9999px)] top-[16px]" data-node-id="8344:181" data-name="View Count">
+            <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[16px] relative shrink-0 text-[14px] text-center text-white whitespace-nowrap" data-node-id="8344:185">
+              Coming Soon
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-5,16px)] h-[459px] items-start relative rounded-[20px] shrink-0 w-[356px]" data-node-id="8212:2963" data-name="Category Card">
+          <div className="blur-[2.5px] flex-[1_0_0] min-h-px relative rounded-[20px] w-full" data-node-id="8212:2964" data-name="Category Image">
+            <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[20px]">
+              <img alt="" className="absolute max-w-none object-cover rounded-[20px] size-full" src={imgCategoryImage2} />
+              <div className="absolute bg-gradient-to-b from-[55.758%] from-[rgba(0,0,0,0)] inset-0 rounded-[20px] to-[88.017%] to-[rgba(0,0,0,0.6)]" />
+            </div>
+          </div>
+          <div className="absolute bottom-0 content-stretch flex items-center justify-between left-0 px-[24px] py-[16px] rounded-[12px] w-[356px]" data-node-id="8212:2965" data-name="Category Label">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:Bold'] font-bold leading-[normal] min-w-px relative text-[32px] text-center text-white uppercase" data-node-id="8212:2966">
+              VOLLEYBALL
+            </p>
+          </div>
+          <div className="absolute backdrop-blur-[10px] bg-[rgba(255,255,255,0.4)] border border-[rgba(156,161,170,0.12)] border-solid content-stretch flex items-center left-[16px] px-[var(--spacing\/spacing-3,8px)] py-[6px] rounded-[var(--radius\/radius-full,9999px)] top-[16px]" data-node-id="8344:187" data-name="View Count">
+            <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[16px] relative shrink-0 text-[14px] text-center text-white whitespace-nowrap" data-node-id="8344:188">
+              Coming Soon
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-5,16px)] h-[459px] items-start relative rounded-[20px] shrink-0 w-[356px]" data-node-id="8212:2967" data-name="Category Card">
+          <div className="blur-[2.5px] flex-[1_0_0] min-h-px relative rounded-[20px] w-full" data-node-id="8212:2968" data-name="Category Image">
+            <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[20px]">
+              <img alt="" className="absolute max-w-none object-bottom rounded-[20px] size-full" src={imgCategoryImage3} />
+              <div className="absolute bg-gradient-to-b from-[55.758%] from-[rgba(0,0,0,0)] inset-0 rounded-[20px] to-[88.017%] to-[rgba(0,0,0,0.6)]" />
+            </div>
+          </div>
+          <div className="absolute bottom-[-0.5px] content-stretch flex items-center justify-between left-0 px-[24px] py-[16px] rounded-[12px] w-[356px]" data-node-id="8212:2969" data-name="Category Label">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:SemiBold'] font-semibold leading-[normal] min-w-px relative text-[32px] text-center text-white uppercase" data-node-id="8212:2970">
+              SOCCER
+            </p>
+          </div>
+          <div className="absolute backdrop-blur-[10px] bg-[rgba(255,255,255,0.4)] border border-[rgba(156,161,170,0.12)] border-solid content-stretch flex items-center left-[16px] px-[var(--spacing\/spacing-3,8px)] py-[6px] rounded-[var(--radius\/radius-full,9999px)] top-[16px]" data-node-id="8344:190" data-name="View Count">
+            <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[16px] relative shrink-0 text-[14px] text-center text-white whitespace-nowrap" data-node-id="8344:191">
+              Coming Soon
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-5,16px)] h-[459px] items-start relative rounded-[20px] shrink-0 w-[356px]" data-node-id="8212:2971" data-name="Category Card">
+          <div className="blur-[2.5px] flex-[1_0_0] min-h-px relative rounded-[20px] w-full" data-node-id="8212:2972" data-name="Category Image">
+            <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[20px]">
+              <img alt="" className="absolute max-w-none object-bottom rounded-[20px] size-full" src={imgCategoryImage4} />
+              <div className="absolute bg-gradient-to-b from-[55.758%] from-[rgba(0,0,0,0)] inset-0 rounded-[20px] to-[88.017%] to-[rgba(0,0,0,0.6)]" />
+            </div>
+          </div>
+          <div className="absolute bottom-[-0.5px] content-stretch flex items-center justify-between left-0 px-[24px] py-[16px] rounded-[12px] w-[356px]" data-node-id="8212:2973" data-name="Category Label">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:SemiBold'] font-semibold leading-[normal] min-w-px relative text-[32px] text-center text-white uppercase" data-node-id="8212:2974">
+              football
+            </p>
+          </div>
+        </div>
+        <div className="bg-gradient-to-b content-stretch flex flex-col from-[rgba(60,60,60,0.3)] gap-[var(--spacing\/spacing-5,16px)] items-start p-[16px] relative rounded-[20px] shrink-0 to-[rgba(45,45,45,0.6)] w-[356px]" data-node-id="8212:2975" data-name="Category Card">
+          <div className="h-[328px] relative rounded-[20px] shrink-0 w-[300px]" data-node-id="8212:2976" data-name="Category Image">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={imgCategoryImage5} />
+          </div>
+          <div className="bg-[rgba(255,255,255,0.09)] border border-[rgba(255,255,255,0.09)] border-solid content-stretch flex items-center justify-between py-[12px] relative rounded-[12px] shrink-0 w-full" data-node-id="8212:2977" data-name="Category Label">
+            <p className="[word-break:break-word] font-['Montserrat:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[24px] text-center text-white uppercase w-[281px]" data-node-id="8212:2978">
+              Hockey
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-5: #DDDDDD, Neutral/neutral-8: #6D6D6D, Neutral/neutral-7: #9A9A9A, Neutral/neutral-13: #1F1F1F, Neutral/neutral-1: #FFFFFF.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

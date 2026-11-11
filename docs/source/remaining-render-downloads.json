@@ -1,0 +1,102 @@
+[
+  {
+    "node": "8292:3263",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/f1c10557-8c00-40fd-a7a7-9c7a40b0aa4f.png",
+    "width": 951,
+    "height": 372,
+    "format": "png",
+    "original_width": 950,
+    "original_height": 372
+  },
+  {
+    "node": "8292:3330",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/c0ed5103-c5c3-4f2d-a1c7-1db586085ce3.png",
+    "width": 197,
+    "height": 143,
+    "format": "png",
+    "original_width": 196,
+    "original_height": 143
+  },
+  {
+    "node": "8436:7470",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/a91f1a30-3d89-4581-8b21-c3c0f5d98f2e.png",
+    "width": 1514,
+    "height": 1266,
+    "format": "png",
+    "original_width": 1514,
+    "original_height": 1266
+  },
+  {
+    "node": "8436:7027",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/9c48d6e2-3dc2-4f4e-87d5-37c0a9db0955.png",
+    "width": 1528,
+    "height": 1202,
+    "format": "png",
+    "original_width": 1528,
+    "original_height": 1202
+  },
+  {
+    "node": "8427:691",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/d420bc75-d38f-47f9-a5f2-1c192c5bc1bd.png",
+    "width": 1512,
+    "height": 980,
+    "format": "png",
+    "original_width": 1512,
+    "original_height": 980
+  },
+  {
+    "node": "8427:846",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/79a1e10d-03b4-41b9-936e-a82c39cd54f8.png",
+    "width": 1512,
+    "height": 980,
+    "format": "png",
+    "original_width": 1512,
+    "original_height": 980
+  },
+  {
+    "node": "8291:1011",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/daa45c0e-32c2-40ca-bd34-0d22ae7d08ca.png",
+    "width": 1514,
+    "height": 4065,
+    "format": "png",
+    "original_width": 1514,
+    "original_height": 4065
+  },
+  {
+    "node": "8307:8678",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/3ef1a5df-49d0-410a-8a17-349859ffaa3e.png",
+    "width": 1512,
+    "height": 4158,
+    "format": "png",
+    "original_width": 1512,
+    "original_height": 4158
+  },
+  {
+    "node": "8212:33",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/2ccb57f3-04a3-43fe-bd7a-d5d825807306.png",
+    "width": 1512,
+    "height": 6074,
+    "format": "png",
+    "original_width": 1512,
+    "original_height": 6074
+  },
+  {
+    "node": "8212:3267",
+    "status": "fulfilled",
+    "image_url": "https://www.figma.com/api/mcp/asset/244ab848-24f5-4037-b55c-fe467aae3fb0.png",
+    "width": 1512,
+    "height": 6252,
+    "format": "png",
+    "original_width": 1512,
+    "original_height": 6252
+  }
+]

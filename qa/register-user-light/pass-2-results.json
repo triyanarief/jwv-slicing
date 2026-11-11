@@ -1,0 +1,109 @@
+{
+  "slug": "register-user-light",
+  "node": "8433:5555",
+  "pass": 2,
+  "checkedAt": "2026-11-11T08:06:15.872Z",
+  "responsive": [
+    {
+      "native": true,
+      "width": 1512,
+      "documentWidth": 1512,
+      "height": 982,
+      "missingImages": [],
+      "activeDestinations": [
+        "Register as User"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 982,
+      "missingImages": [],
+      "activeDestinations": [
+        "Register as User"
+      ]
+    },
+    {
+      "native": false,
+      "width": 1024,
+      "documentWidth": 1024,
+      "height": 982,
+      "missingImages": [],
+      "activeDestinations": [
+        "Register as User"
+      ]
+    },
+    {
+      "native": false,
+      "width": 768,
+      "documentWidth": 768,
+      "height": 982,
+      "missingImages": [],
+      "activeDestinations": [
+        "Register as User"
+      ]
+    },
+    {
+      "native": false,
+      "width": 390,
+      "documentWidth": 390,
+      "height": 982,
+      "missingImages": [],
+      "activeDestinations": [
+        "Register as User"
+      ]
+    }
+  ],
+  "interactions": {
+    "skipLinkFocused": true,
+    "skipLinkTarget": true,
+    "emptyFormRejected": true,
+    "invalidEmailRejected": true,
+    "passwordVisibilityOn": true,
+    "passwordVisibilityOff": true,
+    "localLinksResolve": true,
+    "themeNavigation": true
+  },
+  "linkChecks": [
+    {
+      "url": "http://127.0.0.1:8765/register-user-light/index.html#main",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/register-user-dark/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/home-light/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/register-user-light/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/register-broadcaster-light/index.html",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/login-light/index.html",
+      "status": 200
+    }
+  ],
+  "unavailableControls": [
+    {
+      "label": "Forgot password",
+      "reason": "Password recovery is blocked: no recovery screen or backend is supplied. No email has been sent.",
+      "ariaDisabled": "true"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "httpErrors": [],
+  "passed": true
+}

@@ -1,0 +1,61 @@
+const imgSearch01 = "https://www.figma.com/api/mcp/asset/e217223a-8ed4-4e6b-bc32-dbc7025a472a.svg";
+const imgIcon = "https://www.figma.com/api/mcp/asset/b94bc9d2-e077-4f80-b5d8-fd0757776139.svg";
+
+export default function HowToFindALiveStreamJwvStreamingWatchAndBroadcastSportsTogether() {
+  return (
+    <div className="bg-[#1c1d31] border-[#243252] border-[0.8px] border-solid content-stretch drop-shadow-[0px_1px_1.5px_rgba(0,0,0,0.1),0px_1px_1px_rgba(0,0,0,0.1)] flex items-center justify-between p-[var(--spacing\/spacing-8,32px)] relative rounded-[var(--radius\/radius-8,24px)] size-full" data-node-id="8307:11880" data-name="How to find a live stream (JWV Streaming | Watch and Broadcast Sports Together)">
+      <div className="content-stretch flex gap-[14px] items-center relative shrink-0" data-node-id="8307:11881" data-name="Container">
+        <div className="border border-[#ddffca] border-solid content-stretch flex gap-[var(--spacing\/spacing-4,12px)] items-center justify-center p-[var(--spacing\/spacing-4,13px)] relative rounded-[var(--radius\/radius-5,12px)] shrink-0" data-node-id="8307:11882" data-name="Container">
+          <div aria-hidden className="absolute backdrop-blur-[10px] inset-0 pointer-events-none rounded-[var(--radius\/radius-5,12px)]" style={{ backgroundImage: "linear-gradient(149.37119937528388deg, rgb(134, 227, 99) 0%, rgb(32, 164, 93) 70.229%)" }} />
+          <div className="relative shrink-0 size-[26px]" data-node-id="8307:11883" data-name="Icon">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+              <div className="absolute left-0 size-[26px] top-0" data-node-id="8307:11884" data-name="search-01">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSearch01} />
+              </div>
+            </div>
+          </div>
+          <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_4px_16px_0px_rgba(32,164,93,0.3)]" />
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start leading-[normal] relative shrink-0 w-[386.625px] whitespace-nowrap" data-node-id="8307:11887" data-name="Container">
+          <p className="font-['Urbanist:Bold'] font-bold relative shrink-0 text-[length:var(--type\/font-size\/16,16px)] text-white tracking-[-0.3px]" data-node-id="8307:11888">
+            Find a live stream easily.
+          </p>
+          <p className="font-['Urbanist:Regular'] font-normal relative shrink-0 text-[#ddd] text-[length:var(--type\/label\/regular\/size,14px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)]" data-node-id="8307:11889">{`Once you're signed in, use Search or browse in 3 simple steps.`}</p>
+        </div>
+      </div>
+      <div className="content-stretch flex gap-[11px] items-center relative shrink-0" data-node-id="8307:11890" data-name="Container">
+        <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11891" data-name="Text">
+          <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[length:var(--type\/label\/medium\/size,14px)] text-white tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8307:11892">
+            Choose a sport
+          </p>
+        </div>
+        <div className="overflow-clip relative shrink-0 size-[15px]" data-node-id="8307:11893" data-name="Icon">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon} />
+        </div>
+        <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11896" data-name="Text">
+          <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[length:var(--type\/label\/medium\/size,14px)] text-white tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8307:11897">
+            Find a channel
+          </p>
+        </div>
+        <div className="overflow-clip relative shrink-0 size-[15px]" data-node-id="8307:11898" data-name="Icon">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon} />
+        </div>
+        <div className="bg-[#2c2e4e] border-[#42446d] border-[0.8px] border-solid content-stretch flex flex-col items-start px-[var(--spacing\/spacing-4,12px)] py-[9px] relative rounded-[25px] shrink-0" data-node-id="8307:11901" data-name="Text">
+          <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[length:var(--type\/label\/medium\/size,14px)] text-white tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8307:11902">
+            Pick a game
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-1: #FFFFFF, Neutral/neutral-5: #DDDDDD.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

@@ -1,0 +1,39 @@
+{
+  "home-light": {
+    "hero": "8292:3157",
+    "find": "8292:3707",
+    "categories": "8300:4281",
+    "devices": "8300:4199",
+    "benefits": "8291:1245",
+    "footer": "8291:1420"
+  },
+  "home-dark": {
+    "hero": "8307:11125",
+    "find": "8307:11880",
+    "categories": "8307:11316",
+    "devices": "8307:11355",
+    "benefits": "8307:11538",
+    "footer": "8307:11632"
+  },
+  "home-signed-in-dark": {
+    "hero": "8212:2480",
+    "categories": "8212:2940",
+    "trending": "8212:2675",
+    "continue": "8212:2839",
+    "showcase": "8212:2979",
+    "features": "8214:16727",
+    "cta": "8212:3056",
+    "footer": "8212:3077"
+  },
+  "home-signed-in-light": {
+    "hero": "8212:6396",
+    "find": "8212:6174",
+    "categories": "8344:9",
+    "trending": "8212:15226",
+    "continue": "8212:6073",
+    "showcase": "8212:6213",
+    "features": "8214:16534",
+    "cta": "8212:6290",
+    "footer": "8212:6311"
+  }
+}

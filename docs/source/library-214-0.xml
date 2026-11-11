@@ -1,0 +1,255 @@
+<canvas id="214:0" name="      ↳ Tables" x="0" y="0" width="0" height="0">
+  <frame id="1221:106788" name="_Table header label" x="212" y="620" width="912" height="132">
+    <symbol id="1221:106787" name="Help icon=False, Arrow=False, State=Default" x="16" y="16" width="56" height="18" />
+    <symbol id="1221:106927" name="Help icon=False, Arrow=False, State=Hover" x="16" y="87" width="56" height="18" />
+    <symbol id="1221:106888" name="Help icon=False, Arrow=Down, State=Default" x="440" y="16" width="72" height="18" />
+    <symbol id="8050:165984" name="Help icon=False, Arrow=Chevron selector, State=Default" x="212" y="16" width="72" height="18" />
+    <symbol id="1221:107035" name="Help icon=False, Arrow=Up, State=Default" x="668" y="16" width="72" height="18" />
+    <symbol id="1221:106920" name="Help icon=False, Arrow=Down, State=Hover" x="440" y="87" width="72" height="18" />
+    <symbol id="8050:165987" name="Help icon=False, Arrow=Chevron selector, State=Hover" x="212" y="87" width="72" height="18" />
+    <symbol id="1221:107025" name="Help icon=False, Arrow=Up, State=Hover" x="668" y="87" width="72" height="18" />
+    <symbol id="1221:106789" name="Help icon=True, Arrow=False, State=Default" x="104" y="16" width="76" height="18" />
+    <symbol id="1221:106917" name="Help icon=True, Arrow=False, State=Hover" x="104" y="87" width="76" height="18" />
+    <symbol id="1221:106885" name="Help icon=True, Arrow=Down, State=Default" x="544" y="16" width="92" height="18" />
+    <symbol id="8050:166020" name="Help icon=True, Arrow=Chevron selector, State=Default" x="316" y="16" width="92" height="18" />
+    <symbol id="1221:107021" name="Help icon=True, Arrow=Up, State=Default" x="772" y="16" width="92" height="18" />
+    <symbol id="1221:106923" name="Help icon=True, Arrow=Down, State=Hover" x="544" y="87" width="92" height="18" />
+    <symbol id="8050:166024" name="Help icon=True, Arrow=Chevron selector, State=Hover" x="316" y="87" width="92" height="18" />
+    <symbol id="1221:107017" name="Help icon=True, Arrow=Up, State=Hover" x="772" y="87" width="92" height="18" />
+  </frame>
+  <frame id="1221:107933" name="Table header cell" x="2880" y="620" width="360" height="196">
+    <symbol id="214:9" name="Size=md, Text=True, Checkbox=True" x="192" y="16" width="152" height="44" />
+    <symbol id="9413:728009" name="Size=sm, Text=True, Checkbox=True" x="16" y="16" width="144" height="40" />
+    <symbol id="1224:4554" name="Size=md, Text=True, Checkbox=False" x="192" y="76" width="104" height="44" />
+    <symbol id="9413:728012" name="Size=sm, Text=True, Checkbox=False" x="16" y="76" width="96" height="40" />
+    <symbol id="1224:4552" name="Size=md, Text=False, Checkbox=False" x="192" y="136" width="68" height="44" />
+    <symbol id="9413:728014" name="Size=sm, Text=False, Checkbox=False" x="16" y="136" width="68" height="40" />
+  </frame>
+  <frame id="1222:107305" name="Table cell" x="3304" y="620" width="704" height="3328">
+    <symbol id="1224:169" name="Type=Badge, Size=md, State=Default" x="368" y="912" width="101" height="72" />
+    <symbol id="9405:710405" name="Type=Badge, Size=sm, State=Default" x="16" y="912" width="93" height="64" />
+    <symbol id="9405:710007" name="Type=Select dropdown, Size=md, State=Default" x="368" y="2032" width="280" height="72" />
+    <symbol id="9405:710407" name="Type=Select dropdown, Size=sm, State=Default" x="16" y="2032" width="280" height="64" />
+    <symbol id="1224:1353" name="Type=Avatar group, Size=md, State=Default" x="368" y="1808" width="240" height="72" />
+    <symbol id="9405:710409" name="Type=Avatar group, Size=sm, State=Default" x="16" y="1808" width="240" height="64" />
+    <symbol id="1224:327" name="Type=Badges multiple, Size=md, State=Default" x="368" y="1136" width="236" height="72" />
+    <symbol id="9405:710412" name="Type=Badges multiple, Size=sm, State=Default" x="16" y="1136" width="228" height="64" />
+    <symbol id="1222:107426" name="Type=Text, Size=md, State=Default" x="368" y="16" width="320" height="72" />
+    <symbol id="9405:710420" name="Type=Text, Size=sm, State=Default" x="16" y="16" width="320" height="64" />
+    <symbol id="1224:5904" name="Type=Avatar, Size=md, State=Default" x="368" y="240" width="320" height="72" />
+    <symbol id="9405:724011" name="Type=Avatar, Size=sm, State=Default" x="16" y="240" width="320" height="64" />
+    <symbol id="1224:1461" name="Type=File type icon, Size=md, State=Default" x="368" y="552" width="320" height="72" />
+    <symbol id="9405:724018" name="Type=File type icon, Size=sm, State=Default" x="16" y="552" width="320" height="64" />
+    <symbol id="1722:460126" name="Type=Payment method, Size=md, State=Default" x="368" y="688" width="320" height="72" />
+    <symbol id="9405:724025" name="Type=Payment method, Size=sm, State=Default" x="16" y="688" width="320" height="64" />
+    <symbol id="1224:410" name="Type=Trend positive, Size=md, State=Default" x="368" y="1360" width="159" height="72" />
+    <symbol id="9405:710443" name="Type=Trend positive, Size=sm, State=Default" x="16" y="1360" width="147" height="64" />
+    <symbol id="1224:1085" name="Type=Trend negative, Size=md, State=Default" x="368" y="1584" width="159" height="72" />
+    <symbol id="9405:710446" name="Type=Trend negative, Size=sm, State=Default" x="16" y="1584" width="147" height="64" />
+    <symbol id="1224:1209" name="Type=Progress bar, Size=md, State=Default" x="368" y="2256" width="280" height="72" />
+    <symbol id="9405:710449" name="Type=Progress bar, Size=sm, State=Default" x="16" y="2256" width="280" height="64" />
+    <symbol id="1224:1757" name="Type=Action buttons, Size=md, State=Default" x="368" y="2704" width="131" height="72" />
+    <symbol id="9405:710451" name="Type=Action buttons, Size=sm, State=Default" x="16" y="2704" width="123" height="64" />
+    <symbol id="1224:5049" name="Type=Action dropdown icon, Size=md, State=Default" x="368" y="3152" width="52" height="72" />
+    <symbol id="9405:710454" name="Type=Action dropdown icon, Size=sm, State=Default" x="16" y="3152" width="48" height="64" />
+    <symbol id="1224:5295" name="Type=Action dropdown icon, Size=md, State=Hover/selected" x="368" y="3240" width="52" height="72" />
+    <symbol id="9405:710456" name="Type=Action dropdown icon, Size=sm, State=Hover/selected" x="16" y="3240" width="48" height="64" />
+    <symbol id="7932:552076" name="Type=Action icons, Size=md, State=Default" x="368" y="2928" width="150" height="72" />
+    <symbol id="9405:710458" name="Type=Action icons, Size=sm, State=Default" x="16" y="2928" width="150" height="64" />
+    <symbol id="1232:103" name="Type=Star ratings, Size=md, State=Default" x="368" y="2480" width="164" height="72" />
+    <symbol id="9405:710463" name="Type=Star ratings, Size=sm, State=Default" x="16" y="2480" width="156" height="64" />
+    <symbol id="1232:164" name="Type=Star ratings, Size=md, State=Hover/selected" x="368" y="2568" width="164" height="72" />
+    <symbol id="9405:710469" name="Type=Star ratings, Size=sm, State=Hover/selected" x="16" y="2568" width="156" height="64" />
+    <symbol id="7932:552081" name="Type=Action icons, Size=md, State=Hover/selected" x="368" y="3016" width="150" height="72" />
+    <symbol id="9405:710475" name="Type=Action icons, Size=sm, State=Hover/selected" x="16" y="3016" width="150" height="64" />
+    <symbol id="1224:1247" name="Type=Progress bar, Size=md, State=Hover/selected" x="368" y="2344" width="280" height="72" />
+    <symbol id="9405:710480" name="Type=Progress bar, Size=sm, State=Hover/selected" x="16" y="2344" width="280" height="64" />
+    <symbol id="1224:1755" name="Type=Action buttons, Size=md, State=Hover/selected" x="368" y="2792" width="131" height="72" />
+    <symbol id="9405:710482" name="Type=Action buttons, Size=sm, State=Hover/selected" x="16" y="2792" width="123" height="64" />
+    <symbol id="1224:971" name="Type=Trend positive, Size=md, State=Hover/selected" x="368" y="1448" width="159" height="72" />
+    <symbol id="9405:710485" name="Type=Trend positive, Size=sm, State=Hover/selected" x="16" y="1448" width="147" height="64" />
+    <symbol id="1224:1078" name="Type=Trend negative, Size=md, State=Hover/selected" x="368" y="1672" width="159" height="72" />
+    <symbol id="9405:710488" name="Type=Trend negative, Size=sm, State=Hover/selected" x="16" y="1672" width="147" height="64" />
+    <symbol id="1222:107439" name="Type=Text, Size=md, State=Hover/selected" x="368" y="104" width="320" height="72" />
+    <symbol id="9405:710491" name="Type=Text, Size=sm, State=Hover/selected" x="16" y="104" width="320" height="64" />
+    <symbol id="1224:5890" name="Type=Avatar, Size=md, State=Hover/selected" x="368" y="328" width="320" height="72" />
+    <symbol id="9405:724032" name="Type=Avatar, Size=sm, State=Hover/selected" x="16" y="328" width="320" height="64" />
+    <symbol id="1224:1450" name="Type=File type icon, Size=md, State=Hover/selected" x="368" y="464" width="320" height="72" />
+    <symbol id="9405:724039" name="Type=File type icon, Size=sm, State=Hover/selected" x="16" y="464" width="320" height="64" />
+    <symbol id="1722:460113" name="Type=Payment method, Size=md, State=Hover/selected" x="368" y="776" width="320" height="72" />
+    <symbol id="9405:724046" name="Type=Payment method, Size=sm, State=Hover/selected" x="16" y="776" width="320" height="64" />
+    <symbol id="1224:158" name="Type=Badge, Size=md, State=Hover/selected" x="368" y="1000" width="101" height="72" />
+    <symbol id="9405:710514" name="Type=Badge, Size=sm, State=Hover/selected" x="16" y="1000" width="93" height="64" />
+    <symbol id="9405:710009" name="Type=Select dropdown, Size=md, State=Hover/selected" x="368" y="2120" width="280" height="72" />
+    <symbol id="9405:710516" name="Type=Select dropdown, Size=sm, State=Hover/selected" x="16" y="2120" width="280" height="64" />
+    <symbol id="1224:1341" name="Type=Avatar group, Size=md, State=Hover/selected" x="368" y="1896" width="240" height="72" />
+    <symbol id="9405:710518" name="Type=Avatar group, Size=sm, State=Hover/selected" x="16" y="1896" width="240" height="64" />
+    <symbol id="1224:319" name="Type=Badges multiple, Size=md, State=Hover/selected" x="368" y="1224" width="236" height="72" />
+    <symbol id="9405:710521" name="Type=Badges multiple, Size=sm, State=Hover/selected" x="16" y="1224" width="228" height="64" />
+  </frame>
+  <frame id="1227:110587" name="Table" x="5680" y="620" width="3350" height="3459">
+    <symbol id="1227:110480" name="Example=Team members, Breakpoint=Desktop, Dividers=Divider line" x="16" y="16" width="1216" height="953" />
+    <symbol id="1229:12388" name="Example=Team members, Breakpoint=Desktop, Dividers=Alternating fills" x="1711" y="16" width="1216" height="979" />
+    <symbol id="1227:121348" name="Example=Sales, Breakpoint=Desktop, Dividers=Divider line" x="16" y="1886" width="1216" height="828" />
+    <symbol id="1229:12040" name="Example=Sales, Breakpoint=Desktop, Dividers=Alternating fills" x="1711" y="1886" width="1216" height="828" />
+    <symbol id="1227:115509" name="Example=Companies, Breakpoint=Desktop, Dividers=Divider line" x="16" y="1059" width="1216" height="695" />
+    <symbol id="1229:11893" name="Example=Companies, Breakpoint=Desktop, Dividers=Alternating fills" x="1711" y="1059" width="1216" height="695" />
+    <symbol id="1229:2364" name="Example=Files, Breakpoint=Desktop, Dividers=Divider line" x="16" y="2778" width="1216" height="625" />
+    <symbol id="1229:12241" name="Example=Files, Breakpoint=Desktop, Dividers=Alternating fills" x="1711" y="2778" width="1216" height="625" />
+    <symbol id="1227:110588" name="Example=Team members, Breakpoint=Mobile, Dividers=Divider line" x="1264" y="16" width="375" height="949" />
+    <symbol id="1229:15727" name="Example=Team members, Breakpoint=Mobile, Dividers=Alternating fills" x="2959" y="16" width="375" height="949" />
+    <symbol id="1227:115298" name="Example=Companies, Breakpoint=Mobile, Dividers=Divider line" x="1264" y="1059" width="375" height="763" />
+    <symbol id="1229:17412" name="Example=Companies, Breakpoint=Mobile, Dividers=Alternating fills" x="2959" y="1059" width="375" height="715" />
+    <symbol id="1229:543" name="Example=Sales, Breakpoint=Mobile, Dividers=Divider line" x="1264" y="1886" width="375" height="824" />
+    <symbol id="1229:18422" name="Example=Sales, Breakpoint=Mobile, Dividers=Alternating fills" x="2959" y="1886" width="375" height="824" />
+    <symbol id="1229:7899" name="Example=Files, Breakpoint=Mobile, Dividers=Divider line" x="1264" y="2778" width="375" height="665" />
+    <symbol id="1229:19933" name="Example=Files, Breakpoint=Mobile, Dividers=Alternating fills" x="2959" y="2778" width="375" height="665" />
+  </frame>
+  <frame id="2219:472490" name="Table" x="9708" y="3252" width="1216" height="417">
+    <instance id="3293:435378" name="Card header" x="0" y="0" width="1216" height="65" />
+    <frame id="2219:473168" name="Content" x="0" y="65" width="1216" height="352">
+      <instance id="2219:473201" name="Empty state" x="32" y="80" width="1152" height="192" />
+    </frame>
+  </frame>
+  <frame id="12201:545323" name="Table" x="9708" y="3733" width="1216" height="487">
+    <instance id="12201:545324" name="Card header" x="0" y="0" width="1216" height="65" />
+    <frame id="12201:545325" name="Content" x="0" y="65" width="1216" height="422">
+      <instance id="12201:545326" name="Empty state" x="32" y="80" width="1152" height="262" />
+    </frame>
+  </frame>
+  <frame id="2219:470358" name="Table" x="9708" y="2697" width="1216" height="427">
+    <instance id="3293:434573" name="Card header" x="0" y="0" width="1216" height="87" />
+    <frame id="2219:470600" name="Content" x="0" y="87" width="1216" height="340">
+      <instance id="4898:411564" name="Empty state" x="32" y="80" width="1152" height="180" />
+    </frame>
+  </frame>
+  <frame id="12201:544970" name="Table" x="9708" y="2162" width="1216" height="471">
+    <instance id="12201:544971" name="Card header" x="0" y="0" width="1216" height="87" />
+    <frame id="12201:544972" name="Content" x="0" y="87" width="1216" height="384">
+      <instance id="12201:544973" name="Empty state" x="32" y="80" width="1152" height="224" />
+    </frame>
+  </frame>
+  <instance id="1550:265122" name="Design system header" x="5600" y="0" width="3628" height="492" />
+  <instance id="2218:468079" name="Design system header" x="9628" y="0" width="2400" height="632" />
+  <instance id="1776:489695" name="Design system header" x="2800" y="0" width="2400" height="492" />
+  <instance id="9413:727955" name="Design system header" x="0" y="0" width="2400" height="492" />
+  <frame id="2216:457915" name="Notes and documentation (you can delete this)" x="12428" y="0" width="1600" height="7792">
+    <instance id="6723:16481" name="Design system header" x="0" y="0" width="1600" height="462" />
+    <frame id="2216:457917" name="Section" x="0" y="462" width="1600" height="6944">
+      <frame id="3960:413952" name="Rich text" x="80" y="80" width="720" height="6784">
+        <instance id="3960:413953" name="Content item" x="0" y="0" width="720" height="58" />
+        <instance id="3960:413954" name="Content item" x="0" y="58" width="720" height="232" />
+        <instance id="3960:413955" name="Content item" x="0" y="290" width="720" height="80" />
+        <instance id="3960:413956" name="Content item" x="0" y="370" width="720" height="390" />
+        <frame id="3960:413957" name="Badge wrap" x="0" y="760" width="720" height="92">
+          <instance id="3960:413958" name="Badge" x="0" y="48" width="63" height="28" />
+        </frame>
+        <instance id="3960:413959" name="Content item" x="0" y="852" width="720" height="80" />
+        <instance id="3960:413960" name="Content item" x="0" y="932" width="720" height="158" />
+        <frame id="3960:413961" name="Image wrap" x="0" y="1090" width="720" height="564">
+          <frame id="12576:18323" name="Documentation image" x="0" y="32" width="720" height="532">
+            <frame id="13036:555753" name="Table visual hierarchy" x="0" y="0" width="720" height="532" />
+          </frame>
+        </frame>
+        <frame id="3960:413963" name="Badge wrap" x="0" y="1654" width="720" height="92">
+          <instance id="3960:413964" name="Badge" x="0" y="48" width="66" height="28" />
+        </frame>
+        <instance id="3960:413965" name="Content item" x="0" y="1746" width="720" height="48" />
+        <instance id="3960:413966" name="Content item" x="0" y="1794" width="720" height="214" />
+        <frame id="3960:413967" name="Image wrap" x="0" y="2008" width="720" height="626">
+          <frame id="12576:18327" name="Documentation image" x="0" y="32" width="720" height="594">
+            <frame id="13036:555747" name="Table primary column" x="0" y="0" width="720" height="594" />
+          </frame>
+        </frame>
+        <frame id="3960:413969" name="Badge wrap" x="0" y="2634" width="720" height="92">
+          <instance id="3960:413970" name="Badge" x="0" y="48" width="66" height="28" />
+        </frame>
+        <instance id="3960:413971" name="Content item" x="0" y="2726" width="720" height="48" />
+        <instance id="3960:413972" name="Content item" x="0" y="2774" width="720" height="186" />
+        <frame id="3960:413973" name="Image wrap" x="0" y="2960" width="720" height="714">
+          <frame id="12576:18331" name="Documentation image" x="0" y="32" width="720" height="682">
+            <frame id="13036:555750" name="Table interactive components" x="0" y="0" width="720" height="682" />
+          </frame>
+        </frame>
+        <instance id="3960:413975" name="Content item" x="0" y="3674" width="720" height="96" />
+        <instance id="3960:413976" name="Content item" x="0" y="3770" width="720" height="58" />
+        <instance id="3960:413977" name="Content item" x="0" y="3828" width="720" height="186" />
+        <frame id="3960:413978" name="Image wrap" x="0" y="4014" width="720" height="796">
+          <frame id="12576:18335" name="Documentation image" x="0" y="32" width="720" height="716">
+            <frame id="13036:555751" name="Detach table component" x="0" y="0" width="720" height="716" />
+          </frame>
+        </frame>
+        <instance id="3960:413980" name="Content item" x="0" y="4810" width="720" height="48" />
+        <instance id="3960:413981" name="Content item" x="0" y="4858" width="720" height="84" />
+        <frame id="3960:413982" name="Image wrap" x="0" y="4942" width="720" height="662">
+          <frame id="12576:18339" name="Documentation image" x="0" y="32" width="720" height="598">
+            <frame id="13036:555749" name="Responsive tables" x="0" y="0" width="720" height="598" />
+          </frame>
+        </frame>
+        <instance id="3960:413984" name="Content item" x="0" y="5604" width="720" height="158" />
+        <frame id="3960:413985" name="Image and links" x="0" y="5762" width="720" height="533">
+          <frame id="12576:18343" name="Documentation image" x="0" y="32" width="720" height="405">
+            <frame id="13036:555748" name="Auto Layout" x="0" y="0" width="720" height="405" />
+          </frame>
+          <frame id="3960:413987" name="Resource links" x="0" y="461" width="417" height="72">
+            <frame id="3960:413988" name="Icon and link" x="0" y="0" width="352" height="28">
+              <frame id="3960:413989" name="Icon wrap" x="0" y="0" width="24" height="26">
+                <instance id="3960:413990" name="Social icon" x="0" y="2" width="24" height="24" />
+              </frame>
+              <text id="3960:413991" name="Figma tutorial: Auto Layout button -&gt;" x="36" y="0" width="316" height="28" />
+            </frame>
+            <frame id="3960:413992" name="Icon and link" x="0" y="44" width="417" height="28">
+              <frame id="3960:413993" name="Icon wrap" x="0" y="0" width="24" height="26">
+                <instance id="3960:413994" name="Social icon" x="0" y="2" width="24" height="24" />
+              </frame>
+              <text id="3960:413995" name="Create dynamic designs with auto layout -&gt;" x="36" y="0" width="381" height="28" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="3960:413996" name="Image and links" x="0" y="6295" width="720" height="489">
+          <frame id="12576:18346" name="Documentation image" x="0" y="32" width="720" height="405">
+            <frame id="13036:555752" name="Auto layout Figma Community file" x="0" y="0" width="720" height="405" />
+          </frame>
+          <frame id="3960:413998" name="Resource links" x="0" y="461" width="617" height="28">
+            <frame id="3960:413999" name="Icon and link" x="0" y="0" width="617" height="28">
+              <frame id="3960:414000" name="Icon wrap" x="0" y="0" width="24" height="26">
+                <instance id="3960:414001" name="Social icon" x="0" y="2" width="24" height="24" />
+              </frame>
+              <text id="3960:414002" name="Explore the official Figma Auto Layout playground community file -&gt;" x="36" y="0" width="581" height="28" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <instance id="2216:458142" name="Design system footer" x="0" y="7406" width="1600" height="386" />
+  </frame>
+  <instance id="3936:417918" name="Design note" x="10988" y="760" width="768" height="258" />
+  <instance id="3936:417924" name="Design note" x="10988" y="2162" width="768" height="406" />
+  <instance id="3936:417929" name="Design note" x="10988" y="3252" width="768" height="230" />
+  <frame id="2218:469191" name="Table" x="9708" y="760" width="1216" height="563">
+    <instance id="3293:434443" name="Card header" x="0" y="0" width="1216" height="87" />
+    <frame id="12263:410125" name="Filters bar" x="0" y="87" width="1216" height="60">
+      <instance id="12263:410126" name="Filters bar" x="24" y="12" width="1168" height="36" />
+    </frame>
+    <frame id="2218:469686" name="Content" x="0" y="147" width="1216" height="352">
+      <instance id="2218:469687" name="Empty state" x="32" y="80" width="1152" height="192" />
+    </frame>
+    <instance id="2218:469297" name="Pagination" x="0" y="499" width="1216" height="64" />
+  </frame>
+  <frame id="12201:544557" name="Table" x="9708" y="1387" width="1216" height="647">
+    <instance id="12201:544558" name="Card header" x="0" y="0" width="1216" height="87" />
+    <frame id="12263:410299" name="Filters bar" x="0" y="87" width="1216" height="60">
+      <instance id="12263:410300" name="Filters bar" x="24" y="12" width="1168" height="36" />
+    </frame>
+    <frame id="12201:544565" name="Content" x="0" y="147" width="1216" height="436">
+      <instance id="12201:544566" name="Empty state" x="32" y="80" width="1152" height="276" />
+    </frame>
+    <instance id="12201:544567" name="Pagination" x="0" y="583" width="1216" height="64" />
+  </frame>
+  <frame id="9400:570197" name="Table cell lead action" x="80" y="620" width="68" height="124">
+    <symbol id="9400:570196" name="Type=Toggle" x="16" y="88" width="36" height="20" />
+    <symbol id="9400:570195" name="Type=Radio" x="16" y="52" width="20" height="20" />
+    <symbol id="9400:570194" name="Type=Checkbox" x="16" y="16" width="20" height="20" />
+  </frame>
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

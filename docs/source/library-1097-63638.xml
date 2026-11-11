@@ -1,0 +1,121 @@
+<canvas id="1097:63638" name="      ↳ Checkboxes" x="0" y="0" width="0" height="0">
+  <frame id="1097:63652" name="Checkbox" x="2880" y="620" width="1504" height="976">
+    <symbol id="1097:63653" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Focused" x="392" y="340" width="344" height="40" />
+    <symbol id="1100:1514" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Focused" x="392" y="844" width="344" height="40" />
+    <symbol id="1100:365" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Focused" x="1144" y="340" width="344" height="50" />
+    <symbol id="1100:1496" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Focused" x="1144" y="844" width="344" height="50" />
+    <symbol id="1100:123" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Disabled" x="392" y="406" width="344" height="40" />
+    <symbol id="1100:1502" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Disabled" x="392" y="910" width="344" height="40" />
+    <symbol id="1100:371" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Disabled" x="1144" y="406" width="344" height="50" />
+    <symbol id="1100:1490" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Disabled" x="1144" y="910" width="344" height="50" />
+    <symbol id="1097:63659" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Hover" x="392" y="274" width="344" height="40" />
+    <symbol id="1100:1484" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Hover" x="392" y="778" width="344" height="40" />
+    <symbol id="1100:377" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Hover" x="1144" y="274" width="344" height="50" />
+    <symbol id="1100:1508" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Hover" x="1144" y="778" width="344" height="50" />
+    <symbol id="1097:63665" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Default" x="392" y="208" width="344" height="40" />
+    <symbol id="1100:1478" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Default" x="392" y="712" width="344" height="40" />
+    <symbol id="1100:357" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Default" x="1144" y="208" width="344" height="50" />
+    <symbol id="1100:1472" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Default" x="1144" y="712" width="344" height="50" />
+    <symbol id="1097:63671" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Focused" x="16" y="340" width="344" height="40" />
+    <symbol id="1100:1466" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Focused" x="16" y="844" width="344" height="40" />
+    <symbol id="1100:351" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Focused" x="768" y="340" width="344" height="50" />
+    <symbol id="1100:1460" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Focused" x="768" y="844" width="344" height="50" />
+    <symbol id="1100:105" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Disabled" x="16" y="406" width="344" height="40" />
+    <symbol id="1100:1454" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Disabled" x="16" y="910" width="344" height="40" />
+    <symbol id="1100:345" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Disabled" x="768" y="406" width="344" height="50" />
+    <symbol id="1100:1448" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Disabled" x="768" y="910" width="344" height="50" />
+    <symbol id="1097:63677" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Hover" x="16" y="274" width="344" height="40" />
+    <symbol id="1100:1442" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Hover" x="16" y="778" width="344" height="40" />
+    <symbol id="1100:336" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Hover" x="768" y="274" width="344" height="50" />
+    <symbol id="1100:1436" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Hover" x="768" y="778" width="344" height="50" />
+    <symbol id="1097:63683" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=True, State=Default" x="16" y="208" width="344" height="40" />
+    <symbol id="1100:1430" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=True, State=Default" x="16" y="712" width="344" height="40" />
+    <symbol id="1100:328" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=True, State=Default" x="768" y="208" width="344" height="50" />
+    <symbol id="1100:1424" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=True, State=Default" x="768" y="712" width="344" height="50" />
+    <symbol id="1097:63707" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Focused" x="64" y="88" width="16" height="16" />
+    <symbol id="1224:6871" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, Text=False, State=Focused" x="112" y="88" width="16" height="16" />
+    <symbol id="1100:906" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Focused" x="64" y="592" width="16" height="16" />
+    <symbol id="1100:305" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Focused" x="816" y="88" width="20" height="20" />
+    <symbol id="1224:6869" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, Text=False, State=Focused" x="864" y="88" width="20" height="20" />
+    <symbol id="1100:904" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Focused" x="816" y="592" width="20" height="20" />
+    <symbol id="1097:63709" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Disabled" x="64" y="124" width="16" height="16" />
+    <symbol id="1224:6865" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, Text=False, State=Disabled" x="112" y="124" width="16" height="16" />
+    <symbol id="1100:902" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Disabled" x="64" y="628" width="16" height="16" />
+    <symbol id="1100:303" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Disabled" x="816" y="124" width="20" height="20" />
+    <symbol id="1224:6863" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, Text=False, State=Disabled" x="864" y="124" width="20" height="20" />
+    <symbol id="1100:900" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Disabled" x="816" y="628" width="20" height="20" />
+    <symbol id="1097:63711" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Hover" x="64" y="52" width="16" height="16" />
+    <symbol id="1224:6867" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, Text=False, State=Hover" x="112" y="52" width="16" height="16" />
+    <symbol id="1100:898" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Hover" x="64" y="556" width="16" height="16" />
+    <symbol id="1100:301" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Hover" x="816" y="52" width="20" height="20" />
+    <symbol id="1224:6861" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, Text=False, State=Hover" x="864" y="52" width="20" height="20" />
+    <symbol id="1100:896" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Hover" x="816" y="556" width="20" height="20" />
+    <symbol id="1097:63713" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Default" x="64" y="16" width="16" height="16" />
+    <symbol id="1224:6859" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, Text=False, State=Default" x="112" y="16" width="16" height="16" />
+    <symbol id="1100:894" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Default" x="64" y="520" width="16" height="16" />
+    <symbol id="1100:334" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Default" x="816" y="16" width="20" height="20" />
+    <symbol id="1224:6857" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, Text=False, State=Default" x="864" y="16" width="20" height="20" />
+    <symbol id="1100:892" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Default" x="816" y="520" width="20" height="20" />
+    <symbol id="1097:63715" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Hover" x="16" y="52" width="16" height="16" />
+    <symbol id="1100:890" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Hover" x="16" y="556" width="16" height="16" />
+    <symbol id="1100:299" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Hover" x="768" y="52" width="20" height="20" />
+    <symbol id="1100:888" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Hover" x="768" y="556" width="20" height="20" />
+    <symbol id="1097:63717" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Focused" x="16" y="88" width="16" height="16" />
+    <symbol id="1100:886" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Focused" x="16" y="592" width="16" height="16" />
+    <symbol id="1100:363" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Focused" x="768" y="88" width="20" height="20" />
+    <symbol id="1100:884" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Focused" x="768" y="592" width="20" height="20" />
+    <symbol id="1097:63719" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Disabled" x="16" y="124" width="16" height="16" />
+    <symbol id="1100:1001" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Disabled" x="16" y="628" width="16" height="16" />
+    <symbol id="1100:297" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Disabled" x="768" y="124" width="20" height="20" />
+    <symbol id="1100:882" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Disabled" x="768" y="628" width="20" height="20" />
+    <symbol id="1097:63721" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, Text=False, State=Default" x="16" y="16" width="16" height="16" />
+    <symbol id="1100:1030" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, Text=False, State=Default" x="16" y="520" width="16" height="16" />
+    <symbol id="1100:295" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, Text=False, State=Default" x="768" y="16" width="20" height="20" />
+    <symbol id="1100:880" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, Text=False, State=Default" x="768" y="520" width="20" height="20" />
+  </frame>
+  <frame id="1097:63886" name="_Checkbox base" x="80" y="620" width="332" height="352">
+    <symbol id="1097:63885" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, State=Default" x="16" y="16" width="16" height="16" />
+    <symbol id="1100:569" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, State=Default" x="16" y="208" width="16" height="16" />
+    <symbol id="1097:63991" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, State=Disabled" x="16" y="124" width="16" height="16" />
+    <symbol id="1100:562" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, State=Disabled" x="16" y="316" width="16" height="16" />
+    <symbol id="1097:63959" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, State=Focused" x="16" y="88" width="16" height="16" />
+    <symbol id="1100:555" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, State=Focused" x="16" y="280" width="16" height="16" />
+    <symbol id="1097:63932" name="Checked=False, Indeterminate=False, Size=sm, Type=Checkbox, State=Hover" x="16" y="52" width="16" height="16" />
+    <symbol id="1100:557" name="Checked=False, Indeterminate=False, Size=sm, Type=Radio, State=Hover" x="16" y="244" width="16" height="16" />
+    <symbol id="1097:63895" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, State=Default" x="64" y="16" width="16" height="16" />
+    <symbol id="1224:6780" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, State=Default" x="112" y="16" width="16" height="16" />
+    <symbol id="1100:552" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, State=Default" x="64" y="208" width="16" height="16" />
+    <symbol id="1097:63988" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, State=Disabled" x="64" y="124" width="16" height="16" />
+    <symbol id="1224:6776" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, State=Disabled" x="112" y="124" width="16" height="16" />
+    <symbol id="1100:549" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, State=Disabled" x="64" y="316" width="16" height="16" />
+    <symbol id="1097:63956" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, State=Focused" x="64" y="88" width="16" height="16" />
+    <symbol id="1224:6774" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, State=Focused" x="112" y="88" width="16" height="16" />
+    <symbol id="1100:559" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, State=Focused" x="64" y="280" width="16" height="16" />
+    <symbol id="1097:63929" name="Checked=True, Indeterminate=False, Size=sm, Type=Checkbox, State=Hover" x="64" y="52" width="16" height="16" />
+    <symbol id="1224:6778" name="Checked=True, Indeterminate=True, Size=sm, Type=Checkbox, State=Hover" x="112" y="52" width="16" height="16" />
+    <symbol id="1100:546" name="Checked=True, Indeterminate=False, Size=sm, Type=Radio, State=Hover" x="64" y="244" width="16" height="16" />
+    <symbol id="1097:63887" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, State=Default" x="192" y="16" width="20" height="20" />
+    <symbol id="1100:544" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, State=Default" x="192" y="208" width="20" height="20" />
+    <symbol id="1097:63986" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, State=Disabled" x="192" y="124" width="20" height="20" />
+    <symbol id="1100:564" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, State=Disabled" x="192" y="316" width="20" height="20" />
+    <symbol id="1097:63954" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, State=Focused" x="192" y="88" width="20" height="20" />
+    <symbol id="1100:542" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, State=Focused" x="192" y="280" width="20" height="20" />
+    <symbol id="1097:63926" name="Checked=False, Indeterminate=False, Size=md, Type=Checkbox, State=Hover" x="192" y="52" width="20" height="20" />
+    <symbol id="1100:540" name="Checked=False, Indeterminate=False, Size=md, Type=Radio, State=Hover" x="192" y="244" width="20" height="20" />
+    <symbol id="1190:580" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, State=Default" x="244" y="16" width="20" height="20" />
+    <symbol id="1224:6805" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, State=Default" x="296" y="16" width="20" height="20" />
+    <symbol id="1100:537" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, State=Default" x="244" y="208" width="20" height="20" />
+    <symbol id="1097:63983" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, State=Disabled" x="244" y="124" width="20" height="20" />
+    <symbol id="1224:6803" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, State=Disabled" x="296" y="124" width="20" height="20" />
+    <symbol id="1100:566" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, State=Disabled" x="244" y="316" width="20" height="20" />
+    <symbol id="1097:63951" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, State=Focused" x="244" y="88" width="20" height="20" />
+    <symbol id="1224:6807" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, State=Focused" x="296" y="88" width="20" height="20" />
+    <symbol id="1100:534" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, State=Focused" x="244" y="280" width="20" height="20" />
+    <symbol id="1097:63923" name="Checked=True, Indeterminate=False, Size=md, Type=Checkbox, State=Hover" x="244" y="52" width="20" height="20" />
+    <symbol id="1224:6801" name="Checked=True, Indeterminate=True, Size=md, Type=Checkbox, State=Hover" x="296" y="52" width="20" height="20" />
+    <symbol id="1100:531" name="Checked=True, Indeterminate=False, Size=md, Type=Radio, State=Hover" x="244" y="244" width="20" height="20" />
+  </frame>
+  <instance id="6695:60157" name="Design system header" x="0" y="0" width="2400" height="492" />
+  <instance id="1544:266274" name="Design system header" x="2800" y="1.1368683772161603e-13" width="2400" height="492" />
+</canvas>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

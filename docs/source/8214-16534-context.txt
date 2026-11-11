@@ -1,0 +1,93 @@
+const imgImage = "https://www.figma.com/api/mcp/asset/0626a3eb-a306-46a0-bfcd-85a01bde2094.png";
+const imgMonitor = "https://www.figma.com/api/mcp/asset/023329d9-9f0c-4d96-be4f-6e15e10039dc.svg";
+const imgCloudUpload = "https://www.figma.com/api/mcp/asset/ffb9f313-3383-4a5a-97c8-60600493f940.svg";
+const imgTv01 = "https://www.figma.com/api/mcp/asset/d1535eb4-8fc1-4a4f-a315-81fc08154fec.svg";
+const imgDollarCircle = "https://www.figma.com/api/mcp/asset/ca3dd52e-3ab2-4dc9-b413-2b59bc745e79.svg";
+
+export default function Component05AutoOrderV2() {
+  return (
+    <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-12,56px)] items-start justify-center px-[var(--spacing\/spacing-12,56px)] py-[56px] relative size-full" data-node-id="8214:16534" data-name="05 · Auto Order - V2">
+      <div className="content-stretch flex flex-col gap-[40px] items-start relative shrink-0 w-[1400px]" data-node-id="8214:16535">
+        <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="8214:16536" data-name="Promotion Content">
+          <div className="content-stretch flex flex-[1_0_0] flex-col items-start min-w-px relative" data-node-id="8214:16537" data-name="Promotion Copy">
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="8214:16540" data-name="Promotion Details">
+              <p className="font-['Gilroy-Bold:☞'] leading-[84px] not-italic relative shrink-0 text-[#313131] text-[56px] w-full" data-node-id="8214:16541">{`Everything You Need. Nothing You Don't.`}</p>
+              <p className="font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[#5b5b5b] text-[20px] w-full" data-node-id="8214:16542">
+                Simple, affordable streaming for teams, families, and fans.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[72px] items-center relative shrink-0 w-full" data-node-id="8214:16554" data-name="Container">
+          <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="8215:16771">
+            <div className="flex-[1_0_0] h-full min-w-px overflow-clip relative rounded-[16px]" data-name="Image">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage} />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[36px] items-start min-w-px relative" data-node-id="8214:16587" data-name="Container">
+            <div className="border-[#132b43] border-l-2 border-solid content-stretch flex flex-col gap-[12px] items-start pl-[24px] relative shrink-0 w-full" data-node-id="8214:16588" data-name="Top">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8214:16636" data-name="monitor">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMonitor} />
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start relative shrink-0" data-node-id="8214:16590">
+                <p className="font-['Urbanist:Bold'] font-bold leading-[normal] relative shrink-0 text-[#132b43] text-[length:var(--type\/font-size\/24,24px)] w-[405.333px]" data-node-id="8214:16591">
+                  Stream on Any Device
+                </p>
+                <p className="font-['Urbanist:Regular'] font-normal leading-[24px] relative shrink-0 text-[#3a3a3a] text-[length:var(--type\/body-4\/regular\/size,16px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8214:16592">
+                  Broadcast directly from your phone, tablet, or computer.
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start opacity-90 pl-[24px] relative shrink-0 w-full" data-node-id="8214:16593" data-name="Top">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8214:16622" data-name="cloud-upload">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCloudUpload} />
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start relative shrink-0" data-node-id="8214:16595">
+                <p className="font-['Urbanist:Bold'] font-bold leading-[normal] opacity-80 relative shrink-0 text-[#132b43] text-[length:var(--type\/font-size\/24,24px)] w-[405.333px]" data-node-id="8214:16596">
+                  Free Automatic Storage
+                </p>
+                <p className="font-['Urbanist:Regular'] font-normal leading-[24px] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/body-4\/regular\/size,16px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8214:16597">
+                  Save streams to YouTube, Dropbox, Google Drive, iCloud, or OneDrive.
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start opacity-90 pl-[24px] relative shrink-0 w-full" data-node-id="8214:16598" data-name="Top">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8214:16632" data-name="tv-01">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTv01} />
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-node-id="8214:16600">
+                <p className="font-['Urbanist:Bold'] font-bold leading-[normal] opacity-80 relative shrink-0 text-[#132b43] text-[length:var(--type\/font-size\/24,24px)] w-[405.333px]" data-node-id="8214:16601">
+                  Watch Anywhere for Free
+                </p>
+                <p className="font-['Urbanist:Regular'] font-normal leading-[24px] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/body-4\/regular\/size,16px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] w-[527px]" data-node-id="8214:16602">
+                  Watch live streams for free online or on Fire TV, Google TV, Roku, Android TV, LG webOS, and Samsung TV.
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start opacity-90 pl-[24px] relative shrink-0 w-full" data-node-id="8214:16604" data-name="Top">
+              <div className="relative shrink-0 size-[18px]" data-node-id="8214:16648" data-name="dollar-circle">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDollarCircle} />
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start relative shrink-0" data-node-id="8214:16606">
+                <p className="font-['Urbanist:Bold'] font-bold leading-[normal] opacity-80 relative shrink-0 text-[#132b43] text-[length:var(--type\/font-size\/24,24px)] w-[405.333px]" data-node-id="8214:16607">
+                  Only 10¢ per Minute
+                </p>
+                <p className="font-['Urbanist:Regular'] font-normal leading-[24px] relative shrink-0 text-[#6d6d6d] text-[length:var(--type\/body-4\/regular\/size,16px)] tracking-[var(--type\/body-4\/regular\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8214:16608">{`No monthly fee. Pay only for the time you're live.`}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-12: #313131, Neutral/neutral-9: #5B5B5B, Neutral/neutral-11: #3A3A3A, Brand/Navy: #132B43, Neutral/neutral-8: #6D6D6D.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

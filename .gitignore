@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+*.zip
+.env
+.env.*
+*.pem
+.qa-venv/
+.playwright-mcp/
+__pycache__/
+*.pyc
+*.tmp
+*.repack.png

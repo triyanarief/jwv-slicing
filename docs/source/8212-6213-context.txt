@@ -1,0 +1,188 @@
+const imgContainer = "https://www.figma.com/api/mcp/asset/c8ab7dab-5194-48ef-82be-687a889ceb36.png";
+const imgRss = "https://www.figma.com/api/mcp/asset/dae92d68-e82c-40b2-8d2d-49c7f53e7c52.svg";
+const imgEllipse2 = "https://www.figma.com/api/mcp/asset/5af98f6f-4dc8-40fd-be49-a9dff23df241.svg";
+const imgProgress = "https://www.figma.com/api/mcp/asset/7752eb2d-b1ee-4bf9-beef-742dc7d2218f.svg";
+const imgVolume02 = "https://www.figma.com/api/mcp/asset/b6914a85-2b8d-4124-9d54-5f12eecb0a45.svg";
+const imgFullscreen = "https://www.figma.com/api/mcp/asset/6bd9b6ee-39f7-47cf-9f28-90b90c3b748a.svg";
+const imgLiveStatus = "https://www.figma.com/api/mcp/asset/1cb0a5fa-dc7d-483a-b873-50977e26c4f6.svg";
+const imgWifi01 = "https://www.figma.com/api/mcp/asset/39ed96f4-38f7-4e1a-9c11-ea9a889cf019.svg";
+const imgLine190 = "https://www.figma.com/api/mcp/asset/957c41d0-d34a-42d3-94fa-ecf91b6ebd3d.svg";
+const imgUser02 = "https://www.figma.com/api/mcp/asset/ae572d05-e8f0-4bf7-bdb0-44ba85d6b48d.svg";
+const img4K = "https://www.figma.com/api/mcp/asset/9ce112bf-423c-4fa9-9850-c7ce7df9d27f.svg";
+
+export default function Section() {
+  return (
+    <div className="content-stretch flex flex-col gap-[var(--spacing\/spacing-12,56px)] items-start px-[var(--spacing\/spacing-12,56px)] py-[var(--spacing\/spacing-14,78px)] relative size-full" data-node-id="8212:6213" data-name="section">
+      <div className="content-stretch flex flex-col gap-[56px] items-start justify-center relative shrink-0 w-full" data-node-id="8212:6214" data-name="Broadcast Promotion">
+        <div className="content-stretch flex gap-[56px] items-center relative shrink-0 w-full" data-node-id="8212:6215" data-name="Promotion Content">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[12px] items-start min-w-px relative" data-node-id="8212:6216" data-name="Promotion Copy">
+            <div className="bg-[rgba(255,255,255,0.4)] border border-[rgba(156,161,170,0.12)] border-solid content-stretch flex items-center px-[var(--spacing\/spacing-3,8px)] py-[6px] relative rounded-[var(--radius\/radius-full,9999px)] shrink-0" data-node-id="8212:6217" data-name="Promotion Badge">
+              <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[16px] text-center text-white whitespace-nowrap" data-node-id="8212:6218">
+                MADE FOR EVERY GAME DAY
+              </p>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="8212:6219" data-name="Promotion Details">
+              <p className="font-['Gilroy-Bold:☞'] leading-[84px] not-italic relative shrink-0 text-[#313131] text-[56px] w-full" data-node-id="8212:6220">
+                Put Every Game in the Spotlight
+              </p>
+              <p className="font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[#5b5b5b] text-[20px] w-full" data-node-id="8212:6221">
+                From the first whistle to the final buzzer, bring youth sports to life with seamless live streaming. Connect teams, families, and fans wherever they are.
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[16px] items-center relative shrink-0" data-node-id="8212:6222" data-name="Primary Actions">
+            <div className="bg-[rgba(9,161,3,0.1)] content-stretch flex flex-col items-start p-[4px] relative rounded-[99px] shrink-0" data-node-id="8212:6223" data-name="Primary Action">
+              <div className="content-stretch flex gap-[10px] items-center justify-center overflow-clip px-[24px] py-[12px] relative rounded-[32px] shrink-0" data-node-id="8212:6224" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 253 48' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(-4.0686e-15 4.8 -25.3 2.9392e-16 126.5 0)'><stop stop-color='rgba(255,255,255,0.3)' offset='0'/><stop stop-color='rgba(255,255,255,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(9, 161, 3) 0%, rgb(9, 161, 3) 100%)" }} data-name="orange 33">
+                <div className="relative shrink-0 size-[24px]" data-node-id="8212:6225" data-name="rss">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRss} />
+                </div>
+                <p className="[word-break:break-word] font-['Urbanist:Bold'] font-bold leading-[normal] relative shrink-0 text-[20px] text-white tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8212:6229">
+                  Start Broadcasting
+                </p>
+              </div>
+            </div>
+            <div className="bg-[rgba(255,255,255,0.1)] content-stretch flex flex-col items-start p-[4px] relative rounded-[99px] shrink-0" data-node-id="8212:6230" data-name="Secondary Action">
+              <div className="border-[#ffb8b2] border-[0.5px] border-solid content-stretch flex items-center justify-center overflow-clip px-[24px] py-[12px] relative rounded-[32px] shrink-0" data-node-id="8212:6231" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 201 48' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(-3.2323e-15 4.8 -20.1 2.9392e-16 100.5 0)'><stop stop-color='rgba(255,255,255,0.3)' offset='0'/><stop stop-color='rgba(255,255,255,0)' offset='1'/></radialGradient></defs></svg>\"), linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)" }} data-name="orange 32">
+                <p className="[word-break:break-word] font-['Urbanist:Medium'] font-medium leading-[normal] relative shrink-0 text-[#1f1f1f] text-[20px] tracking-[var(--type\/body-4\/medium\/letter-spacing,0px)] whitespace-nowrap" data-node-id="8212:6232">
+                  See How It Works
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="backdrop-blur-[12px] bg-[rgba(242,237,219,0.5)] border border-[#d0cab1] border-solid content-stretch flex flex-col gap-[24px] items-start overflow-clip pb-[24px] pt-[20px] px-[20px] relative rounded-[20px] shrink-0 w-full" data-node-id="8212:6233" data-name="Movie">
+          <div className="h-[424px] relative rounded-[16px] shrink-0 w-full" data-node-id="8212:6234" data-name="Container">
+            <div aria-hidden className="absolute bg-clip-padding border-0 border-[transparent] border-solid inset-0 pointer-events-none rounded-[16px]">
+              <img alt="" className="absolute bg-clip-padding border-0 border-[transparent] border-solid max-w-none object-cover rounded-[16px] size-full" src={imgContainer} />
+              <div className="absolute bg-clip-padding bg-gradient-to-t border-0 border-[transparent] border-solid from-[rgba(0,0,0,0.6)] inset-0 rounded-[16px] to-[32.193%] to-[rgba(0,0,0,0)]" />
+            </div>
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col items-start justify-between p-[16px] relative size-full">
+              <div className="content-stretch flex flex-col items-start p-[4px] relative rounded-[24px] shrink-0" data-node-id="8212:6235" style={{ backgroundImage: "linear-gradient(180.83716175721202deg, rgba(255, 0, 0, 0.4) 1.8752%, rgba(247, 247, 247, 0.4) 98.143%)" }} data-name="Live Indicator">
+                <div className="bg-[#ce3131] content-stretch flex gap-[4px] h-[28px] items-center justify-center pl-[var(--spacing\/spacing-3,8px)] pr-[var(--spacing\/spacing-2,4px)] py-[var(--spacing\/spacing-3,8px)] relative rounded-[16px] shrink-0" data-node-id="8212:6236" data-name="Nav">
+                  <div className="relative shrink-0 size-[8px]" data-node-id="8212:6237">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse2} />
+                  </div>
+                  <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[14px] text-white whitespace-nowrap" data-node-id="8212:6238">
+                    LIVE NOW
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[var(--number-12,12px)] items-center relative shrink-0 w-full" data-node-id="8212:6239" data-name="Video">
+                <div className="backdrop-blur-[27.5px] bg-[rgba(255,255,255,0.4)] content-stretch flex items-center justify-center px-[6px] py-[4px] relative rounded-[98px] shrink-0" data-node-id="8212:6240" data-name="Elapsed Time">
+                  <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[16px] relative shrink-0 text-[12px] text-center text-white whitespace-nowrap" data-node-id="8212:6241">
+                    34:05
+                  </p>
+                </div>
+                <div className="flex-[1_0_0] h-0 min-w-px relative" data-node-id="8212:6242" data-name="Progress">
+                  <div className="absolute inset-[-6px_-0.26%]">
+                    <img alt="" className="block max-w-none size-full" src={imgProgress} />
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8212:6246" data-name="Playback Controls">
+                  <div className="backdrop-blur-[27.5px] bg-[rgba(255,255,255,0.4)] content-stretch flex items-center justify-center px-[6px] py-[4px] relative rounded-[24px] shrink-0" data-node-id="8212:6247" data-name="Remaining Time">
+                    <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[16px] relative shrink-0 text-[12px] text-center text-white whitespace-nowrap" data-node-id="8212:6248">
+                      57:45
+                    </p>
+                  </div>
+                  <div className="backdrop-blur-[27.5px] bg-[rgba(255,255,255,0.4)] content-stretch flex items-center justify-center px-[6px] py-[4px] relative rounded-[24px] shrink-0 w-[26px]" data-node-id="8212:6249" data-name="Remaining Time">
+                    <div className="relative shrink-0 size-[18px]" data-node-id="8212:6250" data-name="volume-02">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVolume02} />
+                    </div>
+                  </div>
+                  <div className="backdrop-blur-[27.5px] bg-[rgba(255,255,255,0.4)] content-stretch flex items-center justify-center px-[6px] py-[4px] relative rounded-[24px] shrink-0 w-[26px]" data-node-id="8212:6254" data-name="Remaining Time">
+                    <div className="relative shrink-0 size-[18px]" data-node-id="8212:6255" data-name="fullscreen">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFullscreen} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[rgba(255,255,255,0.4)] content-stretch flex items-center px-[12px] py-[8px] right-[20px] rounded-[99px] top-[20px]" data-node-id="8212:6257" data-name="Nav">
+                <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8212:6258" data-name="Replay Metadata">
+                  <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="8212:6259" data-name="Stream Metadata">
+                    <div className="relative shrink-0 size-[14px]" data-node-id="8212:6260" data-name="Live Status">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLiveStatus} />
+                    </div>
+                    <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[16px] relative shrink-0 text-[16px] text-white whitespace-nowrap" data-node-id="8212:6262">
+                      stream Live
+                    </p>
+                  </div>
+                  <p className="[word-break:break-word] capitalize font-['Urbanist:SemiBold'] font-semibold leading-[24px] relative shrink-0 text-[24px] text-center text-white tracking-[1px] whitespace-nowrap" data-node-id="8212:6263">
+                    00:28:44
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="relative shrink-0 w-full" data-node-id="8212:6264" data-name="Container">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[16px] items-start justify-center relative size-full">
+              <div className="content-stretch flex flex-col gap-[24px] items-start relative self-stretch shrink-0 w-[1023px]" data-node-id="8212:6265" data-name="Replay Details">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="8212:6266" data-name="Heading 7">
+                  <p className="[word-break:break-word] font-['Urbanist:SemiBold'] font-semibold leading-[32px] relative shrink-0 text-[#3a3a3a] text-[36px] text-center uppercase whitespace-nowrap" data-node-id="8212:6267">{`Northside vs Lakeshore `}</p>
+                </div>
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="8212:6268" data-name="Replay Description">
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Urbanist:Regular'] font-normal leading-[30px] min-w-px relative text-[#414141] text-[20px]" data-node-id="8212:6269">
+                    Relive the thrilling showdown between the Northside Wolves and the Lakeshore Falcons in this intense youth hockey match. Watch every goal, save, and moment of action as these two fierce rivals battle on the ice.
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[16px] items-center relative shrink-0" data-node-id="8212:6270" data-name="Playback Metadata">
+                <div className="content-stretch flex gap-[7px] items-center px-[var(--spacing\/spacing-3,8px)] py-[6px] relative rounded-[99px] shrink-0" data-node-id="8212:6271" data-name="Viewer Count">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="8212:6272" data-name="wifi-01">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWifi01} />
+                  </div>
+                  <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[18px] relative shrink-0 text-[#5b5b5b] text-[16px] text-center whitespace-nowrap" data-node-id="8212:6277">
+                    8.2 Mbps
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-0" data-node-id="8212:6278">
+                  <div className="flex-none rotate-90">
+                    <div className="h-0 relative w-[24px]">
+                      <div className="absolute inset-[-1px_0_0_0]">
+                        <img alt="" className="block max-w-none size-full" src={imgLine190} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[7px] items-center px-[var(--spacing\/spacing-3,8px)] py-[6px] relative rounded-[99px] shrink-0" data-node-id="8212:6279" data-name="Viewer Count">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="8212:6280" data-name="user-02">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUser02} />
+                  </div>
+                  <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[18px] relative shrink-0 text-[#5b5b5b] text-[16px] text-center whitespace-nowrap" data-node-id="8212:6283">
+                    2.3K
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-0" data-node-id="8212:6284">
+                  <div className="flex-none rotate-90">
+                    <div className="h-0 relative w-[24px]">
+                      <div className="absolute inset-[-1px_0_0_0]">
+                        <img alt="" className="block max-w-none size-full" src={imgLine190} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[7px] items-center px-[var(--spacing\/spacing-3,8px)] py-[6px] relative rounded-[99px] shrink-0" data-node-id="8212:6285" data-name="Viewer Count">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="8212:6286" data-name="4k">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={img4K} />
+                  </div>
+                  <p className="[word-break:break-word] capitalize font-['Urbanist:Medium'] font-medium leading-[18px] relative shrink-0 text-[#5b5b5b] text-[16px] text-center whitespace-nowrap" data-node-id="8212:6289">
+                    HD
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Neutral/neutral-1: #FFFFFF, Neutral/neutral-12: #313131, Neutral/neutral-9: #5B5B5B, Neutral/neutral-13: #1F1F1F, Neutral/neutral-11: #3A3A3A, Neutral/neutral-10: #414141.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

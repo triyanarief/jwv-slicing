@@ -1,0 +1,529 @@
+[
+  {
+    "page": "home-signed-in-dark",
+    "node": "8212:33",
+    "frame": [
+      1512.0,
+      6074.0
+    ],
+    "sourceExport": [
+      1512,
+      6074
+    ],
+    "browserCapture": [
+      1512,
+      6116
+    ],
+    "browserDocumentHeight": 6116
+  },
+  {
+    "page": "home-signed-in-light",
+    "node": "8212:3267",
+    "frame": [
+      1512.0,
+      6252.0
+    ],
+    "sourceExport": [
+      1512,
+      6252
+    ],
+    "browserCapture": [
+      1512,
+      6294
+    ],
+    "browserDocumentHeight": 6294
+  },
+  {
+    "page": "home-light",
+    "node": "8291:1011",
+    "frame": [
+      1512.0,
+      4064.800048828125
+    ],
+    "sourceExport": [
+      1514,
+      4065
+    ],
+    "browserCapture": [
+      1512,
+      4065
+    ],
+    "browserDocumentHeight": 4065
+  },
+  {
+    "page": "home-dark",
+    "node": "8307:8678",
+    "frame": [
+      1512.0,
+      4157.7998046875
+    ],
+    "sourceExport": [
+      1512,
+      4158
+    ],
+    "browserCapture": [
+      1512,
+      4160
+    ],
+    "browserDocumentHeight": 4159
+  },
+  {
+    "page": "login-dark",
+    "node": "8350:8841",
+    "frame": [
+      1512.0,
+      982.0
+    ],
+    "sourceExport": [
+      1512,
+      982
+    ],
+    "browserCapture": [
+      1512,
+      982
+    ],
+    "browserDocumentHeight": 982
+  },
+  {
+    "page": "register-user-dark",
+    "node": "8354:27846",
+    "frame": [
+      1512.0,
+      982.0
+    ],
+    "sourceExport": [
+      1512,
+      982
+    ],
+    "browserCapture": [
+      1512,
+      982
+    ],
+    "browserDocumentHeight": 982
+  },
+  {
+    "page": "register-broadcaster-dark",
+    "node": "8354:28283",
+    "frame": [
+      1512.0,
+      982.0
+    ],
+    "sourceExport": [
+      1512,
+      982
+    ],
+    "browserCapture": [
+      1512,
+      982
+    ],
+    "browserDocumentHeight": 982
+  },
+  {
+    "page": "broadcaster-requests-dark",
+    "node": "8413:25313",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "rejected-broadcasters-dark",
+    "node": "8414:26323",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "broadcaster-requests-empty-dark",
+    "node": "8413:24824",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "rejected-broadcasters-empty-dark",
+    "node": "8414:26474",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "youtube-channel-dark",
+    "node": "8414:25524",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "storage-services-dark",
+    "node": "8414:26200",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "transaction-history-dark",
+    "node": "8414:26846",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "teams-list-light",
+    "node": "8427:691",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "broadcasters-wallets-light",
+    "node": "8427:846",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "broadcaster-requests-light",
+    "node": "8427:1027",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "rejected-broadcasters-light",
+    "node": "8427:1194",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "broadcaster-requests-empty-light",
+    "node": "8427:1359",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "rejected-broadcasters-empty-light",
+    "node": "8427:1482",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "youtube-channel-light",
+    "node": "8427:1603",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "storage-services-light",
+    "node": "8427:1758",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "transaction-history-light",
+    "node": "8427:1958",
+    "frame": [
+      1512.0,
+      980.0
+    ],
+    "sourceExport": [
+      1512,
+      980
+    ],
+    "browserCapture": [
+      1512,
+      980
+    ],
+    "browserDocumentHeight": 980
+  },
+  {
+    "page": "login-light",
+    "node": "8433:5384",
+    "frame": [
+      1512.0,
+      982.0
+    ],
+    "sourceExport": [
+      1512,
+      982
+    ],
+    "browserCapture": [
+      1512,
+      982
+    ],
+    "browserDocumentHeight": 982
+  },
+  {
+    "page": "register-user-light",
+    "node": "8433:5555",
+    "frame": [
+      1512.0,
+      982.0
+    ],
+    "sourceExport": [
+      1512,
+      982
+    ],
+    "browserCapture": [
+      1512,
+      982
+    ],
+    "browserDocumentHeight": 982
+  },
+  {
+    "page": "register-broadcaster-light",
+    "node": "8433:5766",
+    "frame": [
+      1512.0,
+      982.0
+    ],
+    "sourceExport": [
+      1512,
+      982
+    ],
+    "browserCapture": [
+      1512,
+      982
+    ],
+    "browserDocumentHeight": 982
+  },
+  {
+    "page": "club-dashboard-light",
+    "node": "8436:7027",
+    "frame": [
+      1528.0,
+      1202.0
+    ],
+    "sourceExport": [
+      1528,
+      1202
+    ],
+    "browserCapture": [
+      1528,
+      1202
+    ],
+    "browserDocumentHeight": 1202
+  },
+  {
+    "page": "club-dashboard-dark",
+    "node": "8436:7470",
+    "frame": [
+      1512.0,
+      1265.5999755859375
+    ],
+    "sourceExport": [
+      1514,
+      1266
+    ],
+    "browserCapture": [
+      1512,
+      1266
+    ],
+    "browserDocumentHeight": 1266
+  },
+  {
+    "page": "teams-list",
+    "node": "8438:9957",
+    "frame": [
+      1512.0,
+      913.0
+    ],
+    "sourceExport": [
+      1512,
+      913
+    ],
+    "browserCapture": [
+      1512,
+      913
+    ],
+    "browserDocumentHeight": 913
+  },
+  {
+    "page": "teams-grid",
+    "node": "8439:10585",
+    "frame": [
+      1512.0,
+      913.0
+    ],
+    "sourceExport": [
+      1512,
+      913
+    ],
+    "browserCapture": [
+      1512,
+      913
+    ],
+    "browserDocumentHeight": 913
+  },
+  {
+    "page": "broadcasters-wallets",
+    "node": "8439:11243",
+    "frame": [
+      1528.0,
+      922.0
+    ],
+    "sourceExport": [
+      1528,
+      923
+    ],
+    "browserCapture": [
+      1528,
+      922
+    ],
+    "browserDocumentHeight": 922
+  }
+]
