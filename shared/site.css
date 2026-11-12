@@ -137,3 +137,13 @@ h3{font-size:18px;font-weight:600;line-height:1.3}
 @media(max-width:560px){.workspace{padding:0 10px 10px}.page-panel{border-radius:16px;padding:20px 14px}.page-heading{padding:0;align-items:flex-start;flex-wrap:wrap;gap:14px}.page-heading .description{max-width:290px}.directory-banner{margin-top:22px;padding:18px;gap:20px}.directory-banner h2{font-size:22px}.directory-summary{gap:12px}.team-total{padding-left:12px}.team-total strong{font-size:26px}.crest-stack span{width:58px;height:58px}.toolbar-controls{flex-wrap:wrap;gap:8px}.search-field{flex-basis:100%;height:42px}.select-wrap{flex:1}.team-grid{grid-template-columns:minmax(0,1fr)}.team-photo{height:180px}.team-photo .team-crest{top:102px}.data-table{display:block}.data-table thead{position:absolute;clip-path:inset(50%);height:1px;width:1px;overflow:hidden}.data-table tbody{display:block}.data-table tr{display:grid;grid-template-columns:1fr auto;border-bottom:1px solid var(--line);padding:14px}.data-table td{display:block;padding:6px;border:0}.data-table td:first-child{grid-column:1/-1}.data-table td:last-child{grid-column:1/-1}.team-row .team-actions{justify-content:space-between}.table-footer{flex-wrap:wrap;padding:16px}.pagination{flex-wrap:wrap;gap:10px}}
 
 @media(min-width:561px){.data-table th:first-child{width:49%}.data-table th:nth-child(2){width:16%}.data-table th:nth-child(3){width:16%}.team-cell .team-crest{width:61px;height:61px;position:relative;overflow:hidden}.team-cell .team-crest img{position:absolute;top:1.2px;left:.2px}.data-table td{padding-top:15px;padding-bottom:15px}}
+
+/* Branding hero background — applied to slice heroes that were missing the homepage image. */
+.brand-hero-backdrop{position:absolute;inset:0;z-index:-2;overflow:hidden;pointer-events:none}
+.brand-hero-backdrop img{width:100%;height:100%;object-fit:cover;object-position:center 35%}
+.brand-hero-backdrop::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#0e2418f0 0%,#122d20d6 42%,#122d2080 100%)}
+.page-heading{position:relative;isolation:isolate;overflow:hidden;border-radius:16px;min-height:200px;padding:24px 28px;align-items:flex-end}
+.page-heading>*{position:relative;z-index:1}
+.page-heading h1{color:#fff}
+.page-heading .description{color:#e8f0e8;max-width:none}
+@media(max-width:560px){.page-heading{min-height:160px;padding:20px 16px}}

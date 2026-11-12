@@ -113,3 +113,11 @@
 @media(max-width:560px){.admin-table-box:has(.empty-state) .admin-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}}
 
 .status-badge{white-space:nowrap;flex-shrink:0}.status-badge::before{flex-shrink:0}
+
+/* Branding hero background for admin page headings. */
+.admin-heading{position:relative;isolation:isolate;overflow:hidden;border-radius:16px;min-height:200px;padding:24px 28px;align-items:flex-end}
+.admin-heading>*{position:relative;z-index:1}
+.admin-heading h1,.light .admin-heading h1{color:#fff}
+.admin-heading p,.light .admin-heading p{color:#e8f0e8;font-weight:500}
+.admin-heading .admin-count{background:#0e2418cc;color:#fff;border:1px solid #ffffff2e}
+@media(max-width:800px){.admin-heading{min-height:160px;padding:20px 16px}}
