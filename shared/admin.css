@@ -115,9 +115,45 @@
 .status-badge{white-space:nowrap;flex-shrink:0}.status-badge::before{flex-shrink:0}
 
 /* Branding hero background for admin page headings. */
-.admin-heading{position:relative;isolation:isolate;overflow:hidden;border-radius:16px;min-height:200px;padding:24px 28px;align-items:flex-end}
+.admin-heading{position:relative;isolation:isolate;overflow:hidden;border-radius:14px;min-height:200px;padding:24px 28px;align-items:flex-end}
 .admin-heading>*{position:relative;z-index:1}
-.admin-heading h1,.light .admin-heading h1{color:#fff}
-.admin-heading p,.light .admin-heading p{color:#e8f0e8;font-weight:500}
+.admin-heading h1{color:#fff}
+.admin-heading p{color:#e8f0e8;font-weight:500}
 .admin-heading .admin-count{background:#0e2418cc;color:#fff;border:1px solid #ffffff2e}
 @media(max-width:800px){.admin-heading{min-height:160px;padding:20px 16px}}
+
+/* Light slices follow club-dashboard-light: mint page, white cards, no heavy dark hero. */
+.admin-page.light{--page:#f5f8f7;--admin-panel:#f5f8f7;--admin-table:#fff;--admin-head:#f4f8f6;--admin-line:#e2eae6;--admin-text:#172222;--admin-title:#172222;--admin-muted:#4d675c;background:#f5f8f7;font-family:Selawik,sans-serif;letter-spacing:-.21px}
+.admin-page.light .admin-shell{grid-template-columns:251px minmax(0,1fr);gap:0;padding:0}
+.admin-page.light .sidebar{background:#fff;border-right:1px solid #e2eae6;min-height:100vh;padding:29px 19px 24px}
+.admin-page.light .sidebar .brand{margin:0 0 40px}
+.admin-page.light .brand-title{color:#172222}
+.admin-page.light .brand-copy small{color:#4d675c}
+.admin-page.light .nav-link{color:#789087;font-size:13px;font-weight:600;padding:12px 13px;min-height:43px}
+.admin-page.light .nav-link[aria-current=page]{background:#e3f7e6;color:#076a26;font-weight:700}
+.admin-page.light .nav-link[aria-current=page]::before{width:2px;box-shadow:none}
+.admin-page.light .admin-theme{color:#4d675c;font-family:Selawik,sans-serif}
+.admin-page.light .theme-track{background:#d4ead9}
+.admin-page.light .theme-track::after{background:#38bf54;margin-left:0}
+.light .admin-panel{background:#f5f8f7;border-radius:0;padding:24px 34px 35px;gap:18px;min-height:100vh}
+.light .admin-heading{min-height:132px;padding:22px 24px;align-items:center;background:#fff;border:1px solid #e2eae6;border-radius:14px;box-shadow:0 12px 24px #193d2608}
+.light .admin-heading h1{color:#172222;font-weight:700;letter-spacing:-.4px}
+.light .admin-heading p{color:#4d675c;font-weight:500}
+.light .admin-heading .admin-count{background:#e3f7e6;color:#076a26;border:0}
+.light .admin-table-box,.light .youtube-card,.light .storage-card,.light .storage-summary,.light .wallet-summary{background:#fff;border-color:#e2eae6;border-radius:14px;box-shadow:0 12px 28px #193d2605}
+.light .admin-table th{background:#f4f8f6;color:#4d675c}
+.light .admin-count{background:#e3f7e6;color:#076a26}
+.light .button:not(.button-primary):not(.button-blue){background:#f7f9f8;border-color:#e2eae6;color:#172222}
+.light .button-primary{background:#54ce3a;color:#123523;border-color:#3eae28}
+.light .admin-heading .button-primary img{filter:brightness(0) saturate(100%);opacity:.85}
+.light .connected-channel,.light .connection-stat,.light .account-info{background:#f7faf8;border-color:#e2eae6}
+.light .connection-actions .button:not(.button-primary){background:#f7f9f8;border-color:#e2eae6;color:#172222}
+.light .admin-pagination .pagination select,.light .admin-pagination .page-number,.light .admin-pagination .icon-button{background:#f4f8f6;color:#172222;border-color:#e2eae6}
+.light .storage-state:not(.linked){background:#f4f8f6;color:#4d675c}
+.light .legacy-select{background:#f7f9f8;border-color:#e2eae6}
+.admin-page.dark{--page:#111b20;--admin-panel:#111b20;--admin-table:#1c2b32;--admin-head:#263a3e;--admin-line:#304047;--admin-text:#f6faf9;--admin-title:#f6faf9;--admin-muted:#96aaa6;font-family:Selawik,sans-serif}
+.admin-page.dark .sidebar{background:linear-gradient(260deg,#161c24 10%,#124126 220%)}
+.dark .admin-panel{gap:20px;padding:24px}
+.dark .admin-table-box,.dark .youtube-card,.dark .storage-card{border-radius:14px}
+@media(max-width:1250px){.admin-page.light .admin-shell{grid-template-columns:240px minmax(0,1fr)}.light .admin-panel{padding:20px}}
+@media(max-width:800px){.admin-page.light .admin-shell{grid-template-columns:minmax(0,1fr);padding:0}.admin-page.light .sidebar{min-height:0;padding:16px;border-right:0}.admin-page.light .sidebar .brand{margin:0 0 16px}.light .admin-panel{padding:16px;min-height:0}.light .admin-heading{min-height:120px;padding:18px 16px}}

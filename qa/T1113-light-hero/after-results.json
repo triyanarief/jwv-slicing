@@ -1,0 +1,1037 @@
+[
+  {
+    "slug": "club-dashboard-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "dash-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Welcome back! Let's get streaming.",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/club-dashboard-light-1440.png"
+  },
+  {
+    "slug": "club-dashboard-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "dash-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Welcome back! Let's get streaming.",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/club-dashboard-light-768.png"
+  },
+  {
+    "slug": "club-dashboard-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "dash-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Welcome back! Let's get streaming.",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/club-dashboard-light-375.png"
+  },
+  {
+    "slug": "teams-list-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Team List",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/teams-list-light-1440.png"
+  },
+  {
+    "slug": "teams-list-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Team List",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/teams-list-light-768.png"
+  },
+  {
+    "slug": "teams-list-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Team List",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/teams-list-light-375.png"
+  },
+  {
+    "slug": "broadcasters-wallets-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcasters & Wallets",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcasters-wallets-light-1440.png"
+  },
+  {
+    "slug": "broadcasters-wallets-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcasters & Wallets",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcasters-wallets-light-768.png"
+  },
+  {
+    "slug": "broadcasters-wallets-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcasters & Wallets",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcasters-wallets-light-375.png"
+  },
+  {
+    "slug": "broadcaster-requests-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcaster Requests",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcaster-requests-light-1440.png"
+  },
+  {
+    "slug": "broadcaster-requests-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcaster Requests",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcaster-requests-light-768.png"
+  },
+  {
+    "slug": "broadcaster-requests-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcaster Requests",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcaster-requests-light-375.png"
+  },
+  {
+    "slug": "broadcaster-requests-empty-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcaster Requests",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcaster-requests-empty-light-1440.png"
+  },
+  {
+    "slug": "broadcaster-requests-empty-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcaster Requests",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcaster-requests-empty-light-768.png"
+  },
+  {
+    "slug": "broadcaster-requests-empty-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Broadcaster Requests",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/broadcaster-requests-empty-light-375.png"
+  },
+  {
+    "slug": "rejected-broadcasters-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Rejected Broadcasters",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/rejected-broadcasters-light-1440.png"
+  },
+  {
+    "slug": "rejected-broadcasters-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Rejected Broadcasters",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/rejected-broadcasters-light-768.png"
+  },
+  {
+    "slug": "rejected-broadcasters-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Rejected Broadcasters",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/rejected-broadcasters-light-375.png"
+  },
+  {
+    "slug": "rejected-broadcasters-empty-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Rejected Broadcasters",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/rejected-broadcasters-empty-light-1440.png"
+  },
+  {
+    "slug": "rejected-broadcasters-empty-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Rejected Broadcasters",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/rejected-broadcasters-empty-light-768.png"
+  },
+  {
+    "slug": "rejected-broadcasters-empty-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Rejected Broadcasters",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/rejected-broadcasters-empty-light-375.png"
+  },
+  {
+    "slug": "youtube-channel-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Authorize YouTube Channel",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/youtube-channel-light-1440.png"
+  },
+  {
+    "slug": "youtube-channel-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Authorize YouTube Channel",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/youtube-channel-light-768.png"
+  },
+  {
+    "slug": "youtube-channel-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Authorize YouTube Channel",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/youtube-channel-light-375.png"
+  },
+  {
+    "slug": "storage-services-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Storage Services",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/storage-services-light-1440.png"
+  },
+  {
+    "slug": "storage-services-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Storage Services",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/storage-services-light-768.png"
+  },
+  {
+    "slug": "storage-services-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Storage Services",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/storage-services-light-375.png"
+  },
+  {
+    "slug": "transaction-history-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Transaction History",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/transaction-history-light-1440.png"
+  },
+  {
+    "slug": "transaction-history-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Transaction History",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/transaction-history-light-768.png"
+  },
+  {
+    "slug": "transaction-history-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Transaction History",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/transaction-history-light-375.png"
+  },
+  {
+    "slug": "home-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "public-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Watch Free on Samsung, LG TV, Fire TV, Roku and Google TV",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-light-1440.png"
+  },
+  {
+    "slug": "home-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "public-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Watch Free on Samsung, LG TV, Fire TV, Roku and Google TV",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-light-768.png"
+  },
+  {
+    "slug": "home-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "public-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Watch Free on Samsung, LG TV, Fire TV, Roku and Google TV",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-light-375.png"
+  },
+  {
+    "slug": "home-signed-in-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "signed-feature",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "BOSTON BRUINS vs DALLAS STARS",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-signed-in-light-1440.png"
+  },
+  {
+    "slug": "home-signed-in-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "signed-feature",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "BOSTON BRUINS vs DALLAS STARS",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-signed-in-light-768.png"
+  },
+  {
+    "slug": "home-signed-in-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "signed-feature",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "BOSTON BRUINS vs DALLAS STARS",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-signed-in-light-375.png"
+  },
+  {
+    "slug": "login-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Sign in to JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/login-light-1440.png"
+  },
+  {
+    "slug": "login-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Sign in to JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/login-light-768.png"
+  },
+  {
+    "slug": "login-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Sign in to JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/login-light-375.png"
+  },
+  {
+    "slug": "register-user-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Join JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/register-user-light-1440.png"
+  },
+  {
+    "slug": "register-user-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Join JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/register-user-light-768.png"
+  },
+  {
+    "slug": "register-user-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Join JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/register-user-light-375.png"
+  },
+  {
+    "slug": "register-broadcaster-light",
+    "theme": "light",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Join JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/register-broadcaster-light-1440.png"
+  },
+  {
+    "slug": "register-broadcaster-light",
+    "theme": "light",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Join JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/register-broadcaster-light-768.png"
+  },
+  {
+    "slug": "register-broadcaster-light",
+    "theme": "light",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(23, 34, 34)",
+      "heading": "Join JWV Streaming",
+      "headingColor": "rgb(23, 34, 34)"
+    },
+    "file": "after/register-broadcaster-light-375.png"
+  },
+  {
+    "slug": "club-dashboard-dark",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "dash-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Welcome back! Let's get streaming.",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/club-dashboard-dark-1440.png"
+  },
+  {
+    "slug": "club-dashboard-dark",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "dash-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Welcome back! Let's get streaming.",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/club-dashboard-dark-768.png"
+  },
+  {
+    "slug": "club-dashboard-dark",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "dash-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Welcome back! Let's get streaming.",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/club-dashboard-dark-375.png"
+  },
+  {
+    "slug": "teams-list",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Team List",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/teams-list-1440.png"
+  },
+  {
+    "slug": "teams-list",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Team List",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/teams-list-768.png"
+  },
+  {
+    "slug": "teams-list",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Team List",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/teams-list-375.png"
+  },
+  {
+    "slug": "teams-grid",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Team List",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/teams-grid-1440.png"
+  },
+  {
+    "slug": "teams-grid",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Team List",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/teams-grid-768.png"
+  },
+  {
+    "slug": "teams-grid",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Team List",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/teams-grid-375.png"
+  },
+  {
+    "slug": "broadcasters-wallets",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Broadcasters & Wallets",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/broadcasters-wallets-1440.png"
+  },
+  {
+    "slug": "broadcasters-wallets",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Broadcasters & Wallets",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/broadcasters-wallets-768.png"
+  },
+  {
+    "slug": "broadcasters-wallets",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "page-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Broadcasters & Wallets",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/broadcasters-wallets-375.png"
+  },
+  {
+    "slug": "home-dark",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "public-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Watch Free on Samsung, LG TV, Fire TV, Roku and Google TV",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-dark-1440.png"
+  },
+  {
+    "slug": "home-dark",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "public-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Watch Free on Samsung, LG TV, Fire TV, Roku and Google TV",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-dark-768.png"
+  },
+  {
+    "slug": "home-dark",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "public-hero",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "heading": "Watch Free on Samsung, LG TV, Fire TV, Roku and Google TV",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/home-dark-375.png"
+  },
+  {
+    "slug": "login-dark",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(28, 43, 50)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Sign in to JWV Streaming",
+      "headingColor": "rgb(246, 250, 249)"
+    },
+    "file": "after/login-dark-1440.png"
+  },
+  {
+    "slug": "login-dark",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(28, 43, 50)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Sign in to JWV Streaming",
+      "headingColor": "rgb(246, 250, 249)"
+    },
+    "file": "after/login-dark-768.png"
+  },
+  {
+    "slug": "login-dark",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "auth-card",
+      "bg": "rgb(28, 43, 50)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Sign in to JWV Streaming",
+      "headingColor": "rgb(246, 250, 249)"
+    },
+    "file": "after/login-dark-375.png"
+  },
+  {
+    "slug": "youtube-channel-dark",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Authorize YouTube Channel",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/youtube-channel-dark-1440.png"
+  },
+  {
+    "slug": "youtube-channel-dark",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Authorize YouTube Channel",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/youtube-channel-dark-768.png"
+  },
+  {
+    "slug": "youtube-channel-dark",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Authorize YouTube Channel",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/youtube-channel-dark-375.png"
+  },
+  {
+    "slug": "storage-services-dark",
+    "theme": "dark",
+    "width": 1440,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Storage Services",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/storage-services-dark-1440.png"
+  },
+  {
+    "slug": "storage-services-dark",
+    "theme": "dark",
+    "width": 768,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Storage Services",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/storage-services-dark-768.png"
+  },
+  {
+    "slug": "storage-services-dark",
+    "theme": "dark",
+    "width": 375,
+    "errors": [],
+    "failed": [],
+    "hero": {
+      "tag": "admin-heading",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(246, 250, 249)",
+      "heading": "Storage Services",
+      "headingColor": "rgb(255, 255, 255)"
+    },
+    "file": "after/storage-services-dark-375.png"
+  }
+]

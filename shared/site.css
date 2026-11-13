@@ -141,9 +141,19 @@ h3{font-size:18px;font-weight:600;line-height:1.3}
 /* Branding hero background — applied to slice heroes that were missing the homepage image. */
 .brand-hero-backdrop{position:absolute;inset:0;z-index:-2;overflow:hidden;pointer-events:none}
 .brand-hero-backdrop img{width:100%;height:100%;object-fit:cover;object-position:center 35%}
-.brand-hero-backdrop::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#0e2418f0 0%,#122d20d6 42%,#122d2080 100%)}
-.page-heading{position:relative;isolation:isolate;overflow:hidden;border-radius:16px;min-height:200px;padding:24px 28px;align-items:flex-end}
+.brand-hero-backdrop::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#122d20f2 0%,#122d20cc 42%,#122d2066 100%)}
+.page-heading{position:relative;isolation:isolate;overflow:hidden;border-radius:14px;min-height:200px;padding:24px 28px;align-items:flex-end}
 .page-heading>*{position:relative;z-index:1}
 .page-heading h1{color:#fff}
 .page-heading .description{color:#e8f0e8;max-width:none}
 @media(max-width:560px){.page-heading{min-height:160px;padding:20px 16px}}
+
+/* Dashboard-light tokens. club-dashboard-light is the styling baseline. */
+:root{--dash-bg:#111b20;--dash-card:#1c2b32;--dash-line:#304047;--dash-text:#f6faf9;--dash-muted:#96aaa6;--dash-green:#09a103;--dash-radius:14px}
+.light{--dash-bg:#f5f8f7;--dash-card:#fff;--dash-line:#e2eae6;--dash-text:#172222;--dash-muted:#4d675c;--dash-green:#09a103}
+body:not(.light):not(.home-page):not(.auth-page):not(.dashboard-page):not(.admin-page){--page:#111b20;--panel:#1c2b32;--card:#1c2b32;--line:#304047;--text:#f6faf9;--muted:#96aaa6;font-family:Selawik,sans-serif}
+.light .brand-hero-backdrop img{filter:brightness(1.35) saturate(.85)}
+.light .brand-hero-backdrop::after{background:linear-gradient(105deg,rgba(255,255,255,.94) 0%,rgba(236,247,239,.88) 62%,rgba(227,247,230,.72) 100%)}
+.light .page-heading{background:#fff;border:1px solid var(--dash-line);box-shadow:0 12px 24px #193d2608;min-height:132px;align-items:center}
+.light .page-heading h1{color:var(--dash-text)}
+.light .page-heading .description{color:var(--dash-muted)}
