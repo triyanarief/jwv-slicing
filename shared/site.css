@@ -157,3 +157,14 @@ body:not(.light):not(.home-page):not(.auth-page):not(.dashboard-page):not(.admin
 .light .page-heading{background:#fff;border:1px solid var(--dash-line);box-shadow:0 12px 24px #193d2608;min-height:132px;align-items:center}
 .light .page-heading h1{color:var(--dash-text)}
 .light .page-heading .description{color:var(--dash-muted)}
+
+/* Hero photo fix (Justin feedback, 14 Nov): keep the photo vivid and full-bleed behind the heading
+   content, with a soft 30% dark overlay instead of a heavy dark or white wash. */
+html :is(.admin-heading,.page-heading)>.brand-hero-backdrop{position:absolute;inset:0;z-index:0;border-radius:inherit}
+html :is(.admin-heading,.page-heading)>:not(.brand-hero-backdrop){position:relative;z-index:1}
+html :is(.light,.dark,body) .brand-hero-backdrop img{filter:none}
+html :is(.light,.dark,body) .brand-hero-backdrop::after{background:rgba(0,0,0,.3)}
+html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop){min-height:200px;align-items:flex-end;background:transparent}
+html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop) :is(h1,h2,.eyebrow,[class*=eyebrow]){color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.45)}
+html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop) :is(p,.description){color:#f1f5f2;text-shadow:0 1px 3px rgba(0,0,0,.45)}
+@media(max-width:800px){html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop){min-height:160px}}
