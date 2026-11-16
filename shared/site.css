@@ -158,13 +158,53 @@ body:not(.light):not(.home-page):not(.auth-page):not(.dashboard-page):not(.admin
 .light .page-heading h1{color:var(--dash-text)}
 .light .page-heading .description{color:var(--dash-muted)}
 
-/* Hero photo fix (Justin feedback, 14 Nov): keep the photo vivid and full-bleed behind the heading
-   content, with a soft 30% dark overlay instead of a heavy dark or white wash. */
-html :is(.admin-heading,.page-heading)>.brand-hero-backdrop{position:absolute;inset:0;z-index:0;border-radius:inherit}
+/* Hero photo: keep the stadium scoreboard vivid (landing-hero reference 8292:3157).
+   The slogan painted in the photo ("Stream Anywhere, Watch Anywhere") is the focal
+   point. object-position and background-position aim that slogan at the horizontal
+   center of .admin-heading and .page-heading. Heading, description, and actions
+   stay in the original row: copy on the left, action on the right.
+   The center of the photo stays clear. Darkness is a bottom scrim and edge vignette
+   so the white heading copy still meets WCAG AA. */
+html :is(.admin-heading,.page-heading)>.brand-hero-backdrop{
+  position:absolute;inset:0;z-index:0;border-radius:inherit;
+  background-image:url('assets/brand/hero-background.png');
+  background-repeat:no-repeat;
+  background-size:cover;
+  /* Same anchor as object-position on the img. The slogan is at 50.8% of the
+     source width, so 50% places it on the hero's horizontal center. 46% down
+     holds the board in the open band above the left-aligned heading. */
+  background-position:50% 46%;
+}
 html :is(.admin-heading,.page-heading)>:not(.brand-hero-backdrop){position:relative;z-index:1}
-html :is(.light,.dark,body) .brand-hero-backdrop img{filter:none}
-html :is(.light,.dark,body) .brand-hero-backdrop::after{background:rgba(0,0,0,.3)}
+html :is(.admin-heading,.page-heading)>.brand-hero-backdrop img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:50% 46%;
+  filter:brightness(1.16) saturate(1.32) contrast(1.04);
+}
+html :is(.admin-heading,.page-heading)>.brand-hero-backdrop::after{
+  /* Clear through the scoreboard (upper third). The scrim reaches the
+     eyebrow so white copy stays at WCAG AA even over floodlights. */
+  background:
+    radial-gradient(ellipse 52% 42% at 50% 32%, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 55%, rgba(0,0,0,.42) 100%),
+    linear-gradient(180deg, rgba(0,0,0,.08) 0%, rgba(0,0,0,0) 18%, rgba(0,0,0,.08) 34%, rgba(0,0,0,.48) 50%, rgba(0,0,0,.74) 68%, rgba(0,0,0,.86) 100%);
+}
 html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop){min-height:200px;align-items:flex-end;background:transparent}
 html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop) :is(h1,h2,.eyebrow,[class*=eyebrow]){color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.45)}
 html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop) :is(p,.description){color:#f1f5f2;text-shadow:0 1px 3px rgba(0,0,0,.45)}
 @media(max-width:800px){html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop){min-height:160px}}
+/* A phone-width hero is almost as tall as the photo, so cover cannot slide
+   the slogan. Zoom onto the scoreboard and park it in the top band, above
+   the original left-aligned copy. The heading row itself is unchanged. */
+@media(max-width:560px){
+  html :is(.admin-heading,.page-heading)>.brand-hero-backdrop{background-size:auto 230%;background-position:50% 0%}
+  html :is(.admin-heading,.page-heading)>.brand-hero-backdrop img{
+    position:absolute;width:auto;height:230%;max-width:none;left:50%;top:0;
+    transform:translate(-51%,-34%);object-fit:fill;object-position:50% 0;
+  }
+  html :is(.admin-heading,.page-heading):has(>.brand-hero-backdrop){padding-top:86px}
+  html :is(.admin-heading,.page-heading)>.brand-hero-backdrop::after{
+    background:linear-gradient(180deg, rgba(0,0,0,.1) 0%, rgba(0,0,0,.18) 24%, rgba(0,0,0,.58) 38%, rgba(0,0,0,.82) 100%);
+  }
+}
