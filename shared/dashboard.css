@@ -1,12 +1,13 @@
-/* User-authorized OFL substitutes: Selawik for Segoe UI, Manrope for the Gilroy VS label. */
+/* Dashboard type is Urbanist, matching the 18 Nov 2026 Design Ready frames. */
 .dashboard-page{--dash-bg:#111b20;--dash-card:#1c2b32;--dash-line:#304047;--dash-text:#f6faf9;--dash-muted:#96aaa6;background:var(--dash-bg);color:var(--dash-text);font-size:14px}
-.dashboard-page.light{color-scheme:light;--dash-bg:#f5f8f7;--dash-card:white;--dash-line:#e2eae6;--dash-text:#172222;--dash-muted:#789087;font-family:Selawik,sans-serif;letter-spacing:-.21px}
+.dashboard-page,.dashboard-page.light,.dashboard-page.dark{font-family:Urbanist,sans-serif}
+.dashboard-page.light{color-scheme:light;--dash-bg:#f5f8f7;--dash-card:white;--dash-line:#e2eae6;--dash-text:#172222;--dash-muted:#789087;letter-spacing:.1px}
 .dashboard-shell{display:grid;grid-template-columns:280px minmax(0,1fr);min-height:100vh}.light .dashboard-shell{grid-template-columns:251px minmax(0,1fr)}
 .dashboard-page .sidebar{background:linear-gradient(260deg,#161c24 10%,#124126 220%)}.dashboard-page .sidebar .brand{margin-bottom:64px}
 .dashboard-main{min-width:0;padding:24px;display:flex;flex-direction:column;gap:20px}.light .dashboard-main{padding:0 34px 35px;gap:0}
 .dash-header{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:76px;padding:0 16px}.light .dash-header{min-height:81px;padding:0}
 .breadcrumb{display:flex;gap:10px;align-items:center;font-size:12px;color:var(--dash-muted)}.breadcrumb strong{color:var(--dash-text);font-weight:500}.breadcrumb span{color:#526d60}
-.dash-header-controls{display:flex;align-items:center;gap:12px}.dash-search{display:flex;align-items:center;gap:8px;padding:12px;background:#212b36;border:1px solid #36434d;border-radius:12px;width:286px;min-height:44px}.dash-search input{min-width:0;width:100%;background:transparent;border:0;outline:0;font:14px Inter,sans-serif}.dash-search input::placeholder{color:#737373}.dash-search:focus-within{outline:2px solid #80e46a;outline-offset:2px}.light .dash-search{background:white;border-color:#e2eae6;width:228px;min-height:40px;padding:10px 13px;border-radius:9px}.light .dash-search input{font:11px Selawik,sans-serif;color:#789087}
+.dash-header-controls{display:flex;align-items:center;gap:12px}.dash-search{display:flex;align-items:center;gap:8px;padding:12px;background:#212b36;border:1px solid #36434d;border-radius:12px;width:286px;min-height:44px}.dash-search input{min-width:0;width:100%;background:transparent;border:0;outline:0;font:14px Urbanist,sans-serif}.dash-search input::placeholder{color:#737373}.dash-search:focus-within{outline:2px solid #80e46a;outline-offset:2px}.light .dash-search{background:white;border-color:#e2eae6;width:228px;min-height:40px;padding:10px 13px;border-radius:9px}.light .dash-search input{font:14px Urbanist,sans-serif;color:#172222}
 .dash-theme{display:flex;align-items:center;gap:7px;min-height:44px;padding:6px 9px 6px 12px;border:1px solid #35434a;border-radius:30px;font-size:11px;font-weight:700;background:#1c2b32}.dash-theme .theme-track{display:flex;align-items:center;width:50.4px;height:28px;padding:2.8px;background:#1c7190;border-radius:99px}.dash-theme .theme-track::after{content:'';width:22.4px;height:22.4px;border-radius:50%;background:#1ccaff;margin-left:auto}.light .dash-theme{background:white;border-color:#e2eae6;min-height:32px}.light .dash-theme .theme-track{width:28px;height:18px;padding:2px;background:#d4ead9}.light .dash-theme .theme-track::after{width:14px;height:14px;background:#38bf54;margin-left:0}
 .dash-icon{display:grid;place-items:center;position:relative;background:#161c24;border:.8px solid #36434d;border-radius:12px;min-width:44px;height:44px;padding:8px}.dash-icon:not(.profile)::after{content:'';position:absolute;top:7px;right:7px;width:5px;height:5px;border-radius:50%;background:#e54b4b}.light .dash-icon{background:white;border-color:#e2eae6;min-width:40px;height:40px;border-radius:10px}.light .dash-icon.profile{background:#e1f3df;color:#176f27;border-color:#cce5c8;font-weight:900;font-size:11px}
 .dash-hero{min-height:210px;border-radius:18px;padding:24px;position:relative;isolation:isolate;overflow:hidden;background:linear-gradient(115deg,#123a24,#113d2b);display:flex;align-items:center;color:#fff}.dash-hero-photo{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center}.dark .dash-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#10301feb,#10301f99 55%,#10301f22)}
@@ -29,7 +30,7 @@
 @media(max-width:800px){.dark .dash-hero-photo{height:100%;width:100%;top:0;object-fit:cover}.light .sidebar{min-height:0}}
 .dashboard-page.light .mobile-navigation{background:#fff;color:#172222;border-color:#e2eae6}
 
-.dark .live-team-logos{font-family:Manrope,sans-serif;font-weight:700}
+.dark .live-team-logos{font-family:Urbanist,sans-serif;font-weight:700}
 /* Native section geometry from Design Ready; smaller screens continue to reflow. */
 @media(min-width:1251px){
 .light .dash-overview h2{line-height:20px}.light .dash-overview>header{margin-bottom:13px}.light .metric{min-height:117px}.light .metric-grid{gap:14px}.light .dashboard-lower{margin-bottom:0}
@@ -44,3 +45,20 @@
 .dash-hero-photo,.dark .dash-hero-photo,.light .dash-hero-photo{position:absolute;inset:0;z-index:-2;width:100%;height:100%;max-width:none;top:auto;left:auto;transform:none;object-fit:cover;object-position:center 35%}
 .light .dash-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#12231af0 0%,#123f2bcc 45%,#123f2b55 100%)}
 @media(max-width:800px){.dark .dash-hero-photo,.light .dash-hero-photo{height:100%;width:100%;top:auto;object-fit:cover}}
+
+/* 18 Nov light dashboard: title above the icon and number, Figma 8623:14720. */
+.light .metric{display:grid;grid-template-columns:40px minmax(0,1fr);align-items:center;column-gap:12px;row-gap:6px}
+.light .metric>div{display:contents}
+.light .metric h3{grid-column:1 / -1;font-size:14px;color:#172222}
+.light .metric .metric-icon{grid-row:2;background:#e3f7e6}
+.light .metric strong{grid-row:2;font-size:28px}
+.light .metric .metric-note{grid-column:1 / -1;margin:0}
+.light .activity .chart-range,.light .activity .chart-footer{display:none}
+.light .dashboard-shell{grid-template-columns:280px minmax(0,1fr)}
+.light .chart-total{font-size:13px}
+.dashboard-page .sidebar{display:flex;flex-direction:column;min-height:100vh;align-self:stretch}
+.dashboard-page .side-nav{flex:1 1 auto}
+.dashboard-page .sidebar-ready{margin-top:auto}
+.dashboard-page .admin-theme{margin:12px 16px 20px;color:#ddd}
+.dashboard-page.light .admin-theme{color:#4d675c}
+.light .sidebar{min-height:100vh}

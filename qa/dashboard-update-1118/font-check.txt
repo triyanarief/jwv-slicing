@@ -1,0 +1,37 @@
+club-dashboard-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+club-dashboard-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+teams-list: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+teams-list-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+teams-grid: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+broadcasters-wallets: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+broadcasters-wallets-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+broadcaster-requests-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+broadcaster-requests-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+broadcaster-requests-empty-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+broadcaster-requests-empty-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+rejected-broadcasters-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+rejected-broadcasters-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+rejected-broadcasters-empty-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+rejected-broadcasters-empty-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+youtube-channel-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+youtube-channel-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+storage-services-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+storage-services-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+transaction-history-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+transaction-history-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+channels-list-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+channels-list-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+channel-detail-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+channel-detail-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+channel-offline-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+channel-offline-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=Urbanist, sans-serif
+home-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+home-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+home-signed-in-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+home-signed-in-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+login-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+login-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+register-user-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+register-user-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+register-broadcaster-dark: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=
+register-broadcaster-light: body=Urbanist, sans-serif h1=Urbanist, sans-serif nav=

@@ -6,7 +6,7 @@
 .admin-page .sidebar .brand{margin:20px 20px 64px}
 .admin-page.light .brand-title{color:#3a3a3a}.admin-page.light .brand-copy small{color:#6d6d6d}
 .admin-page.light .nav-link{color:#9a9a9a}.admin-page.light .nav-link[aria-current=page]{background:#f1e9d2;color:#09a103}
-.admin-theme{display:flex;align-items:center;gap:8px;margin:auto 16px 20px;padding-top:24px;font:16px Montserrat,sans-serif}
+.admin-theme{display:flex;align-items:center;gap:8px;margin:auto 16px 20px;padding-top:24px;font:16px Urbanist,sans-serif}
 .theme-track{display:flex;align-items:center;width:50.75px;height:28px;padding:2.8px;border-radius:100px;background:linear-gradient(160.6deg,#1e7a9b 31%,#1a607a 80%)}
 .theme-track::after{content:'';width:22.4px;height:22.4px;border-radius:50%;background:#1ccaff;margin-left:auto;box-shadow:0 1.4px 4.2px #0000001a}
 .light .theme-track{background:linear-gradient(160.5deg,#e3e3e3 31%,#bfbfb4 80%)}.light .theme-track::after{background:white;margin-left:0}
@@ -23,7 +23,7 @@
 .admin-table td{padding:16px 24px;height:72px;font-size:16px;font-weight:600;border-bottom:1px solid var(--admin-line);white-space:nowrap}
 .admin-table th:first-child{width:86px}.admin-table th:last-child{width:190px}
 .admin-table td:nth-child(4){font-weight:400}
-.status-badge{display:inline-flex;align-items:center;gap:6px;font:500 12px/18px Inter,sans-serif;letter-spacing:0;padding:1px 8px;border-radius:99px;background:#fffaeb;color:#b54708}
+.status-badge{display:inline-flex;align-items:center;gap:6px;font:500 12px/18px Urbanist,sans-serif;letter-spacing:0;padding:1px 8px;border-radius:99px;background:#fffaeb;color:#b54708}
 .status-badge::before{content:'';width:6px;height:6px;border-radius:50%;background:#f79009}
 .status-badge.rejected{background:#fef3f2;color:#b42318}.status-badge.rejected::before{background:#f04438}
 .admin-pagination{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:20px 24px;min-height:88px}
@@ -87,7 +87,7 @@
 @media(max-width:1250px){.legacy-wallet td{padding:12px;font-size:14px;overflow-wrap:anywhere}.legacy-wallet th{padding:12px}}
 @media(max-width:560px){.legacy-table td:last-child{text-align:left}.legacy-table td:nth-child(n){padding:8px 0}.legacy-table .legacy-actions{margin-left:auto}.legacy-wallet td{white-space:normal;word-break:break-word}.wallet-summary{flex-direction:column;padding:20px}.wallet-summary .button{align-self:stretch}.wallet-rate{line-height:22px}}
 
-.admin-pagination .pagination{color:var(--admin-text)}.light .legacy-teams td:nth-child(2){color:#6d6d6d}.light .density-control input{background:linear-gradient(#49cf49,#087e14)}.admin-page:has(.legacy-table) .admin-heading h1{font-size:24px;line-height:29px}.admin-page:has(.legacy-table) .admin-heading p{margin-top:8px}.legacy-teams.admin-table:has(tbody tr) th:nth-child(1){width:45%}.legacy-teams.admin-table:has(tbody tr) th:nth-child(2){width:45%}.legacy-wallet td:nth-child(5){color:#2ac06b}
+.admin-pagination .pagination{color:var(--admin-text)}.light .legacy-teams td:nth-child(2){color:#6d6d6d}.light .density-control input{background:#d5ddd8}.light .density-control input:checked{background:linear-gradient(#49cf49,#087e14)}.admin-page:has(.legacy-table) .admin-heading h1{font-size:24px;line-height:29px}.admin-page:has(.legacy-table) .admin-heading p{margin-top:8px}.legacy-teams.admin-table:has(tbody tr) th:nth-child(1){width:45%}.legacy-teams.admin-table:has(tbody tr) th:nth-child(2){width:45%}.legacy-wallet td:nth-child(5){color:#2ac06b}
 
 /* Native empty-table columns use the measured source widths. */
 @media(min-width:1251px){
@@ -113,6 +113,23 @@
 @media(max-width:560px){.admin-table-box:has(.empty-state) .admin-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}}
 
 .status-badge{white-space:nowrap;flex-shrink:0}.status-badge::before{flex-shrink:0}
+.roster-card{background:#fff;border:1px solid #e2eae6;border-radius:14px;overflow:hidden;box-shadow:0 12px 28px #193d2605}
+.roster{width:100%;border-collapse:collapse;text-align:left}
+.roster th{background:#f4f8f6;color:#4d675c;font-size:12px;font-weight:600;letter-spacing:.4px;padding:14px 18px}
+.roster td{padding:14px 18px;border-top:1px solid #e2eae6;vertical-align:middle}
+.roster-team{display:flex;align-items:center;gap:12px}
+.roster-crest{width:48px;height:48px;border-radius:12px;display:grid;place-items:center;flex:none}
+.roster-crest img{width:34px;height:34px}
+.roster-crest.a{background:#f8ebe3}.roster-crest.b{background:#e7f0fa}.roster-crest.c{background:#e8eef1}.roster-crest.d{background:#f8e6ea}
+.roster h3{font-size:15px;line-height:20px}
+.roster p{color:#4d675c;font-size:12px;margin-top:2px}
+.roster .age-pill{background:none;border:0;padding:0;color:#172222}
+.roster .button-primary{min-height:34px;padding:6px 12px;font-size:13px;background:#09a103;border:0;color:#fff}
+.roster-actions{display:flex;justify-content:flex-end;align-items:center;gap:8px}
+.admin-page.light .admin-shell{grid-template-columns:280px minmax(0,1fr)}
+.admin-page.light .sidebar-ready{margin-top:auto}
+.admin-page.light .admin-theme{margin-top:8px}
+@media(max-width:700px){.roster,.roster tbody,.roster tr,.roster td{display:block}.roster thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}.roster tr{padding:12px;border-top:1px solid #e2eae6}.roster td{border:0;padding:6px 12px}.roster-actions{justify-content:flex-start}}
 
 /* Branding hero background for admin page headings. */
 .admin-heading{position:relative;isolation:isolate;overflow:hidden;border-radius:14px;min-height:200px;padding:24px 28px;align-items:flex-end}
@@ -123,7 +140,7 @@
 @media(max-width:800px){.admin-heading{min-height:160px;padding:20px 16px}}
 
 /* Light slices follow club-dashboard-light: mint page, white cards, no heavy dark hero. */
-.admin-page.light{--page:#f5f8f7;--admin-panel:#f5f8f7;--admin-table:#fff;--admin-head:#f4f8f6;--admin-line:#e2eae6;--admin-text:#172222;--admin-title:#172222;--admin-muted:#4d675c;background:#f5f8f7;font-family:Selawik,sans-serif;letter-spacing:-.21px}
+.admin-page.light{--page:#f5f8f7;--admin-panel:#f5f8f7;--admin-table:#fff;--admin-head:#f4f8f6;--admin-line:#e2eae6;--admin-text:#172222;--admin-title:#172222;--admin-muted:#4d675c;background:#f5f8f7;font-family:Urbanist,sans-serif;letter-spacing:.1px}
 .admin-page.light .admin-shell{grid-template-columns:251px minmax(0,1fr);gap:0;padding:0}
 .admin-page.light .sidebar{background:#fff;border-right:1px solid #e2eae6;min-height:100vh;padding:29px 19px 24px}
 .admin-page.light .sidebar .brand{margin:0 0 40px}
@@ -132,9 +149,9 @@
 .admin-page.light .nav-link{color:#789087;font-size:13px;font-weight:600;padding:12px 13px;min-height:43px}
 .admin-page.light .nav-link[aria-current=page]{background:#e3f7e6;color:#076a26;font-weight:700}
 .admin-page.light .nav-link[aria-current=page]::before{width:2px;box-shadow:none}
-.admin-page.light .admin-theme{color:#4d675c;font-family:Selawik,sans-serif}
-.admin-page.light .theme-track{background:#d4ead9}
-.admin-page.light .theme-track::after{background:#38bf54;margin-left:0}
+.admin-page.light .admin-theme{color:#4d675c;font-family:Urbanist,sans-serif}
+.admin-page.light .theme-track{background:#d7e0db}
+.admin-page.light .theme-track::after{background:#fff;margin-left:0}
 .light .admin-panel{background:#f5f8f7;border-radius:0;padding:24px 34px 35px;gap:18px;min-height:100vh}
 .light .admin-heading{min-height:132px;padding:22px 24px;align-items:center;background:#fff;border:1px solid #e2eae6;border-radius:14px;box-shadow:0 12px 24px #193d2608}
 .light .admin-heading h1{color:#172222;font-weight:700;letter-spacing:-.4px}
@@ -151,7 +168,7 @@
 .light .admin-pagination .pagination select,.light .admin-pagination .page-number,.light .admin-pagination .icon-button{background:#f4f8f6;color:#172222;border-color:#e2eae6}
 .light .storage-state:not(.linked){background:#f4f8f6;color:#4d675c}
 .light .legacy-select{background:#f7f9f8;border-color:#e2eae6}
-.admin-page.dark{--page:#111b20;--admin-panel:#111b20;--admin-table:#1c2b32;--admin-head:#263a3e;--admin-line:#304047;--admin-text:#f6faf9;--admin-title:#f6faf9;--admin-muted:#96aaa6;font-family:Selawik,sans-serif}
+.admin-page.dark{--page:#111b20;--admin-panel:#111b20;--admin-table:#1c2b32;--admin-head:#263a3e;--admin-line:#304047;--admin-text:#f6faf9;--admin-title:#f6faf9;--admin-muted:#96aaa6;font-family:Urbanist,sans-serif}
 .admin-page.dark .sidebar{background:linear-gradient(260deg,#161c24 10%,#124126 220%)}
 .dark .admin-panel{gap:20px;padding:24px}
 .dark .admin-table-box,.dark .youtube-card,.dark .storage-card{border-radius:14px}
