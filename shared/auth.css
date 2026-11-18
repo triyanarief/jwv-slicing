@@ -1,6 +1,6 @@
 @font-face{font-family:Montserrat;src:url('fonts/montserrat.ttf') format('truetype');font-weight:100 900;font-display:swap}
 .auth-page{--auth-surface:#0a0a0a;--auth-field:#121212;--auth-border:#242424;--auth-text:white;--auth-muted:#9a9a9a;--auth-label:#c7c7c7;color:var(--auth-text);min-height:100vh;display:flex;flex-direction:column;position:relative;isolation:isolate;padding:24px;gap:10px}
-.auth-page.light{color-scheme:light;--auth-surface:#fff;--auth-field:#f7f9f8;--auth-border:#e2eae6;--auth-text:#172222;--auth-muted:#4d675c;--auth-label:#4d675c;font-family:Selawik,sans-serif;background:#f5f8f7}
+.auth-page.light{color-scheme:light;--auth-surface:#fff;--auth-field:#f7f9f8;--auth-border:#e2eae6;--auth-text:#172222;--auth-muted:#4d675c;--auth-label:#4d675c;font-family:Urbanist,sans-serif;background:#f5f8f7}
 .auth-backdrop{position:absolute;inset:0;z-index:-2;overflow:hidden}
 .auth-backdrop img{width:100%;height:100%;object-fit:cover}
 .auth-backdrop::after{content:'';position:absolute;inset:0;background:rgba(10,10,10,.91)}
@@ -89,5 +89,5 @@
 .light .auth-card{border:1px solid #e2eae6;border-radius:14px;box-shadow:0 12px 28px #193d2608}
 .light .auth-tabs{background:#f4f8f6;border-color:#e2eae6}
 .light .auth-tabs a[aria-current=page]{background:#e3f7e6;color:#076a26}
-.auth-page.dark{--auth-surface:#1c2b32;--auth-field:#111b20;--auth-border:#304047;--auth-text:#f6faf9;--auth-muted:#96aaa6;--auth-label:#96aaa6;font-family:Selawik,sans-serif}
+.auth-page.dark{--auth-surface:#1c2b32;--auth-field:#111b20;--auth-border:#304047;--auth-text:#f6faf9;--auth-muted:#96aaa6;--auth-label:#96aaa6;font-family:Urbanist,sans-serif}
 .auth-page.dark .auth-card{border-radius:14px;border:1px solid #304047}

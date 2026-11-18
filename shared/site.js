@@ -104,7 +104,7 @@ document.querySelector('[data-home-search]')?.addEventListener('input', event =>
 });
 
 document.querySelector('[data-density]')?.addEventListener('change', event => {
-  document.querySelector('.admin-table-box').toggleAttribute('data-dense', event.target.checked);
+  document.querySelector('.admin-table-box, .wallet-table-box, .roster-card')?.toggleAttribute('data-dense', event.target.checked);
 });
 
 // Every backend-dependent action stays local and states its boundary explicitly.
@@ -194,6 +194,29 @@ if (authForm) {
   });
 }
 // Search the single source-provided broadcaster without inventing account data.
+const channelSearch = document.querySelector('[data-channel-search]');
+const channelFilter = document.querySelector('[data-channel-filter]');
+const channelRows = [...document.querySelectorAll('[data-channel]')];
+function filterChannels() {
+  const query = channelSearch.value.trim().toLowerCase();
+  const sport = channelFilter.value;
+  let visible = 0;
+  channelRows.forEach(row => {
+    const text = row.dataset.channel.toLowerCase();
+    const match = text.includes(query) && (!sport || text.includes(sport));
+    row.hidden = !match;
+    if (match) visible += 1;
+  });
+  const count = document.querySelector('[data-channel-count]');
+  if (count) count.textContent = `${visible} ${visible === 1 ? 'team' : 'teams'}`;
+  const empty = document.querySelector('[data-channel-empty]');
+  if (empty) empty.hidden = visible !== 0;
+}
+if (channelSearch && channelFilter && channelRows.length) {
+  channelSearch.addEventListener('input', filterChannels);
+  channelFilter.addEventListener('change', filterChannels);
+}
+
 document.querySelector('[data-wallet-search]')?.addEventListener('input', event => {
   const query = event.target.value.trim().toLowerCase();
   const row = document.querySelector('[data-wallet-record]');

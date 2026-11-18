@@ -4,7 +4,7 @@ I sliced the Design Ready frames into static HTML and CSS so the layouts can be 
 
 ## What is here
 
-- 31 light and dark layouts. Each layout has its own folder and `index.html`. Start at the [page index](index.html).
+- Light and dark layouts. Each layout has its own folder and `index.html`. Start at the [page index](index.html). The 18 November 2026 update adds Channel List (dark frames, plus a light version that reuses the light dashboard palette) and refreshes the club dashboard pages to the latest Design Ready frames. Body type on those pages is Urbanist.
 - Shared CSS, JavaScript, local fonts, and the original image assets under `shared/`.
 - QA evidence under `qa/`. The index links the Figma-versus-browser image for each layout.
 - `alt-5-pages/` is an earlier five-screen slice. I kept it so the two passes can be compared. It is not the current 31-layout set.
