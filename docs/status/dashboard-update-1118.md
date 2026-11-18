@@ -30,11 +30,19 @@ There is no light Channel List frame. Light channel pages reuse the dark layout 
 
 The approved stadium hero treatment in `shared/site.css` is unchanged. New heroes use the same backdrop.
 
+## Designer decisions
+
+The designer approved all three open questions.
+
+- Frame `8623:9261` stays Transaction History. `transaction-history-dark/` already uses that title, heading, and nav label, with `data-figma-node="8623:9261"`. Storage Services remains the separate connected-services pages. No copy change.
+- The light dashboard chart title is **Streaming Activity**. Every HTML page was checked for the Figma spelling “Steaming”. Only `club-dashboard-light/` had it. The dark dashboard already reads “Streaming activity”.
+- The light Broadcasters & Wallet column that shows the Allowed badge now uses **ACCESS STATUS**, the same header as the dark table. The narrow-screen row label is “Access status”.
+
+1440px screenshots for this pass stay in `qa/dashboard-update-1118/`. The `before/` images remain the pre-update baselines. The `after/` images for `club-dashboard-light` and `broadcasters-wallets-light` were recaptured after these copy corrections.
+
 ## Open points
 
-- Figma labels the light activity chart “Steaming Activity”. The slice keeps that spelling.
-- The light wallet table header says AGE GROUP while the cell is the Allowed status badge. Both are in the frame.
-- Frame 8623:9261 is named Storage Services and shows the empty transaction history. It does not include the Channel List nav item; the slice adds that item because the later dashboard and channel frames do, and the request asked for the link in both themes.
+- Frame 8623:9261 does not include the Channel List nav item. The slice adds that item because the later dashboard and channel frames do, and the request asked for the link in both themes.
 - The sidebar “Dark Mode” label in Figma is Montserrat. The slice uses Urbanist, per the written request to keep Urbanist everywhere on these pages.
 - Search fields in the Figma variable set use Inter. The slice uses Urbanist.
 - Channel playback, add team, approve, and transfer stay local previews. No account, payment, or stream is started.
