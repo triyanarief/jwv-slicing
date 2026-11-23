@@ -1,5 +1,7 @@
 # JWV coverage and QA tracker
 
+23 Nov 2026: Channel List dark `8742:1877` and light `8649:34760` now follow the latest section `8756:665`. Homepage Brand Logo is 88×52 in the header, 132×78 in the dark footer, and 136×80 in the light footer. Evidence is in `qa/channel-list-logo-1123/`. Detail, offline, playback, and dashboard sidebars were left on their previous frames.
+
 Updated 2026-11-11T08:09:35.114515+00:00. All 44 intake frames are accounted for. **31 implemented, two-pass reviewed page/theme/state layouts; 0 fully completed against unresolved workflow/state requirements; 6 inferred superseded candidates; 7 non-page labels.** A blocked page is not counted as complete.
 
 Wallet 8439:11243 approval, alternative-font authorization and direct-browser QA authorization were received and acted on. Those are no longer blockers. Current work is local to the verified GPT-6 Astra High JWV desktop thread.

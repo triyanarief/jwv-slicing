@@ -199,7 +199,7 @@ const channelFilter = document.querySelector('[data-channel-filter]');
 const channelRows = [...document.querySelectorAll('[data-channel]')];
 function filterChannels() {
   const query = channelSearch.value.trim().toLowerCase();
-  const sport = channelFilter.value;
+  const sport = channelFilter ? channelFilter.value : '';
   let visible = 0;
   channelRows.forEach(row => {
     const text = row.dataset.channel.toLowerCase();
@@ -212,9 +212,9 @@ function filterChannels() {
   const empty = document.querySelector('[data-channel-empty]');
   if (empty) empty.hidden = visible !== 0;
 }
-if (channelSearch && channelFilter && channelRows.length) {
+if (channelSearch && channelRows.length) {
   channelSearch.addEventListener('input', filterChannels);
-  channelFilter.addEventListener('change', filterChannels);
+  channelFilter?.addEventListener('change', filterChannels);
 }
 
 document.querySelector('[data-wallet-search]')?.addEventListener('input', event => {
