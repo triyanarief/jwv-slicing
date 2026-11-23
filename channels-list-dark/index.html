@@ -9,119 +9,118 @@
 <link rel="stylesheet" href="../shared/channels.css">
 <script defer src="../shared/site.js"></script>
 </head>
-<body class="channel-page" data-figma-node="8586:3042">
+<body class="channel-page channel-directory" data-figma-node="8742:1877">
 <a class="skip-link" href="#main">Skip to content</a>
 <div class="app-shell">
 <aside class="sidebar">
   <div class="sidebar-header"><a class="brand" href="../index.html" aria-label="JWV Streaming — page directory">
-      <span class="brand-mark"><img src="../shared/assets/teams-list/imgCurvedHighlight.svg" alt="" width="113" height="33">JWV</span>
-      <span class="brand-copy"><span class="brand-title">STREAMING<img src="../shared/assets/teams-list/imgPlayEmblem.svg" alt="" width="10" height="10"></span><small>POWERED BY JWV DEV</small></span>
+      <span class="brand-mark"><img src="../shared/assets/channels/list/curved-highlight.svg" alt="" width="113" height="33">JWV</span>
+      <span class="brand-copy"><span class="brand-title">STREAMING<img src="../shared/assets/channels/list/play-emblem.svg" alt="" width="10" height="10"></span><small>POWERED BY JWV DEV</small></span>
     </a>
     <button class="button mobile-navigation" type="button" data-navigation-toggle aria-controls="workspace-nav" aria-expanded="false">Menu</button>
   </div>
-  <nav id="workspace-nav" class="side-nav" aria-label="Workspace">
-    <div class="nav-group"><p class="nav-heading">WORKSPACE</p>
-      <a class="nav-link" href="../club-dashboard-dark/index.html"><img src="../shared/assets/teams-list/imgMenuSquare.svg" alt="" width="18" height="18">Dashboard</a>
-      <a class="nav-link" href="../teams-list/index.html"><img src="../shared/assets/teams-list/imgUserGroup02.svg" alt="" width="18" height="18">Teams List</a>
-      <a class="nav-link" href="../broadcasters-wallets/index.html"><img src="../shared/assets/teams-list/imgWallet01.svg" alt="" width="18" height="18">Broadcasters &amp; Wallet</a>
-      <a class="nav-link" href="../broadcaster-requests-dark/index.html"><img src="../shared/assets/teams-list/imgNoteAdd.svg" alt="" width="18" height="18">Broadcaster Request</a>
-      <a class="nav-link" href="../rejected-broadcasters-dark/index.html"><img src="../shared/assets/teams-list/imgCancelCircle.svg" alt="" width="18" height="18">Rejected Broadcasters</a>
-    </div>
+  <nav id="workspace-nav" class="side-nav" aria-label="Streaming tools">
     <div class="nav-group"><p class="nav-heading">STREAMING TOOLS</p>
-      <a class="nav-link" href="../channels-list-dark/index.html" aria-current="page"><img class="nav-play" src="../shared/assets/channels/play-circle.svg" alt="" width="18" height="18">Channel List</a>
-      <a class="nav-link" href="../youtube-channel-dark/index.html"><img src="../shared/assets/teams-list/imgYoutube.svg" alt="" width="18" height="18">Authorize YouTube Channel</a>
-      <a class="nav-link" href="../storage-services-dark/index.html"><img src="../shared/assets/teams-list/imgCloudUpload.svg" alt="" width="18" height="18">Storage Services</a>
-      <a class="nav-link" href="../transaction-history-dark/index.html"><img src="../shared/assets/teams-list/imgReceiptText.svg" alt="" width="18" height="18">Transaction History</a>
+      <a class="nav-link" href="../channels-list-dark/index.html" aria-current="page"><img class="nav-play" src="../shared/assets/channels/list/play-circle.svg" alt="" width="18" height="18">Channel List</a>
     </div>
   </nav>
-  
-  <a class="theme-link admin-theme" href="../channels-list-light/index.html" aria-label="Switch theme"><span class="theme-track" aria-hidden="true"></span>Dark Mode</a>
 </aside>
-<main id="main" class="workspace"><div class="page-panel">
-<header class="page-heading">
-  <div class="brand-hero-backdrop" aria-hidden="true"><img src="../shared/assets/brand/hero-background.png" alt=""></div>
-  <div class="channel-heading-row">
-    <div>
-      <p class="channel-kicker">JWV VIEWER / CHANNELS</p>
+<main id="main" class="workspace">
+  <header class="channel-topbar">
+    <nav class="channel-crumb" aria-label="Breadcrumb">
+      <a href="../home-signed-in-dark/index.html">JWV Viewer</a>
+      <span aria-hidden="true">/</span>
+      <span aria-current="page">Channel List</span>
+    </nav>
+    <div class="channel-tools">
+      <label class="channel-search"><img src="../shared/assets/channels/list/search.svg" alt="" width="16" height="16"><span class="sr-only">Search</span><input type="search" placeholder="Search" data-channel-search></label>
+      <a class="channel-theme" href="../channels-list-light/index.html">
+        <img src="../shared/assets/channels/list/theme-dark.svg" alt="" width="15" height="15">
+        <span>Dark</span>
+        <span class="theme-track" aria-hidden="true"></span>
+      </a>
+      <button type="button" class="channel-icon" data-unavailable="Notifications are not designed on this frame. Nothing was sent." aria-label="Notifications"><img src="../shared/assets/channels/list/bell.svg" alt="" width="44" height="44"></button>
+      <button type="button" class="channel-icon channel-user" data-unavailable="An account menu is not designed on this frame. No account was opened." aria-label="Account"><img src="../shared/assets/channels/list/user.svg" alt="" width="20" height="20"></button>
+    </div>
+  </header>
+  <div class="channel-board">
+    <header class="channel-intro">
       <h1>All Channels</h1>
-      <p class="description">Explore your club's channels and access live streams and replays.</p>
+      <p>Explore your club's channels and access live streams and replays.</p>
+    </header>
+    <section class="directory-banner" aria-label="Channel directory">
+      <div>
+        <p class="eyebrow">CHANNEL DIRECTORY</p>
+        <h2>Every broadcast, in one place.</h2>
+        <p class="description">Choose a channel to see what’s live or available to replay.</p>
+      </div>
+      <div class="directory-summary">
+        <div class="crest-stack" aria-hidden="true">
+          <span><img src="../shared/assets/channels/list/crest-1.svg" alt="" width="53" height="53"></span>
+          <span><img src="../shared/assets/channels/list/crest-2.svg" alt="" width="53" height="53"></span>
+          <span><img src="../shared/assets/channels/list/crest-3.svg" alt="" width="53" height="53"></span>
+          <span><img src="../shared/assets/channels/list/crest-4.svg" alt="" width="53" height="53"></span>
+        </div>
+        <p class="team-total"><strong>04</strong>Club teams</p>
+      </div>
+    </section>
+    <div class="channel-list" data-channel-list>
+      <article class="channel-row" data-channel="JWV Hockey Central Eastwood Falcons vs North Stars Hockey CH-1001 live">
+        <a class="channel-thumb" href="../channel-detail-dark/index.html">
+          <img src="../shared/assets/channels/list/hockey.jpg" alt="Hockey broadcast preview">
+          <span class="channel-flag live"><span></span>LIVE</span>
+          <span class="thumb-play" aria-hidden="true"><img src="../shared/assets/channels/list/play.svg" alt="" width="16" height="16"></span>
+        </a>
+        <div class="channel-copy">
+          <h2>JWV Hockey Central <span class="live-pill"><span></span>LIVE</span></h2>
+          <p class="matchup">Eastwood Falcons vs North Stars</p>
+          <p class="channel-meta"><span class="tag">Hockey</span><span class="meta-dot" aria-hidden="true"></span><span>Youth hockey · Live game</span><span class="meta-dot" aria-hidden="true"></span><span>CH-1001</span></p>
+        </div>
+        <div class="channel-side"><p class="watching"><span></span>1.2K watching</p><a class="view-channel" href="../channel-detail-dark/index.html">View Channel <img src="../shared/assets/channels/list/arrow.svg" alt="" width="16" height="16"></a></div>
+      </article>
+      <article class="channel-row" data-channel="Courtside Sports Live Southridge Titans vs Metro Hoops Basketball CH-1002 live">
+        <a class="channel-thumb" href="../channel-detail-dark/index.html">
+          <img src="../shared/assets/channels/list/basketball.jpg" alt="Basketball broadcast preview">
+          <span class="channel-flag live"><span></span>LIVE</span>
+          <span class="thumb-play" aria-hidden="true"><img src="../shared/assets/channels/list/play.svg" alt="" width="16" height="16"></span>
+        </a>
+        <div class="channel-copy">
+          <h2>Courtside Sports Live <span class="live-pill"><span></span>LIVE</span></h2>
+          <p class="matchup">Southridge Titans vs Metro Hoops</p>
+          <p class="channel-meta"><span class="tag">Basketball</span><span class="meta-dot" aria-hidden="true"></span><span>Club basketball · Live game</span><span class="meta-dot" aria-hidden="true"></span><span>CH-1002</span></p>
+        </div>
+        <div class="channel-side"><p class="watching"><span></span>638 watching</p><a class="view-channel" href="../channel-detail-dark/index.html">View Channel <img src="../shared/assets/channels/list/arrow.svg" alt="" width="16" height="16"></a></div>
+      </article>
+      <article class="channel-row" data-channel="Diamond Field Network Westbrook Eagles Game replays Baseball CH-1003 replay">
+        <a class="channel-thumb" href="../channel-offline-dark/index.html">
+          <img src="../shared/assets/channels/list/baseball.jpg" alt="Baseball broadcast preview">
+          <span class="channel-flag replay">REPLAY</span>
+          <span class="thumb-play" aria-hidden="true"><img src="../shared/assets/channels/list/play.svg" alt="" width="16" height="16"></span>
+        </a>
+        <div class="channel-copy">
+          <h2>Diamond Field Network <span class="offline-pill"><img src="../shared/assets/channels/list/dot.svg" alt="" width="8" height="8">Not live</span></h2>
+          <p class="matchup">Westbrook Eagles · Game replays</p>
+          <p class="channel-meta"><span class="tag">Baseball</span><span class="meta-dot" aria-hidden="true"></span><span>Baseball · Recorded broadcasts</span><span class="meta-dot" aria-hidden="true"></span><span>CH-1003</span></p>
+        </div>
+        <div class="channel-side"><p class="replay-note">Replays available</p><a class="view-channel" href="../channel-offline-dark/index.html">View Channel <img src="../shared/assets/channels/list/arrow.svg" alt="" width="16" height="16"></a></div>
+      </article>
+      <article class="channel-row" data-channel="Northfield Sports TV Northfield Wolves Match highlights Volleyball CH-1004 replay">
+        <a class="channel-thumb" href="../channel-offline-dark/index.html">
+          <img src="../shared/assets/channels/list/volleyball.jpg" alt="Volleyball broadcast preview">
+          <span class="channel-flag replay">REPLAY</span>
+          <span class="thumb-play" aria-hidden="true"><img src="../shared/assets/channels/list/play.svg" alt="" width="16" height="16"></span>
+        </a>
+        <div class="channel-copy">
+          <h2>Northfield Sports TV <span class="offline-pill"><img src="../shared/assets/channels/list/dot.svg" alt="" width="8" height="8">Not live</span></h2>
+          <p class="matchup">Northfield Wolves · Match highlights</p>
+          <p class="channel-meta"><span class="tag">Volleyball</span><span class="meta-dot" aria-hidden="true"></span><span>Volleyball · Recorded broadcasts</span><span class="meta-dot" aria-hidden="true"></span><span>CH-1004</span></p>
+        </div>
+        <div class="channel-side"><p class="replay-note">Highlights available</p><a class="view-channel" href="../channel-offline-dark/index.html">View Channel <img src="../shared/assets/channels/list/arrow.svg" alt="" width="16" height="16"></a></div>
+      </article>
     </div>
-    <button type="button" class="button button-primary" aria-disabled="true" data-unavailable="The add-team form is not designed. No team has been created.">＋ Add Team</button>
+    <p hidden class="no-results" data-channel-empty>No channels match your search.</p>
   </div>
-</header>
-<section class="directory-banner" aria-label="Channel directory">
-  <div>
-    <p class="eyebrow">CHANNEL DIRECTORY</p>
-    <h2>Every broadcast, in one place.</h2>
-    <p class="description">Choose a channel to see what's live or available to replay.</p>
-  </div>
-  <div class="directory-summary">
-    <div class="crest-stack" aria-hidden="true">
-      <span><img src="../shared/assets/teams-list/imgIcon.svg" alt="" width="40" height="40"></span>
-      <span><img src="../shared/assets/teams-list/imgIcon1.svg" alt="" width="40" height="40"></span>
-      <span><img src="../shared/assets/teams-list/imgIcon2.svg" alt="" width="40" height="40"></span>
-      <span><img src="../shared/assets/teams-list/imgIcon3.svg" alt="" width="40" height="40"></span>
-    </div>
-    <p class="team-total"><strong>04</strong>Club teams</p>
-  </div>
-</section>
-<div class="toolbar">
-  <p class="toolbar-title">Your teams <span class="pill" data-channel-count>4 teams</span></p>
-  <div class="toolbar-controls">
-    <label class="search-field"><img src="../shared/assets/teams-list/imgSearchLg.svg" alt="" width="16" height="16"><span class="sr-only">Search teams or ID</span><input type="search" placeholder="Search teams or ID..." data-channel-search></label>
-    <label class="select-wrap"><span class="sr-only">Age group</span>
-      <select data-channel-filter>
-        <option value="">All age groups</option>
-        <option value="hockey">Hockey</option>
-        <option value="basketball">Basketball</option>
-        <option value="baseball">Baseball</option>
-        <option value="volleyball">Volleyball</option>
-      </select>
-    </label>
-    <div class="view-switch" role="group" aria-label="Layout">
-      <a href="../channels-list-dark/index.html" aria-current="page" aria-label="List view"><img src="../shared/assets/teams-list/imgList.svg" alt="" width="18" height="18"></a>
-      <button type="button" aria-disabled="true" data-unavailable="A grid layout for the channel list is not in this Figma frame." aria-label="Grid view unavailable"><img src="../shared/assets/teams-list/imgMenuSquare.svg" alt="" width="18" height="18"></button>
-    </div>
-  </div>
-</div>
-<div class="channel-list" data-channel-list>
-<article class="channel-row" data-channel="JWV Hockey Central Eastwood Falcons vs North Stars Hockey CH-1001 live">
-  <a class="channel-thumb" href="../channel-detail-dark/index.html"><img src="../shared/assets/channels/hockey.jpg" alt=""><span class="channel-flag live">LIVE</span></a>
-  <div class="channel-copy">
-    <h2>JWV Hockey Central <span class="live-pill">LIVE</span></h2>
-    <p class="matchup">Eastwood Falcons vs North Stars</p>
-    <p class="channel-meta"><span class="tag">Hockey</span><span>Youth hockey · Live game</span><span>CH-1001</span></p>
-  </div>
-  <div class="channel-side"><p class="watching">1.2K watching</p><a class="button button-primary" href="../channel-detail-dark/index.html">View Channel →</a></div>
-</article><article class="channel-row" data-channel="Courtside Sports Live Southridge Titans vs Metro Hoops Basketball CH-1002 live">
-  <a class="channel-thumb" href="../channel-detail-dark/index.html"><img src="../shared/assets/channels/basketball.jpg" alt=""><span class="channel-flag live">LIVE</span></a>
-  <div class="channel-copy">
-    <h2>Courtside Sports Live <span class="live-pill">LIVE</span></h2>
-    <p class="matchup">Southridge Titans vs Metro Hoops</p>
-    <p class="channel-meta"><span class="tag">Basketball</span><span>Club basketball · Live game</span><span>CH-1002</span></p>
-  </div>
-  <div class="channel-side"><p class="watching">638 watching</p><a class="button button-primary" href="../channel-detail-dark/index.html">View Channel →</a></div>
-</article><article class="channel-row" data-channel="Diamond Field Network Westbrook Eagles · Game replays Baseball CH-1003 replay">
-  <a class="channel-thumb" href="../channel-offline-dark/index.html"><img src="../shared/assets/channels/baseball.jpg" alt=""><span class="channel-flag replay">REPLAY</span></a>
-  <div class="channel-copy">
-    <h2>Diamond Field Network <span class="offline-pill">Not live</span></h2>
-    <p class="matchup">Westbrook Eagles · Game replays</p>
-    <p class="channel-meta"><span class="tag">Baseball</span><span>Baseball · Recorded broadcasts</span><span>CH-1003</span></p>
-  </div>
-  <div class="channel-side"><p class="replay-note">Replays available</p><a class="button button-primary" href="../channel-offline-dark/index.html">View Channel →</a></div>
-</article><article class="channel-row" data-channel="Northfield Sports TV Northfield Wolves · Match highlights Volleyball CH-1004 replay">
-  <a class="channel-thumb" href="../channel-offline-dark/index.html"><img src="../shared/assets/channels/volleyball.jpg" alt=""><span class="channel-flag replay">REPLAY</span></a>
-  <div class="channel-copy">
-    <h2>Northfield Sports TV <span class="offline-pill">Not live</span></h2>
-    <p class="matchup">Northfield Wolves · Match highlights</p>
-    <p class="channel-meta"><span class="tag">Volleyball</span><span>Volleyball · Recorded broadcasts</span><span>CH-1004</span></p>
-  </div>
-  <div class="channel-side"><p class="replay-note">Highlights available</p><a class="button button-primary" href="../channel-offline-dark/index.html">View Channel →</a></div>
-</article>
-</div>
-<p hidden class="no-results" data-channel-empty>No channels match your search.</p>
-
-</div></main>
+</main>
 </div>
 </body>
 </html>
